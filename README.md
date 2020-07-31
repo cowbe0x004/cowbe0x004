@@ -21,6 +21,11 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [GReAT Ideas. Powered by SAS: threat hunting and new techniques](https://www.youtube.com/watch?v=xeTYLRCwnFo)
+- [Episode 85: Running KAPE through the GUI Version](https://www.youtube.com/watch?v=a_x0IgTW67o)
+- [When Integer Overflows attack: [How an Integer Overflow can can lead to Remote Code Execution]](https://www.youtube.com/watch?v=m4DFYgtqNY8)
+- [WWHF 2020 (Virtual): Web Hacking: Beyond Alert ('XSS Found') - Derek Rook](https://www.youtube.com/watch?v=sh9dKEPUIjc)
+- [Episode 82: Understanding and Using KAPE Module Files](https://www.youtube.com/watch?v=aT0xy0VvlSQ)
 <!-- YOUTUBE:END -->
 
 [website]: https://cowbe0x004.com
