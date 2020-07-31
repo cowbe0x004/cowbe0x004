@@ -26,6 +26,11 @@
 - [When Integer Overflows attack: [How an Integer Overflow can can lead to Remote Code Execution]](https://www.youtube.com/watch?v=m4DFYgtqNY8)
 - [WWHF 2020 (Virtual): Web Hacking: Beyond Alert ('XSS Found') - Derek Rook](https://www.youtube.com/watch?v=sh9dKEPUIjc)
 - [Episode 82: Understanding and Using KAPE Module Files](https://www.youtube.com/watch?v=aT0xy0VvlSQ)
+- [Omer Yair - ROP - From Zero to Nation State In 25 Minutes](https://www.youtube.com/watch?v=jzuPqvfogRQ)
+- [Automating Cloud Security with Open Policy Agent with Josh Stella! - OWASP DevSlop](https://www.youtube.com/watch?v=mRT41T7eQQg)
+- [CyberSecLabs - Casino - Linux [Walkthrough]](https://www.youtube.com/watch?v=ZwYqDZOvUpY)
+- [Running a XSS Attack + How to defend](https://www.youtube.com/watch?v=oEFPFc36weY)
+- [Attacking Containers by Moses Frost](https://www.youtube.com/watch?v=4DjEtH4DwHU)
 <!-- YOUTUBE:END -->
 
 [website]: https://cowbe0x004.com
