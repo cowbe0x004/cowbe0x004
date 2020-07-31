@@ -1,4 +1,4 @@
-<table align="center"><tr><td align="center" width="9999">
+<table border="0" align="center"><tr><td align="center" width="9999">
   <h1>✨✨✨ I'm Andrew, nice to meet you!✨✨✨</h1>
 </td></tr></table>
 
