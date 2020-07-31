@@ -1,8 +1,8 @@
 ### ✨✨✨ I'm Andrew, nice to meet you! ✨✨✨
 
 ---
-<img align="left" width="100px" src="https://raw.githubusercontent.com/cowbe0x004/cowbe0x004/master/images/image004.gif" />
-<img align="right" width="100px" src="https://raw.githubusercontent.com/cowbe0x004/cowbe0x004/master/images/image004.gif" />
+<img align="left" width="120px" src="https://raw.githubusercontent.com/cowbe0x004/cowbe0x004/master/images/image004.gif" />
+<img align="right" width="120px" src="https://raw.githubusercontent.com/cowbe0x004/cowbe0x004/master/images/image004.gif" />
 
 - 📖 I’m currently working on threat hunting
 - 📘 I’m currently learning everything 🤣
