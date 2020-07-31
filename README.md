@@ -1,6 +1,4 @@
-<table align="center"><tr><td align="center" width="9999">
-  ✨✨✨ I'm Andrew, nice to meet you!✨✨✨
-</td></tr></table>
+### ✨✨✨ I'm Andrew, nice to meet you! ✨✨✨
 
 ---
 <img align="left" width="100px" src="https://raw.githubusercontent.com/cowbe0x004/cowbe0x004/master/images/image004.gif" />
