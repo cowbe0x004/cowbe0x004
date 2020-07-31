@@ -1,5 +1,5 @@
-<table style="border-collapse: collapse; border: none;" align="center"><tr style="border: none;"><td style="border: none;" align="center" width="9999">
-  <h1>✨✨✨ I'm Andrew, nice to meet you!✨✨✨</h1>
+<table align="center"><tr><td align="center" width="9999">
+  ✨✨✨ I'm Andrew, nice to meet you!✨✨✨
 </td></tr></table>
 
 ---
