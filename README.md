@@ -38,7 +38,7 @@
 - [Attacking Containers by Moses Frost](https://www.youtube.com/watch?v=4DjEtH4DwHU)
 <!-- YOUTUBE:END -->
 
-### 📺 Starred Github Repos
+### ⭐ Starred Github Repos
 <!-- GITHUB_STAR:START -->
 - [cowbe0x004 starred tau-tools](https://github.com/carbonblack/tau-tools)
 - [cowbe0x004 starred blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
