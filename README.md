@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [InfoSec: LDAP Description](https://www.youtube.com/watch?v=YGItUCp4vkk)
 - [GReAT Ideas. Powered by SAS: threat hunting and new techniques](https://www.youtube.com/watch?v=xeTYLRCwnFo)
 - [Episode 85: Running KAPE through the GUI Version](https://www.youtube.com/watch?v=a_x0IgTW67o)
 - [When Integer Overflows attack: [How an Integer Overflow can can lead to Remote Code Execution]](https://www.youtube.com/watch?v=m4DFYgtqNY8)
@@ -33,7 +34,6 @@
 - [Episode 82: Understanding and Using KAPE Module Files](https://www.youtube.com/watch?v=aT0xy0VvlSQ)
 - [Omer Yair - ROP - From Zero to Nation State In 25 Minutes](https://www.youtube.com/watch?v=jzuPqvfogRQ)
 - [Automating Cloud Security with Open Policy Agent with Josh Stella! - OWASP DevSlop](https://www.youtube.com/watch?v=mRT41T7eQQg)
-- [CyberSecLabs - Casino - Linux [Walkthrough]](https://www.youtube.com/watch?v=ZwYqDZOvUpY)
 - [Running a XSS Attack + How to defend](https://www.youtube.com/watch?v=oEFPFc36weY)
 - [Attacking Containers by Moses Frost](https://www.youtube.com/watch?v=4DjEtH4DwHU)
 <!-- YOUTUBE:END -->
