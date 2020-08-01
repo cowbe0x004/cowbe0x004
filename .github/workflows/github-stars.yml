@@ -1,0 +1,18 @@
+name: Latest Starred Repos
+on:
+  schedule:
+    # Runs every hour
+    - cron: '0 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update-readme-with-youtube:
+    name: Update this repo's README with starred repos from github
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          comment_tag_name: "GITHUB_STAR"
+          max_post_count: "10"
+          feed_list: "https://rsshub.app/github/starred_repos/cowbe0x004"
