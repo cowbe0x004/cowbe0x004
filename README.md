@@ -38,6 +38,9 @@
 - [Attacking Containers by Moses Frost](https://www.youtube.com/watch?v=4DjEtH4DwHU)
 <!-- YOUTUBE:END -->
 
+<!-- GITHUB_STAR:START -->
+<!-- GITHUB_STAR:END -->
+
 ---
 
 [<img align="left" width="120px" src="https://raw.githubusercontent.com/cowbe0x004/cowbe0x004/master/images/visitors.gif" />][visitor]
