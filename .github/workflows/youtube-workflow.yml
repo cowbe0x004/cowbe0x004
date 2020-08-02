@@ -16,4 +16,5 @@ jobs:
         with:
           comment_tag_name: "YOUTUBE"
           max_post_count: "10"
+          disable_sort: true
           feed_list: "https://www.youtube.com/feeds/videos.xml?playlist_id=PLJNqgDLpd5E69Kc664st4j7727sbzyx0X"
