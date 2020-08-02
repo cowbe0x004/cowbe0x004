@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Azure-Sentinel2Go](https://github.com/OTRF/Azure-Sentinel2Go)
 - [cowbe0x004 starred awesome-linux-rootkits](https://github.com/milabs/awesome-linux-rootkits)
 - [cowbe0x004 starred tau-tools](https://github.com/carbonblack/tau-tools)
 - [cowbe0x004 starred blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred AzureMonitorCommunity](https://github.com/microsoft/AzureMonitorCommunity)
 - [cowbe0x004 starred PowerUp-With-PowerShell](https://github.com/MSAdministrator/PowerUp-With-PowerShell)
 - [cowbe0x004 starred heap-exploitation](https://github.com/DhavalKapil/heap-exploitation)
-- [cowbe0x004 starred gargamel](https://github.com/Lifars/gargamel)
 <!-- GITHUB_STAR:END -->
 
 ---
