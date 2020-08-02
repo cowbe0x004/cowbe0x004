@@ -35,7 +35,7 @@
 - [Omer Yair - ROP - From Zero to Nation State In 25 Minutes](https://www.youtube.com/watch?v=jzuPqvfogRQ)
 - [Automating Cloud Security with Open Policy Agent with Josh Stella! - OWASP DevSlop](https://www.youtube.com/watch?v=mRT41T7eQQg)
 - [Running a XSS Attack + How to defend](https://www.youtube.com/watch?v=oEFPFc36weY)
-- [Attacking Containers by Moses Frost](https://www.youtube.com/watch?v=4DjEtH4DwHU)
+- [Attack Detection Fundamentals: Workshop #3 - Discovery and Lateral Movement](https://www.youtube.com/watch?v=Pv8eHC1a_bc)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
