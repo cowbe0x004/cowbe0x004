@@ -52,7 +52,7 @@
 - [cowbe0x004 starred heap-exploitation](https://github.com/DhavalKapil/heap-exploitation)
 <!-- GITHUB_STAR:END -->
 
-### ⭐ Liked tweets
+### 🐦 Liked tweets
 <!-- TWITTER_LIKED:START -->
 - [impacket-secretdump with SMB2 signing leaves no clear-txt traces at network layer, for event log its 5145 already covered prev (default toolmark syste...](https://twitter.com/SBousseaden/status/1286750095296335883)
 - [Re @hacback17 Also Nmap can literally do the same thing. The params by default in RustScan are 4500 connections at same time and 15000 ms. If you set ...](https://twitter.com/sk3rts/status/1286343272730963969)
