@@ -58,11 +58,15 @@
 Streaming Live to @BlueTeamVillage Twitch💥
 No Registration Necessary!
 
+Learn abo…](https://twitter.com/BlueTeamVillage/status/1290164751125880832)
+- [@BlueTeamVillage: 👀 An Intro to #OPENSOC CTF Tools! 
+Streaming Live to @BlueTeamVillage Twitch💥
+No Registration Necessary!
+
 Learn abo…](https://twitter.com/BlueTeamVillage/status/1290163088486998016)
+- [@jorgeorchilles: Hi @TwitterSupport can we get access to @c2_matrix back? It is not a 8 month old that signed up. It is an 8 month o…](https://twitter.com/jorgeorchilles/status/1290055035334754305)
 - [@SBousseaden: impacket-secretdump with SMB2 signing leaves no clear-txt traces at network layer, for event log its 5145 already c…](https://twitter.com/SBousseaden/status/1286750095296335883)
 - [@sk3rts: @hacback17 Also Nmap can literally do the same thing. The params by default in RustScan are 4500 connections at sam…](https://twitter.com/sk3rts/status/1286343272730963969)
-- [@PhishTool: We are considering running another competition! This time with a small cryptographic challenge, entirely on Twitter…](https://twitter.com/PhishTool/status/1283732861640675335)
-- [@markrussinovich: @ryankaz42 @cglyer @Linus__Torvalds Sysmon for Linux based on eBPF is in the works.](https://twitter.com/markrussinovich/status/1283039153920368651)
 <!-- TWITTER_LIKED:END -->
 
 ---
