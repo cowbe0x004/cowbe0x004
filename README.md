@@ -52,6 +52,10 @@
 - [cowbe0x004 starred heap-exploitation](https://github.com/DhavalKapil/heap-exploitation)
 <!-- GITHUB_STAR:END -->
 
+### ⭐ Liked tweets
+<!-- TWITTER_LIKED:START -->
+<!-- TWITTER_LIKED:END -->
+
 ---
 
 [<img align="left" width="120px" src="https://raw.githubusercontent.com/cowbe0x004/cowbe0x004/master/images/visitors.gif" />][visitor]
