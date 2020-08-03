@@ -16,4 +16,5 @@ jobs:
         with:
           comment_tag_name: "TWITTER_LIKED"
           max_post_count: "5"
+          disable_sort: true
           feed_list: "https://rsshub.app/twitter/likes/cowbe0x004"
