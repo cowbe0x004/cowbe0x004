@@ -58,15 +58,11 @@
 Streaming Live to @BlueTeamVillage Twitch💥
 No Registration Necessary!
 
-Learn abo… https://t.co/deXbBJYc9H](https://twitter.com/BlueTeamVillage/status/1290164751125880832)
-- [👀 An Intro to #OPENSOC CTF Tools! 
-Streaming Live to @BlueTeamVillage Twitch💥
-No Registration Necessary!
-
 Learn abo… https://t.co/7KgWWXvI6T](https://twitter.com/BlueTeamVillage/status/1290163088486998016)
 - [Hi @TwitterSupport can we get access to @c2_matrix back? It is not a 8 month old that signed up. It is an 8 month o… https://t.co/oxL0SHjEis](https://twitter.com/jorgeorchilles/status/1290055035334754305)
 - [impacket-secretdump with SMB2 signing leaves no clear-txt traces at network layer, for event log its 5145 already c… https://t.co/rewr1DuEVu](https://twitter.com/SBousseaden/status/1286750095296335883)
 - [@hacback17 Also Nmap can literally do the same thing. The params by default in RustScan are 4500 connections at sam… https://t.co/RRLGkstAQ9](https://twitter.com/sk3rts/status/1286343272730963969)
+- [We are considering running another competition! This time with a small cryptographic challenge, entirely on Twitter… https://t.co/9PJfzkN8tb](https://twitter.com/PhishTool/status/1283732861640675335)
 <!-- TWITTER_LIKED:END -->
 
 ---
