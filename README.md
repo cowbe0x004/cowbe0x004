@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Hands On Exploit Development by Georgia Weidman](https://www.youtube.com/watch?v=WuQiHhNauAE)
 - [Attack Detection Fundamentals: Workshop #3 - Discovery and Lateral Movement](https://www.youtube.com/watch?v=Pv8eHC1a_bc)
 - [InfoSec: LDAP Description](https://www.youtube.com/watch?v=YGItUCp4vkk)
 - [Atomic Friday: Initial Access (July 2019)](https://www.youtube.com/watch?v=gYhsgvW-pWA)
@@ -35,7 +36,6 @@
 - [Offensive Ops In macOS Environments - by Cedric Owens](https://www.youtube.com/watch?v=Xvg3Ve8a_BM)
 - [GReAT Ideas. Powered by SAS: threat hunting and new techniques](https://www.youtube.com/watch?v=xeTYLRCwnFo)
 - [Episode 85: Running KAPE through the GUI Version](https://www.youtube.com/watch?v=a_x0IgTW67o)
-- [When Integer Overflows attack: [How an Integer Overflow can can lead to Remote Code Execution]](https://www.youtube.com/watch?v=m4DFYgtqNY8)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
