@@ -59,11 +59,6 @@
 - [We are considering running another competition! This time with a small cryptographic challenge, entirely on Twitter. Just a little bit of effort requi...](https://twitter.com/PhishTool/status/1283732861640675335)
 - [Re @ryankaz42 @cglyer @Linus__Torvalds Sysmon for Linux based on eBPF is in the works.](https://twitter.com/markrussinovich/status/1283039153920368651)
 - [We are thrilled to welcome Pavel Yosifovich, the co-author of Windows Internals 7th edition to our team! We will be launching his first course "Window...](https://twitter.com/vivekramac/status/1282891065452752896)
-- [From our work with @SecBlueTeam on their incredible training we are GIVING AWAY a #BTL1 Certification voucher worth ~$500 to one LUCKY person! Simply ...](https://twitter.com/PhishTool/status/1282618522074402816)
-- [If you run this command and it shows you anything, you probably have fileless Linux malware on your box: ls -alR /proc/*/exe 2> /dev/null | grep memfd...](https://twitter.com/CraigHRowland/status/1281192078504914944)
-- [Re @eric_capuano @5C4R48 We completely agree!  In fact we are giving away 2 vouchers to our BOT certification course to two people that follow us and ...](https://twitter.com/BlackMirageSec/status/1281107955945963524)
-- [Re @jon__reiter @Mrtn9 @cedowens @IanWLee @LogicOverflow @dualcoremusic @brianjmoran @brysonbort @HackingDave @Ch33r10 @_lol_noob_ @cowbe0x004 @dreadn...](https://twitter.com/syndrowm/status/1280566750547869697)
-- [i have one voucher for the @SecBlueTeam Level 1 course & exam to give away. i hate doing the giveaway thingies but it got super hectic trying to manua...](https://twitter.com/gabsmashh/status/1280276428739706880)
 <!-- TWITTER_LIKED:END -->
 
 ---
