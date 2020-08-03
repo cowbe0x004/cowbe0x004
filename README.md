@@ -52,9 +52,9 @@
 - [cowbe0x004 starred PowerUp-With-PowerShell](https://github.com/MSAdministrator/PowerUp-With-PowerShell)
 <!-- GITHUB_STAR:END -->
 
-### 🐦 Liked tweets
-<!-- TWEET:START -->
-<!-- TWEET:END -->
+### 🐦 Latest tweets and retweets
+<!-- TWEETS:START -->
+<!-- TWEETS:END -->
 
 ---
 
