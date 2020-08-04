@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred xeca](https://github.com/postrequest/xeca)
 - [cowbe0x004 starred ctf.hacktivitycon.2020.writeup.reference](https://github.com/oxy-gendotmobi/ctf.hacktivitycon.2020.writeup.reference)
 - [cowbe0x004 starred Azure-Sentinel2Go](https://github.com/OTRF/Azure-Sentinel2Go)
 - [cowbe0x004 starred awesome-linux-rootkits](https://github.com/milabs/awesome-linux-rootkits)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ATTPwn](https://github.com/ElevenPaths/ATTPwn)
 - [cowbe0x004 starred capa-rules](https://github.com/fireeye/capa-rules)
 - [cowbe0x004 starred AzureMonitorCommunity](https://github.com/microsoft/AzureMonitorCommunity)
-- [cowbe0x004 starred PowerUp-With-PowerShell](https://github.com/MSAdministrator/PowerUp-With-PowerShell)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
