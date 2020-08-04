@@ -54,6 +54,10 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT @cry__pto: A guide to Linux Privilege Escalation.pdf:
+
+
+#pentest #bugbountytips #redteam #Hacking](https://twitter.com/cowbe0x004/status/1290661333034315776)
 - [RT @blueteamblog: New blog post out NOW! 😀
 
 Active Directory - Security Hardening, Auditing and Detection Rules
@@ -66,7 +70,6 @@ Active Directory - Security Hardening, Auditing and Detection Rules
 reg add %a%d "cmd /K reg delete %a%f||"
 schtasks/Run /TN \Microsoft\Windows\DiskCleanup\S…](https://twitter.com/cowbe0x004/status/1286676490600448000)
 - [RT @BlackMirageSec: @eric_capuano @5C4R48 We completely agree!  In fact we are giving away 2 vouchers to our BOT certification course to tw…](https://twitter.com/cowbe0x004/status/1283846214417616901)
-- [RT @PhishTool: From our work with @SecBlueTeam on their incredible training we are GIVING AWAY a #BTL1 Certification voucher worth ~$500 to…](https://twitter.com/cowbe0x004/status/1282778341817364480)
 <!-- TWEETS:END -->
 
 ---
