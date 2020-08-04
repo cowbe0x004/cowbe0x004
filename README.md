@@ -54,13 +54,19 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT @blueteamblog: New blog post out NOW! 😀
+
+Active Directory - Security Hardening, Auditing and Detection Rules
+
+
+
+#…](https://twitter.com/cowbe0x004/status/1290636568089296896)
 - [RT @SBousseaden: impacket-secretdump with SMB2 signing leaves no clear-txt traces at network layer, for event log its 5145 already covered…](https://twitter.com/cowbe0x004/status/1286773169416810496)
 - [RT @tiraniddo: set a=hkcu\Environment /v windir /
 reg add %a%d "cmd /K reg delete %a%f||"
 schtasks/Run /TN \Microsoft\Windows\DiskCleanup\S…](https://twitter.com/cowbe0x004/status/1286676490600448000)
 - [RT @BlackMirageSec: @eric_capuano @5C4R48 We completely agree!  In fact we are giving away 2 vouchers to our BOT certification course to tw…](https://twitter.com/cowbe0x004/status/1283846214417616901)
 - [RT @PhishTool: From our work with @SecBlueTeam on their incredible training we are GIVING AWAY a #BTL1 Certification voucher worth ~$500 to…](https://twitter.com/cowbe0x004/status/1282778341817364480)
-- [RT @RandoriSecurity: Congrats @mrkmety and @cowbe0x004 on winning Hak5 network pentest kits for our #junegle challenge! DM us in the @texas…](https://twitter.com/cowbe0x004/status/1278042726244782081)
 <!-- TWEETS:END -->
 
 ---
