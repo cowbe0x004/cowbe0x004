@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Mastering Palo Alto Networks in 8 Hours](https://www.youtube.com/watch?v=PIlLdEVZmNE)
 - [Bypassing User Account Control (Defense Evasion)](https://www.youtube.com/watch?v=k-QaEgPndZ4)
 - [Hands On Exploit Development by Georgia Weidman](https://www.youtube.com/watch?v=WuQiHhNauAE)
 - [Attack Detection Fundamentals: Workshop #3 - Discovery and Lateral Movement](https://www.youtube.com/watch?v=Pv8eHC1a_bc)
@@ -35,7 +36,6 @@
 - [Attacking Containers by Moses Frost](https://www.youtube.com/watch?v=4DjEtH4DwHU)
 - [Detect complex code patterns using semantic grep - by Drew Dennison](https://www.youtube.com/watch?v=IFRp2Y3cqOw)
 - [Offensive Ops In macOS Environments - by Cedric Owens](https://www.youtube.com/watch?v=Xvg3Ve8a_BM)
-- [GReAT Ideas. Powered by SAS: threat hunting and new techniques](https://www.youtube.com/watch?v=xeTYLRCwnFo)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
