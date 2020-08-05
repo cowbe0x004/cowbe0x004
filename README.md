@@ -65,11 +65,11 @@ Active Directory - Security Hardening, Auditing and Detection Rules
 
 
 #…](https://twitter.com/cowbe0x004/status/1290636568089296896)
-- [New blog post out NOW! 😀Active Directory - Security Hardening, Auditing and Detection Rules  #CyberSecurity #security #SOC #Blueteam #Training #cyberdefense #infosecurity #activedirectory](https://twitter.com/blueteamblog/status/1290066442025496576)
 - [RT @SBousseaden: impacket-secretdump with SMB2 signing leaves no clear-txt traces at network layer, for event log its 5145 already covered…](https://twitter.com/cowbe0x004/status/1286773169416810496)
 - [RT @tiraniddo: set a=hkcu\Environment /v windir /
 reg add %a%d "cmd /K reg delete %a%f||"
 schtasks/Run /TN \Microsoft\Windows\DiskCleanup\S…](https://twitter.com/cowbe0x004/status/1286676490600448000)
+- [RT @BlackMirageSec: @eric_capuano @5C4R48 We completely agree!  In fact we are giving away 2 vouchers to our BOT certification course to tw…](https://twitter.com/cowbe0x004/status/1283846214417616901)
 <!-- TWEETS:END -->
 
 ---
