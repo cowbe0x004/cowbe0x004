@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred manticore-cli](https://github.com/Manticore-Platform/manticore-cli)
+- [cowbe0x004 starred argo](https://github.com/argoproj/argo)
 - [cowbe0x004 starred xeca](https://github.com/postrequest/xeca)
 - [cowbe0x004 starred ctf.hacktivitycon.2020.writeup.reference](https://github.com/oxy-gendotmobi/ctf.hacktivitycon.2020.writeup.reference)
 - [cowbe0x004 starred Azure-Sentinel2Go](https://github.com/OTRF/Azure-Sentinel2Go)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 - [cowbe0x004 starred CONVEX](https://github.com/Azure/CONVEX)
 - [cowbe0x004 starred ATTPwn](https://github.com/ElevenPaths/ATTPwn)
-- [cowbe0x004 starred capa-rules](https://github.com/fireeye/capa-rules)
-- [cowbe0x004 starred AzureMonitorCommunity](https://github.com/microsoft/AzureMonitorCommunity)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
