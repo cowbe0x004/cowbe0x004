@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Linux Privilege Escalation - using Capabilities](https://www.youtube.com/watch?v=r4RU3ujuRI8)
 - [#2 How To Analyse a Malicious Word Document](https://www.youtube.com/watch?v=eBo3yYn-9y4)
 - [Cracking the Lens: Targeting HTTP's Hidden Attack-Surface](https://www.youtube.com/watch?v=zP4b3pw94s0)
 - [Mastering Palo Alto Networks in 8 Hours](https://www.youtube.com/watch?v=PIlLdEVZmNE)
@@ -35,7 +36,6 @@
 - [InfoSec: LDAP Description](https://www.youtube.com/watch?v=YGItUCp4vkk)
 - [Atomic Friday: Initial Access (July 2019)](https://www.youtube.com/watch?v=gYhsgvW-pWA)
 - [Your Active DAD (Active Domain Active Defense) Primer](https://www.youtube.com/watch?v=lWRukMi6vmg)
-- [Attacking Containers by Moses Frost](https://www.youtube.com/watch?v=4DjEtH4DwHU)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
