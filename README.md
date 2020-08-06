@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred deepsea](https://github.com/dsnezhkov/deepsea)
 - [cowbe0x004 starred manticore-cli](https://github.com/Manticore-Platform/manticore-cli)
 - [cowbe0x004 starred argo](https://github.com/argoproj/argo)
 - [cowbe0x004 starred xeca](https://github.com/postrequest/xeca)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred tau-tools](https://github.com/carbonblack/tau-tools)
 - [cowbe0x004 starred blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)
 - [cowbe0x004 starred CONVEX](https://github.com/Azure/CONVEX)
-- [cowbe0x004 starred ATTPwn](https://github.com/ElevenPaths/ATTPwn)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
