@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred exploitation-course](https://github.com/ashemery/exploitation-course)
 - [cowbe0x004 starred CAPEv2](https://github.com/kevoreilly/CAPEv2)
 - [cowbe0x004 starred spectre](https://github.com/D4stiny/spectre)
 - [cowbe0x004 starred deepsea](https://github.com/dsnezhkov/deepsea)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ctf.hacktivitycon.2020.writeup.reference](https://github.com/oxy-gendotmobi/ctf.hacktivitycon.2020.writeup.reference)
 - [cowbe0x004 starred Azure-Sentinel2Go](https://github.com/OTRF/Azure-Sentinel2Go)
 - [cowbe0x004 starred awesome-linux-rootkits](https://github.com/milabs/awesome-linux-rootkits)
-- [cowbe0x004 starred tau-tools](https://github.com/carbonblack/tau-tools)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
