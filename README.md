@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Bugcrowd & Vullnerability XSS Challenge 2020](https://www.youtube.com/watch?v=a_6HW5xlbMQ)
 - [Streaming Packet with #python (PT 1) | Offensive #Python | Use of #Python in #Hacking | EP - 10](https://www.youtube.com/watch?v=f8SAdyARqoY)
 - [Linux Privilege Escalation - using Capabilities](https://www.youtube.com/watch?v=r4RU3ujuRI8)
 - [#2 How To Analyse a Malicious Word Document](https://www.youtube.com/watch?v=eBo3yYn-9y4)
@@ -35,7 +36,6 @@
 - [Hands On Exploit Development by Georgia Weidman](https://www.youtube.com/watch?v=WuQiHhNauAE)
 - [Attack Detection Fundamentals: Workshop #3 - Discovery and Lateral Movement](https://www.youtube.com/watch?v=Pv8eHC1a_bc)
 - [InfoSec: LDAP Description](https://www.youtube.com/watch?v=YGItUCp4vkk)
-- [Atomic Friday: Initial Access (July 2019)](https://www.youtube.com/watch?v=gYhsgvW-pWA)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
