@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred pop-punk.vim](https://github.com/bignimbus/pop-punk.vim)
+- [cowbe0x004 starred pyre-check](https://github.com/facebook/pyre-check)
 - [cowbe0x004 starred security](https://github.com/windows-internals-guide/security)
 - [cowbe0x004 starred reternal-quickstart](https://github.com/d3vzer0/reternal-quickstart)
 - [cowbe0x004 starred moneta](https://github.com/forrest-orr/moneta)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred spectre](https://github.com/D4stiny/spectre)
 - [cowbe0x004 starred deepsea](https://github.com/dsnezhkov/deepsea)
 - [cowbe0x004 starred manticore-cli](https://github.com/Manticore-Platform/manticore-cli)
-- [cowbe0x004 starred argo](https://github.com/argoproj/argo)
-- [cowbe0x004 starred xeca](https://github.com/postrequest/xeca)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
