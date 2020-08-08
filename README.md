@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred security](https://github.com/windows-internals-guide/security)
+- [cowbe0x004 starred reternal-quickstart](https://github.com/d3vzer0/reternal-quickstart)
 - [cowbe0x004 starred moneta](https://github.com/forrest-orr/moneta)
 - [cowbe0x004 starred exploitation-course](https://github.com/ashemery/exploitation-course)
 - [cowbe0x004 starred CAPEv2](https://github.com/kevoreilly/CAPEv2)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred manticore-cli](https://github.com/Manticore-Platform/manticore-cli)
 - [cowbe0x004 starred argo](https://github.com/argoproj/argo)
 - [cowbe0x004 starred xeca](https://github.com/postrequest/xeca)
-- [cowbe0x004 starred ctf.hacktivitycon.2020.writeup.reference](https://github.com/oxy-gendotmobi/ctf.hacktivitycon.2020.writeup.reference)
-- [cowbe0x004 starred Azure-Sentinel2Go](https://github.com/OTRF/Azure-Sentinel2Go)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
