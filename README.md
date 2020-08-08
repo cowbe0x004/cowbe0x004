@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [DEF CON Safe Mode - Feng Xiao - Discovering Hidden Properties to Attack Node js Ecosystem](https://www.youtube.com/watch?v=oGeEoaplMWA)
+- [Atomic Red Team Training - Basics and Beyond](https://www.youtube.com/watch?v=d_E-hfKQ5Hw)
 - [Ops track 01/30/19 -  Effective Threat Hunting w/Open Source Tools - Eric Capuano](https://www.youtube.com/watch?v=Ain-DzXqRC0)
 - [Bugcrowd & Vullnerability XSS Challenge 2020](https://www.youtube.com/watch?v=a_6HW5xlbMQ)
 - [Streaming Packet with #python (PT 1) | Offensive #Python | Use of #Python in #Hacking | EP - 10](https://www.youtube.com/watch?v=f8SAdyARqoY)
@@ -34,8 +36,6 @@
 - [Cracking the Lens: Targeting HTTP's Hidden Attack-Surface](https://www.youtube.com/watch?v=zP4b3pw94s0)
 - [Mastering Palo Alto Networks in 8 Hours](https://www.youtube.com/watch?v=PIlLdEVZmNE)
 - [Bypassing User Account Control (Defense Evasion)](https://www.youtube.com/watch?v=k-QaEgPndZ4)
-- [Hands On Exploit Development by Georgia Weidman](https://www.youtube.com/watch?v=WuQiHhNauAE)
-- [Attack Detection Fundamentals: Workshop #3 - Discovery and Lateral Movement](https://www.youtube.com/watch?v=Pv8eHC1a_bc)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
