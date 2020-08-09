@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Creating Tracking Payloads with Adrian from Thinkst Canary](https://www.youtube.com/watch?v=kY10GE2yRwI)
+- [Develop computer malware: Create a untraceable malware using batch script](https://www.youtube.com/watch?v=B__vpJWtmyU)
 - [Wireshark for Incident Response & Threat Hunting Workshop at OWASP SB](https://www.youtube.com/watch?v=8jqNjo-LqYw)
 - [DEF CON Safe Mode - Feng Xiao - Discovering Hidden Properties to Attack Node js Ecosystem](https://www.youtube.com/watch?v=oGeEoaplMWA)
 - [Atomic Red Team Training - Basics and Beyond](https://www.youtube.com/watch?v=d_E-hfKQ5Hw)
@@ -34,8 +36,6 @@
 - [Streaming Packet with #python (PT 1) | Offensive #Python | Use of #Python in #Hacking | EP - 10](https://www.youtube.com/watch?v=f8SAdyARqoY)
 - [Linux Privilege Escalation - using Capabilities](https://www.youtube.com/watch?v=r4RU3ujuRI8)
 - [#2 How To Analyse a Malicious Word Document](https://www.youtube.com/watch?v=eBo3yYn-9y4)
-- [Cracking the Lens: Targeting HTTP's Hidden Attack-Surface](https://www.youtube.com/watch?v=zP4b3pw94s0)
-- [Mastering Palo Alto Networks in 8 Hours](https://www.youtube.com/watch?v=PIlLdEVZmNE)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
