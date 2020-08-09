@@ -54,6 +54,9 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT @hackingump1: Linux/Windows Internals – Process structures  
+
+#linux #windows #eprocess #task_struct #linuxintern…](https://twitter.com/cowbe0x004/status/1292483417624457216)
 - [Information overloaded trying to attend all the talks and workshop at #defcon28 @BlueTeamVillage @redteamvillage.](https://twitter.com/cowbe0x004/status/1291864958544871426)
 - [Visiting @McAfee virtual booth at #BHUSA](https://twitter.com/cowbe0x004/status/1291388890671128579)
 - [RT @cry__pto: A guide to Linux Privilege Escalation.pdf:
@@ -67,7 +70,6 @@ Active Directory - Security Hardening, Auditing and Detection Rules
 
 
 #…](https://twitter.com/cowbe0x004/status/1290636568089296896)
-- [RT @SBousseaden: impacket-secretdump with SMB2 signing leaves no clear-txt traces at network layer, for event log its 5145 already covered…](https://twitter.com/cowbe0x004/status/1286773169416810496)
 <!-- TWEETS:END -->
 
 ---
