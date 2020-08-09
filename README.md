@@ -54,6 +54,7 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT @RandoriAttack: Looking to up your CTF game for next year? Pick up some grey hat tips for using SSH by watching the replay of @syndrowm’…](https://twitter.com/cowbe0x004/status/1292504055747678208)
 - [RT @hackingump1: Linux/Windows Internals – Process structures  
 
 #linux #windows #eprocess #task_struct #linuxintern…](https://twitter.com/cowbe0x004/status/1292483417624457216)
@@ -63,13 +64,6 @@
 
 
 #pentest #bugbountytips #redteam #Hacking](https://twitter.com/cowbe0x004/status/1290661333034315776)
-- [RT @blueteamblog: New blog post out NOW! 😀
-
-Active Directory - Security Hardening, Auditing and Detection Rules
-
-
-
-#…](https://twitter.com/cowbe0x004/status/1290636568089296896)
 <!-- TWEETS:END -->
 
 ---
