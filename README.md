@@ -54,16 +54,7 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [RT @RandoriAttack: Looking to up your CTF game for next year? Pick up some grey hat tips for using SSH by watching the replay of @syndrowm’…](https://twitter.com/cowbe0x004/status/1292504055747678208)
-- [RT @hackingump1: Linux/Windows Internals – Process structures  
-
-#linux #windows #eprocess #task_struct #linuxintern…](https://twitter.com/cowbe0x004/status/1292483417624457216)
-- [Information overloaded trying to attend all the talks and workshop at #defcon28 @BlueTeamVillage @redteamvillage.](https://twitter.com/cowbe0x004/status/1291864958544871426)
-- [Visiting @McAfee virtual booth at #BHUSA](https://twitter.com/cowbe0x004/status/1291388890671128579)
-- [RT @cry__pto: A guide to Linux Privilege Escalation.pdf:
-
-
-#pentest #bugbountytips #redteam #Hacking](https://twitter.com/cowbe0x004/status/1290661333034315776)
+- [[Action required] Your RSS.app Trial has Expired - Mon Aug 10 2020](https://rss.app)
 <!-- TWEETS:END -->
 
 ---
