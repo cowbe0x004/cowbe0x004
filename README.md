@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred chopshop](https://github.com/MITRECND/chopshop)
 - [cowbe0x004 starred pop-punk.vim](https://github.com/bignimbus/pop-punk.vim)
 - [cowbe0x004 starred pyre-check](https://github.com/facebook/pyre-check)
 - [cowbe0x004 starred security](https://github.com/windows-internals-guide/security)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred CAPEv2](https://github.com/kevoreilly/CAPEv2)
 - [cowbe0x004 starred spectre](https://github.com/D4stiny/spectre)
 - [cowbe0x004 starred deepsea](https://github.com/dsnezhkov/deepsea)
-- [cowbe0x004 starred manticore-cli](https://github.com/Manticore-Platform/manticore-cli)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
