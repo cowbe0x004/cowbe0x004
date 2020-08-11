@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred spamscope](https://github.com/SpamScope/spamscope)
+- [cowbe0x004 starred Windows-Process-Injection](https://github.com/CptGibbon/Windows-Process-Injection)
 - [cowbe0x004 starred ee-outliers](https://github.com/NVISO-BE/ee-outliers)
 - [cowbe0x004 starred auth-jwt](https://github.com/gitcommitshow/auth-jwt)
 - [cowbe0x004 starred malwoverview](https://github.com/alexandreborges/malwoverview)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred pyre-check](https://github.com/facebook/pyre-check)
 - [cowbe0x004 starred security](https://github.com/windows-internals-guide/security)
 - [cowbe0x004 starred reternal-quickstart](https://github.com/d3vzer0/reternal-quickstart)
-- [cowbe0x004 starred moneta](https://github.com/forrest-orr/moneta)
-- [cowbe0x004 starred exploitation-course](https://github.com/ashemery/exploitation-course)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
