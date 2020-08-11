@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Active Directory Penetration Testing on Windows Server - Part 1](https://www.youtube.com/watch?v=KKPbxpYYOy0)
 - [Creating Tracking Payloads with Adrian from Thinkst Canary](https://www.youtube.com/watch?v=kY10GE2yRwI)
 - [Develop computer malware: Create a untraceable malware using batch script](https://www.youtube.com/watch?v=B__vpJWtmyU)
 - [Wireshark for Incident Response & Threat Hunting Workshop at OWASP SB](https://www.youtube.com/watch?v=8jqNjo-LqYw)
@@ -35,7 +36,6 @@
 - [Bugcrowd & Vullnerability XSS Challenge 2020](https://www.youtube.com/watch?v=a_6HW5xlbMQ)
 - [Streaming Packet with #python (PT 1) | Offensive #Python | Use of #Python in #Hacking | EP - 10](https://www.youtube.com/watch?v=f8SAdyARqoY)
 - [Linux Privilege Escalation - using Capabilities](https://www.youtube.com/watch?v=r4RU3ujuRI8)
-- [#2 How To Analyse a Malicious Word Document](https://www.youtube.com/watch?v=eBo3yYn-9y4)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
