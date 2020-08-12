@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Azure-Sentinel](https://github.com/Azure/Azure-Sentinel)
 - [cowbe0x004 starred spamscope](https://github.com/SpamScope/spamscope)
 - [cowbe0x004 starred Windows-Process-Injection](https://github.com/CptGibbon/Windows-Process-Injection)
 - [cowbe0x004 starred ee-outliers](https://github.com/NVISO-BE/ee-outliers)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred pop-punk.vim](https://github.com/bignimbus/pop-punk.vim)
 - [cowbe0x004 starred pyre-check](https://github.com/facebook/pyre-check)
 - [cowbe0x004 starred security](https://github.com/windows-internals-guide/security)
-- [cowbe0x004 starred reternal-quickstart](https://github.com/d3vzer0/reternal-quickstart)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
