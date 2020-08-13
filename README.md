@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PennyScythe](https://github.com/mlgualtieri/PennyScythe)
 - [cowbe0x004 starred PurpleCloud](https://github.com/iknowjason/PurpleCloud)
 - [cowbe0x004 starred Azure-Sentinel](https://github.com/Azure/Azure-Sentinel)
 - [cowbe0x004 starred spamscope](https://github.com/SpamScope/spamscope)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred malwoverview](https://github.com/alexandreborges/malwoverview)
 - [cowbe0x004 starred chopshop](https://github.com/MITRECND/chopshop)
 - [cowbe0x004 starred pop-punk.vim](https://github.com/bignimbus/pop-punk.vim)
-- [cowbe0x004 starred pyre-check](https://github.com/facebook/pyre-check)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
