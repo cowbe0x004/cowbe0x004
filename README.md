@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Obfuscator](https://github.com/3xpl01tc0d3r/Obfuscator)
+- [cowbe0x004 starred cti](https://github.com/mitre/cti)
+- [cowbe0x004 starred obfuscar](https://github.com/obfuscar/obfuscar)
+- [cowbe0x004 starred SharpEDRChecker](https://github.com/PwnDexter/SharpEDRChecker)
+- [cowbe0x004 starred FalconFriday](https://github.com/FalconForceTeam/FalconFriday)
 - [cowbe0x004 starred ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js)
 - [cowbe0x004 starred PennyScythe](https://github.com/mlgualtieri/PennyScythe)
 - [cowbe0x004 starred PurpleCloud](https://github.com/iknowjason/PurpleCloud)
 - [cowbe0x004 starred Azure-Sentinel](https://github.com/Azure/Azure-Sentinel)
 - [cowbe0x004 starred spamscope](https://github.com/SpamScope/spamscope)
-- [cowbe0x004 starred Windows-Process-Injection](https://github.com/CptGibbon/Windows-Process-Injection)
-- [cowbe0x004 starred ee-outliers](https://github.com/NVISO-BE/ee-outliers)
-- [cowbe0x004 starred auth-jwt](https://github.com/gitcommitshow/auth-jwt)
-- [cowbe0x004 starred malwoverview](https://github.com/alexandreborges/malwoverview)
-- [cowbe0x004 starred chopshop](https://github.com/MITRECND/chopshop)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
