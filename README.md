@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js)
 - [cowbe0x004 starred PennyScythe](https://github.com/mlgualtieri/PennyScythe)
 - [cowbe0x004 starred PurpleCloud](https://github.com/iknowjason/PurpleCloud)
 - [cowbe0x004 starred Azure-Sentinel](https://github.com/Azure/Azure-Sentinel)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred auth-jwt](https://github.com/gitcommitshow/auth-jwt)
 - [cowbe0x004 starred malwoverview](https://github.com/alexandreborges/malwoverview)
 - [cowbe0x004 starred chopshop](https://github.com/MITRECND/chopshop)
-- [cowbe0x004 starred pop-punk.vim](https://github.com/bignimbus/pop-punk.vim)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
