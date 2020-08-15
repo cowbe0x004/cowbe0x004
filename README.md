@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Introduction to Windows Forensics](https://www.youtube.com/watch?v=VYROU-ZwZX8)
 - [Defcon Safe Mode Red Team Village Intro to Exploit Development](https://www.youtube.com/watch?v=z_niRcyld5A)
 - [Active Directory Penetration Testing on Windows Server - Part 2](https://www.youtube.com/watch?v=1sN8gqDdm3k)
 - [Spectrum of The Unexpected: The Far Reaching Consequences of External Suppliers on The Web](https://www.youtube.com/watch?v=1exi9gl1w2c)
@@ -35,7 +36,6 @@
 - [Wireshark for Incident Response & Threat Hunting Workshop at OWASP SB](https://www.youtube.com/watch?v=8jqNjo-LqYw)
 - [DEF CON Safe Mode - Feng Xiao - Discovering Hidden Properties to Attack Node js Ecosystem](https://www.youtube.com/watch?v=oGeEoaplMWA)
 - [Atomic Red Team Training - Basics and Beyond](https://www.youtube.com/watch?v=d_E-hfKQ5Hw)
-- [Ops track 01/30/19 -  Effective Threat Hunting w/Open Source Tools - Eric Capuano](https://www.youtube.com/watch?v=Ain-DzXqRC0)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
