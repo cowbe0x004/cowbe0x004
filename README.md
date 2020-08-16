@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred pefile](https://github.com/erocarrera/pefile)
 - [cowbe0x004 starred overlord](https://github.com/qsecure-labs/overlord)
 - [cowbe0x004 starred dynamite-nsm](https://github.com/DynamiteAI/dynamite-nsm)
 - [cowbe0x004 starred Obfuscator](https://github.com/3xpl01tc0d3r/Obfuscator)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred FalconFriday](https://github.com/FalconForceTeam/FalconFriday)
 - [cowbe0x004 starred ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js)
 - [cowbe0x004 starred PennyScythe](https://github.com/mlgualtieri/PennyScythe)
-- [cowbe0x004 starred PurpleCloud](https://github.com/iknowjason/PurpleCloud)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
