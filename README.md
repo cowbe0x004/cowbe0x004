@@ -54,7 +54,7 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [[Action required] Your RSS.app Trial has Expired - Sat Aug 15 2020](https://rss.app)
+- [[Action required] Your RSS.app Trial has Expired - Sun Aug 16 2020](https://rss.app)
 <!-- TWEETS:END -->
 
 ---
