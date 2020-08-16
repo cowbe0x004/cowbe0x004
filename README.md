@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Jupyter Notebooks and Pre-recorded Datasets for Threat Hunting  - SANS THIR Summit 2019](https://www.youtube.com/watch?v=ZfJ01ZFCMe0)
 - [Introduction to Windows Forensics](https://www.youtube.com/watch?v=VYROU-ZwZX8)
 - [Defcon Safe Mode Red Team Village Intro to Exploit Development](https://www.youtube.com/watch?v=z_niRcyld5A)
 - [Active Directory Penetration Testing on Windows Server - Part 2](https://www.youtube.com/watch?v=1sN8gqDdm3k)
@@ -35,7 +36,6 @@
 - [Develop computer malware: Create a untraceable malware using batch script](https://www.youtube.com/watch?v=B__vpJWtmyU)
 - [Wireshark for Incident Response & Threat Hunting Workshop at OWASP SB](https://www.youtube.com/watch?v=8jqNjo-LqYw)
 - [DEF CON Safe Mode - Feng Xiao - Discovering Hidden Properties to Attack Node js Ecosystem](https://www.youtube.com/watch?v=oGeEoaplMWA)
-- [Atomic Red Team Training - Basics and Beyond](https://www.youtube.com/watch?v=d_E-hfKQ5Hw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
