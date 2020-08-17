@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [GHIDRA | Reverse Engineering a PWN Challenge](https://www.youtube.com/watch?v=aCWI61QX1OU)
 - [Linux Forensics Magical Mystery Tour with Hal Pomeranz](https://www.youtube.com/watch?v=bXCmroKa9U0)
 - [Jupyter Notebooks and Pre-recorded Datasets for Threat Hunting  - SANS THIR Summit 2019](https://www.youtube.com/watch?v=ZfJ01ZFCMe0)
 - [Introduction to Windows Forensics](https://www.youtube.com/watch?v=VYROU-ZwZX8)
@@ -35,7 +36,6 @@
 - [Active Directory Penetration Testing on Windows Server - Part 1](https://www.youtube.com/watch?v=KKPbxpYYOy0)
 - [Creating Tracking Payloads with Adrian from Thinkst Canary](https://www.youtube.com/watch?v=kY10GE2yRwI)
 - [Develop computer malware: Create a untraceable malware using batch script](https://www.youtube.com/watch?v=B__vpJWtmyU)
-- [Wireshark for Incident Response & Threat Hunting Workshop at OWASP SB](https://www.youtube.com/watch?v=8jqNjo-LqYw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
