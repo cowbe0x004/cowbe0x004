@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred sandfly-processdecloak](https://github.com/sandflysecurity/sandfly-processdecloak)
 - [cowbe0x004 starred clamav-unofficial-sigs](https://github.com/extremeshok/clamav-unofficial-sigs)
 - [cowbe0x004 starred pefile](https://github.com/erocarrera/pefile)
 - [cowbe0x004 starred overlord](https://github.com/qsecure-labs/overlord)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred obfuscar](https://github.com/obfuscar/obfuscar)
 - [cowbe0x004 starred SharpEDRChecker](https://github.com/PwnDexter/SharpEDRChecker)
 - [cowbe0x004 starred FalconFriday](https://github.com/FalconForceTeam/FalconFriday)
-- [cowbe0x004 starred ghacks-user.js](https://github.com/ghacksuserjs/ghacks-user.js)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
