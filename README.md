@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Linux Forensics Magical Mystery Tour with Hal Pomeranz](https://www.youtube.com/watch?v=bXCmroKa9U0)
 - [Jupyter Notebooks and Pre-recorded Datasets for Threat Hunting  - SANS THIR Summit 2019](https://www.youtube.com/watch?v=ZfJ01ZFCMe0)
 - [Introduction to Windows Forensics](https://www.youtube.com/watch?v=VYROU-ZwZX8)
 - [Defcon Safe Mode Red Team Village Intro to Exploit Development](https://www.youtube.com/watch?v=z_niRcyld5A)
@@ -35,7 +36,6 @@
 - [Creating Tracking Payloads with Adrian from Thinkst Canary](https://www.youtube.com/watch?v=kY10GE2yRwI)
 - [Develop computer malware: Create a untraceable malware using batch script](https://www.youtube.com/watch?v=B__vpJWtmyU)
 - [Wireshark for Incident Response & Threat Hunting Workshop at OWASP SB](https://www.youtube.com/watch?v=8jqNjo-LqYw)
-- [DEF CON Safe Mode - Feng Xiao - Discovering Hidden Properties to Attack Node js Ecosystem](https://www.youtube.com/watch?v=oGeEoaplMWA)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
