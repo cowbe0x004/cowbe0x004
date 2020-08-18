@@ -54,15 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [CVE-2020-7019
-
-In Elasticsearch before 7.9.0 and 6.8.12 a field disclosure flaw was found when running a scrolling…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047ce90c654a04f0f54c00d1c75caf8f09977962e88965e984c55c41e00f12a11a929d89b512ef)
-- ["Well I suppose one foreign leader congratulating another may just be polite"
-𝘓𝘰𝘰𝘬𝘴 𝘢𝘵 𝘥𝘢𝘵𝘦 𝘰𝘯 𝘭𝘦𝘵𝘵𝘦𝘳
-Oh.](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70440fa13644a1ddffb0617d6895bae9d52d33874ec8c65e485cf5540e50e17af1b959b8e)
-- [We’re excited to bring you Connections, our largest virtual partner conference featuring Trend Micro’s executives a…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047eee05664127dff35b0b8d9b5bba9a0891257ceb8269eb8ac45144e60c13a513949d8db415)
-- [NSA and CISA Alert Highlights Urgency for OT Security](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97e01c78300a89a1c967f3ef68a6ee586cb5d4fe20f11a0189f9a89b213e31c)
-- [This article presents a curated list with beautiful and Free UI Kits released under permissive licenses by their ve…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047ef40558570bd5e44007c3846bbe9852917e2cadce2ff382ce5d42e1051ea51c9e9a8fb211e61ee56939)
+- [Re @blueteamblog Learn Windows PowerShell in a Month of Lunches](https://twitter.com/cowbe0x004/status/1295021774577557511)
+- [Re @AaronToponce @jmgosney self:self obviously](https://twitter.com/cowbe0x004/status/1294371107278147584)
+- [As of today, we will periodically release detection & hunting queries to detect advanced adversary techniques. Currently focused on DATP & Sysmon. Let...](https://twitter.com/falconforceteam/status/1294199107305734144)
+- [Giving away a $25 / £25 Amazon e-gift card to thank all my followers.  To win -  • Follow me • Retweet this tweet • Tell me what cybersecurity boo...](https://twitter.com/blueteamblog/status/1294017578029981700)
+- [Linux/Windows Internals – Process structures  #linux #windows #eprocess #task_struct #linuxinternals #internals #windowsinternals #operatingsystem #o...](https://twitter.com/hackingump1/status/1292457001864138752)
 <!-- TWEETS:END -->
 
 ---
