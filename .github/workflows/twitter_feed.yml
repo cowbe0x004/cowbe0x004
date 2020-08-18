@@ -17,4 +17,4 @@ jobs:
           comment_tag_name: "TWEETS"
           max_post_count: "5"
           disable_sort: true
-          feed_list: "https://rss.app/feeds/ustolgqbzKhUuqkr.xml"
+          feed_list: "https://rsshub.app/twitter/user/cowbe0x004"
