@@ -54,13 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [Recore so far... waiting one hour in front of door on stairs and waiting now a second hour in waiting room of doctor....](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70443ac0e394645c5e44810d79b00eadc44d73c7eeb8f69e982cb534fe20e10af19)
-- [MediaTek released Dimensity 800U chip: supports 120Hz refresh rates, 5G Dual Sim Dual Standby  #info #news #tech](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045ef405575c0fdafc4613fd8e4eb78252917e2cadce2ff382ce5d42e00f14a41d9f9984b212ee1fe96e31)
-- [#AsyncRAT SHA256: bf67a101d0b87fdfb299f0df8a370e55f6d58e01dd99cd17c2b1bb17a931d06c C2: 185[.]140[.]53[.]68:1515,mav…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479ff15656705c2e30617d6895bae9d52d33874ec8d6fee81cb554fe50a15a31892998e)
-- [User simulation, realistic segregated network infrastructure and updated machines make our Advanced #RedTeam lab fu…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586ca5745e60514a11d909b8eb014e21e)
-- [Another installment of my visual journey through Docker! Check it out 👀
-
-{ author: @aurelievache } #DEVCommunity](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047ef40558570bd5e44007c3846bbe9852917e2cadce2ff382ce5d42e00f14a618919e89bc12ee1fe46d30)
+- [Gain deeper understanding of Process Injection! #PentesterAcademy](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586ca5040e70915a11f969a8fb614e718)
+- [How do I select a risk assessment solution for my business?  - #securitynews @OneTrust…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f90c784b0fc2e34c07d79a46af9752917e2cadce2ff382ce5d42e00811a618909f89bc17e61aec6633)
+- [CBR | VeriSilicon Floats in Shanghai, Quadruples Market Cap in Minutes](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479e80f78680bdae64c16d6815cb28052917e2cadce2ff382ce5d42e00811a61b97918ab415e413ed6a36)
+- [To all our talents 🇰🇪🇺🇬🇩🇿🇪🇹 Make sure when you are creating your teams to read the team's conditions and the CTF ru…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70469e5026d5735e2f14501cc9c5cf49d09837e38aa946dee8ac95243e00a1fa11b919f8bb218e01aed)
+- [Inputs.](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70440eb07674018daf94a0c8d9b5bba9a0891257ceb8269ea87ca5241e10d10a31d9e9c8fb418)
 <!-- TWEETS:END -->
 
 ---
