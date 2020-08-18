@@ -54,12 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [And they’re back at it again. In the latest episode of Dissecting DevOps with @dwmcallister and @hoardinginfo, we’r…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70459ec0c7d4b0199e35d05d69d5cf4df4fdb3f7aec8869eb86cd5244ef0512a71b90)
-- [Get ready for the only annual #hacker powered security con - @Hacker0x01's virtual #SecurityAt :…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70462fd0363401886e819558d9b5bba9a0891257ceb8269eb86cf5140e40a12a11e979f8ab611)
-- [AttackDefense Labs | Linux Privilege Escalation : Restricted Shell  …](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586cb5144e20b1fae1a959a8ebc16e21b)
-- [Join us on Friday August 21st at 3:00pm Pacific, when @Bace16_ gives their talk: "Secrets of the Second Factor".
-Fu…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046ef501664423d8f95d0dc39c46ad8b52917e2cadce2ff382ce5d42e10915a51e93998eb019ef1bec6c37)
-- [3 tips to increase speed and minimize risk when making IT decisions -  - #cybersecuritynews…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f90c784b0fc2e34c07d79a46af9752917e2cadce2ff382ce5d42e10915a51b95908fb115e31ded6d35)
+- [Ubuntu Security Notice USN-4464-1  #advisory](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045afd0363401ee9e35d0bd08500a89a1c967f3ef68a6ee586cb524fe30415ae1a929d8ab218e11c)
+- [We are giving out our annual subscription which includes access to over 1900+ live online labs at a 70% Discount!…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586cb524fe2081ea013939c89b212e41a)
+- [ClamOne 0.102.4-1  #tools](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045afd0363401ee9e35d0bd08500a89a1c967f3ef68a6ee586cb524fe50e1fa01e949a8bb410e21e)
+- [Announcing VICE: The world’s first virtual #IT &amp; #telecom event, featuring #ICE #ICT &amp; entertainment technology. Ca…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047af5106d4903d8f57e0dd08d00a89a1c967f3ef68a6ee586cb524fe40e14a112979f84bc16e51c)
+- [Ubuntu Security Notice USN-4463-1  #advisory](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045afd0363401ee9e35d0bd08500a89a1c967f3ef68a6ee586cb524fe60b13a219979e85b018e719)
 <!-- TWEETS:END -->
 
 ---
