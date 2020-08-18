@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [Gain deeper understanding of Process Injection! #PentesterAcademy](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586ca5040e70915a11f969a8fb614e718)
-- [How do I select a risk assessment solution for my business?  - #securitynews @OneTrust…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f90c784b0fc2e34c07d79a46af9752917e2cadce2ff382ce5d42e00811a618909f89bc17e61aec6633)
-- [CBR | VeriSilicon Floats in Shanghai, Quadruples Market Cap in Minutes](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479e80f78680bdae64c16d6815cb28052917e2cadce2ff382ce5d42e00811a61b97918ab415e413ed6a36)
-- [To all our talents 🇰🇪🇺🇬🇩🇿🇪🇹 Make sure when you are creating your teams to read the team's conditions and the CTF ru…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70469e5026d5735e2f14501cc9c5cf49d09837e38aa946dee8ac95243e00a1fa11b919f8bb218e01aed)
-- [Inputs.](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70440eb07674018daf94a0c8d9b5bba9a0891257ceb8269ea87ca5241e10d10a31d9e9c8fb418)
+- [EventID Field Hunter (EFH) ñ Looking for Malicious Activities in Your Windows Events, by @spookerlabs](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046ef5126d461ed9e25036c38648be9c52917e2cadce2ff382ce5d42e00a14ae12919a8db612e41fee6732)
+- [NSA Windows-Secure-Host-Baseline.](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046ef5126d461ed9e25036c38648be9c52917e2cadce2ff382ce5d42e00a14a1129e9c8ab613ef12eb6d34)
+- [In React, conditional rendering can be done in many ways depend on contexts. In this post, we're going to discuss a…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047ef40558570bd5e44007c3846bbe9852917e2cadce2ff382ce5d42e00a14a118929085b715e71ee46e32)
+- [Roasting AS-REPs, by @harmj0y](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046ef5126d461ed9e25036c38648be9c52917e2cadce2ff382ce5d42e00a14a11b9e998db510e11cec6632)
+- [We are giving out our annual subscription which includes access to over 1900+ live online labs at a 70% Discount!…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586ca5245e40b17a11c909e88b610e718)
 <!-- TWEETS:END -->
 
 ---
