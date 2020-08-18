@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SessionGopher](https://github.com/Arvanaghi/SessionGopher)
+- [cowbe0x004 starred demiguise](https://github.com/nccgroup/demiguise)
 - [cowbe0x004 starred mole](https://github.com/mole-ids/mole)
 - [cowbe0x004 starred virtualseccons](https://github.com/santosomar/virtualseccons)
 - [cowbe0x004 starred sandfly-processdecloak](https://github.com/sandflysecurity/sandfly-processdecloak)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred overlord](https://github.com/qsecure-labs/overlord)
 - [cowbe0x004 starred dynamite-nsm](https://github.com/DynamiteAI/dynamite-nsm)
 - [cowbe0x004 starred Obfuscator](https://github.com/3xpl01tc0d3r/Obfuscator)
-- [cowbe0x004 starred cti](https://github.com/mitre/cti)
-- [cowbe0x004 starred obfuscar](https://github.com/obfuscar/obfuscar)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
