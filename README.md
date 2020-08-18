@@ -54,15 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [We've just used Stepper to solve a new @WebSecAcademy lab.
-
-
-
-It's a great BApp that allows…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047af3127c761ddff74e01d0ba4aa8c10e966b39acc873ed81c55141e10b1fa61990918dbd14e712ea6c)
-- [[Course Video] VoIP Traffic Analysis: SIP + SRTP: Decryption using Tshark, Text2Pcap and Pcap2Wav…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586ca5340e20f17a01b9f998ab216ee13)
-- [💖 I'm sponsoring @EdOverflow for his ongoing work on @securitytxt](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70449f304614b0dd9cf0617d6895bae9d52d33874ec8d6beb81cd5645e70417a31a9e998e)
-- [The Hacker News | Critical Jenkins Server Vulnerability Could Leak Sensitive Information](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479e80f78680bdae64c16d6815cb28052917e2cadce2ff382ce5d42e00b11a71d93998db618e11ce56636)
-- [SecurityWeek | DDoS Extorters Claim to Be Armada Collective, Fancy Bear](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479e80f78680bdae64c16d6815cb28052917e2cadce2ff382ce5d42e00b11a71d959a8eb512ee1cea6a33)
+- [.@CrowdStrike Store continues momentum and enhances customer experience with the addition of applications from vend…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70469ee0f7f4139c2e2400fc7c75caf8f09977962e88965e985c55746ee0a16a21e909e8cb417e2)
+- [Thank you to @Hak5 press - we have 10 giveaway WiFi Pineapple TETRA to raffle off during our event this Friday and…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046ef501664423d8f95d0dc39c46ad8b52917e2cadce2ff382ce5d42e00515a71d939f88b419ee13eb6f31)
+- [Yesterday I washed the Indian, and completed a safety check in preparation for the ride to come. Today we empty all…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7044dee01781635d7e01a4bd19c4eaf9b0ecd3b7fe08e6ae581c85740e20513a01f919c89b4)
+- [Tripwire | Carnival Reveals It Detected a Ransomware Attack on Its Systems](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479e80f78680bdae64c16d6815cb28052917e2cadce2ff382ce5d42e00514a61a9e9085bc18ef1beb6e37)
+- [Updated cryptojacking worm steals AWS credentials -  @TrendMicro @malwrhunterteam…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f90c784b0fc2e34c07d79a46af9752917e2cadce2ff382ce5d42e00517af1c909d8dbd16e118eb6835)
 <!-- TWEETS:END -->
 
 ---
