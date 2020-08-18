@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Getting Started in Cyber Deception](https://www.youtube.com/watch?v=cCxbBz1UbnA)
 - [HackadayU: Reverse Engineering with Ghidra Class 1](https://www.youtube.com/watch?v=d4Pgi5XML8E)
 - [GHIDRA | Reverse Engineering a PWN Challenge](https://www.youtube.com/watch?v=aCWI61QX1OU)
 - [Linux Forensics Magical Mystery Tour with Hal Pomeranz](https://www.youtube.com/watch?v=bXCmroKa9U0)
@@ -35,7 +36,6 @@
 - [Active Directory Penetration Testing on Windows Server - Part 2](https://www.youtube.com/watch?v=1sN8gqDdm3k)
 - [Spectrum of The Unexpected: The Far Reaching Consequences of External Suppliers on The Web](https://www.youtube.com/watch?v=1exi9gl1w2c)
 - [Active Directory Penetration Testing on Windows Server - Part 1](https://www.youtube.com/watch?v=KKPbxpYYOy0)
-- [Creating Tracking Payloads with Adrian from Thinkst Canary](https://www.youtube.com/watch?v=kY10GE2yRwI)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
