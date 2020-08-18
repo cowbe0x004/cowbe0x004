@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [Re @blueteamblog Learn Windows PowerShell in a Month of Lunches](https://twitter.com/cowbe0x004/status/1295021774577557511)
-- [Re @AaronToponce @jmgosney self:self obviously](https://twitter.com/cowbe0x004/status/1294371107278147584)
 - [As of today, we will periodically release detection & hunting queries to detect advanced adversary techniques. Currently focused on DATP & Sysmon. Let...](https://twitter.com/falconforceteam/status/1294199107305734144)
 - [Giving away a $25 / £25 Amazon e-gift card to thank all my followers.  To win -  • Follow me • Retweet this tweet • Tell me what cybersecurity boo...](https://twitter.com/blueteamblog/status/1294017578029981700)
 - [Linux/Windows Internals – Process structures  #linux #windows #eprocess #task_struct #linuxinternals #internals #windowsinternals #operatingsystem #o...](https://twitter.com/hackingump1/status/1292457001864138752)
+- [Looking to up your CTF game for next year? Pick up some grey hat tips for using SSH by watching the replay of @syndrowm’s #DEFCON @VillageRedTeam tal...](https://twitter.com/RandoriAttack/status/1292237991495315462)
+- [Information overloaded trying to attend all the talks and workshop at #defcon28 @BlueTeamVillage @redteamvillage.](https://twitter.com/cowbe0x004/status/1291864958544871426)
 <!-- TWEETS:END -->
 
 ---
