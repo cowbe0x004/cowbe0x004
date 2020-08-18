@@ -54,11 +54,12 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [How to select a safe helmet for kids in one photo(shop).](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f901644013dfff0617d6895bae9d52d33874ec8e64e586cb5d44e00e17af1d929888)
-- [Creating Research Accounts for #OSINT Investigations @OsintCurious](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70465cf2946711ed3f3410acb995abe9d52917e2cadce2ff382ce5d42e3041fa21c959085b016e118ef6d37)
-- [#EGuide | Not All #FIDO Is the Same  Source: @HyprCorp  #CyberSecurity #Technology](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70469e5026d5719d3f3400ad1814bbe9c52917e2cadce2ff382ce5d42e3041ea11e9f9e8cbd11e01ae56937)
-- [[Course Video] 64-bit Assembly Language &amp; Shellcoding: Insertion Encoder](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586c95c41e20a14a51e9f9d8ab214e412)
-- [Potential Apache Struts 2 RCE flaw fixed, PoCs released -  - @TheApacheStruts @rgielen…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f90c784b0fc2e34c07d79a46af9752917e2cadce2ff382ce5d42e30410a413929f8db711ef1be86734)
+- [Many of us are currently working remotely due to the pandemic — but where would you live if it was your choice? Bet…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047ef40558570bd5e44007c3846bbe9852917e2cadce2ff382ce5d42e00c14a5189f9a8db316e31be86a32)
+- [How Malicious Tor Relays are Exploiting Users in 2020 (Part I)     #Anonymity
+#TorNetwork…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045ae81269460fc5f54a11d0815ba2c10e966b39acc873ed81c55141e60e17ae1b959e8dbd19e112e96f)
+- [#njRat SHA256: b1c4969b4e64ed4a2c47bf3cd6e21c99c2da5a3159b09706b02feafb23fd3dde C2: fpwjsem123[.]kro[.]kr:1](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479ff15656705c2e30617d6895bae9d52d33874ec8d6cee82c85344e50412a21e9f988d)
+- [AttackDefense Labs | Maintaining Access Persistence: Leveraging PostgreSQL …](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586ca5446e00910a612939f8ebd19e31c)
+- [Pandemic accelerates investments in tech, automation, workplace transformation -  -…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f90c784b0fc2e34c07d79a46af9752917e2cadce2ff382ce5d42e00c17a21c929d8ab219e019ee6934)
 <!-- TWEETS:END -->
 
 ---
