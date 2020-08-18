@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [.@CrowdStrike Store continues momentum and enhances customer experience with the addition of applications from vend…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70469ee0f7f4139c2e2400fc7c75caf8f09977962e88965e985c55746ee0a16a21e909e8cb417e2)
-- [Thank you to @Hak5 press - we have 10 giveaway WiFi Pineapple TETRA to raffle off during our event this Friday and…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046ef501664423d8f95d0dc39c46ad8b52917e2cadce2ff382ce5d42e00515a71d939f88b419ee13eb6f31)
-- [Yesterday I washed the Indian, and completed a safety check in preparation for the ride to come. Today we empty all…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7044dee01781635d7e01a4bd19c4eaf9b0ecd3b7fe08e6ae581c85740e20513a01f919c89b4)
-- [Tripwire | Carnival Reveals It Detected a Ransomware Attack on Its Systems](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479e80f78680bdae64c16d6815cb28052917e2cadce2ff382ce5d42e00514a61a9e9085bc18ef1beb6e37)
-- [Updated cryptojacking worm steals AWS credentials -  @TrendMicro @malwrhunterteam…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f90c784b0fc2e34c07d79a46af9752917e2cadce2ff382ce5d42e00517af1c909d8dbd16e118eb6835)
+- [AttackDefense Labs | Ruby Secure Coding : Marshalling   Learn More About #AttackDefense Today!](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586cb544fe6041fae1995918fb115e41d)
+- [New #CaseStudies #Whitepapers and #Brochures added to #Pipeline’s Research Center! Check them out here and please s…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047af5106d4903d8f57e0dd08d00a89a1c967f3ef68a6ee586cb5440e10c17a61e96908abc19e61b)
+- [As people are working remotely, attackers are taking advantage of the situation and using disinformation and decept…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045cf11757460bc4f2460ac0844eb88552917e2cadce2ff382ce5d42e10c11a01a939084b712e61aee6a36)
+- [Tuesday miles #garmin #garminfitness #fenix6x #fitness #beatyesterday #running #run #runner #runners](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70458f3047c570fd8e40617d6895bae9d52d33874ec8c6ceb86cf564fe70e13ae1d979884)
+- [OnePlus TV update improves OnePlus Connect experience and enhances audio quality on the Y Series](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70452f8016c401cd3fc4614c79a5cf49d09837e38aa946dee8ac95347e10816af189f9e8db015e61aed)
 <!-- TWEETS:END -->
 
 ---
