@@ -54,12 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [Many of us are currently working remotely due to the pandemic — but where would you live if it was your choice? Bet…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047ef40558570bd5e44007c3846bbe9852917e2cadce2ff382ce5d42e00c14a5189f9a8db316e31be86a32)
-- [How Malicious Tor Relays are Exploiting Users in 2020 (Part I)     #Anonymity
-#TorNetwork…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045ae81269460fc5f54a11d0815ba2c10e966b39acc873ed81c55141e60e17ae1b959e8dbd19e112e96f)
-- [#njRat SHA256: b1c4969b4e64ed4a2c47bf3cd6e21c99c2da5a3159b09706b02feafb23fd3dde C2: fpwjsem123[.]kro[.]kr:1](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479ff15656705c2e30617d6895bae9d52d33874ec8d6cee82c85344e50412a21e9f988d)
-- [AttackDefense Labs | Maintaining Access Persistence: Leveraging PostgreSQL …](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586ca5446e00910a612939f8ebd19e31c)
-- [Pandemic accelerates investments in tech, automation, workplace transformation -  -…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f90c784b0fc2e34c07d79a46af9752917e2cadce2ff382ce5d42e00c17a21c929d8ab219e019ee6934)
+- [Understanding asynchronicity in JavaScript requires understanding one fundamental concept: what will the JS engine…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047ef40558570bd5e44007c3846bbe9852917e2cadce2ff382ce5d42e00d10af18959f85b714e71ded6a36)
+- [Samsung extends list of devices eligible for three major Android updates](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046bf2047a4a03d2d15c10cac75caf8f09977962e88965e985cd5241ef0a1fa21d979989b219e4)
+- [AMC Theatres IS DEAD](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70463f20667760fd5d84610f19840afc10e966b39acc873ed81c55141e70a16a6199e908cbc18e61bec6d)
+- [An unofficial build of LineageOS 17.1 is now available for the OnePlus Nord](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70452f8016c401cd3fc4614c79a5cf49d09837e38aa946dee8ac95246e30b1fa31c949f8cb110e513ef)
+- [Using API's to Track Attackers](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70459fd0e7b7a03c5f30617d6895bae9d52d33874ec8d6de886cd5c44ee0b11a013949c88)
 <!-- TWEETS:END -->
 
 ---
