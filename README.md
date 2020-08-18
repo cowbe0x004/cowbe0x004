@@ -54,7 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [[Action required] Your RSS.app Trial has Expired - Tue Aug 18 2020](https://rss.app)
+- [How to select a safe helmet for kids in one photo(shop).](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f901644013dfff0617d6895bae9d52d33874ec8e64e586cb5d44e00e17af1d929888)
+- [Creating Research Accounts for #OSINT Investigations @OsintCurious](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70465cf2946711ed3f3410acb995abe9d52917e2cadce2ff382ce5d42e3041fa21c959085b016e118ef6d37)
+- [#EGuide | Not All #FIDO Is the Same  Source: @HyprCorp  #CyberSecurity #Technology](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70469e5026d5719d3f3400ad1814bbe9c52917e2cadce2ff382ce5d42e3041ea11e9f9e8cbd11e01ae56937)
+- [[Course Video] 64-bit Assembly Language &amp; Shellcoding: Insertion Encoder](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586c95c41e20a14a51e9f9d8ab214e412)
+- [Potential Apache Struts 2 RCE flaw fixed, PoCs released -  - @TheApacheStruts @rgielen…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f90c784b0fc2e34c07d79a46af9752917e2cadce2ff382ce5d42e30410a413929f8db711ef1be86734)
 <!-- TWEETS:END -->
 
 ---
