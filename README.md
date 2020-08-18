@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred mole](https://github.com/mole-ids/mole)
 - [cowbe0x004 starred virtualseccons](https://github.com/santosomar/virtualseccons)
 - [cowbe0x004 starred sandfly-processdecloak](https://github.com/sandflysecurity/sandfly-processdecloak)
 - [cowbe0x004 starred clamav-unofficial-sigs](https://github.com/extremeshok/clamav-unofficial-sigs)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Obfuscator](https://github.com/3xpl01tc0d3r/Obfuscator)
 - [cowbe0x004 starred cti](https://github.com/mitre/cti)
 - [cowbe0x004 starred obfuscar](https://github.com/obfuscar/obfuscar)
-- [cowbe0x004 starred SharpEDRChecker](https://github.com/PwnDexter/SharpEDRChecker)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
