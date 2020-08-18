@@ -54,14 +54,15 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [OffSec is growing. If you want to grow with us, check out our Careers page and see if you're a fit for openings in…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70445fa067b4009c2e2480dcc8141bcc10e966b39acc873ed81c55140ee0f10a519929e8fbd10e61be96a)
-- [There are lots of great articles around on AWS Virtual Private Cloud networking components, so here is my VPC inter…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047ef40558570bd5e44007c3846bbe9852917e2cadce2ff382ce5d42e10415a318949a8ab212e61be46a32)
-- [[webapps] Pharmacy Medical Store and Sale Point 1.0 - 'catid' SQL Injection](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046fe410644a03c2d46b4bd19c4eaf9b0ecd3b7fe08e6be480c85444e00b1ea7199f9b8bb7)
-- [Job Opening: #CSIRT Lead
-Location: ##Charlotte, NC                
+- [CVE-2020-7019
 
-For a full job description, click here:…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70449e5026d5735c5fe0617d6895bae9d52d33874ec8c64ef82c45346e10e13a518959a84)
-- [Are you ready to claim your spot in the growing #cybersecurity industry? ⬆️#TechTuesday](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7044fd005695704e5f54a11d0815ba2c10e966b39acc873ed81c55140ee0f17a419939188b211ee12e468)
+In Elasticsearch before 7.9.0 and 6.8.12 a field disclosure flaw was found when running a scrolling…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047ce90c654a04f0f54c00d1c75caf8f09977962e88965e984c55c41e00f12a11a929d89b512ef)
+- ["Well I suppose one foreign leader congratulating another may just be polite"
+𝘓𝘰𝘰𝘬𝘴 𝘢𝘵 𝘥𝘢𝘵𝘦 𝘰𝘯 𝘭𝘦𝘵𝘵𝘦𝘳
+Oh.](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70440fa13644a1ddffb0617d6895bae9d52d33874ec8c65e485cf5540e50e17af1b959b8e)
+- [We’re excited to bring you Connections, our largest virtual partner conference featuring Trend Micro’s executives a…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047eee05664127dff35b0b8d9b5bba9a0891257ceb8269eb8ac45144e60c13a513949d8db415)
+- [NSA and CISA Alert Highlights Urgency for OT Security](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97e01c78300a89a1c967f3ef68a6ee586cb5d4fe20f11a0189f9a89b213e31c)
+- [This article presents a curated list with beautiful and Free UI Kits released under permissive licenses by their ve…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047ef40558570bd5e44007c3846bbe9852917e2cadce2ff382ce5d42e1051ea51c9e9a8fb211e61ee56939)
 <!-- TWEETS:END -->
 
 ---
