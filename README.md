@@ -54,11 +54,13 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [Understanding asynchronicity in JavaScript requires understanding one fundamental concept: what will the JS engine…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047ef40558570bd5e44007c3846bbe9852917e2cadce2ff382ce5d42e00d10af18959f85b714e71ded6a36)
-- [Samsung extends list of devices eligible for three major Android updates](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046bf2047a4a03d2d15c10cac75caf8f09977962e88965e985cd5241ef0a1fa21d979989b219e4)
-- [AMC Theatres IS DEAD](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70463f20667760fd5d84610f19840afc10e966b39acc873ed81c55141e70a16a6199e908cbc18e61bec6d)
-- [An unofficial build of LineageOS 17.1 is now available for the OnePlus Nord](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70452f8016c401cd3fc4614c79a5cf49d09837e38aa946dee8ac95246e30b1fa31c949f8cb110e513ef)
-- [Using API's to Track Attackers](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70459fd0e7b7a03c5f30617d6895bae9d52d33874ec8d6de886cd5c44ee0b11a013949c88)
+- [Recore so far... waiting one hour in front of door on stairs and waiting now a second hour in waiting room of doctor....](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70443ac0e394645c5e44810d79b00eadc44d73c7eeb8f69e982cb534fe20e10af19)
+- [MediaTek released Dimensity 800U chip: supports 120Hz refresh rates, 5G Dual Sim Dual Standby  #info #news #tech](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045ef405575c0fdafc4613fd8e4eb78252917e2cadce2ff382ce5d42e00f14a41d9f9984b212ee1fe96e31)
+- [#AsyncRAT SHA256: bf67a101d0b87fdfb299f0df8a370e55f6d58e01dd99cd17c2b1bb17a931d06c C2: 185[.]140[.]53[.]68:1515,mav…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479ff15656705c2e30617d6895bae9d52d33874ec8d6fee81cb554fe50a15a31892998e)
+- [User simulation, realistic segregated network infrastructure and updated machines make our Advanced #RedTeam lab fu…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586ca5745e60514a11d909b8eb014e21e)
+- [Another installment of my visual journey through Docker! Check it out 👀
+
+{ author: @aurelievache } #DEVCommunity](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047ef40558570bd5e44007c3846bbe9852917e2cadce2ff382ce5d42e00f14a618919e89bc12ee1fe46d30)
 <!-- TWEETS:END -->
 
 ---
