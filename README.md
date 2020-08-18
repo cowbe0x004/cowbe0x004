@@ -54,11 +54,17 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [Learn how to configure your #RaspberryPi to perform #pentesting tasks easily and efficiently:…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586cb5644e5081ea119929184b316e719)
-- [Log Analytics new System Center configuration blade - Microsoft Tech Community - 1595228](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70458f3047c570fd8e40617d6895bae9d52d33874ec8c6eef81c45446e6041ea313949184)
-- [Army researchers awarded patent for secure comms -  - @USArmy @LehighU #cybersecurity…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f90c784b0fc2e34c07d79a46af9752917e2cadce2ff382ce5d42e10e15a71f959b8fb316e61ded6f38)
-- [Take to the skies with Microsoft Flight Simulator, available now | Windows Experience Blog](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70458f3047c570fd8e40617d6895bae9d52d33874ec8c6eef82c85d47ee0e1fa41d96988b)
-- [Vaccine for Emotet Malware](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046ef50e67560499e35d05d69d5cf4df4fdb3f7aeb8964eb86c55342e60b11ae129e)
+- [Over 1900+ live online labs and 1500+ HD Videos at a 70% Discount!  Stay Safe and Happy Lear…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586cb574fe50b15a01e949988b510e41a)
+- [A cryptomining worm from the TeamTNT group is spreading through #AWS cloud and collecting credentials. (via…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045ef4126d441ec6ff5a108d9b5bba9a0891257ceb8269eb80c45641ee0a15a619919c8db212)
+- [Internal audit leaders should develop new skills to stay relevant -  - @Protiviti…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f90c784b0fc2e34c07d79a46af9752917e2cadce2ff382ce5d42e10f1ea71d909a8cb618e71dee6837)
+- [NEW!!! VOZOL WHIZ Pod Kit
+
+See more: 
+
+Like @ElegoMall  for more.
+
+Warning: This product con…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046ff0056f4a27d7fc454bd19c4eaf9b0ecd3b7fe08e6bef8bcd5445ef0f12a51b97918db6)
+- [What are the risks and rewards of a longer-term distributed workforce? Learn how security and IT teams are preparin…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045cf11757460bc4f2460ac0844eb88552917e2cadce2ff382ce5d42e10f11a11390998bbc11e619e96a36)
 <!-- TWEETS:END -->
 
 ---
