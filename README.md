@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [AttackDefense Labs | Ruby Secure Coding : Marshalling   Learn More About #AttackDefense Today!](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586cb544fe6041fae1995918fb115e41d)
-- [New #CaseStudies #Whitepapers and #Brochures added to #Pipeline’s Research Center! Check them out here and please s…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047af5106d4903d8f57e0dd08d00a89a1c967f3ef68a6ee586cb5440e10c17a61e96908abc19e61b)
-- [As people are working remotely, attackers are taking advantage of the situation and using disinformation and decept…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045cf11757460bc4f2460ac0844eb88552917e2cadce2ff382ce5d42e10c11a01a939084b712e61aee6a36)
-- [Tuesday miles #garmin #garminfitness #fenix6x #fitness #beatyesterday #running #run #runner #runners](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70458f3047c570fd8e40617d6895bae9d52d33874ec8c6ceb86cf564fe70e13ae1d979884)
-- [OnePlus TV update improves OnePlus Connect experience and enhances audio quality on the Y Series](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70452f8016c401cd3fc4614c79a5cf49d09837e38aa946dee8ac95347e10816af189f9e8db015e61aed)
+- [Learn how to configure your #RaspberryPi to perform #pentesting tasks easily and efficiently:…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586cb5644e5081ea119929184b316e719)
+- [Log Analytics new System Center configuration blade - Microsoft Tech Community - 1595228](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70458f3047c570fd8e40617d6895bae9d52d33874ec8c6eef81c45446e6041ea313949184)
+- [Army researchers awarded patent for secure comms -  - @USArmy @LehighU #cybersecurity…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f90c784b0fc2e34c07d79a46af9752917e2cadce2ff382ce5d42e10e15a71f959b8fb316e61ded6f38)
+- [Take to the skies with Microsoft Flight Simulator, available now | Windows Experience Blog](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70458f3047c570fd8e40617d6895bae9d52d33874ec8c6eef82c85d47ee0e1fa41d96988b)
+- [Vaccine for Emotet Malware](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046ef50e67560499e35d05d69d5cf4df4fdb3f7aeb8964eb86c55342e60b11ae129e)
 <!-- TWEETS:END -->
 
 ---
