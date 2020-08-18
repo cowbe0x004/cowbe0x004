@@ -54,17 +54,12 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [Over 1900+ live online labs and 1500+ HD Videos at a 70% Discount!  Stay Safe and Happy Lear…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586cb574fe50b15a01e949988b510e41a)
-- [A cryptomining worm from the TeamTNT group is spreading through #AWS cloud and collecting credentials. (via…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045ef4126d441ec6ff5a108d9b5bba9a0891257ceb8269eb80c45641ee0a15a619919c8db212)
-- [Internal audit leaders should develop new skills to stay relevant -  - @Protiviti…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f90c784b0fc2e34c07d79a46af9752917e2cadce2ff382ce5d42e10f1ea71d909a8cb618e71dee6837)
-- [NEW!!! VOZOL WHIZ Pod Kit
-
-See more: 
-
-Like @ElegoMall  for more.
-
-Warning: This product con…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046ff0056f4a27d7fc454bd19c4eaf9b0ecd3b7fe08e6bef8bcd5445ef0f12a51b97918db6)
-- [What are the risks and rewards of a longer-term distributed workforce? Learn how security and IT teams are preparin…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045cf11757460bc4f2460ac0844eb88552917e2cadce2ff382ce5d42e10f11a11390998bbc11e619e96a36)
+- [And they’re back at it again. In the latest episode of Dissecting DevOps with @dwmcallister and @hoardinginfo, we’r…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70459ec0c7d4b0199e35d05d69d5cf4df4fdb3f7aec8869eb86cd5244ef0512a71b90)
+- [Get ready for the only annual #hacker powered security con - @Hacker0x01's virtual #SecurityAt :…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70462fd0363401886e819558d9b5bba9a0891257ceb8269eb86cf5140e40a12a11e979f8ab611)
+- [AttackDefense Labs | Linux Privilege Escalation : Restricted Shell  …](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586cb5144e20b1fae1a959a8ebc16e21b)
+- [Join us on Friday August 21st at 3:00pm Pacific, when @Bace16_ gives their talk: "Secrets of the Second Factor".
+Fu…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046ef501664423d8f95d0dc39c46ad8b52917e2cadce2ff382ce5d42e10915a51e93998eb019ef1bec6c37)
+- [3 tips to increase speed and minimize risk when making IT decisions -  - #cybersecuritynews…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70442f90c784b0fc2e34c07d79a46af9752917e2cadce2ff382ce5d42e10915a51b95908fb115e31ded6d35)
 <!-- TWEETS:END -->
 
 ---
