@@ -54,11 +54,14 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [Ubuntu Security Notice USN-4464-1  #advisory](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045afd0363401ee9e35d0bd08500a89a1c967f3ef68a6ee586cb524fe30415ae1a929d8ab218e11c)
-- [We are giving out our annual subscription which includes access to over 1900+ live online labs at a 70% Discount!…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70479f9037d5703c2e97d11c08d00a89a1c967f3ef68a6ee586cb524fe2081ea013939c89b212e41a)
-- [ClamOne 0.102.4-1  #tools](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045afd0363401ee9e35d0bd08500a89a1c967f3ef68a6ee586cb524fe50e1fa01e949a8bb410e21e)
-- [Announcing VICE: The world’s first virtual #IT &amp; #telecom event, featuring #ICE #ICT &amp; entertainment technology. Ca…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047af5106d4903d8f57e0dd08d00a89a1c967f3ef68a6ee586cb524fe40e14a112979f84bc16e51c)
-- [Ubuntu Security Notice USN-4463-1  #advisory](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7045afd0363401ee9e35d0bd08500a89a1c967f3ef68a6ee586cb524fe60b13a219979e85b018e719)
+- [OffSec is growing. If you want to grow with us, check out our Careers page and see if you're a fit for openings in…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70445fa067b4009c2e2480dcc8141bcc10e966b39acc873ed81c55140ee0f10a519929e8fbd10e61be96a)
+- [There are lots of great articles around on AWS Virtual Private Cloud networking components, so here is my VPC inter…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7047ef40558570bd5e44007c3846bbe9852917e2cadce2ff382ce5d42e10415a318949a8ab212e61be46a32)
+- [[webapps] Pharmacy Medical Store and Sale Point 1.0 - 'catid' SQL Injection](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7046fe410644a03c2d46b4bd19c4eaf9b0ecd3b7fe08e6be480c85444e00b1ea7199f9b8bb7)
+- [Job Opening: #CSIRT Lead
+Location: ##Charlotte, NC                
+
+For a full job description, click here:…](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab70449e5026d5735c5fe0617d6895bae9d52d33874ec8c64ef82c45346e10e13a518959a84)
+- [Are you ready to claim your spot in the growing #cybersecurity industry? ⬆️#TechTuesday](https://rss.app/articles/862477a672d6712ebc10cce6db5e7481ee1ab7044fd005695704e5f54a11d0815ba2c10e966b39acc873ed81c55140ee0f17a419939188b211ee12e468)
 <!-- TWEETS:END -->
 
 ---
