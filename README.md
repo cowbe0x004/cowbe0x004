@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred vulncost](https://github.com/snyk/vulncost)
 - [cowbe0x004 starred MalConfScan-with-Cuckoo](https://github.com/JPCERTCC/MalConfScan-with-Cuckoo)
 - [cowbe0x004 starred SessionGopher](https://github.com/Arvanaghi/SessionGopher)
 - [cowbe0x004 starred demiguise](https://github.com/nccgroup/demiguise)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred clamav-unofficial-sigs](https://github.com/extremeshok/clamav-unofficial-sigs)
 - [cowbe0x004 starred pefile](https://github.com/erocarrera/pefile)
 - [cowbe0x004 starred overlord](https://github.com/qsecure-labs/overlord)
-- [cowbe0x004 starred dynamite-nsm](https://github.com/DynamiteAI/dynamite-nsm)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
