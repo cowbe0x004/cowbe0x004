@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred enum4linux-ng](https://github.com/cddmp/enum4linux-ng)
 - [cowbe0x004 starred vulncost](https://github.com/snyk/vulncost)
 - [cowbe0x004 starred MalConfScan-with-Cuckoo](https://github.com/JPCERTCC/MalConfScan-with-Cuckoo)
 - [cowbe0x004 starred SessionGopher](https://github.com/Arvanaghi/SessionGopher)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred sandfly-processdecloak](https://github.com/sandflysecurity/sandfly-processdecloak)
 - [cowbe0x004 starred clamav-unofficial-sigs](https://github.com/extremeshok/clamav-unofficial-sigs)
 - [cowbe0x004 starred pefile](https://github.com/erocarrera/pefile)
-- [cowbe0x004 starred overlord](https://github.com/qsecure-labs/overlord)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
