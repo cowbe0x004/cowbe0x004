@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Bypass Admin Login - Cyber Talents Free CTF Challenges](https://www.youtube.com/watch?v=5zF-9Y7GJOA)
 - [Exploit Development | Format Strings Series 1/6 - Intro and dumping sensitive data](https://www.youtube.com/watch?v=JhdHE4XmevI)
 - [Getting Started in Cyber Deception](https://www.youtube.com/watch?v=cCxbBz1UbnA)
 - [HackadayU: Reverse Engineering with Ghidra Class 1](https://www.youtube.com/watch?v=d4Pgi5XML8E)
@@ -35,7 +36,6 @@
 - [Introduction to Windows Forensics](https://www.youtube.com/watch?v=VYROU-ZwZX8)
 - [Defcon Safe Mode Red Team Village Intro to Exploit Development](https://www.youtube.com/watch?v=z_niRcyld5A)
 - [Active Directory Penetration Testing on Windows Server - Part 2](https://www.youtube.com/watch?v=1sN8gqDdm3k)
-- [Spectrum of The Unexpected: The Far Reaching Consequences of External Suppliers on The Web](https://www.youtube.com/watch?v=1exi9gl1w2c)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
