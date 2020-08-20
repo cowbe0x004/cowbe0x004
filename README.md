@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SharpBlock](https://github.com/CCob/SharpBlock)
 - [cowbe0x004 starred labs_campaigns](https://github.com/guardicore/labs_campaigns)
 - [cowbe0x004 starred enum4linux-ng](https://github.com/cddmp/enum4linux-ng)
 - [cowbe0x004 starred vulncost](https://github.com/snyk/vulncost)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred mole](https://github.com/mole-ids/mole)
 - [cowbe0x004 starred virtualseccons](https://github.com/santosomar/virtualseccons)
 - [cowbe0x004 starred sandfly-processdecloak](https://github.com/sandflysecurity/sandfly-processdecloak)
-- [cowbe0x004 starred clamav-unofficial-sigs](https://github.com/extremeshok/clamav-unofficial-sigs)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
