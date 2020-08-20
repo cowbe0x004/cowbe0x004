@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Become The Malware Analyst Series: PowerShell Obfuscation Shellcode](https://www.youtube.com/watch?v=mBbDCTEYaOY)
 - [Pentesting AWS Day 2 - Cloud Goat, AWS IAM, Terraform, Profiles](https://www.youtube.com/watch?v=LjwDnCEmRzU)
 - [Bypass Admin Login - Cyber Talents Free CTF Challenges](https://www.youtube.com/watch?v=5zF-9Y7GJOA)
 - [Exploit Development | Format Strings Series 1/6 - Intro and dumping sensitive data](https://www.youtube.com/watch?v=JhdHE4XmevI)
@@ -35,7 +36,6 @@
 - [Linux Forensics Magical Mystery Tour with Hal Pomeranz](https://www.youtube.com/watch?v=bXCmroKa9U0)
 - [Jupyter Notebooks and Pre-recorded Datasets for Threat Hunting  - SANS THIR Summit 2019](https://www.youtube.com/watch?v=ZfJ01ZFCMe0)
 - [Introduction to Windows Forensics](https://www.youtube.com/watch?v=VYROU-ZwZX8)
-- [Defcon Safe Mode Red Team Village Intro to Exploit Development](https://www.youtube.com/watch?v=z_niRcyld5A)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
