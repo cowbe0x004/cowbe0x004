@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Parth](https://github.com/s0md3v/Parth)
+- [cowbe0x004 starred kubeletctl](https://github.com/cyberark/kubeletctl)
 - [cowbe0x004 starred SharpBlock](https://github.com/CCob/SharpBlock)
 - [cowbe0x004 starred labs_campaigns](https://github.com/guardicore/labs_campaigns)
 - [cowbe0x004 starred enum4linux-ng](https://github.com/cddmp/enum4linux-ng)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred SessionGopher](https://github.com/Arvanaghi/SessionGopher)
 - [cowbe0x004 starred demiguise](https://github.com/nccgroup/demiguise)
 - [cowbe0x004 starred mole](https://github.com/mole-ids/mole)
-- [cowbe0x004 starred virtualseccons](https://github.com/santosomar/virtualseccons)
-- [cowbe0x004 starred sandfly-processdecloak](https://github.com/sandflysecurity/sandfly-processdecloak)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
