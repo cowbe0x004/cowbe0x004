@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty)
 - [cowbe0x004 starred CTF_UNICON2020](https://github.com/Hack3dlazy/CTF_UNICON2020)
 - [cowbe0x004 starred RootKits-List-Download](https://github.com/d30sa1/RootKits-List-Download)
 - [cowbe0x004 starred Parth](https://github.com/s0md3v/Parth)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred enum4linux-ng](https://github.com/cddmp/enum4linux-ng)
 - [cowbe0x004 starred vulncost](https://github.com/snyk/vulncost)
 - [cowbe0x004 starred MalConfScan-with-Cuckoo](https://github.com/JPCERTCC/MalConfScan-with-Cuckoo)
-- [cowbe0x004 starred SessionGopher](https://github.com/Arvanaghi/SessionGopher)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
