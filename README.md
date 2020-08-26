@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [[RandoriSec&Friends - Enlarge your toolkit] Speed up IR with TheHive -Jérôme Leonard & Nabil Adouani](https://www.youtube.com/watch?v=lrYxdSAY8KY)
+- [Leveraging compromised tickets in Kali](https://www.youtube.com/watch?v=_DZC6_YRBQg)
 - [Radare 0-Days - Part 1 - Building With Instrumentation](https://www.youtube.com/watch?v=SEGPkc8Pu84)
 - [Become The Malware Analyst Series: PowerShell Obfuscation Shellcode](https://www.youtube.com/watch?v=mBbDCTEYaOY)
 - [Pentesting AWS Day 2 - Cloud Goat, AWS IAM, Terraform, Profiles](https://www.youtube.com/watch?v=LjwDnCEmRzU)
@@ -34,8 +36,6 @@
 - [Getting Started in Cyber Deception](https://www.youtube.com/watch?v=cCxbBz1UbnA)
 - [HackadayU: Reverse Engineering with Ghidra Class 1](https://www.youtube.com/watch?v=d4Pgi5XML8E)
 - [GHIDRA | Reverse Engineering a PWN Challenge](https://www.youtube.com/watch?v=aCWI61QX1OU)
-- [Linux Forensics Magical Mystery Tour with Hal Pomeranz](https://www.youtube.com/watch?v=bXCmroKa9U0)
-- [Jupyter Notebooks and Pre-recorded Datasets for Threat Hunting  - SANS THIR Summit 2019](https://www.youtube.com/watch?v=ZfJ01ZFCMe0)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
