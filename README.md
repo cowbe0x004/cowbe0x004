@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred DefendTheFlag](https://github.com/microsoft/DefendTheFlag)
 - [cowbe0x004 starred ezEmu](https://github.com/jwillyamz/ezEmu)
 - [cowbe0x004 starred awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty)
 - [cowbe0x004 starred CTF_UNICON2020](https://github.com/Hack3dlazy/CTF_UNICON2020)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SharpBlock](https://github.com/CCob/SharpBlock)
 - [cowbe0x004 starred labs_campaigns](https://github.com/guardicore/labs_campaigns)
 - [cowbe0x004 starred enum4linux-ng](https://github.com/cddmp/enum4linux-ng)
-- [cowbe0x004 starred vulncost](https://github.com/snyk/vulncost)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
