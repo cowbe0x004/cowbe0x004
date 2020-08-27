@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Fuzzing simple C program with AFL on Linux](https://www.youtube.com/watch?v=NiGC1jxFx78)
 - [[RandoriSec&Friends - Enlarge your toolkit] Speed up IR with TheHive -Jérôme Leonard & Nabil Adouani](https://www.youtube.com/watch?v=lrYxdSAY8KY)
 - [Leveraging compromised tickets in Kali](https://www.youtube.com/watch?v=_DZC6_YRBQg)
 - [Radare 0-Days - Part 1 - Building With Instrumentation](https://www.youtube.com/watch?v=SEGPkc8Pu84)
@@ -35,7 +36,6 @@
 - [Exploit Development | Format Strings Series 1/6 - Intro and dumping sensitive data](https://www.youtube.com/watch?v=JhdHE4XmevI)
 - [Getting Started in Cyber Deception](https://www.youtube.com/watch?v=cCxbBz1UbnA)
 - [HackadayU: Reverse Engineering with Ghidra Class 1](https://www.youtube.com/watch?v=d4Pgi5XML8E)
-- [GHIDRA | Reverse Engineering a PWN Challenge](https://www.youtube.com/watch?v=aCWI61QX1OU)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
