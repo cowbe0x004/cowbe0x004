@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SecurityShepherd](https://github.com/OWASP/SecurityShepherd)
+- [cowbe0x004 starred pygoat](https://github.com/adeyosemanputra/pygoat)
 - [cowbe0x004 starred Hack-Tools](https://github.com/LasCC/Hack-Tools)
 - [cowbe0x004 starred DefendTheFlag](https://github.com/microsoft/DefendTheFlag)
 - [cowbe0x004 starred ezEmu](https://github.com/jwillyamz/ezEmu)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred RootKits-List-Download](https://github.com/d30sa1/RootKits-List-Download)
 - [cowbe0x004 starred Parth](https://github.com/s0md3v/Parth)
 - [cowbe0x004 starred kubeletctl](https://github.com/cyberark/kubeletctl)
-- [cowbe0x004 starred SharpBlock](https://github.com/CCob/SharpBlock)
-- [cowbe0x004 starred labs_campaigns](https://github.com/guardicore/labs_campaigns)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
