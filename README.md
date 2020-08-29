@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred vulnerable-AD](https://github.com/WazeHell/vulnerable-AD)
 - [cowbe0x004 starred WindTerm](https://github.com/kingToolbox/WindTerm)
 - [cowbe0x004 starred SecurityShepherd](https://github.com/OWASP/SecurityShepherd)
 - [cowbe0x004 starred pygoat](https://github.com/adeyosemanputra/pygoat)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty)
 - [cowbe0x004 starred CTF_UNICON2020](https://github.com/Hack3dlazy/CTF_UNICON2020)
 - [cowbe0x004 starred RootKits-List-Download](https://github.com/d30sa1/RootKits-List-Download)
-- [cowbe0x004 starred Parth](https://github.com/s0md3v/Parth)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
