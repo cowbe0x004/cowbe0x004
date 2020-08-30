@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Exploiting Kibana - JavaScript Prototype Pollution](https://www.youtube.com/watch?v=hZmfcEILjeg)
 - [CYBERWARCON 2019 - RedSourcing: Cyberwar On a Budget](https://www.youtube.com/watch?v=clF20BBzwss)
 - [Fuzzing simple C program with AFL on Linux](https://www.youtube.com/watch?v=NiGC1jxFx78)
 - [[RandoriSec&Friends - Enlarge your toolkit] Speed up IR with TheHive -Jérôme Leonard & Nabil Adouani](https://www.youtube.com/watch?v=lrYxdSAY8KY)
@@ -35,7 +36,6 @@
 - [Pentesting AWS Day 2 - Cloud Goat, AWS IAM, Terraform, Profiles](https://www.youtube.com/watch?v=LjwDnCEmRzU)
 - [Bypass Admin Login - Cyber Talents Free CTF Challenges](https://www.youtube.com/watch?v=5zF-9Y7GJOA)
 - [Exploit Development | Format Strings Series 1/6 - Intro and dumping sensitive data](https://www.youtube.com/watch?v=JhdHE4XmevI)
-- [Getting Started in Cyber Deception](https://www.youtube.com/watch?v=cCxbBz1UbnA)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
