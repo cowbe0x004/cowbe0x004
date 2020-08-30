@@ -28,7 +28,7 @@
 <!-- YOUTUBE:START -->
 - [Exploiting Kibana - JavaScript Prototype Pollution](https://www.youtube.com/watch?v=hZmfcEILjeg)
 - [CYBERWARCON 2019 - RedSourcing: Cyberwar On a Budget](https://www.youtube.com/watch?v=clF20BBzwss)
-- [Fuzzing simple C program with AFL on Linux](https://www.youtube.com/watch?v=NiGC1jxFx78)
+- [[Fuzzing with AFL] Fuzzing simple C program with AFL on Linux](https://www.youtube.com/watch?v=NiGC1jxFx78)
 - [[RandoriSec&Friends - Enlarge your toolkit] Speed up IR with TheHive -Jérôme Leonard & Nabil Adouani](https://www.youtube.com/watch?v=lrYxdSAY8KY)
 - [Leveraging compromised tickets in Kali](https://www.youtube.com/watch?v=_DZC6_YRBQg)
 - [Radare 0-Days - Part 1 - Building With Instrumentation](https://www.youtube.com/watch?v=SEGPkc8Pu84)
