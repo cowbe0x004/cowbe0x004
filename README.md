@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred writeups](https://github.com/jeffli678/writeups)
+- [cowbe0x004 starred Tiredful-API](https://github.com/payatu/Tiredful-API)
+- [cowbe0x004 starred present](https://github.com/vinayak-mehta/present)
 - [cowbe0x004 starred vulnerable-AD](https://github.com/WazeHell/vulnerable-AD)
 - [cowbe0x004 starred WindTerm](https://github.com/kingToolbox/WindTerm)
 - [cowbe0x004 starred SecurityShepherd](https://github.com/OWASP/SecurityShepherd)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred Hack-Tools](https://github.com/LasCC/Hack-Tools)
 - [cowbe0x004 starred DefendTheFlag](https://github.com/microsoft/DefendTheFlag)
 - [cowbe0x004 starred ezEmu](https://github.com/jwillyamz/ezEmu)
-- [cowbe0x004 starred awesome-oneliner-bugbounty](https://github.com/dwisiswant0/awesome-oneliner-bugbounty)
-- [cowbe0x004 starred CTF_UNICON2020](https://github.com/Hack3dlazy/CTF_UNICON2020)
-- [cowbe0x004 starred RootKits-List-Download](https://github.com/d30sa1/RootKits-List-Download)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
