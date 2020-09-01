@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred graudit](https://github.com/wireghoul/graudit)
 - [cowbe0x004 starred pwning-juice-shop](https://github.com/bkimminich/pwning-juice-shop)
 - [cowbe0x004 starred rbcd-attack](https://github.com/tothi/rbcd-attack)
 - [cowbe0x004 starred writeups](https://github.com/jeffli678/writeups)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred WindTerm](https://github.com/kingToolbox/WindTerm)
 - [cowbe0x004 starred SecurityShepherd](https://github.com/OWASP/SecurityShepherd)
 - [cowbe0x004 starred pygoat](https://github.com/adeyosemanputra/pygoat)
-- [cowbe0x004 starred Hack-Tools](https://github.com/LasCC/Hack-Tools)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
