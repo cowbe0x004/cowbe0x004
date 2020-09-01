@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred srum-dump](https://github.com/MarkBaggett/srum-dump)
+- [cowbe0x004 starred learn-at-home](https://github.com/s0md3v/learn-at-home)
 - [cowbe0x004 starred graudit](https://github.com/wireghoul/graudit)
 - [cowbe0x004 starred pwning-juice-shop](https://github.com/bkimminich/pwning-juice-shop)
 - [cowbe0x004 starred rbcd-attack](https://github.com/tothi/rbcd-attack)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred present](https://github.com/vinayak-mehta/present)
 - [cowbe0x004 starred vulnerable-AD](https://github.com/WazeHell/vulnerable-AD)
 - [cowbe0x004 starred WindTerm](https://github.com/kingToolbox/WindTerm)
-- [cowbe0x004 starred SecurityShepherd](https://github.com/OWASP/SecurityShepherd)
-- [cowbe0x004 starred pygoat](https://github.com/adeyosemanputra/pygoat)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
