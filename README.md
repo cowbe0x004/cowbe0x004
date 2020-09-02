@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred web-traffic-generator](https://github.com/ReconInfoSec/web-traffic-generator)
 - [cowbe0x004 starred srum-dump](https://github.com/MarkBaggett/srum-dump)
 - [cowbe0x004 starred learn-at-home](https://github.com/s0md3v/learn-at-home)
 - [cowbe0x004 starred graudit](https://github.com/wireghoul/graudit)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Tiredful-API](https://github.com/payatu/Tiredful-API)
 - [cowbe0x004 starred present](https://github.com/vinayak-mehta/present)
 - [cowbe0x004 starred vulnerable-AD](https://github.com/WazeHell/vulnerable-AD)
-- [cowbe0x004 starred WindTerm](https://github.com/kingToolbox/WindTerm)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
