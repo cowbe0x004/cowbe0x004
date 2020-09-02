@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred dtd-finder](https://github.com/GoSecure/dtd-finder)
 - [cowbe0x004 starred HowToHunt](https://github.com/KathanP19/HowToHunt)
 - [cowbe0x004 starred web-traffic-generator](https://github.com/ReconInfoSec/web-traffic-generator)
 - [cowbe0x004 starred srum-dump](https://github.com/MarkBaggett/srum-dump)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred rbcd-attack](https://github.com/tothi/rbcd-attack)
 - [cowbe0x004 starred writeups](https://github.com/jeffli678/writeups)
 - [cowbe0x004 starred Tiredful-API](https://github.com/payatu/Tiredful-API)
-- [cowbe0x004 starred present](https://github.com/vinayak-mehta/present)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
