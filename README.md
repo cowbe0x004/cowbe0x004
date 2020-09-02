@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Linux Command Line Dojo II - Return of the Sensei](https://www.youtube.com/watch?v=dtyX7XO-GSg)
 - [Exploiting Kibana - JavaScript Prototype Pollution](https://www.youtube.com/watch?v=hZmfcEILjeg)
 - [CYBERWARCON 2019 - RedSourcing: Cyberwar On a Budget](https://www.youtube.com/watch?v=clF20BBzwss)
 - [[Fuzzing with AFL] Fuzzing simple C program with AFL on Linux](https://www.youtube.com/watch?v=NiGC1jxFx78)
@@ -35,7 +36,6 @@
 - [Become The Malware Analyst Series: PowerShell Obfuscation Shellcode](https://www.youtube.com/watch?v=mBbDCTEYaOY)
 - [Pentesting AWS Day 2 - Cloud Goat, AWS IAM, Terraform, Profiles](https://www.youtube.com/watch?v=LjwDnCEmRzU)
 - [Bypass Admin Login - Cyber Talents Free CTF Challenges](https://www.youtube.com/watch?v=5zF-9Y7GJOA)
-- [Exploit Development | Format Strings Series 1/6 - Intro and dumping sensitive data](https://www.youtube.com/watch?v=JhdHE4XmevI)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
