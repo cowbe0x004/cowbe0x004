@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Windows Firewall Evasion with Advanced Metasploit Payloads](https://www.youtube.com/watch?v=FSZSbQn0f9A)
 - [Modern Webapp Pentesting: How to Attack a JWT](https://www.youtube.com/watch?v=muYmiEtPL8U)
 - [WEBINAR REPLAY WITH LIVE CHAT - How to Become Windows Forensics Master 2.0](https://www.youtube.com/watch?v=7hGWOQUBMoA)
 - [Linux Command Line Dojo II - Return of the Sensei](https://www.youtube.com/watch?v=dtyX7XO-GSg)
@@ -35,7 +36,6 @@
 - [[RandoriSec&Friends - Enlarge your toolkit] Speed up IR with TheHive -Jérôme Leonard & Nabil Adouani](https://www.youtube.com/watch?v=lrYxdSAY8KY)
 - [Leveraging compromised tickets in Kali](https://www.youtube.com/watch?v=_DZC6_YRBQg)
 - [Radare 0-Days - Part 1 - Building With Instrumentation](https://www.youtube.com/watch?v=SEGPkc8Pu84)
-- [Become The Malware Analyst Series: PowerShell Obfuscation Shellcode](https://www.youtube.com/watch?v=mBbDCTEYaOY)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
