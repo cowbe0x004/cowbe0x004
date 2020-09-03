@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Modern Webapp Pentesting: How to Attack a JWT](https://www.youtube.com/watch?v=muYmiEtPL8U)
 - [WEBINAR REPLAY WITH LIVE CHAT - How to Become Windows Forensics Master 2.0](https://www.youtube.com/watch?v=7hGWOQUBMoA)
 - [Linux Command Line Dojo II - Return of the Sensei](https://www.youtube.com/watch?v=dtyX7XO-GSg)
 - [Exploiting Kibana - JavaScript Prototype Pollution](https://www.youtube.com/watch?v=hZmfcEILjeg)
@@ -35,7 +36,6 @@
 - [Leveraging compromised tickets in Kali](https://www.youtube.com/watch?v=_DZC6_YRBQg)
 - [Radare 0-Days - Part 1 - Building With Instrumentation](https://www.youtube.com/watch?v=SEGPkc8Pu84)
 - [Become The Malware Analyst Series: PowerShell Obfuscation Shellcode](https://www.youtube.com/watch?v=mBbDCTEYaOY)
-- [Pentesting AWS Day 2 - Cloud Goat, AWS IAM, Terraform, Profiles](https://www.youtube.com/watch?v=LjwDnCEmRzU)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
