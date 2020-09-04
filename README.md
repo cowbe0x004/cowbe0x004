@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Leave No Trace, Intelligence Gathering Techniques | A Recon 101 with Corey Overstreet | Red Siege](https://www.youtube.com/watch?v=rG_NELPCS_k)
 - [Windows Firewall Evasion with Advanced Metasploit Payloads](https://www.youtube.com/watch?v=FSZSbQn0f9A)
 - [Modern Webapp Pentesting: How to Attack a JWT](https://www.youtube.com/watch?v=muYmiEtPL8U)
 - [WEBINAR REPLAY WITH LIVE CHAT - How to Become Windows Forensics Master 2.0](https://www.youtube.com/watch?v=7hGWOQUBMoA)
@@ -35,7 +36,6 @@
 - [[Fuzzing with AFL] Fuzzing simple C program with AFL on Linux](https://www.youtube.com/watch?v=NiGC1jxFx78)
 - [[RandoriSec&Friends - Enlarge your toolkit] Speed up IR with TheHive -Jérôme Leonard & Nabil Adouani](https://www.youtube.com/watch?v=lrYxdSAY8KY)
 - [Leveraging compromised tickets in Kali](https://www.youtube.com/watch?v=_DZC6_YRBQg)
-- [Radare 0-Days - Part 1 - Building With Instrumentation](https://www.youtube.com/watch?v=SEGPkc8Pu84)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
