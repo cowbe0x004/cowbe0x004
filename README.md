@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Webinar: Investigating malware using Memory Forensics](https://www.youtube.com/watch?v=tBv5wcpT6Js)
 - [Leave No Trace, Intelligence Gathering Techniques | A Recon 101 with Corey Overstreet | Red Siege](https://www.youtube.com/watch?v=rG_NELPCS_k)
 - [Windows Firewall Evasion with Advanced Metasploit Payloads](https://www.youtube.com/watch?v=FSZSbQn0f9A)
 - [Modern Webapp Pentesting: How to Attack a JWT](https://www.youtube.com/watch?v=muYmiEtPL8U)
@@ -35,7 +36,6 @@
 - [CYBERWARCON 2019 - RedSourcing: Cyberwar On a Budget](https://www.youtube.com/watch?v=clF20BBzwss)
 - [[Fuzzing with AFL] Fuzzing simple C program with AFL on Linux](https://www.youtube.com/watch?v=NiGC1jxFx78)
 - [[RandoriSec&Friends - Enlarge your toolkit] Speed up IR with TheHive -Jérôme Leonard & Nabil Adouani](https://www.youtube.com/watch?v=lrYxdSAY8KY)
-- [Leveraging compromised tickets in Kali](https://www.youtube.com/watch?v=_DZC6_YRBQg)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
