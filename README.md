@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred goddi](https://github.com/NetSPI/goddi)
+- [cowbe0x004 starred ultimate-python](https://github.com/huangsam/ultimate-python)
 - [cowbe0x004 starred dtd-finder](https://github.com/GoSecure/dtd-finder)
 - [cowbe0x004 starred HowToHunt](https://github.com/KathanP19/HowToHunt)
 - [cowbe0x004 starred web-traffic-generator](https://github.com/ReconInfoSec/web-traffic-generator)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred graudit](https://github.com/wireghoul/graudit)
 - [cowbe0x004 starred pwning-juice-shop](https://github.com/bkimminich/pwning-juice-shop)
 - [cowbe0x004 starred rbcd-attack](https://github.com/tothi/rbcd-attack)
-- [cowbe0x004 starred writeups](https://github.com/jeffli678/writeups)
-- [cowbe0x004 starred Tiredful-API](https://github.com/payatu/Tiredful-API)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
