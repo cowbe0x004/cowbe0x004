@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred WriteLogEntry](https://github.com/MSAdministrator/WriteLogEntry)
 - [cowbe0x004 starred Shuffle](https://github.com/frikky/Shuffle)
 - [cowbe0x004 starred goddi](https://github.com/NetSPI/goddi)
 - [cowbe0x004 starred ultimate-python](https://github.com/huangsam/ultimate-python)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred srum-dump](https://github.com/MarkBaggett/srum-dump)
 - [cowbe0x004 starred learn-at-home](https://github.com/s0md3v/learn-at-home)
 - [cowbe0x004 starred graudit](https://github.com/wireghoul/graudit)
-- [cowbe0x004 starred pwning-juice-shop](https://github.com/bkimminich/pwning-juice-shop)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
