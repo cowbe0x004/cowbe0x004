@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred win10_simplifier](https://github.com/mattreecebentley/win10_simplifier)
+- [cowbe0x004 starred APT_CyberCriminal_Campagin_Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
 - [cowbe0x004 starred safety](https://github.com/pyupio/safety)
 - [cowbe0x004 starred FES](https://github.com/JohnWoodman/FES)
 - [cowbe0x004 starred learn-radare](https://github.com/xp073/learn-radare)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred goddi](https://github.com/NetSPI/goddi)
 - [cowbe0x004 starred ultimate-python](https://github.com/huangsam/ultimate-python)
 - [cowbe0x004 starred dtd-finder](https://github.com/GoSecure/dtd-finder)
-- [cowbe0x004 starred HowToHunt](https://github.com/KathanP19/HowToHunt)
-- [cowbe0x004 starred web-traffic-generator](https://github.com/ReconInfoSec/web-traffic-generator)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
