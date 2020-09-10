@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred FES](https://github.com/JohnWoodman/FES)
 - [cowbe0x004 starred learn-radare](https://github.com/xp073/learn-radare)
 - [cowbe0x004 starred WriteLogEntry](https://github.com/MSAdministrator/WriteLogEntry)
 - [cowbe0x004 starred Shuffle](https://github.com/frikky/Shuffle)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred HowToHunt](https://github.com/KathanP19/HowToHunt)
 - [cowbe0x004 starred web-traffic-generator](https://github.com/ReconInfoSec/web-traffic-generator)
 - [cowbe0x004 starred srum-dump](https://github.com/MarkBaggett/srum-dump)
+- [cowbe0x004 starred learn-at-home](https://github.com/s0md3v/learn-at-home)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
