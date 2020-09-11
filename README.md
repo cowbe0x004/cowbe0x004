@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ssh-mitm](https://github.com/jtesta/ssh-mitm)
 - [cowbe0x004 starred win10_simplifier](https://github.com/mattreecebentley/win10_simplifier)
 - [cowbe0x004 starred APT_CyberCriminal_Campagin_Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
 - [cowbe0x004 starred safety](https://github.com/pyupio/safety)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Shuffle](https://github.com/frikky/Shuffle)
 - [cowbe0x004 starred goddi](https://github.com/NetSPI/goddi)
 - [cowbe0x004 starred ultimate-python](https://github.com/huangsam/ultimate-python)
-- [cowbe0x004 starred dtd-finder](https://github.com/GoSecure/dtd-finder)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
