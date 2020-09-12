@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Google CTF - BEGINNER Reverse Engineering w/ ANGR](https://www.youtube.com/watch?v=RCgEIBfnTEI)
 - [Deep Dive into Adversary Emulation - Ransomware Edition by Jorge Orchilles](https://www.youtube.com/watch?v=CXpHaY-2Fvw)
 - [Getting Started with Plaso and Log2Timeline - Forensic Timeline Creation](https://www.youtube.com/watch?v=sAvyRwOmE10)
 - [Webinar: Investigating malware using Memory Forensics](https://www.youtube.com/watch?v=tBv5wcpT6Js)
@@ -35,7 +36,6 @@
 - [WEBINAR REPLAY WITH LIVE CHAT - How to Become Windows Forensics Master 2.0](https://www.youtube.com/watch?v=7hGWOQUBMoA)
 - [Linux Command Line Dojo II - Return of the Sensei](https://www.youtube.com/watch?v=dtyX7XO-GSg)
 - [Exploiting Kibana - JavaScript Prototype Pollution](https://www.youtube.com/watch?v=hZmfcEILjeg)
-- [CYBERWARCON 2019 - RedSourcing: Cyberwar On a Budget](https://www.youtube.com/watch?v=clF20BBzwss)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
