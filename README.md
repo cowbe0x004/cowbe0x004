@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred exphub](https://github.com/zhzyker/exphub)
 - [cowbe0x004 starred Winshark](https://github.com/airbus-cert/Winshark)
 - [cowbe0x004 starred Max](https://github.com/knavesec/Max)
 - [cowbe0x004 starred BloodHoundQueries](https://github.com/CompassSecurity/BloodHoundQueries)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred safety](https://github.com/pyupio/safety)
 - [cowbe0x004 starred FES](https://github.com/JohnWoodman/FES)
 - [cowbe0x004 starred learn-radare](https://github.com/xp073/learn-radare)
-- [cowbe0x004 starred WriteLogEntry](https://github.com/MSAdministrator/WriteLogEntry)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
