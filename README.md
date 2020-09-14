@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Finding Hidden Files and Folders on IIS/.NET (Recon)](https://www.youtube.com/watch?v=HrJW6Y9kHC4)
+- [Learning with ReversingLabs: Classifying Malicious Files with Functional Similarity Algorithms](https://www.youtube.com/watch?v=7XDgMGdPpxQ)
 - [Google CTF - BEGINNER Reverse Engineering w/ ANGR](https://www.youtube.com/watch?v=RCgEIBfnTEI)
 - [Deep Dive into Adversary Emulation - Ransomware Edition by Jorge Orchilles](https://www.youtube.com/watch?v=CXpHaY-2Fvw)
 - [Getting Started with Plaso and Log2Timeline - Forensic Timeline Creation](https://www.youtube.com/watch?v=sAvyRwOmE10)
@@ -34,8 +36,6 @@
 - [Windows Firewall Evasion with Advanced Metasploit Payloads](https://www.youtube.com/watch?v=FSZSbQn0f9A)
 - [Modern Webapp Pentesting: How to Attack a JWT](https://www.youtube.com/watch?v=muYmiEtPL8U)
 - [WEBINAR REPLAY WITH LIVE CHAT - How to Become Windows Forensics Master 2.0](https://www.youtube.com/watch?v=7hGWOQUBMoA)
-- [Linux Command Line Dojo II - Return of the Sensei](https://www.youtube.com/watch?v=dtyX7XO-GSg)
-- [Exploiting Kibana - JavaScript Prototype Pollution](https://www.youtube.com/watch?v=hZmfcEILjeg)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
