@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred query-json](https://github.com/davesnx/query-json)
 - [cowbe0x004 starred exphub](https://github.com/zhzyker/exphub)
 - [cowbe0x004 starred Winshark](https://github.com/airbus-cert/Winshark)
 - [cowbe0x004 starred Max](https://github.com/knavesec/Max)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred APT_CyberCriminal_Campagin_Collections](https://github.com/CyberMonitor/APT_CyberCriminal_Campagin_Collections)
 - [cowbe0x004 starred safety](https://github.com/pyupio/safety)
 - [cowbe0x004 starred FES](https://github.com/JohnWoodman/FES)
-- [cowbe0x004 starred learn-radare](https://github.com/xp073/learn-radare)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
