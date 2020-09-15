@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred analyzer](https://github.com/qeeqbox/analyzer)
 - [cowbe0x004 starred bcc](https://github.com/iovisor/bcc)
 - [cowbe0x004 starred klaxon](https://github.com/themarshallproject/klaxon)
 - [cowbe0x004 starred opencanary](https://github.com/thinkst/opencanary)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred Max](https://github.com/knavesec/Max)
 - [cowbe0x004 starred BloodHoundQueries](https://github.com/CompassSecurity/BloodHoundQueries)
 - [cowbe0x004 starred ssh-mitm](https://github.com/jtesta/ssh-mitm)
+- [cowbe0x004 starred win10_simplifier](https://github.com/mattreecebentley/win10_simplifier)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
