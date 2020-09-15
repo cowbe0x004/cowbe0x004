@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred WMIHACKER](https://github.com/360-Linton-Lab/WMIHACKER)
 - [cowbe0x004 starred Publications](https://github.com/mdsecresearch/Publications)
 - [cowbe0x004 starred analyzer](https://github.com/qeeqbox/analyzer)
 - [cowbe0x004 starred bcc](https://github.com/iovisor/bcc)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred exphub](https://github.com/zhzyker/exphub)
 - [cowbe0x004 starred Winshark](https://github.com/airbus-cert/Winshark)
 - [cowbe0x004 starred Max](https://github.com/knavesec/Max)
-- [cowbe0x004 starred BloodHoundQueries](https://github.com/CompassSecurity/BloodHoundQueries)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
