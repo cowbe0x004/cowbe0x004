@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [VU#490028: Microsoft Windows Netlogon Remote Protocol (MS-NRPC) uses insecure AES-CFB8 initialization vector](https://twitter.com/USCERT_gov/status/1306279440947621888)
 - [Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build...](https://twitter.com/SteveSyfuhs/status/1297957799079510018)
 - [As of today, we will periodically release detection & hunting queries to detect advanced adversary techniques. Currently focused on DATP & Sysmon. Let...](https://twitter.com/falconforceteam/status/1294199107305734144)
 - [Giving away a $25 / £25 Amazon e-gift card to thank all my followers.  To win -  • Follow me • Retweet this tweet • Tell me what cybersecurity boo...](https://twitter.com/blueteamblog/status/1294017578029981700)
 - [Linux/Windows Internals – Process structures  #linux #windows #eprocess #task_struct #linuxinternals #internals #windowsinternals #operatingsystem #o...](https://twitter.com/hackingump1/status/1292457001864138752)
-- [Looking to up your CTF game for next year? Pick up some grey hat tips for using SSH by watching the replay of @syndrowm’s #DEFCON @VillageRedTeam tal...](https://twitter.com/RandoriAttack/status/1292237991495315462)
 <!-- TWEETS:END -->
 
 ---
