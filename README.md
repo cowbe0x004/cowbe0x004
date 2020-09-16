@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Subrake](https://github.com/hash3liZer/Subrake)
 - [cowbe0x004 starred nccfsas](https://github.com/nccgroup/nccfsas)
 - [cowbe0x004 starred adversary_emulation_library](https://github.com/center-for-threat-informed-defense/adversary_emulation_library)
 - [cowbe0x004 starred WMIHACKER](https://github.com/360-Linton-Lab/WMIHACKER)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred klaxon](https://github.com/themarshallproject/klaxon)
 - [cowbe0x004 starred opencanary](https://github.com/thinkst/opencanary)
 - [cowbe0x004 starred query-json](https://github.com/davesnx/query-json)
-- [cowbe0x004 starred exphub](https://github.com/zhzyker/exphub)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
