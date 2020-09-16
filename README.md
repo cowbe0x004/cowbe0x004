@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred adversary_emulation_library](https://github.com/center-for-threat-informed-defense/adversary_emulation_library)
 - [cowbe0x004 starred WMIHACKER](https://github.com/360-Linton-Lab/WMIHACKER)
 - [cowbe0x004 starred Publications](https://github.com/mdsecresearch/Publications)
 - [cowbe0x004 starred analyzer](https://github.com/qeeqbox/analyzer)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred query-json](https://github.com/davesnx/query-json)
 - [cowbe0x004 starred exphub](https://github.com/zhzyker/exphub)
 - [cowbe0x004 starred Winshark](https://github.com/airbus-cert/Winshark)
-- [cowbe0x004 starred Max](https://github.com/knavesec/Max)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
