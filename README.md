@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ntlm-scanner](https://github.com/preempt/ntlm-scanner)
 - [cowbe0x004 starred SeBackupPrivilege](https://github.com/giuliano108/SeBackupPrivilege)
 - [cowbe0x004 starred Subrake](https://github.com/hash3liZer/Subrake)
 - [cowbe0x004 starred nccfsas](https://github.com/nccgroup/nccfsas)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred analyzer](https://github.com/qeeqbox/analyzer)
 - [cowbe0x004 starred bcc](https://github.com/iovisor/bcc)
 - [cowbe0x004 starred klaxon](https://github.com/themarshallproject/klaxon)
-- [cowbe0x004 starred opencanary](https://github.com/thinkst/opencanary)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
