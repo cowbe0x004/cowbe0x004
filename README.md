@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred CypherDog](https://github.com/SadProcessor/CypherDog)
+- [cowbe0x004 starred Get-ZimmermanTools](https://github.com/EricZimmerman/Get-ZimmermanTools)
+- [cowbe0x004 starred linux-pam-backdoor](https://github.com/zephrax/linux-pam-backdoor)
+- [cowbe0x004 starred DLLsForHackers](https://github.com/Mr-Un1k0d3r/DLLsForHackers)
 - [cowbe0x004 starred ntlm-scanner](https://github.com/preempt/ntlm-scanner)
 - [cowbe0x004 starred SeBackupPrivilege](https://github.com/giuliano108/SeBackupPrivilege)
 - [cowbe0x004 starred Subrake](https://github.com/hash3liZer/Subrake)
 - [cowbe0x004 starred nccfsas](https://github.com/nccgroup/nccfsas)
 - [cowbe0x004 starred adversary_emulation_library](https://github.com/center-for-threat-informed-defense/adversary_emulation_library)
 - [cowbe0x004 starred WMIHACKER](https://github.com/360-Linton-Lab/WMIHACKER)
-- [cowbe0x004 starred Publications](https://github.com/mdsecresearch/Publications)
-- [cowbe0x004 starred analyzer](https://github.com/qeeqbox/analyzer)
-- [cowbe0x004 starred bcc](https://github.com/iovisor/bcc)
-- [cowbe0x004 starred klaxon](https://github.com/themarshallproject/klaxon)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
