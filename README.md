@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [How to detect and evade firewall and Intruction Detection Systems - Fragscapy](https://www.youtube.com/watch?v=DSRCx1RpxIg)
 - [JavaScript Prototype Pollution - Part 2](https://www.youtube.com/watch?v=yDmOXhr8wmw)
 - [Exploit Development | Format Strings Series 6/6 - x64 exploitation + Final thoughts](https://www.youtube.com/watch?v=yV4qo8Cu5U0)
 - [Finding Hidden Files and Folders on IIS/.NET (Recon)](https://www.youtube.com/watch?v=HrJW6Y9kHC4)
@@ -35,7 +36,6 @@
 - [Getting Started with Plaso and Log2Timeline - Forensic Timeline Creation](https://www.youtube.com/watch?v=sAvyRwOmE10)
 - [Webinar: Investigating malware using Memory Forensics](https://www.youtube.com/watch?v=tBv5wcpT6Js)
 - [Leave No Trace, Intelligence Gathering Techniques | A Recon 101 with Corey Overstreet | Red Siege](https://www.youtube.com/watch?v=rG_NELPCS_k)
-- [Windows Firewall Evasion with Advanced Metasploit Payloads](https://www.youtube.com/watch?v=FSZSbQn0f9A)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
