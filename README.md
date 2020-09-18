@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred HTTP-revshell](https://github.com/3v4Si0N/HTTP-revshell)
 - [cowbe0x004 starred bantam](https://github.com/gellin/bantam)
 - [cowbe0x004 starred rogue-jndi](https://github.com/artsploit/rogue-jndi)
 - [cowbe0x004 starred CypherDog](https://github.com/SadProcessor/CypherDog)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ntlm-scanner](https://github.com/preempt/ntlm-scanner)
 - [cowbe0x004 starred SeBackupPrivilege](https://github.com/giuliano108/SeBackupPrivilege)
 - [cowbe0x004 starred Subrake](https://github.com/hash3liZer/Subrake)
-- [cowbe0x004 starred nccfsas](https://github.com/nccgroup/nccfsas)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
