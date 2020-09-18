@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [I've blogged about using the Advanced Hunting feature in Defender ATP to hunt for a few techniques that have been used by APT41. Check it out here!](https://twitter.com/DebugPrivilege/status/1306894984923275264)
 - [VU#490028: Microsoft Windows Netlogon Remote Protocol (MS-NRPC) uses insecure AES-CFB8 initialization vector](https://twitter.com/USCERT_gov/status/1306279440947621888)
 - [Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build...](https://twitter.com/SteveSyfuhs/status/1297957799079510018)
 - [As of today, we will periodically release detection & hunting queries to detect advanced adversary techniques. Currently focused on DATP & Sysmon. Let...](https://twitter.com/falconforceteam/status/1294199107305734144)
 - [Giving away a $25 / £25 Amazon e-gift card to thank all my followers.  To win -  • Follow me • Retweet this tweet • Tell me what cybersecurity boo...](https://twitter.com/blueteamblog/status/1294017578029981700)
-- [Linux/Windows Internals – Process structures  #linux #windows #eprocess #task_struct #linuxinternals #internals #windowsinternals #operatingsystem #o...](https://twitter.com/hackingump1/status/1292457001864138752)
 <!-- TWEETS:END -->
 
 ---
