@@ -26,7 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
-- [How to detect and evade firewall and Intruction Detection Systems - Fragscapy](https://www.youtube.com/watch?v=DSRCx1RpxIg)
+- [How to detect and evade firewall and Intrusion Detection Systems - Fragscapy](https://www.youtube.com/watch?v=DSRCx1RpxIg)
 - [JavaScript Prototype Pollution - Part 2](https://www.youtube.com/watch?v=yDmOXhr8wmw)
 - [Exploit Development | Format Strings Series 6/6 - x64 exploitation + Final thoughts](https://www.youtube.com/watch?v=yV4qo8Cu5U0)
 - [Finding Hidden Files and Folders on IIS/.NET (Recon)](https://www.youtube.com/watch?v=HrJW6Y9kHC4)
