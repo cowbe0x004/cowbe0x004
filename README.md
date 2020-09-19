@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred diva-android](https://github.com/payatu/diva-android)
+- [cowbe0x004 starred TheAtomicPlaybook](https://github.com/haresudhan/TheAtomicPlaybook)
 - [cowbe0x004 starred HTTP-revshell](https://github.com/3v4Si0N/HTTP-revshell)
 - [cowbe0x004 starred bantam](https://github.com/gellin/bantam)
 - [cowbe0x004 starred rogue-jndi](https://github.com/artsploit/rogue-jndi)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred linux-pam-backdoor](https://github.com/zephrax/linux-pam-backdoor)
 - [cowbe0x004 starred DLLsForHackers](https://github.com/Mr-Un1k0d3r/DLLsForHackers)
 - [cowbe0x004 starred ntlm-scanner](https://github.com/preempt/ntlm-scanner)
-- [cowbe0x004 starred SeBackupPrivilege](https://github.com/giuliano108/SeBackupPrivilege)
-- [cowbe0x004 starred Subrake](https://github.com/hash3liZer/Subrake)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
