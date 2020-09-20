@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Malware Analysis Bootcamp - Introduction To Malware Analysis](https://www.youtube.com/watch?v=D3inDM8kM-Y)
 - [DownUnderCTF 2020 - Cloud at your service - Official Video Writeup](https://www.youtube.com/watch?v=PTfQuA4qTEA)
 - [CyberSecLabs - Toast - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=CndMDvjX8dg)
 - [How to detect and evade firewall and Intrusion Detection Systems - Fragscapy](https://www.youtube.com/watch?v=DSRCx1RpxIg)
@@ -35,7 +36,6 @@
 - [Learning with ReversingLabs: Classifying Malicious Files with Functional Similarity Algorithms](https://www.youtube.com/watch?v=7XDgMGdPpxQ)
 - [Google CTF - BEGINNER Reverse Engineering w/ ANGR](https://www.youtube.com/watch?v=RCgEIBfnTEI)
 - [Deep Dive into Adversary Emulation - Ransomware Edition by Jorge Orchilles](https://www.youtube.com/watch?v=CXpHaY-2Fvw)
-- [Getting Started with Plaso and Log2Timeline - Forensic Timeline Creation](https://www.youtube.com/watch?v=sAvyRwOmE10)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
