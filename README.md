@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [DownUnderCTF 2020 - Cloud at your service - Official Video Writeup](https://www.youtube.com/watch?v=PTfQuA4qTEA)
 - [CyberSecLabs - Toast - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=CndMDvjX8dg)
 - [How to detect and evade firewall and Intrusion Detection Systems - Fragscapy](https://www.youtube.com/watch?v=DSRCx1RpxIg)
 - [JavaScript Prototype Pollution - Part 2](https://www.youtube.com/watch?v=yDmOXhr8wmw)
@@ -35,7 +36,6 @@
 - [Google CTF - BEGINNER Reverse Engineering w/ ANGR](https://www.youtube.com/watch?v=RCgEIBfnTEI)
 - [Deep Dive into Adversary Emulation - Ransomware Edition by Jorge Orchilles](https://www.youtube.com/watch?v=CXpHaY-2Fvw)
 - [Getting Started with Plaso and Log2Timeline - Forensic Timeline Creation](https://www.youtube.com/watch?v=sAvyRwOmE10)
-- [Webinar: Investigating malware using Memory Forensics](https://www.youtube.com/watch?v=tBv5wcpT6Js)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
