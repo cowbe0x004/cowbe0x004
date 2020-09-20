@@ -30,7 +30,7 @@
 - [How to detect and evade firewall and Intrusion Detection Systems - Fragscapy](https://www.youtube.com/watch?v=DSRCx1RpxIg)
 - [JavaScript Prototype Pollution - Part 2](https://www.youtube.com/watch?v=yDmOXhr8wmw)
 - [Exploit Development | Format Strings Series 6/6 - x64 exploitation + Final thoughts](https://www.youtube.com/watch?v=yV4qo8Cu5U0)
-- [Finding Hidden Files and Folders on IIS/.NET (Recon)](https://www.youtube.com/watch?v=HrJW6Y9kHC4)
+- [Finding Hidden Files and Folders on IIS/.NET (Recon) (Part 1)](https://www.youtube.com/watch?v=HrJW6Y9kHC4)
 - [Learning with ReversingLabs: Classifying Malicious Files with Functional Similarity Algorithms](https://www.youtube.com/watch?v=7XDgMGdPpxQ)
 - [Google CTF - BEGINNER Reverse Engineering w/ ANGR](https://www.youtube.com/watch?v=RCgEIBfnTEI)
 - [Deep Dive into Adversary Emulation - Ransomware Edition by Jorge Orchilles](https://www.youtube.com/watch?v=CXpHaY-2Fvw)
