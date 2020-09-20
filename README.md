@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred shad0w](https://github.com/bats3c/shad0w)
+- [cowbe0x004 starred AD_Sec_Tools](https://github.com/davidprowe/AD_Sec_Tools)
 - [cowbe0x004 starred diva-android](https://github.com/payatu/diva-android)
 - [cowbe0x004 starred TheAtomicPlaybook](https://github.com/haresudhan/TheAtomicPlaybook)
 - [cowbe0x004 starred HTTP-revshell](https://github.com/3v4Si0N/HTTP-revshell)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred CypherDog](https://github.com/SadProcessor/CypherDog)
 - [cowbe0x004 starred Get-ZimmermanTools](https://github.com/EricZimmerman/Get-ZimmermanTools)
 - [cowbe0x004 starred linux-pam-backdoor](https://github.com/zephrax/linux-pam-backdoor)
-- [cowbe0x004 starred DLLsForHackers](https://github.com/Mr-Un1k0d3r/DLLsForHackers)
-- [cowbe0x004 starred ntlm-scanner](https://github.com/preempt/ntlm-scanner)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
