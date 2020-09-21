@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PCAP-ATTACK](https://github.com/sbousseaden/PCAP-ATTACK)
+- [cowbe0x004 starred AQUARMOURY](https://github.com/slaeryan/AQUARMOURY)
 - [cowbe0x004 starred Windows-Setup-EoP](https://github.com/klinix5/Windows-Setup-EoP)
 - [cowbe0x004 starred shad0w](https://github.com/bats3c/shad0w)
 - [cowbe0x004 starred AD_Sec_Tools](https://github.com/davidprowe/AD_Sec_Tools)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred HTTP-revshell](https://github.com/3v4Si0N/HTTP-revshell)
 - [cowbe0x004 starred bantam](https://github.com/gellin/bantam)
 - [cowbe0x004 starred rogue-jndi](https://github.com/artsploit/rogue-jndi)
-- [cowbe0x004 starred CypherDog](https://github.com/SadProcessor/CypherDog)
-- [cowbe0x004 starred Get-ZimmermanTools](https://github.com/EricZimmerman/Get-ZimmermanTools)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
