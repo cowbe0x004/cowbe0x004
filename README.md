@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ThreatHunting](https://github.com/GossiTheDog/ThreatHunting)
 - [cowbe0x004 starred DeimosC2](https://github.com/DeimosC2/DeimosC2)
 - [cowbe0x004 starred AllTools](https://github.com/zodiacon/AllTools)
 - [cowbe0x004 starred poshkatz](https://github.com/STEALTHbits/poshkatz)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred AQUARMOURY](https://github.com/slaeryan/AQUARMOURY)
 - [cowbe0x004 starred Windows-Setup-EoP](https://github.com/klinix5/Windows-Setup-EoP)
 - [cowbe0x004 starred shad0w](https://github.com/bats3c/shad0w)
-- [cowbe0x004 starred AD_Sec_Tools](https://github.com/davidprowe/AD_Sec_Tools)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
