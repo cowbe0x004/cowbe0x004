@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred zerologon](https://github.com/zeronetworks/zerologon)
 - [cowbe0x004 starred HiddenPowerShellDll](https://github.com/b4rtik/HiddenPowerShellDll)
 - [cowbe0x004 starred ThreatHunting](https://github.com/GossiTheDog/ThreatHunting)
 - [cowbe0x004 starred DeimosC2](https://github.com/DeimosC2/DeimosC2)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred cefdebug](https://github.com/taviso/cefdebug)
 - [cowbe0x004 starred PCAP-ATTACK](https://github.com/sbousseaden/PCAP-ATTACK)
 - [cowbe0x004 starred AQUARMOURY](https://github.com/slaeryan/AQUARMOURY)
-- [cowbe0x004 starred Windows-Setup-EoP](https://github.com/klinix5/Windows-Setup-EoP)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
