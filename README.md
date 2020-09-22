@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [Here is a quick reference I compiled with every Advanced Audit Policy mapped to the Windows EventID. Feel free to share!](https://twitter.com/Ben0xA/status/1308455521385615360)
 - [RT @the_vyAdha: RT @ofjaaah: 👽A few days, I viewed this PDF, I believe it can help many people. It talks about API tests. I don't know who the owne...](https://twitter.com/infosecsanyam/status/1307576619901554688)
 - [I've blogged about using the Advanced Hunting feature in Defender ATP to hunt for a few techniques that have been used by APT41. Check it out here!](https://twitter.com/DebugPrivilege/status/1306894984923275264)
 - [VU#490028: Microsoft Windows Netlogon Remote Protocol (MS-NRPC) uses insecure AES-CFB8 initialization vector](https://twitter.com/USCERT_gov/status/1306279440947621888)
 - [Have you ever wondered what happens behind the scenes when you type your password into the Windows logon screen and hit enter? I'm waiting for a build...](https://twitter.com/SteveSyfuhs/status/1297957799079510018)
-- [As of today, we will periodically release detection & hunting queries to detect advanced adversary techniques. Currently focused on DATP & Sysmon. Let...](https://twitter.com/falconforceteam/status/1294199107305734144)
 <!-- TWEETS:END -->
 
 ---
