@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred AllTools](https://github.com/zodiacon/AllTools)
+- [cowbe0x004 starred poshkatz](https://github.com/STEALTHbits/poshkatz)
+- [cowbe0x004 starred scrutiny](https://github.com/AnalogJ/scrutiny)
 - [cowbe0x004 starred cefdebug](https://github.com/taviso/cefdebug)
 - [cowbe0x004 starred PCAP-ATTACK](https://github.com/sbousseaden/PCAP-ATTACK)
 - [cowbe0x004 starred AQUARMOURY](https://github.com/slaeryan/AQUARMOURY)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred shad0w](https://github.com/bats3c/shad0w)
 - [cowbe0x004 starred AD_Sec_Tools](https://github.com/davidprowe/AD_Sec_Tools)
 - [cowbe0x004 starred diva-android](https://github.com/payatu/diva-android)
-- [cowbe0x004 starred TheAtomicPlaybook](https://github.com/haresudhan/TheAtomicPlaybook)
-- [cowbe0x004 starred HTTP-revshell](https://github.com/3v4Si0N/HTTP-revshell)
-- [cowbe0x004 starred bantam](https://github.com/gellin/bantam)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
