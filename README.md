@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Windows Privilege Escalation in XML Files - Cyberseclabs Unattend](https://www.youtube.com/watch?v=ufKy_OMFMKw)
 - [Malware Analysis Bootcamp - Introduction To Malware Analysis](https://www.youtube.com/watch?v=D3inDM8kM-Y)
 - [DownUnderCTF 2020 - Cloud at your service - Official Video Writeup](https://www.youtube.com/watch?v=PTfQuA4qTEA)
 - [CyberSecLabs - Toast - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=CndMDvjX8dg)
@@ -35,7 +36,6 @@
 - [Finding Hidden Files and Folders on IIS/.NET (Recon) (Part 1)](https://www.youtube.com/watch?v=HrJW6Y9kHC4)
 - [Learning with ReversingLabs: Classifying Malicious Files with Functional Similarity Algorithms](https://www.youtube.com/watch?v=7XDgMGdPpxQ)
 - [Google CTF - BEGINNER Reverse Engineering w/ ANGR](https://www.youtube.com/watch?v=RCgEIBfnTEI)
-- [Deep Dive into Adversary Emulation - Ransomware Edition by Jorge Orchilles](https://www.youtube.com/watch?v=CXpHaY-2Fvw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
