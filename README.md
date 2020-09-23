@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred dma](https://github.com/corecode/dma)
+- [cowbe0x004 starred Yacht](https://github.com/SelfhostedPro/Yacht)
 - [cowbe0x004 starred zerologon](https://github.com/zeronetworks/zerologon)
 - [cowbe0x004 starred HiddenPowerShellDll](https://github.com/b4rtik/HiddenPowerShellDll)
 - [cowbe0x004 starred ThreatHunting](https://github.com/GossiTheDog/ThreatHunting)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred poshkatz](https://github.com/Stealthbits/poshkatz)
 - [cowbe0x004 starred scrutiny](https://github.com/AnalogJ/scrutiny)
 - [cowbe0x004 starred cefdebug](https://github.com/taviso/cefdebug)
-- [cowbe0x004 starred PCAP-ATTACK](https://github.com/sbousseaden/PCAP-ATTACK)
-- [cowbe0x004 starred AQUARMOURY](https://github.com/slaeryan/AQUARMOURY)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
