@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred falcosidekick](https://github.com/falcosecurity/falcosidekick)
 - [cowbe0x004 starred Phishing-API](https://github.com/curtbraz/Phishing-API)
 - [cowbe0x004 starred dma](https://github.com/corecode/dma)
 - [cowbe0x004 starred Yacht](https://github.com/SelfhostedPro/Yacht)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred DeimosC2](https://github.com/DeimosC2/DeimosC2)
 - [cowbe0x004 starred AllTools](https://github.com/zodiacon/AllTools)
 - [cowbe0x004 starred poshkatz](https://github.com/Stealthbits/poshkatz)
-- [cowbe0x004 starred scrutiny](https://github.com/AnalogJ/scrutiny)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
