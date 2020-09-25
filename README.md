@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [DNS Evidence  You Don’t Know What You’re Missing](https://www.youtube.com/watch?v=mZrNLZAdTTA)
 - [Windows Privilege Escalation in XML Files - Cyberseclabs Unattend](https://www.youtube.com/watch?v=ufKy_OMFMKw)
 - [Malware Analysis Bootcamp - Introduction To Malware Analysis](https://www.youtube.com/watch?v=D3inDM8kM-Y)
 - [DownUnderCTF 2020 - Cloud at your service - Official Video Writeup](https://www.youtube.com/watch?v=PTfQuA4qTEA)
@@ -35,7 +36,6 @@
 - [Exploit Development | Format Strings Series 6/6 - x64 exploitation + Final thoughts](https://www.youtube.com/watch?v=yV4qo8Cu5U0)
 - [Finding Hidden Files and Folders on IIS/.NET (Recon) (Part 1)](https://www.youtube.com/watch?v=HrJW6Y9kHC4)
 - [Learning with ReversingLabs: Classifying Malicious Files with Functional Similarity Algorithms](https://www.youtube.com/watch?v=7XDgMGdPpxQ)
-- [Google CTF - BEGINNER Reverse Engineering w/ ANGR](https://www.youtube.com/watch?v=RCgEIBfnTEI)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
