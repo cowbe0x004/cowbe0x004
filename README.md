@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [1 01 Embrace the Red Enhancing detection capabilities with adversary simulation Mauricio Velazco](https://www.youtube.com/watch?v=8JFP1wj37Vk)
 - [How to Master FFUF for Bug Bounties and Pen Testing](https://www.youtube.com/watch?v=iLFkxAmwXF0)
 - [DNS Evidence  You Don’t Know What You’re Missing](https://www.youtube.com/watch?v=mZrNLZAdTTA)
 - [Windows Privilege Escalation in XML Files - Cyberseclabs Unattend](https://www.youtube.com/watch?v=ufKy_OMFMKw)
@@ -35,7 +36,6 @@
 - [How to detect and evade firewall and Intrusion Detection Systems - Fragscapy](https://www.youtube.com/watch?v=DSRCx1RpxIg)
 - [JavaScript Prototype Pollution - Part 2](https://www.youtube.com/watch?v=yDmOXhr8wmw)
 - [Exploit Development | Format Strings Series 6/6 - x64 exploitation + Final thoughts](https://www.youtube.com/watch?v=yV4qo8Cu5U0)
-- [Finding Hidden Files and Folders on IIS/.NET (Recon) (Part 1)](https://www.youtube.com/watch?v=HrJW6Y9kHC4)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
