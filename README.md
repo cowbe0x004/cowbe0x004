@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred TruffleSnout](https://github.com/dsnezhkov/TruffleSnout)
 - [cowbe0x004 starred irradiate](https://github.com/CompFides/irradiate)
 - [cowbe0x004 starred macro_pack](https://github.com/sevagas/macro_pack)
 - [cowbe0x004 starred awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred dma](https://github.com/corecode/dma)
 - [cowbe0x004 starred Yacht](https://github.com/SelfhostedPro/Yacht)
 - [cowbe0x004 starred zerologon](https://github.com/zeronetworks/zerologon)
-- [cowbe0x004 starred HiddenPowerShellDll](https://github.com/b4rtik/HiddenPowerShellDll)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
