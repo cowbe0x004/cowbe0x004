@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred linux_kernel_hacking](https://github.com/xcellerator/linux_kernel_hacking)
+- [cowbe0x004 starred CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan)
 - [cowbe0x004 starred TruffleSnout](https://github.com/dsnezhkov/TruffleSnout)
 - [cowbe0x004 starred irradiate](https://github.com/CompFides/irradiate)
 - [cowbe0x004 starred macro_pack](https://github.com/sevagas/macro_pack)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred falcosidekick](https://github.com/falcosecurity/falcosidekick)
 - [cowbe0x004 starred Phishing-API](https://github.com/curtbraz/Phishing-API)
 - [cowbe0x004 starred dma](https://github.com/corecode/dma)
-- [cowbe0x004 starred Yacht](https://github.com/SelfhostedPro/Yacht)
-- [cowbe0x004 starred zerologon](https://github.com/zeronetworks/zerologon)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
