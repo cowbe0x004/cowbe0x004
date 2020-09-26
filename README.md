@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules)
+- [cowbe0x004 starred APT-Lab-Terraform](https://github.com/DefensiveOrigins/APT-Lab-Terraform)
+- [cowbe0x004 starred 3snake](https://github.com/blendin/3snake)
 - [cowbe0x004 starred Chimera](https://github.com/tokyoneon/Chimera)
 - [cowbe0x004 starred EkoParty_Advanced_Fuzzing_Workshop](https://github.com/antonio-morales/EkoParty_Advanced_Fuzzing_Workshop)
 - [cowbe0x004 starred linux_kernel_hacking](https://github.com/xcellerator/linux_kernel_hacking)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred TruffleSnout](https://github.com/dsnezhkov/TruffleSnout)
 - [cowbe0x004 starred irradiate](https://github.com/CompFides/irradiate)
 - [cowbe0x004 starred macro_pack](https://github.com/sevagas/macro_pack)
-- [cowbe0x004 starred awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)
-- [cowbe0x004 starred nosqli](https://github.com/Charlie-belmer/nosqli)
-- [cowbe0x004 starred falcosidekick](https://github.com/falcosecurity/falcosidekick)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
