@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Chimera](https://github.com/tokyoneon/Chimera)
+- [cowbe0x004 starred EkoParty_Advanced_Fuzzing_Workshop](https://github.com/antonio-morales/EkoParty_Advanced_Fuzzing_Workshop)
 - [cowbe0x004 starred linux_kernel_hacking](https://github.com/xcellerator/linux_kernel_hacking)
 - [cowbe0x004 starred CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan)
 - [cowbe0x004 starred TruffleSnout](https://github.com/dsnezhkov/TruffleSnout)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred awesome-tunneling](https://github.com/anderspitman/awesome-tunneling)
 - [cowbe0x004 starred nosqli](https://github.com/Charlie-belmer/nosqli)
 - [cowbe0x004 starred falcosidekick](https://github.com/falcosecurity/falcosidekick)
-- [cowbe0x004 starred Phishing-API](https://github.com/curtbraz/Phishing-API)
-- [cowbe0x004 starred dma](https://github.com/corecode/dma)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
