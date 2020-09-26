@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred gitjacker](https://github.com/liamg/gitjacker)
 - [cowbe0x004 starred reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules)
 - [cowbe0x004 starred APT-Lab-Terraform](https://github.com/DefensiveOrigins/APT-Lab-Terraform)
 - [cowbe0x004 starred 3snake](https://github.com/blendin/3snake)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan)
 - [cowbe0x004 starred TruffleSnout](https://github.com/dsnezhkov/TruffleSnout)
 - [cowbe0x004 starred irradiate](https://github.com/CompFides/irradiate)
-- [cowbe0x004 starred macro_pack](https://github.com/sevagas/macro_pack)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
