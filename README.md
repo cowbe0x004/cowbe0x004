@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Full bug bounty methodology to get you started V 2.0 (Say cheese)](https://www.youtube.com/watch?v=4q22s743hrI)
 - [1 01 Embrace the Red Enhancing detection capabilities with adversary simulation Mauricio Velazco](https://www.youtube.com/watch?v=8JFP1wj37Vk)
 - [How to Master FFUF for Bug Bounties and Pen Testing](https://www.youtube.com/watch?v=iLFkxAmwXF0)
 - [DNS Evidence  You Don’t Know What You’re Missing](https://www.youtube.com/watch?v=mZrNLZAdTTA)
@@ -35,7 +36,6 @@
 - [CyberSecLabs - Toast - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=CndMDvjX8dg)
 - [How to detect and evade firewall and Intrusion Detection Systems - Fragscapy](https://www.youtube.com/watch?v=DSRCx1RpxIg)
 - [JavaScript Prototype Pollution - Part 2](https://www.youtube.com/watch?v=yDmOXhr8wmw)
-- [Exploit Development | Format Strings Series 6/6 - x64 exploitation + Final thoughts](https://www.youtube.com/watch?v=yV4qo8Cu5U0)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
