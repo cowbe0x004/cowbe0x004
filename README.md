@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred APTnotes](https://github.com/kbandla/APTnotes)
+- [cowbe0x004 starred lazarus-sigma-rules](https://github.com/countercept/lazarus-sigma-rules)
+- [cowbe0x004 starred Sharp-Suite](https://github.com/FuzzySecurity/Sharp-Suite)
+- [cowbe0x004 starred hetty](https://github.com/dstotijn/hetty)
 - [cowbe0x004 starred HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools)
 - [cowbe0x004 starred gitjacker](https://github.com/liamg/gitjacker)
 - [cowbe0x004 starred reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules)
 - [cowbe0x004 starred APT-Lab-Terraform](https://github.com/DefensiveOrigins/APT-Lab-Terraform)
 - [cowbe0x004 starred 3snake](https://github.com/blendin/3snake)
 - [cowbe0x004 starred Chimera](https://github.com/tokyoneon/Chimera)
-- [cowbe0x004 starred EkoParty_Advanced_Fuzzing_Workshop](https://github.com/antonio-morales/EkoParty_Advanced_Fuzzing_Workshop)
-- [cowbe0x004 starred linux_kernel_hacking](https://github.com/xcellerator/linux_kernel_hacking)
-- [cowbe0x004 starred CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan)
-- [cowbe0x004 starred TruffleSnout](https://github.com/dsnezhkov/TruffleSnout)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
