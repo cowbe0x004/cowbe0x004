@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred railsgoat](https://github.com/OWASP/railsgoat)
+- [cowbe0x004 starred WackoPicko](https://github.com/adamdoupe/WackoPicko)
+- [cowbe0x004 starred btslab](https://github.com/CSPF-Founder/btslab)
+- [cowbe0x004 starred dvws-node](https://github.com/snoopysecurity/dvws-node)
+- [cowbe0x004 starred dvws](https://github.com/snoopysecurity/dvws)
+- [cowbe0x004 starred bodgeit](https://github.com/psiinon/bodgeit)
+- [cowbe0x004 starred xvwa](https://github.com/s4n7h0/xvwa)
 - [cowbe0x004 starred APTnotes](https://github.com/kbandla/APTnotes)
 - [cowbe0x004 starred lazarus-sigma-rules](https://github.com/countercept/lazarus-sigma-rules)
 - [cowbe0x004 starred Sharp-Suite](https://github.com/FuzzySecurity/Sharp-Suite)
-- [cowbe0x004 starred hetty](https://github.com/dstotijn/hetty)
-- [cowbe0x004 starred HexRaysPyTools](https://github.com/igogo-x86/HexRaysPyTools)
-- [cowbe0x004 starred gitjacker](https://github.com/liamg/gitjacker)
-- [cowbe0x004 starred reversinglabs-yara-rules](https://github.com/reversinglabs/reversinglabs-yara-rules)
-- [cowbe0x004 starred APT-Lab-Terraform](https://github.com/DefensiveOrigins/APT-Lab-Terraform)
-- [cowbe0x004 starred 3snake](https://github.com/blendin/3snake)
-- [cowbe0x004 starred Chimera](https://github.com/tokyoneon/Chimera)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
