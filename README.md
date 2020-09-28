@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred certificates](https://github.com/smallstep/certificates)
 - [cowbe0x004 starred yeti](https://github.com/yeti-platform/yeti)
 - [cowbe0x004 starred railsgoat](https://github.com/OWASP/railsgoat)
 - [cowbe0x004 starred WackoPicko](https://github.com/adamdoupe/WackoPicko)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred bodgeit](https://github.com/psiinon/bodgeit)
 - [cowbe0x004 starred xvwa](https://github.com/s4n7h0/xvwa)
 - [cowbe0x004 starred APTnotes](https://github.com/kbandla/APTnotes)
-- [cowbe0x004 starred lazarus-sigma-rules](https://github.com/countercept/lazarus-sigma-rules)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
