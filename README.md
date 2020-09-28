@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Google CTF - "BEGINNER" challenge [Reverse Engineering Writeup]](https://www.youtube.com/watch?v=rBYrQ1OEhik)
 - [Full bug bounty methodology to get you started V 2.0 (Say cheese)](https://www.youtube.com/watch?v=4q22s743hrI)
 - [1 01 Embrace the Red Enhancing detection capabilities with adversary simulation Mauricio Velazco](https://www.youtube.com/watch?v=8JFP1wj37Vk)
 - [How to Master FFUF for Bug Bounties and Pen Testing](https://www.youtube.com/watch?v=iLFkxAmwXF0)
@@ -35,7 +36,6 @@
 - [DownUnderCTF 2020 - Cloud at your service - Official Video Writeup](https://www.youtube.com/watch?v=PTfQuA4qTEA)
 - [CyberSecLabs - Toast - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=CndMDvjX8dg)
 - [How to detect and evade firewall and Intrusion Detection Systems - Fragscapy](https://www.youtube.com/watch?v=DSRCx1RpxIg)
-- [JavaScript Prototype Pollution - Part 2](https://www.youtube.com/watch?v=yDmOXhr8wmw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
