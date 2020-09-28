@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [A good dive into what's going on in various Windows service host svchost.exe processes.](https://twitter.com/dragosr/status/1310432810520293379)
 - [AD Attack 1) Performing domain recon using PS  2) Attack mapping with bloodhound  3) Extracting passwd hashes   4) Pass-the-hash attacks with mimikatz...](https://twitter.com/CyberWarship/status/1309127376283013120)
 - [Here is a quick reference I compiled with every Advanced Audit Policy mapped to the Windows EventID. Feel free to share!](https://twitter.com/Ben0xA/status/1308455521385615360)
 - [RT @the_vyAdha: RT @ofjaaah: 👽A few days, I viewed this PDF, I believe it can help many people. It talks about API tests. I don't know who the owne...](https://twitter.com/infosecsanyam/status/1307576619901554688)
 - [I've blogged about using the Advanced Hunting feature in Defender ATP to hunt for a few techniques that have been used by APT41. Check it out here!](https://twitter.com/DebugPrivilege/status/1306894984923275264)
-- [VU#490028: Microsoft Windows Netlogon Remote Protocol (MS-NRPC) uses insecure AES-CFB8 initialization vector](https://twitter.com/USCERT_gov/status/1306279440947621888)
 <!-- TWEETS:END -->
 
 ---
