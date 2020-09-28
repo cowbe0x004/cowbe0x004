@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred yeti](https://github.com/yeti-platform/yeti)
 - [cowbe0x004 starred railsgoat](https://github.com/OWASP/railsgoat)
 - [cowbe0x004 starred WackoPicko](https://github.com/adamdoupe/WackoPicko)
 - [cowbe0x004 starred btslab](https://github.com/CSPF-Founder/btslab)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred xvwa](https://github.com/s4n7h0/xvwa)
 - [cowbe0x004 starred APTnotes](https://github.com/kbandla/APTnotes)
 - [cowbe0x004 starred lazarus-sigma-rules](https://github.com/countercept/lazarus-sigma-rules)
+- [cowbe0x004 starred Sharp-Suite](https://github.com/FuzzySecurity/Sharp-Suite)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
