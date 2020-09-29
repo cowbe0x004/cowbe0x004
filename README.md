@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred CKSS-Certified-Kubernetes-Security-Specialist](https://github.com/ijelliti/CKSS-Certified-Kubernetes-Security-Specialist)
 - [cowbe0x004 starred SIEGMA](https://github.com/3CORESec/SIEGMA)
 - [cowbe0x004 starred curse](https://github.com/mikesmitty/curse)
 - [cowbe0x004 starred certificates](https://github.com/smallstep/certificates)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred btslab](https://github.com/CSPF-Founder/btslab)
 - [cowbe0x004 starred dvws-node](https://github.com/snoopysecurity/dvws-node)
 - [cowbe0x004 starred dvws](https://github.com/snoopysecurity/dvws)
-- [cowbe0x004 starred bodgeit](https://github.com/psiinon/bodgeit)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
