@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SIEGMA](https://github.com/3CORESec/SIEGMA)
 - [cowbe0x004 starred curse](https://github.com/mikesmitty/curse)
 - [cowbe0x004 starred certificates](https://github.com/smallstep/certificates)
 - [cowbe0x004 starred yeti](https://github.com/yeti-platform/yeti)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred dvws-node](https://github.com/snoopysecurity/dvws-node)
 - [cowbe0x004 starred dvws](https://github.com/snoopysecurity/dvws)
 - [cowbe0x004 starred bodgeit](https://github.com/psiinon/bodgeit)
-- [cowbe0x004 starred xvwa](https://github.com/s4n7h0/xvwa)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
