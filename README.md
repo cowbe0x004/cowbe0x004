@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Giving Hackers a Headache with Exploit Mitigations - Maria Markstedter, Azeria Labs](https://www.youtube.com/watch?v=riQ-WyYrxh4)
 - [Disguising Payload EXE Files as JPG Picture Files (or any extension) using WinRAR 4.2 Exploit](https://www.youtube.com/watch?v=ARRI4ZVHz5E)
 - [1-Minute Malicious VBA Deobfuscation](https://www.youtube.com/watch?v=K6oWLWhU8V4)
 - [Use Autopsy for Insider threat detection | Employee found guilty -Digital Forensics Case Study](https://www.youtube.com/watch?v=KYQSrNdNmj4)
@@ -35,7 +36,6 @@
 - [How to Master FFUF for Bug Bounties and Pen Testing](https://www.youtube.com/watch?v=iLFkxAmwXF0)
 - [DNS Evidence  You Don’t Know What You’re Missing](https://www.youtube.com/watch?v=mZrNLZAdTTA)
 - [Windows Privilege Escalation in XML Files - Cyberseclabs Unattend](https://www.youtube.com/watch?v=ufKy_OMFMKw)
-- [Malware Analysis Bootcamp - Introduction To Malware Analysis](https://www.youtube.com/watch?v=D3inDM8kM-Y)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
