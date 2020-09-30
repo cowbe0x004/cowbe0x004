@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred EXCELntDonut](https://github.com/FortyNorthSecurity/EXCELntDonut)
+- [cowbe0x004 starred SharpShooter](https://github.com/mdsecactivebreach/SharpShooter)
+- [cowbe0x004 starred Excel4-DCOM](https://github.com/outflanknl/Excel4-DCOM)
+- [cowbe0x004 starred Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)
 - [cowbe0x004 starred Vulmap](https://github.com/vulmon/Vulmap)
 - [cowbe0x004 starred CKSS-Certified-Kubernetes-Security-Specialist](https://github.com/ijelliti/CKSS-Certified-Kubernetes-Security-Specialist)
 - [cowbe0x004 starred SIEGMA](https://github.com/3CORESec/SIEGMA)
 - [cowbe0x004 starred curse](https://github.com/mikesmitty/curse)
 - [cowbe0x004 starred certificates](https://github.com/smallstep/certificates)
 - [cowbe0x004 starred yeti](https://github.com/yeti-platform/yeti)
-- [cowbe0x004 starred railsgoat](https://github.com/OWASP/railsgoat)
-- [cowbe0x004 starred WackoPicko](https://github.com/adamdoupe/WackoPicko)
-- [cowbe0x004 starred btslab](https://github.com/CSPF-Founder/btslab)
-- [cowbe0x004 starred dvws-node](https://github.com/snoopysecurity/dvws-node)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
