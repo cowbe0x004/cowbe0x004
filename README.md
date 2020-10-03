@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred yarGen](https://github.com/Neo23x0/yarGen)
+- [cowbe0x004 starred BASS](https://github.com/Cisco-Talos/BASS)
+- [cowbe0x004 starred PhishingKitTracker](https://github.com/marcoramilli/PhishingKitTracker)
 - [cowbe0x004 starred CTF-Stuff](https://github.com/emtuls/CTF-Stuff)
 - [cowbe0x004 starred ctf-katana](https://github.com/JohnHammond/ctf-katana)
 - [cowbe0x004 starred powerglot](https://github.com/mindcrypt/powerglot)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred hot-manchego](https://github.com/FortyNorthSecurity/hot-manchego)
 - [cowbe0x004 starred EPPlus](https://github.com/EPPlusSoftware/EPPlus)
 - [cowbe0x004 starred EPPlus](https://github.com/JanKallman/EPPlus)
-- [cowbe0x004 starred EXCELntDonut](https://github.com/FortyNorthSecurity/EXCELntDonut)
-- [cowbe0x004 starred SharpShooter](https://github.com/mdsecactivebreach/SharpShooter)
-- [cowbe0x004 starred Excel4-DCOM](https://github.com/outflanknl/Excel4-DCOM)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
