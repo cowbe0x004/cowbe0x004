@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred CTF-Stuff](https://github.com/emtuls/CTF-Stuff)
 - [cowbe0x004 starred ctf-katana](https://github.com/JohnHammond/ctf-katana)
 - [cowbe0x004 starred powerglot](https://github.com/mindcrypt/powerglot)
 - [cowbe0x004 starred RmiTaste](https://github.com/STMSolutions/RmiTaste)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred EXCELntDonut](https://github.com/FortyNorthSecurity/EXCELntDonut)
 - [cowbe0x004 starred SharpShooter](https://github.com/mdsecactivebreach/SharpShooter)
 - [cowbe0x004 starred Excel4-DCOM](https://github.com/outflanknl/Excel4-DCOM)
-- [cowbe0x004 starred Amsi-Bypass-Powershell](https://github.com/S3cur3Th1sSh1t/Amsi-Bypass-Powershell)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
