@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Basic Dynamic Analysis with IDA Pro and WinDBG](https://www.youtube.com/watch?v=_ACDiW2I4ns)
+- [Real-world Decompilation with IDA Pro - Part 1: Introduction](https://www.youtube.com/watch?v=vb18UVF4a_o)
 - [Giving Hackers a Headache with Exploit Mitigations - Maria Markstedter, Azeria Labs](https://www.youtube.com/watch?v=riQ-WyYrxh4)
 - [Disguising Payload EXE Files as JPG Picture Files (or any extension) using WinRAR 4.2 Exploit](https://www.youtube.com/watch?v=ARRI4ZVHz5E)
 - [1-Minute Malicious VBA Deobfuscation](https://www.youtube.com/watch?v=K6oWLWhU8V4)
@@ -34,8 +36,6 @@
 - [Full bug bounty methodology to get you started V 2.0 (Say cheese)](https://www.youtube.com/watch?v=4q22s743hrI)
 - [1 01 Embrace the Red Enhancing detection capabilities with adversary simulation Mauricio Velazco](https://www.youtube.com/watch?v=8JFP1wj37Vk)
 - [How to Master FFUF for Bug Bounties and Pen Testing](https://www.youtube.com/watch?v=iLFkxAmwXF0)
-- [DNS Evidence  You Don’t Know What You’re Missing](https://www.youtube.com/watch?v=mZrNLZAdTTA)
-- [Windows Privilege Escalation in XML Files - Cyberseclabs Unattend](https://www.youtube.com/watch?v=ufKy_OMFMKw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
