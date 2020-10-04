@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices)
+- [cowbe0x004 starred audit-userspace](https://github.com/linux-audit/audit-userspace)
+- [cowbe0x004 starred auditd](https://github.com/Neo23x0/auditd)
+- [cowbe0x004 starred Cryptanalysis](https://github.com/mindcrypt/Cryptanalysis)
 - [cowbe0x004 starred XSScope](https://github.com/kleiton0x00/XSScope)
 - [cowbe0x004 starred yarGen](https://github.com/Neo23x0/yarGen)
 - [cowbe0x004 starred BASS](https://github.com/Cisco-Talos/BASS)
 - [cowbe0x004 starred PhishingKitTracker](https://github.com/marcoramilli/PhishingKitTracker)
 - [cowbe0x004 starred CTF-Stuff](https://github.com/emtuls/CTF-Stuff)
 - [cowbe0x004 starred ctf-katana](https://github.com/JohnHammond/ctf-katana)
-- [cowbe0x004 starred powerglot](https://github.com/mindcrypt/powerglot)
-- [cowbe0x004 starred RmiTaste](https://github.com/STMSolutions/RmiTaste)
-- [cowbe0x004 starred hot-manchego](https://github.com/FortyNorthSecurity/hot-manchego)
-- [cowbe0x004 starred EPPlus](https://github.com/EPPlusSoftware/EPPlus)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
