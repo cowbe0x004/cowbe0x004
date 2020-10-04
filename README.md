@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Obfuscated VBA, Powershell, C# Malware Analysis](https://www.youtube.com/watch?v=DokP5Y88zjY)
 - [Basic Dynamic Analysis with IDA Pro and WinDBG](https://www.youtube.com/watch?v=_ACDiW2I4ns)
 - [Real-world Decompilation with IDA Pro - Part 1: Introduction](https://www.youtube.com/watch?v=vb18UVF4a_o)
 - [Giving Hackers a Headache with Exploit Mitigations - Maria Markstedter, Azeria Labs](https://www.youtube.com/watch?v=riQ-WyYrxh4)
@@ -35,7 +36,6 @@
 - [Google CTF - "BEGINNER" challenge [Reverse Engineering Writeup]](https://www.youtube.com/watch?v=rBYrQ1OEhik)
 - [Full bug bounty methodology to get you started V 2.0 (Say cheese)](https://www.youtube.com/watch?v=4q22s743hrI)
 - [1 01 Embrace the Red Enhancing detection capabilities with adversary simulation Mauricio Velazco](https://www.youtube.com/watch?v=8JFP1wj37Vk)
-- [How to Master FFUF for Bug Bounties and Pen Testing](https://www.youtube.com/watch?v=iLFkxAmwXF0)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
