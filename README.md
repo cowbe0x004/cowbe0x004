@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred XSScope](https://github.com/kleiton0x00/XSScope)
 - [cowbe0x004 starred yarGen](https://github.com/Neo23x0/yarGen)
 - [cowbe0x004 starred BASS](https://github.com/Cisco-Talos/BASS)
 - [cowbe0x004 starred PhishingKitTracker](https://github.com/marcoramilli/PhishingKitTracker)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred RmiTaste](https://github.com/STMSolutions/RmiTaste)
 - [cowbe0x004 starred hot-manchego](https://github.com/FortyNorthSecurity/hot-manchego)
 - [cowbe0x004 starred EPPlus](https://github.com/EPPlusSoftware/EPPlus)
-- [cowbe0x004 starred EPPlus](https://github.com/JanKallman/EPPlus)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
