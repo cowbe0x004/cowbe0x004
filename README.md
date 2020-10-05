@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Web - A Payload to rule them all - Pwn2Win [Walkthrough]](https://www.youtube.com/watch?v=EXnq1JSa6zY)
 - [x64 Linux Binary Exploitation Training](https://www.youtube.com/watch?v=gxU3e7GbC-M)
 - [Obfuscated VBA, Powershell, C# Malware Analysis](https://www.youtube.com/watch?v=DokP5Y88zjY)
 - [Basic Dynamic Analysis with IDA Pro and WinDBG](https://www.youtube.com/watch?v=_ACDiW2I4ns)
@@ -35,7 +36,6 @@
 - [1-Minute Malicious VBA Deobfuscation](https://www.youtube.com/watch?v=K6oWLWhU8V4)
 - [Use Autopsy for Insider threat detection | Employee found guilty -Digital Forensics Case Study](https://www.youtube.com/watch?v=KYQSrNdNmj4)
 - [Google CTF - "BEGINNER" challenge [Reverse Engineering Writeup]](https://www.youtube.com/watch?v=rBYrQ1OEhik)
-- [Full bug bounty methodology to get you started V 2.0 (Say cheese)](https://www.youtube.com/watch?v=4q22s743hrI)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
