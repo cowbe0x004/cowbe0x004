@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred KQL](https://github.com/DebugPrivilege/KQL)
 - [cowbe0x004 starred Blacksmith](https://github.com/OTRF/Blacksmith)
 - [cowbe0x004 starred APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices)
 - [cowbe0x004 starred audit-userspace](https://github.com/linux-audit/audit-userspace)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred yarGen](https://github.com/Neo23x0/yarGen)
 - [cowbe0x004 starred BASS](https://github.com/Cisco-Talos/BASS)
 - [cowbe0x004 starred PhishingKitTracker](https://github.com/marcoramilli/PhishingKitTracker)
-- [cowbe0x004 starred CTF-Stuff](https://github.com/emtuls/CTF-Stuff)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
