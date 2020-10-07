@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred offensive-docker](https://github.com/aaaguirrep/offensive-docker)
+- [cowbe0x004 starred z3_and_angr_binary_analysis_workshop](https://github.com/FSecureLABS/z3_and_angr_binary_analysis_workshop)
 - [cowbe0x004 starred passer](https://github.com/activecm/passer)
 - [cowbe0x004 starred sysPass](https://github.com/nuxsmin/sysPass)
 - [cowbe0x004 starred KQL](https://github.com/DebugPrivilege/KQL)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred audit-userspace](https://github.com/linux-audit/audit-userspace)
 - [cowbe0x004 starred auditd](https://github.com/Neo23x0/auditd)
 - [cowbe0x004 starred Cryptanalysis](https://github.com/mindcrypt/Cryptanalysis)
-- [cowbe0x004 starred XSScope](https://github.com/kleiton0x00/XSScope)
-- [cowbe0x004 starred yarGen](https://github.com/Neo23x0/yarGen)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
