@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred sysPass](https://github.com/nuxsmin/sysPass)
 - [cowbe0x004 starred KQL](https://github.com/DebugPrivilege/KQL)
 - [cowbe0x004 starred Blacksmith](https://github.com/OTRF/Blacksmith)
 - [cowbe0x004 starred APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred XSScope](https://github.com/kleiton0x00/XSScope)
 - [cowbe0x004 starred yarGen](https://github.com/Neo23x0/yarGen)
 - [cowbe0x004 starred BASS](https://github.com/Cisco-Talos/BASS)
-- [cowbe0x004 starred PhishingKitTracker](https://github.com/marcoramilli/PhishingKitTracker)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
