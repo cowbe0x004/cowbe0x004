@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred github-watchman](https://github.com/PaperMtn/github-watchman)
 - [cowbe0x004 starred Watcher](https://github.com/Felix83000/Watcher)
 - [cowbe0x004 starred offensive-docker](https://github.com/aaaguirrep/offensive-docker)
 - [cowbe0x004 starred z3_and_angr_binary_analysis_workshop](https://github.com/FSecureLABS/z3_and_angr_binary_analysis_workshop)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Blacksmith](https://github.com/OTRF/Blacksmith)
 - [cowbe0x004 starred APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices)
 - [cowbe0x004 starred audit-userspace](https://github.com/linux-audit/audit-userspace)
-- [cowbe0x004 starred auditd](https://github.com/Neo23x0/auditd)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
