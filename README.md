@@ -26,6 +26,9 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Hack the Reader: Writing Effective Threat Reports with Lenny Zeltser - SANS CTI Summit](https://www.youtube.com/watch?v=vwKlNZ6mxak)
+- [XSS a Paste Service - Pasteurize (web) Google CTF 2020](https://www.youtube.com/watch?v=Tw7ucd2lKBk)
+- [Chaining Script Gadgets to Full XSS - All The Little Things 2/2 (web) Google CTF 2020](https://www.youtube.com/watch?v=UGtrpXk6QVU)
 - [HOW TO PLAY HTB WITHOUT A VPN OR KALI LINUX (PWN BOX)](https://www.youtube.com/watch?v=PyzzP5Ox-rI)
 - [Parse Event Log Messages with PowerShell](https://www.youtube.com/watch?v=-x4FxrBD5pE)
 - [b01lers CTF Bootcamp | Web Challenge Solutions](https://www.youtube.com/watch?v=dGhvlmRjzv8)
@@ -33,9 +36,6 @@
 - [x64 Linux Binary Exploitation Training](https://www.youtube.com/watch?v=gxU3e7GbC-M)
 - [Obfuscated VBA, Powershell, C# Malware Analysis](https://www.youtube.com/watch?v=DokP5Y88zjY)
 - [Basic Dynamic Analysis with IDA Pro and WinDBG](https://www.youtube.com/watch?v=_ACDiW2I4ns)
-- [Real-world Decompilation with IDA Pro - Part 1: Introduction](https://www.youtube.com/watch?v=vb18UVF4a_o)
-- [Giving Hackers a Headache with Exploit Mitigations - Maria Markstedter, Azeria Labs](https://www.youtube.com/watch?v=riQ-WyYrxh4)
-- [Disguising Payload EXE Files as JPG Picture Files (or any extension) using WinRAR 4.2 Exploit](https://www.youtube.com/watch?v=ARRI4ZVHz5E)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
