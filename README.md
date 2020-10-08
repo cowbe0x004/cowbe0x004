@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred CobaltStrike-BOF](https://github.com/Yaxser/CobaltStrike-BOF)
+- [cowbe0x004 starred GitDorker](https://github.com/obheda12/GitDorker)
 - [cowbe0x004 starred github-watchman](https://github.com/PaperMtn/github-watchman)
 - [cowbe0x004 starred Watcher](https://github.com/Felix83000/Watcher)
 - [cowbe0x004 starred offensive-docker](https://github.com/aaaguirrep/offensive-docker)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred sysPass](https://github.com/nuxsmin/sysPass)
 - [cowbe0x004 starred KQL](https://github.com/DebugPrivilege/KQL)
 - [cowbe0x004 starred Blacksmith](https://github.com/OTRF/Blacksmith)
-- [cowbe0x004 starred APISecurityBestPractices](https://github.com/GitGuardian/APISecurityBestPractices)
-- [cowbe0x004 starred audit-userspace](https://github.com/linux-audit/audit-userspace)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
