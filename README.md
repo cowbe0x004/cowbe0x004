@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [HOW TO PLAY HTB WITHOUT A VPN OR KALI LINUX (PWN BOX)](https://www.youtube.com/watch?v=PyzzP5Ox-rI)
 - [Parse Event Log Messages with PowerShell](https://www.youtube.com/watch?v=-x4FxrBD5pE)
 - [b01lers CTF Bootcamp | Web Challenge Solutions](https://www.youtube.com/watch?v=dGhvlmRjzv8)
 - [Web - A Payload to rule them all - Pwn2Win [Walkthrough]](https://www.youtube.com/watch?v=EXnq1JSa6zY)
@@ -35,7 +36,6 @@
 - [Real-world Decompilation with IDA Pro - Part 1: Introduction](https://www.youtube.com/watch?v=vb18UVF4a_o)
 - [Giving Hackers a Headache with Exploit Mitigations - Maria Markstedter, Azeria Labs](https://www.youtube.com/watch?v=riQ-WyYrxh4)
 - [Disguising Payload EXE Files as JPG Picture Files (or any extension) using WinRAR 4.2 Exploit](https://www.youtube.com/watch?v=ARRI4ZVHz5E)
-- [1-Minute Malicious VBA Deobfuscation](https://www.youtube.com/watch?v=K6oWLWhU8V4)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
