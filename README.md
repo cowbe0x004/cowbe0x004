@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Pentesting](https://github.com/kmkz/Pentesting)
+- [cowbe0x004 starred AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn)
+- [cowbe0x004 starred SwiftBelt](https://github.com/cedowens/SwiftBelt)
 - [cowbe0x004 starred ad-honeypot-autodeploy](https://github.com/tothi/ad-honeypot-autodeploy)
 - [cowbe0x004 starred CobaltStrike-BOF](https://github.com/Yaxser/CobaltStrike-BOF)
 - [cowbe0x004 starred GitDorker](https://github.com/obheda12/GitDorker)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred Watcher](https://github.com/Felix83000/Watcher)
 - [cowbe0x004 starred offensive-docker](https://github.com/aaaguirrep/offensive-docker)
 - [cowbe0x004 starred z3_and_angr_binary_analysis_workshop](https://github.com/FSecureLABS/z3_and_angr_binary_analysis_workshop)
-- [cowbe0x004 starred passer](https://github.com/activecm/passer)
-- [cowbe0x004 starred sysPass](https://github.com/nuxsmin/sysPass)
-- [cowbe0x004 starred KQL](https://github.com/DebugPrivilege/KQL)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
