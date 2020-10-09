@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Emotet Malware Analysis - Part 1 - Deobfuscating VBS code](https://www.youtube.com/watch?v=aSoZ1NDOC1s)
 - [Hack the Reader: Writing Effective Threat Reports with Lenny Zeltser - SANS CTI Summit](https://www.youtube.com/watch?v=vwKlNZ6mxak)
 - [XSS a Paste Service - Pasteurize (web) Google CTF 2020](https://www.youtube.com/watch?v=Tw7ucd2lKBk)
 - [Chaining Script Gadgets to Full XSS - All The Little Things 2/2 (web) Google CTF 2020](https://www.youtube.com/watch?v=UGtrpXk6QVU)
@@ -35,7 +36,6 @@
 - [Web - A Payload to rule them all - Pwn2Win [Walkthrough]](https://www.youtube.com/watch?v=EXnq1JSa6zY)
 - [x64 Linux Binary Exploitation Training](https://www.youtube.com/watch?v=gxU3e7GbC-M)
 - [Obfuscated VBA, Powershell, C# Malware Analysis](https://www.youtube.com/watch?v=DokP5Y88zjY)
-- [Basic Dynamic Analysis with IDA Pro and WinDBG](https://www.youtube.com/watch?v=_ACDiW2I4ns)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
