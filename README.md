@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ad-honeypot-autodeploy](https://github.com/tothi/ad-honeypot-autodeploy)
 - [cowbe0x004 starred CobaltStrike-BOF](https://github.com/Yaxser/CobaltStrike-BOF)
 - [cowbe0x004 starred GitDorker](https://github.com/obheda12/GitDorker)
 - [cowbe0x004 starred github-watchman](https://github.com/PaperMtn/github-watchman)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred passer](https://github.com/activecm/passer)
 - [cowbe0x004 starred sysPass](https://github.com/nuxsmin/sysPass)
 - [cowbe0x004 starred KQL](https://github.com/DebugPrivilege/KQL)
-- [cowbe0x004 starred Blacksmith](https://github.com/OTRF/Blacksmith)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
