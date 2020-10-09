@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred st](https://github.com/nferraz/st)
 - [cowbe0x004 starred Pentesting](https://github.com/kmkz/Pentesting)
 - [cowbe0x004 starred AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn)
 - [cowbe0x004 starred SwiftBelt](https://github.com/cedowens/SwiftBelt)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred github-watchman](https://github.com/PaperMtn/github-watchman)
 - [cowbe0x004 starred Watcher](https://github.com/Felix83000/Watcher)
 - [cowbe0x004 starred offensive-docker](https://github.com/aaaguirrep/offensive-docker)
-- [cowbe0x004 starred z3_and_angr_binary_analysis_workshop](https://github.com/FSecureLABS/z3_and_angr_binary_analysis_workshop)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
