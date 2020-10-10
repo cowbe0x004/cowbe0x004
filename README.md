@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+- [cowbe0x004 starred apicheck](https://github.com/BBVA/apicheck)
 - [cowbe0x004 starred wernicke](https://github.com/latacora/wernicke)
 - [cowbe0x004 starred CAPE](https://github.com/ctxis/CAPE)
 - [cowbe0x004 starred st](https://github.com/nferraz/st)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred SwiftBelt](https://github.com/cedowens/SwiftBelt)
 - [cowbe0x004 starred ad-honeypot-autodeploy](https://github.com/tothi/ad-honeypot-autodeploy)
 - [cowbe0x004 starred CobaltStrike-BOF](https://github.com/Yaxser/CobaltStrike-BOF)
-- [cowbe0x004 starred GitDorker](https://github.com/obheda12/GitDorker)
-- [cowbe0x004 starred github-watchman](https://github.com/PaperMtn/github-watchman)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
