@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Threat Hunting via DNS with Eric Conrad - SANS Blue Team Summit 2020](https://www.youtube.com/watch?v=RdcCjDS0s6s)
 - [Webinar: The threat of dual-use tools](https://www.youtube.com/watch?v=3OzHRTImA1U)
 - [DEF CON Safe Mode Demo Labs  - Chris Nevin - Carnivore](https://www.youtube.com/watch?v=LJFuydx-HtE)
 - [Emotet Malware Analysis - Part 1 - Deobfuscating VBS code](https://www.youtube.com/watch?v=aSoZ1NDOC1s)
@@ -35,7 +36,6 @@
 - [HOW TO PLAY HTB WITHOUT A VPN OR KALI LINUX (PWN BOX)](https://www.youtube.com/watch?v=PyzzP5Ox-rI)
 - [Parse Event Log Messages with PowerShell](https://www.youtube.com/watch?v=-x4FxrBD5pE)
 - [b01lers CTF Bootcamp | Web Challenge Solutions](https://www.youtube.com/watch?v=dGhvlmRjzv8)
-- [Web - A Payload to rule them all - Pwn2Win [Walkthrough]](https://www.youtube.com/watch?v=EXnq1JSa6zY)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
