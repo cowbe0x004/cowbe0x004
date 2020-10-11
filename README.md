@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred BOF-RegSave](https://github.com/EncodeGroup/BOF-RegSave)
 - [cowbe0x004 starred tunshell](https://github.com/TimeToogo/tunshell)
 - [cowbe0x004 starred VXUG-Papers](https://github.com/vxunderground/VXUG-Papers)
 - [cowbe0x004 starred Docker-OSX](https://github.com/sickcodes/Docker-OSX)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred st](https://github.com/nferraz/st)
 - [cowbe0x004 starred Pentesting](https://github.com/kmkz/Pentesting)
 - [cowbe0x004 starred AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn)
-- [cowbe0x004 starred SwiftBelt](https://github.com/cedowens/SwiftBelt)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
