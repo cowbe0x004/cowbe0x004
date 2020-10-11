@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred tunshell](https://github.com/TimeToogo/tunshell)
 - [cowbe0x004 starred VXUG-Papers](https://github.com/vxunderground/VXUG-Papers)
 - [cowbe0x004 starred Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 - [cowbe0x004 starred apicheck](https://github.com/BBVA/apicheck)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Pentesting](https://github.com/kmkz/Pentesting)
 - [cowbe0x004 starred AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn)
 - [cowbe0x004 starred SwiftBelt](https://github.com/cedowens/SwiftBelt)
-- [cowbe0x004 starred ad-honeypot-autodeploy](https://github.com/tothi/ad-honeypot-autodeploy)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
