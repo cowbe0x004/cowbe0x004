@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred VXUG-Papers](https://github.com/vxunderground/VXUG-Papers)
 - [cowbe0x004 starred Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 - [cowbe0x004 starred apicheck](https://github.com/BBVA/apicheck)
 - [cowbe0x004 starred wernicke](https://github.com/latacora/wernicke)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred AutoRDPwn](https://github.com/JoelGMSec/AutoRDPwn)
 - [cowbe0x004 starred SwiftBelt](https://github.com/cedowens/SwiftBelt)
 - [cowbe0x004 starred ad-honeypot-autodeploy](https://github.com/tothi/ad-honeypot-autodeploy)
-- [cowbe0x004 starred CobaltStrike-BOF](https://github.com/Yaxser/CobaltStrike-BOF)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
