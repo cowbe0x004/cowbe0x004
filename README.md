@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Symmetric Block Ciphers For Hackers [Capture The Flag Fundamentals]](https://www.youtube.com/watch?v=WwH10F-l4jU)
 - [How To Bypass Most AntiVirus Detection with Powershell and Excel Macros](https://www.youtube.com/watch?v=UoMzCyB2IvE)
 - [b01lers CTF bootcamp - Binary Exploitation 2](https://www.youtube.com/watch?v=oqG8R8-gAsw)
 - [b01lers CTF bootcamp - Binary Exploitation 1](https://www.youtube.com/watch?v=za4cjoUujTk)
@@ -35,7 +36,6 @@
 - [Webinar: The threat of dual-use tools](https://www.youtube.com/watch?v=3OzHRTImA1U)
 - [DEF CON Safe Mode Demo Labs  - Chris Nevin - Carnivore](https://www.youtube.com/watch?v=LJFuydx-HtE)
 - [Emotet Malware Analysis - Part 1 - Deobfuscating VBS code](https://www.youtube.com/watch?v=aSoZ1NDOC1s)
-- [Hack the Reader: Writing Effective Threat Reports with Lenny Zeltser - SANS CTI Summit](https://www.youtube.com/watch?v=vwKlNZ6mxak)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
