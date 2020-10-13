@@ -40,8 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred dnSpy](https://github.com/0xd4d/dnSpy)
-- [cowbe0x004 starred canary-utils](https://github.com/thinkst/canary-utils)
 - [cowbe0x004 starred UACME](https://github.com/hfiref0x/UACME)
 - [cowbe0x004 starred OpenCTF-2019](https://github.com/Neg9/OpenCTF-2019)
 - [cowbe0x004 starred BOF-RegSave](https://github.com/EncodeGroup/BOF-RegSave)
@@ -50,6 +48,8 @@
 - [cowbe0x004 starred Docker-OSX](https://github.com/sickcodes/Docker-OSX)
 - [cowbe0x004 starred apicheck](https://github.com/BBVA/apicheck)
 - [cowbe0x004 starred wernicke](https://github.com/latacora/wernicke)
+- [cowbe0x004 starred CAPE](https://github.com/ctxis/CAPE)
+- [cowbe0x004 starred st](https://github.com/nferraz/st)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
