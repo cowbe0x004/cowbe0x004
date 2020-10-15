@@ -40,8 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred BlogProjects](https://github.com/CptOfEvilMinions/BlogProjects)
-- [cowbe0x004 starred Pentest-Active-Directory](https://github.com/n006guy/Pentest-Active-Directory)
 - [cowbe0x004 starred dnSpy](https://github.com/0xd4d/dnSpy)
 - [cowbe0x004 starred canary-utils](https://github.com/thinkst/canary-utils)
 - [cowbe0x004 starred UACME](https://github.com/hfiref0x/UACME)
@@ -50,6 +48,8 @@
 - [cowbe0x004 starred tunshell](https://github.com/TimeToogo/tunshell)
 - [cowbe0x004 starred VXUG-Papers](https://github.com/vxunderground/VXUG-Papers)
 - [cowbe0x004 starred Docker-OSX](https://github.com/sickcodes/Docker-OSX)
+- [cowbe0x004 starred apicheck](https://github.com/BBVA/apicheck)
+- [cowbe0x004 starred wernicke](https://github.com/latacora/wernicke)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
