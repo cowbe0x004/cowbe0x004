@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred wp-file-manager-0day](https://github.com/w4fz5uck5/wp-file-manager-0day)
 - [cowbe0x004 starred Phishing.Database](https://github.com/mitchellkrogza/Phishing.Database)
 - [cowbe0x004 starred AtomicTestHarnesses](https://github.com/redcanaryco/AtomicTestHarnesses)
 - [cowbe0x004 starred BlogProjects](https://github.com/CptOfEvilMinions/BlogProjects)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred UACME](https://github.com/hfiref0x/UACME)
 - [cowbe0x004 starred OpenCTF-2019](https://github.com/Neg9/OpenCTF-2019)
 - [cowbe0x004 starred BOF-RegSave](https://github.com/EncodeGroup/BOF-RegSave)
-- [cowbe0x004 starred tunshell](https://github.com/TimeToogo/tunshell)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
