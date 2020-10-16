@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
+- [cowbe0x004 starred Brida](https://github.com/federicodotta/Brida)
 - [cowbe0x004 starred wp-file-manager-0day](https://github.com/w4fz5uck5/wp-file-manager-0day)
 - [cowbe0x004 starred Phishing.Database](https://github.com/mitchellkrogza/Phishing.Database)
 - [cowbe0x004 starred AtomicTestHarnesses](https://github.com/redcanaryco/AtomicTestHarnesses)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred dnSpy](https://github.com/0xd4d/dnSpy)
 - [cowbe0x004 starred canary-utils](https://github.com/thinkst/canary-utils)
 - [cowbe0x004 starred UACME](https://github.com/hfiref0x/UACME)
-- [cowbe0x004 starred OpenCTF-2019](https://github.com/Neg9/OpenCTF-2019)
-- [cowbe0x004 starred BOF-RegSave](https://github.com/EncodeGroup/BOF-RegSave)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
