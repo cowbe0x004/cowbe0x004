@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred stenographer](https://github.com/google/stenographer)
 - [cowbe0x004 starred burpdeveltraining](https://github.com/doyensec/burpdeveltraining)
 - [cowbe0x004 starred nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
 - [cowbe0x004 starred Brida](https://github.com/federicodotta/Brida)
@@ -48,8 +49,7 @@
 - [cowbe0x004 starred AtomicTestHarnesses](https://github.com/redcanaryco/AtomicTestHarnesses)
 - [cowbe0x004 starred BlogProjects](https://github.com/CptOfEvilMinions/BlogProjects)
 - [cowbe0x004 starred Pentest-Active-Directory](https://github.com/n006guy/Pentest-Active-Directory)
-- [cowbe0x004 starred dnSpy](https://github.com/0xd4d/dnSpy)
-- [cowbe0x004 starred canary-utils](https://github.com/thinkst/canary-utils)
+- [cowbe0x004 starred dnSpy](https://github.com/dnSpy/dnSpy)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
