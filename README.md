@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Mordor - WMIC Remote  XSL Script Processing - Collect Data](https://www.youtube.com/watch?v=6iteEfbuwU8)
 - [Building a House on Sand – Why Foundational Knowledge and Skills in Digital Forensics are Crucial](https://www.youtube.com/watch?v=ZURs_d7YMmg)
 - [Red Team Ops with Cobalt Strike (3 of 9): C2](https://www.youtube.com/watch?v=Z8n9bIPAIao)
 - [Symmetric Block Ciphers For Hackers [Capture The Flag Fundamentals]](https://www.youtube.com/watch?v=WwH10F-l4jU)
@@ -35,7 +36,6 @@
 - [b01lers CTF bootcamp - Reverse Engineering 2](https://www.youtube.com/watch?v=9zhFV-j8VyE)
 - [b01lers CTF bootcamp - Reverse Engineering 1](https://www.youtube.com/watch?v=j6nj3uMp-dg)
 - [Threat Hunting via DNS with Eric Conrad - SANS Blue Team Summit 2020](https://www.youtube.com/watch?v=RdcCjDS0s6s)
-- [Webinar: The threat of dual-use tools](https://www.youtube.com/watch?v=3OzHRTImA1U)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
