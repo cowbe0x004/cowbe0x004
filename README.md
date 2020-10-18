@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Raccine](https://github.com/Neo23x0/Raccine)
+- [cowbe0x004 starred AndroGoat](https://github.com/satishpatnayak/AndroGoat)
+- [cowbe0x004 starred awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps)
 - [cowbe0x004 starred CT_subdomains](https://github.com/internetwache/CT_subdomains)
 - [cowbe0x004 starred DamnVulnerableCryptoApp](https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp)
 - [cowbe0x004 starred cypheroth](https://github.com/seajaysec/cypheroth)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred burpdeveltraining](https://github.com/doyensec/burpdeveltraining)
 - [cowbe0x004 starred nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
 - [cowbe0x004 starred Brida](https://github.com/federicodotta/Brida)
-- [cowbe0x004 starred wp-file-manager-0day](https://github.com/w4fz5uck5/wp-file-manager-0day)
-- [cowbe0x004 starred Phishing.Database](https://github.com/mitchellkrogza/Phishing.Database)
-- [cowbe0x004 starred AtomicTestHarnesses](https://github.com/redcanaryco/AtomicTestHarnesses)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
