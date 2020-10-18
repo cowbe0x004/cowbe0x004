@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred CT_subdomains](https://github.com/internetwache/CT_subdomains)
 - [cowbe0x004 starred DamnVulnerableCryptoApp](https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp)
 - [cowbe0x004 starred cypheroth](https://github.com/seajaysec/cypheroth)
 - [cowbe0x004 starred stenographer](https://github.com/google/stenographer)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred wp-file-manager-0day](https://github.com/w4fz5uck5/wp-file-manager-0day)
 - [cowbe0x004 starred Phishing.Database](https://github.com/mitchellkrogza/Phishing.Database)
 - [cowbe0x004 starred AtomicTestHarnesses](https://github.com/redcanaryco/AtomicTestHarnesses)
+- [cowbe0x004 starred BlogProjects](https://github.com/CptOfEvilMinions/BlogProjects)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
