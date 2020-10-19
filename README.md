@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Becoming A More Valuable Blue Team By Learning To Be The Red Team](https://www.youtube.com/watch?v=_jdwhO3HEPo)
 - [Bypassing and Evading Windows Anti Malware Scanner with Powershell - Cyberseclabs Toast](https://www.youtube.com/watch?v=r9JH8aaq8CQ)
 - [Mordor - WMIC Remote  XSL Script Processing - Collect Data](https://www.youtube.com/watch?v=6iteEfbuwU8)
 - [Building a House on Sand – Why Foundational Knowledge and Skills in Digital Forensics are Crucial](https://www.youtube.com/watch?v=ZURs_d7YMmg)
@@ -35,7 +36,6 @@
 - [b01lers CTF bootcamp - Binary Exploitation 2](https://www.youtube.com/watch?v=oqG8R8-gAsw)
 - [b01lers CTF bootcamp - Binary Exploitation 1](https://www.youtube.com/watch?v=za4cjoUujTk)
 - [b01lers CTF bootcamp - Reverse Engineering 2](https://www.youtube.com/watch?v=9zhFV-j8VyE)
-- [b01lers CTF bootcamp - Reverse Engineering 1](https://www.youtube.com/watch?v=j6nj3uMp-dg)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
