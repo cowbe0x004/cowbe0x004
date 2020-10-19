@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred crowdsec](https://github.com/crowdsecurity/crowdsec)
 - [cowbe0x004 starred Raccine](https://github.com/Neo23x0/Raccine)
 - [cowbe0x004 starred AndroGoat](https://github.com/satishpatnayak/AndroGoat)
 - [cowbe0x004 starred awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred stenographer](https://github.com/google/stenographer)
 - [cowbe0x004 starred burpdeveltraining](https://github.com/doyensec/burpdeveltraining)
 - [cowbe0x004 starred nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
+- [cowbe0x004 starred Brida](https://github.com/federicodotta/Brida)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
