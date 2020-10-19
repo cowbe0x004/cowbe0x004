@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [Raccine 0.10.3 Simple #Ransomware & #Emotet ☝️ Protection - support for config via GPO by @JohnLaTwC + .ADML / .ADMX files 0.10.1 / 0.10.2 - coverag...](https://twitter.com/cyb3rops/status/1317854838928060416)
 - [We’re seeing more activity leveraging the CVE-2020-1472 exploit (ZeroLogon). A new campaign shrewdly poses as software updates that connect to known ...](https://twitter.com/MsftSecIntel/status/1313598440719355904)
 - [A good dive into what's going on in various Windows service host svchost.exe processes.](https://twitter.com/dragosr/status/1310432810520293379)
 - [AD Attack 1) Performing domain recon using PS  2) Attack mapping with bloodhound  3) Extracting passwd hashes   4) Pass-the-hash attacks with mimikatz...](https://twitter.com/CyberWarship/status/1309127376283013120)
 - [Here is a quick reference I compiled with every Advanced Audit Policy mapped to the Windows EventID. Feel free to share!](https://twitter.com/Ben0xA/status/1308455521385615360)
-- [RT @the_vyAdha: RT @ofjaaah: 👽A few days, I viewed this PDF, I believe it can help many people. It talks about API tests. I don't know who the owne...](https://twitter.com/infosecsanyam/status/1307576619901554688)
 <!-- TWEETS:END -->
 
 ---
