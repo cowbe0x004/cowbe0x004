@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Cyber Secrets webcast: Building a hacking lab 101](https://www.youtube.com/watch?v=BbdmXTtCo-4)
 - [Becoming A More Valuable Blue Team By Learning To Be The Red Team](https://www.youtube.com/watch?v=_jdwhO3HEPo)
 - [Bypassing and Evading Windows Anti Malware Scanner with Powershell - Cyberseclabs Toast](https://www.youtube.com/watch?v=r9JH8aaq8CQ)
 - [Mordor - WMIC Remote  XSL Script Processing - Collect Data](https://www.youtube.com/watch?v=6iteEfbuwU8)
@@ -35,7 +36,6 @@
 - [How To Bypass Most AntiVirus Detection with Powershell and Excel Macros](https://www.youtube.com/watch?v=UoMzCyB2IvE)
 - [b01lers CTF bootcamp - Binary Exploitation 2](https://www.youtube.com/watch?v=oqG8R8-gAsw)
 - [b01lers CTF bootcamp - Binary Exploitation 1](https://www.youtube.com/watch?v=za4cjoUujTk)
-- [b01lers CTF bootcamp - Reverse Engineering 2](https://www.youtube.com/watch?v=9zhFV-j8VyE)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
