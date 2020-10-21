@@ -40,8 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred DNS-data-exfiltration](https://github.com/vp777/DNS-data-exfiltration)
-- [cowbe0x004 starred nodejs.dev](https://github.com/nodejs/nodejs.dev)
 - [cowbe0x004 starred crowdsec](https://github.com/crowdsecurity/crowdsec)
 - [cowbe0x004 starred Raccine](https://github.com/Neo23x0/Raccine)
 - [cowbe0x004 starred AndroGoat](https://github.com/satishpatnayak/AndroGoat)
@@ -50,6 +48,8 @@
 - [cowbe0x004 starred DamnVulnerableCryptoApp](https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp)
 - [cowbe0x004 starred cypheroth](https://github.com/seajaysec/cypheroth)
 - [cowbe0x004 starred stenographer](https://github.com/google/stenographer)
+- [cowbe0x004 starred burpdeveltraining](https://github.com/doyensec/burpdeveltraining)
+- [cowbe0x004 starred nuclei-templates](https://github.com/projectdiscovery/nuclei-templates)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
