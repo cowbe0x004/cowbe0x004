@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [PE Exports meet PE-Bear - how to find exported functions in a DLL?](https://www.youtube.com/watch?v=4gN91tJmHGU)
 - [Cyber Secrets webcast: Building a hacking lab 101](https://www.youtube.com/watch?v=BbdmXTtCo-4)
 - [Becoming A More Valuable Blue Team By Learning To Be The Red Team](https://www.youtube.com/watch?v=_jdwhO3HEPo)
 - [Bypassing and Evading Windows Anti Malware Scanner with Powershell - Cyberseclabs Toast](https://www.youtube.com/watch?v=r9JH8aaq8CQ)
@@ -35,7 +36,6 @@
 - [Symmetric Block Ciphers For Hackers [Capture The Flag Fundamentals]](https://www.youtube.com/watch?v=WwH10F-l4jU)
 - [How To Bypass Most AntiVirus Detection with Powershell and Excel Macros](https://www.youtube.com/watch?v=UoMzCyB2IvE)
 - [b01lers CTF bootcamp - Binary Exploitation 2](https://www.youtube.com/watch?v=oqG8R8-gAsw)
-- [b01lers CTF bootcamp - Binary Exploitation 1](https://www.youtube.com/watch?v=za4cjoUujTk)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
