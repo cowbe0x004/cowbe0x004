@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred AutoDirbuster](https://github.com/NetSPI/AutoDirbuster)
 - [cowbe0x004 starred DNS-data-exfiltration](https://github.com/vp777/DNS-data-exfiltration)
 - [cowbe0x004 starred nodejs.dev](https://github.com/nodejs/nodejs.dev)
 - [cowbe0x004 starred crowdsec](https://github.com/crowdsecurity/crowdsec)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred CT_subdomains](https://github.com/internetwache/CT_subdomains)
 - [cowbe0x004 starred DamnVulnerableCryptoApp](https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp)
 - [cowbe0x004 starred cypheroth](https://github.com/seajaysec/cypheroth)
+- [cowbe0x004 starred stenographer](https://github.com/google/stenographer)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
