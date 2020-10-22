@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PyFuscation](https://github.com/CBHue/PyFuscation)
+- [cowbe0x004 starred powerob](https://github.com/cwolff411/powerob)
+- [cowbe0x004 starred Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter)
+- [cowbe0x004 starred PowerDrive](https://github.com/denisugarte/PowerDrive)
 - [cowbe0x004 starred AutoDirbuster](https://github.com/NetSPI/AutoDirbuster)
 - [cowbe0x004 starred DNS-data-exfiltration](https://github.com/vp777/DNS-data-exfiltration)
 - [cowbe0x004 starred nodejs.dev](https://github.com/nodejs/nodejs.dev)
 - [cowbe0x004 starred crowdsec](https://github.com/crowdsecurity/crowdsec)
 - [cowbe0x004 starred Raccine](https://github.com/Neo23x0/Raccine)
 - [cowbe0x004 starred AndroGoat](https://github.com/satishpatnayak/AndroGoat)
-- [cowbe0x004 starred awesome-vulnerable-apps](https://github.com/vavkamil/awesome-vulnerable-apps)
-- [cowbe0x004 starred CT_subdomains](https://github.com/internetwache/CT_subdomains)
-- [cowbe0x004 starred DamnVulnerableCryptoApp](https://github.com/DamnVulnerableCryptoApp/DamnVulnerableCryptoApp)
-- [cowbe0x004 starred cypheroth](https://github.com/seajaysec/cypheroth)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
