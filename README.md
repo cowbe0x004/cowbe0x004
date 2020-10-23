@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Simulating Active Directory attacks with  PurpleSharp @ EU ATT&CK Community Workshop](https://www.youtube.com/watch?v=onqdJ-IO9Dk)
 - [ATT&CKcon Power Hour October 2020 – Full Session](https://www.youtube.com/watch?v=HY_LxMpMQ1A)
 - [PE Exports meet PE-Bear - how to find exported functions in a DLL?](https://www.youtube.com/watch?v=4gN91tJmHGU)
 - [Cyber Secrets webcast: Building a hacking lab 101](https://www.youtube.com/watch?v=BbdmXTtCo-4)
@@ -35,7 +36,6 @@
 - [Building a House on Sand – Why Foundational Knowledge and Skills in Digital Forensics are Crucial](https://www.youtube.com/watch?v=ZURs_d7YMmg)
 - [Red Team Ops with Cobalt Strike (3 of 9): C2](https://www.youtube.com/watch?v=Z8n9bIPAIao)
 - [Symmetric Block Ciphers For Hackers [Capture The Flag Fundamentals]](https://www.youtube.com/watch?v=WwH10F-l4jU)
-- [How To Bypass Most AntiVirus Detection with Powershell and Excel Macros](https://www.youtube.com/watch?v=UoMzCyB2IvE)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
