@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred gophish](https://github.com/gophish/gophish)
 - [cowbe0x004 starred NTLMRawUnHide](https://github.com/mlgualtieri/NTLMRawUnHide)
 - [cowbe0x004 starred PyFuscation](https://github.com/CBHue/PyFuscation)
 - [cowbe0x004 starred powerob](https://github.com/cwolff411/powerob)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred DNS-data-exfiltration](https://github.com/vp777/DNS-data-exfiltration)
 - [cowbe0x004 starred nodejs.dev](https://github.com/nodejs/nodejs.dev)
 - [cowbe0x004 starred crowdsec](https://github.com/crowdsecurity/crowdsec)
+- [cowbe0x004 starred Raccine](https://github.com/Neo23x0/Raccine)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
