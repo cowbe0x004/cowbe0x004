@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred kubepwn](https://github.com/alexivkin/kubepwn)
 - [cowbe0x004 starred advmlthreatmatrix](https://github.com/mitre/advmlthreatmatrix)
 - [cowbe0x004 starred surveyor](https://github.com/redcanaryco/surveyor)
 - [cowbe0x004 starred goof](https://github.com/snyk/goof)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred powerob](https://github.com/cwolff411/powerob)
 - [cowbe0x004 starred Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter)
 - [cowbe0x004 starred PowerDrive](https://github.com/denisugarte/PowerDrive)
-- [cowbe0x004 starred AutoDirbuster](https://github.com/NetSPI/AutoDirbuster)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
