@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Buffer Overflows Part 1 - Jumping to Local Functions](https://www.youtube.com/watch?v=svgK9fNGTfg)
 - [Node.js Register & Login Tutorial - Learn how to authenticate with Node.js, MongoDB and JWT](https://www.youtube.com/watch?v=b91XgdyX-SM)
 - [Simulating Active Directory attacks with  PurpleSharp @ EU ATT&CK Community Workshop](https://www.youtube.com/watch?v=onqdJ-IO9Dk)
 - [ATT&CKcon Power Hour October 2020 – Full Session](https://www.youtube.com/watch?v=HY_LxMpMQ1A)
@@ -35,7 +36,6 @@
 - [Bypassing and Evading Windows Anti Malware Scanner with Powershell - Cyberseclabs Toast](https://www.youtube.com/watch?v=r9JH8aaq8CQ)
 - [Mordor - WMIC Remote  XSL Script Processing - Collect Data](https://www.youtube.com/watch?v=6iteEfbuwU8)
 - [Building a House on Sand – Why Foundational Knowledge and Skills in Digital Forensics are Crucial](https://www.youtube.com/watch?v=ZURs_d7YMmg)
-- [Red Team Ops with Cobalt Strike (3 of 9): C2](https://www.youtube.com/watch?v=Z8n9bIPAIao)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
