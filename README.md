@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred advmlthreatmatrix](https://github.com/mitre/advmlthreatmatrix)
+- [cowbe0x004 starred surveyor](https://github.com/redcanaryco/surveyor)
+- [cowbe0x004 starred goof](https://github.com/snyk/goof)
 - [cowbe0x004 starred gophish](https://github.com/gophish/gophish)
 - [cowbe0x004 starred NTLMRawUnHide](https://github.com/mlgualtieri/NTLMRawUnHide)
 - [cowbe0x004 starred PyFuscation](https://github.com/CBHue/PyFuscation)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred Invoke-CradleCrafter](https://github.com/danielbohannon/Invoke-CradleCrafter)
 - [cowbe0x004 starred PowerDrive](https://github.com/denisugarte/PowerDrive)
 - [cowbe0x004 starred AutoDirbuster](https://github.com/NetSPI/AutoDirbuster)
-- [cowbe0x004 starred DNS-data-exfiltration](https://github.com/vp777/DNS-data-exfiltration)
-- [cowbe0x004 starred nodejs.dev](https://github.com/nodejs/nodejs.dev)
-- [cowbe0x004 starred crowdsec](https://github.com/crowdsecurity/crowdsec)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
