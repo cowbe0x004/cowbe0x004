@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred caldera_pathfinder](https://github.com/center-for-threat-informed-defense/caldera_pathfinder)
 - [cowbe0x004 starred security_ctf](https://github.com/jingleyang/security_ctf)
 - [cowbe0x004 starred symbolic-execution-tutorial](https://github.com/ercoppa/symbolic-execution-tutorial)
 - [cowbe0x004 starred MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred surveyor](https://github.com/redcanaryco/surveyor)
 - [cowbe0x004 starred goof](https://github.com/snyk/goof)
 - [cowbe0x004 starred gophish](https://github.com/gophish/gophish)
-- [cowbe0x004 starred NTLMRawUnHide](https://github.com/mlgualtieri/NTLMRawUnHide)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
