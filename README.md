@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Flare-on 7: Level 1 - Fidler Challenge Solution](https://www.youtube.com/watch?v=xRGWY3tgcEs)
 - [oledump.py: plugin_msg_summary](https://www.youtube.com/watch?v=lS6qQK0SMjg)
 - [Buffer Overflows Part 1 - Jumping to Local Functions](https://www.youtube.com/watch?v=svgK9fNGTfg)
 - [Node.js Register & Login Tutorial - Learn how to authenticate with Node.js, MongoDB and JWT](https://www.youtube.com/watch?v=b91XgdyX-SM)
@@ -35,7 +36,6 @@
 - [Cyber Secrets webcast: Building a hacking lab 101](https://www.youtube.com/watch?v=BbdmXTtCo-4)
 - [Becoming A More Valuable Blue Team By Learning To Be The Red Team](https://www.youtube.com/watch?v=_jdwhO3HEPo)
 - [Bypassing and Evading Windows Anti Malware Scanner with Powershell - Cyberseclabs Toast](https://www.youtube.com/watch?v=r9JH8aaq8CQ)
-- [Mordor - WMIC Remote  XSL Script Processing - Collect Data](https://www.youtube.com/watch?v=6iteEfbuwU8)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
