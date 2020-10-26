@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred teler](https://github.com/kitabisa/teler)
 - [cowbe0x004 starred .NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator)
 - [cowbe0x004 starred .NET-Deobfuscator](https://github.com/NotPrab/.NET-Deobfuscator)
 - [cowbe0x004 starred caldera_pathfinder](https://github.com/center-for-threat-informed-defense/caldera_pathfinder)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred attack_data](https://github.com/splunk/attack_data)
 - [cowbe0x004 starred kubepwn](https://github.com/alexivkin/kubepwn)
 - [cowbe0x004 starred advmlthreatmatrix](https://github.com/mitre/advmlthreatmatrix)
+- [cowbe0x004 starred surveyor](https://github.com/redcanaryco/surveyor)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
