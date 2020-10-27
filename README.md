@@ -40,8 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred Sysmon_to_AdvancedHunting_KQL](https://github.com/akapv/Sysmon_to_AdvancedHunting_KQL)
-- [cowbe0x004 starred Misc-Malwares](https://github.com/NavyTitanium/Misc-Malwares)
 - [cowbe0x004 starred teler](https://github.com/kitabisa/teler)
 - [cowbe0x004 starred .NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator)
 - [cowbe0x004 starred .NET-Deobfuscator](https://github.com/NotPrab/.NET-Deobfuscator)
@@ -50,6 +48,8 @@
 - [cowbe0x004 starred symbolic-execution-tutorial](https://github.com/ercoppa/symbolic-execution-tutorial)
 - [cowbe0x004 starred MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
 - [cowbe0x004 starred attack_data](https://github.com/splunk/attack_data)
+- [cowbe0x004 starred kubepwn](https://github.com/alexivkin/kubepwn)
+- [cowbe0x004 starred advmlthreatmatrix](https://github.com/mitre/advmlthreatmatrix)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
