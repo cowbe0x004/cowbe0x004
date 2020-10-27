@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred malware-samples](https://github.com/jstrosch/malware-samples)
 - [cowbe0x004 starred Sysmon_to_AdvancedHunting_KQL](https://github.com/akapv/Sysmon_to_AdvancedHunting_KQL)
 - [cowbe0x004 starred Misc-Malwares](https://github.com/NavyTitanium/Misc-Malwares)
 - [cowbe0x004 starred teler](https://github.com/kitabisa/teler)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred security_ctf](https://github.com/jingleyang/security_ctf)
 - [cowbe0x004 starred symbolic-execution-tutorial](https://github.com/ercoppa/symbolic-execution-tutorial)
 - [cowbe0x004 starred MalwareSourceCode](https://github.com/vxunderground/MalwareSourceCode)
-- [cowbe0x004 starred attack_data](https://github.com/splunk/attack_data)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
