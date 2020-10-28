@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Ransom0](https://github.com/HugoLB0/Ransom0)
+- [cowbe0x004 starred procrustes](https://github.com/vp777/procrustes)
 - [cowbe0x004 starred timesketch](https://github.com/google/timesketch)
 - [cowbe0x004 starred Malleable-C2-Profiles](https://github.com/rsmudge/Malleable-C2-Profiles)
 - [cowbe0x004 starred herpaderping](https://github.com/jxy-s/herpaderping)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Misc-Malwares](https://github.com/NavyTitanium/Misc-Malwares)
 - [cowbe0x004 starred teler](https://github.com/kitabisa/teler)
 - [cowbe0x004 starred .NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator)
-- [cowbe0x004 starred .NET-Deobfuscator](https://github.com/NotPrab/.NET-Deobfuscator)
-- [cowbe0x004 starred caldera_pathfinder](https://github.com/center-for-threat-informed-defense/caldera_pathfinder)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
