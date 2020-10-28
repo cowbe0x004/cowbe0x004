@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Malleable-C2-Profiles](https://github.com/rsmudge/Malleable-C2-Profiles)
 - [cowbe0x004 starred herpaderping](https://github.com/jxy-s/herpaderping)
 - [cowbe0x004 starred malware-samples](https://github.com/jstrosch/malware-samples)
 - [cowbe0x004 starred Sysmon_to_AdvancedHunting_KQL](https://github.com/akapv/Sysmon_to_AdvancedHunting_KQL)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred .NET-Deobfuscator](https://github.com/NotPrab/.NET-Deobfuscator)
 - [cowbe0x004 starred caldera_pathfinder](https://github.com/center-for-threat-informed-defense/caldera_pathfinder)
 - [cowbe0x004 starred security_ctf](https://github.com/jingleyang/security_ctf)
-- [cowbe0x004 starred symbolic-execution-tutorial](https://github.com/ercoppa/symbolic-execution-tutorial)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
