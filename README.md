@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM)
 - [cowbe0x004 starred Ransom0](https://github.com/HugoLB0/Ransom0)
 - [cowbe0x004 starred procrustes](https://github.com/vp777/procrustes)
 - [cowbe0x004 starred timesketch](https://github.com/google/timesketch)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Sysmon_to_AdvancedHunting_KQL](https://github.com/akapv/Sysmon_to_AdvancedHunting_KQL)
 - [cowbe0x004 starred Misc-Malwares](https://github.com/NavyTitanium/Misc-Malwares)
 - [cowbe0x004 starred teler](https://github.com/kitabisa/teler)
-- [cowbe0x004 starred .NET-Obfuscator](https://github.com/NotPrab/.NET-Obfuscator)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
