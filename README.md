@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Cyber Mayhem Blue Team Gameplay: Process Monitoring with Snoopy (LD_Preload)](https://www.youtube.com/watch?v=gH_q0zRcPuI)
 - [Remote digital forensics for professionals](https://www.youtube.com/watch?v=Wf99kL1hhuU)
 - [How to Setup Covenant C2 With HTTP Redirector](https://www.youtube.com/watch?v=1uh5-OzBEqM)
 - [Offensive Maldocs in 2020 | Joe Leon & Matt Grandy | 1 Hour | 4K](https://www.youtube.com/watch?v=RW5U9yxilf4)
@@ -35,7 +36,6 @@
 - [Buffer Overflows Part 1 - Jumping to Local Functions](https://www.youtube.com/watch?v=svgK9fNGTfg)
 - [Node.js Register & Login Tutorial - Learn how to authenticate with Node.js, MongoDB and JWT](https://www.youtube.com/watch?v=b91XgdyX-SM)
 - [Simulating Active Directory attacks with  PurpleSharp @ EU ATT&CK Community Workshop](https://www.youtube.com/watch?v=onqdJ-IO9Dk)
-- [ATT&CKcon Power Hour October 2020 – Full Session](https://www.youtube.com/watch?v=HY_LxMpMQ1A)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
