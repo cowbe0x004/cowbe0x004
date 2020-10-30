@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Pester](https://github.com/pester/Pester)
 - [cowbe0x004 starred MalwareMultiScan](https://github.com/mindcollapse/MalwareMultiScan)
 - [cowbe0x004 starred BlackHoodie_Virtual](https://github.com/blackhoodieRE/BlackHoodie_Virtual)
 - [cowbe0x004 starred ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Malleable-C2-Profiles](https://github.com/rsmudge/Malleable-C2-Profiles)
 - [cowbe0x004 starred herpaderping](https://github.com/jxy-s/herpaderping)
 - [cowbe0x004 starred malware-samples](https://github.com/jstrosch/malware-samples)
-- [cowbe0x004 starred Sysmon_to_AdvancedHunting_KQL](https://github.com/akapv/Sysmon_to_AdvancedHunting_KQL)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
