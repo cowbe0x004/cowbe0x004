@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred MalwareMultiScan](https://github.com/mindcollapse/MalwareMultiScan)
 - [cowbe0x004 starred BlackHoodie_Virtual](https://github.com/blackhoodieRE/BlackHoodie_Virtual)
 - [cowbe0x004 starred ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM)
 - [cowbe0x004 starred Ransom0](https://github.com/HugoLB0/Ransom0)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred herpaderping](https://github.com/jxy-s/herpaderping)
 - [cowbe0x004 starred malware-samples](https://github.com/jstrosch/malware-samples)
 - [cowbe0x004 starred Sysmon_to_AdvancedHunting_KQL](https://github.com/akapv/Sysmon_to_AdvancedHunting_KQL)
-- [cowbe0x004 starred Misc-Malwares](https://github.com/NavyTitanium/Misc-Malwares)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
