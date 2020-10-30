@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Remote digital forensics for professionals](https://www.youtube.com/watch?v=Wf99kL1hhuU)
 - [How to Setup Covenant C2 With HTTP Redirector](https://www.youtube.com/watch?v=1uh5-OzBEqM)
 - [Offensive Maldocs in 2020 | Joe Leon & Matt Grandy | 1 Hour | 4K](https://www.youtube.com/watch?v=RW5U9yxilf4)
 - [Attack and Detect : Vulnhub Symfonos #2 vs NEW Security Onion LIVE | Can we detect the attack?](https://www.youtube.com/watch?v=LHJskuQNudc)
@@ -35,7 +36,6 @@
 - [Node.js Register & Login Tutorial - Learn how to authenticate with Node.js, MongoDB and JWT](https://www.youtube.com/watch?v=b91XgdyX-SM)
 - [Simulating Active Directory attacks with  PurpleSharp @ EU ATT&CK Community Workshop](https://www.youtube.com/watch?v=onqdJ-IO9Dk)
 - [ATT&CKcon Power Hour October 2020 – Full Session](https://www.youtube.com/watch?v=HY_LxMpMQ1A)
-- [PE Exports meet PE-Bear - how to find exported functions in a DLL?](https://www.youtube.com/watch?v=4gN91tJmHGU)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
