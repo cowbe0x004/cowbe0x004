@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred binbloom](https://github.com/quarkslab/binbloom)
 - [cowbe0x004 starred getenvy](https://github.com/jwilk/getenvy)
 - [cowbe0x004 starred snoopy](https://github.com/a2o/snoopy)
 - [cowbe0x004 starred Pester](https://github.com/pester/Pester)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Ransom0](https://github.com/HugoLB0/Ransom0)
 - [cowbe0x004 starred procrustes](https://github.com/vp777/procrustes)
 - [cowbe0x004 starred timesketch](https://github.com/google/timesketch)
-- [cowbe0x004 starred Malleable-C2-Profiles](https://github.com/rsmudge/Malleable-C2-Profiles)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
