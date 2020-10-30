@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred getenvy](https://github.com/jwilk/getenvy)
+- [cowbe0x004 starred snoopy](https://github.com/a2o/snoopy)
 - [cowbe0x004 starred Pester](https://github.com/pester/Pester)
 - [cowbe0x004 starred MalwareMultiScan](https://github.com/mindcollapse/MalwareMultiScan)
 - [cowbe0x004 starred BlackHoodie_Virtual](https://github.com/blackhoodieRE/BlackHoodie_Virtual)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred procrustes](https://github.com/vp777/procrustes)
 - [cowbe0x004 starred timesketch](https://github.com/google/timesketch)
 - [cowbe0x004 starred Malleable-C2-Profiles](https://github.com/rsmudge/Malleable-C2-Profiles)
-- [cowbe0x004 starred herpaderping](https://github.com/jxy-s/herpaderping)
-- [cowbe0x004 starred malware-samples](https://github.com/jstrosch/malware-samples)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
