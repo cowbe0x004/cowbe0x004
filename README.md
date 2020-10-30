@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [New Blog From @TimMedin, breaking down ways to prevent and detect Kerberoasting! READ:  #hacking #infosec #iamoffensive](https://twitter.com/RedSiege/status/1321099835894890500)
-- [Raccine 0.10.3 Simple #Ransomware & #Emotet ☝️ Protection - support for config via GPO by @JohnLaTwC + .ADML / .ADMX files 0.10.1 / 0.10.2 - coverag...](https://twitter.com/cyb3rops/status/1317854838928060416)
-- [We’re seeing more activity leveraging the CVE-2020-1472 exploit (ZeroLogon). A new campaign shrewdly poses as software updates that connect to known ...](https://twitter.com/MsftSecIntel/status/1313598440719355904)
-- [A good dive into what's going on in various Windows service host svchost.exe processes.](https://twitter.com/dragosr/status/1310432810520293379)
-- [AD Attack 1) Performing domain recon using PS  2) Attack mapping with bloodhound  3) Extracting passwd hashes   4) Pass-the-hash attacks with mimikatz...](https://twitter.com/CyberWarship/status/1309127376283013120)
+- [RT Red Siege Information Security: New Blog From @TimMedin, breaking down ways to prevent and detect Kerberoasting! READ:  #hacking #infosec #iamoffen...](https://twitter.com/RedSiege/status/1321099835894890500)
+- [RT Florian Roth: Raccine 0.10.3 Simple #Ransomware & #Emotet ☝️ Protection - support for config via GPO by @JohnLaTwC + .ADML / .ADMX files 0.10.1 /...](https://twitter.com/cyb3rops/status/1317854838928060416)
+- [RT Microsoft Security Intelligence: We’re seeing more activity leveraging the CVE-2020-1472 exploit (ZeroLogon). A new campaign shrewdly poses as sof...](https://twitter.com/MsftSecIntel/status/1313598440719355904)
+- [RT dragosr: A good dive into what's going on in various Windows service host svchost.exe processes.](https://twitter.com/dragosr/status/1310432810520293379)
+- [RT Florian Hansemann: AD Attack 1) Performing domain recon using PS  2) Attack mapping with bloodhound  3) Extracting passwd hashes   4) Pass-the-hash...](https://twitter.com/CyberWarship/status/1309127376283013120)
 <!-- TWEETS:END -->
 
 ---
