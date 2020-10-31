@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Unlocking Excel 4.0 Macro Malware](https://www.youtube.com/watch?v=WRrzX7cGHaY)
 - [Cyber Mayhem Blue Team Gameplay: Process Monitoring with Snoopy (LD_Preload)](https://www.youtube.com/watch?v=gH_q0zRcPuI)
 - [Remote digital forensics for professionals](https://www.youtube.com/watch?v=Wf99kL1hhuU)
 - [How to Setup Covenant C2 With HTTP Redirector](https://www.youtube.com/watch?v=1uh5-OzBEqM)
@@ -35,7 +36,6 @@
 - [oledump.py: plugin_msg_summary](https://www.youtube.com/watch?v=lS6qQK0SMjg)
 - [Buffer Overflows Part 1 - Jumping to Local Functions](https://www.youtube.com/watch?v=svgK9fNGTfg)
 - [Node.js Register & Login Tutorial - Learn how to authenticate with Node.js, MongoDB and JWT](https://www.youtube.com/watch?v=b91XgdyX-SM)
-- [Simulating Active Directory attacks with  PurpleSharp @ EU ATT&CK Community Workshop](https://www.youtube.com/watch?v=onqdJ-IO9Dk)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
