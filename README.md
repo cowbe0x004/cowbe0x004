@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred halogen](https://github.com/target/halogen)
 - [cowbe0x004 starred binbloom](https://github.com/quarkslab/binbloom)
 - [cowbe0x004 starred getenvy](https://github.com/jwilk/getenvy)
 - [cowbe0x004 starred snoopy](https://github.com/a2o/snoopy)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM)
 - [cowbe0x004 starred Ransom0](https://github.com/HugoLB0/Ransom0)
 - [cowbe0x004 starred procrustes](https://github.com/vp777/procrustes)
-- [cowbe0x004 starred timesketch](https://github.com/google/timesketch)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
