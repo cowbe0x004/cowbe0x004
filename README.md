@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [DEFCON 26 - GSCRIPT](https://www.youtube.com/watch?v=8yjMlMf8NpQ)
 - [Unlocking Excel 4.0 Macro Malware](https://www.youtube.com/watch?v=WRrzX7cGHaY)
 - [Cyber Mayhem Blue Team Gameplay: Process Monitoring with Snoopy (LD_Preload)](https://www.youtube.com/watch?v=gH_q0zRcPuI)
 - [Remote digital forensics for professionals](https://www.youtube.com/watch?v=Wf99kL1hhuU)
@@ -35,7 +36,6 @@
 - [Flare-on 7: Level 1 - Fidler Challenge Solution](https://www.youtube.com/watch?v=xRGWY3tgcEs)
 - [oledump.py: plugin_msg_summary](https://www.youtube.com/watch?v=lS6qQK0SMjg)
 - [Buffer Overflows Part 1 - Jumping to Local Functions](https://www.youtube.com/watch?v=svgK9fNGTfg)
-- [Node.js Register & Login Tutorial - Learn how to authenticate with Node.js, MongoDB and JWT](https://www.youtube.com/watch?v=b91XgdyX-SM)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
