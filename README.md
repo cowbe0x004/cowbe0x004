@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred webshell-analyzer](https://github.com/tstillz/webshell-analyzer)
+- [cowbe0x004 starred webshell-scan](https://github.com/tstillz/webshell-scan)
 - [cowbe0x004 starred rusty-hog](https://github.com/newrelic/rusty-hog)
 - [cowbe0x004 starred halogen](https://github.com/target/halogen)
 - [cowbe0x004 starred binbloom](https://github.com/quarkslab/binbloom)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Pester](https://github.com/pester/Pester)
 - [cowbe0x004 starred MalwareMultiScan](https://github.com/mindcollapse/MalwareMultiScan)
 - [cowbe0x004 starred BlackHoodie_Virtual](https://github.com/blackhoodieRE/BlackHoodie_Virtual)
-- [cowbe0x004 starred ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM)
-- [cowbe0x004 starred Ransom0](https://github.com/HugoLB0/Ransom0)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
