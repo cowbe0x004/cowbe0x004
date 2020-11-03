@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred rusty-hog](https://github.com/newrelic/rusty-hog)
 - [cowbe0x004 starred halogen](https://github.com/target/halogen)
 - [cowbe0x004 starred binbloom](https://github.com/quarkslab/binbloom)
 - [cowbe0x004 starred getenvy](https://github.com/jwilk/getenvy)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred BlackHoodie_Virtual](https://github.com/blackhoodieRE/BlackHoodie_Virtual)
 - [cowbe0x004 starred ThreatPursuit-VM](https://github.com/fireeye/ThreatPursuit-VM)
 - [cowbe0x004 starred Ransom0](https://github.com/HugoLB0/Ransom0)
-- [cowbe0x004 starred procrustes](https://github.com/vp777/procrustes)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
