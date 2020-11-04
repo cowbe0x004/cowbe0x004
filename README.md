@@ -34,7 +34,7 @@
 - [How to Setup Covenant C2 With HTTP Redirector](https://www.youtube.com/watch?v=1uh5-OzBEqM)
 - [Offensive Maldocs in 2020 | Joe Leon & Matt Grandy | 1 Hour | 4K](https://www.youtube.com/watch?v=RW5U9yxilf4)
 - [Attack and Detect : Vulnhub Symfonos #2 vs NEW Security Onion LIVE | Can we detect the attack?](https://www.youtube.com/watch?v=LHJskuQNudc)
-- [Flare-on 7: Level 1 - Fidler Challenge Solution](https://www.youtube.com/watch?v=xRGWY3tgcEs)
+- [Flare-on 7: Level 1 - Fidler Challenge Solution | Reverse Engineering](https://www.youtube.com/watch?v=xRGWY3tgcEs)
 - [oledump.py: plugin_msg_summary](https://www.youtube.com/watch?v=lS6qQK0SMjg)
 <!-- YOUTUBE:END -->
 
