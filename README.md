@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred KaiMonkey](https://github.com/accurics/KaiMonkey)
 - [cowbe0x004 starred red-kube](https://github.com/lightspin-tech/red-kube)
 - [cowbe0x004 starred webshell-analyzer](https://github.com/tstillz/webshell-analyzer)
 - [cowbe0x004 starred webshell-scan](https://github.com/tstillz/webshell-scan)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred getenvy](https://github.com/jwilk/getenvy)
 - [cowbe0x004 starred snoopy](https://github.com/a2o/snoopy)
 - [cowbe0x004 starred Pester](https://github.com/pester/Pester)
-- [cowbe0x004 starred MalwareMultiScan](https://github.com/mindcollapse/MalwareMultiScan)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
