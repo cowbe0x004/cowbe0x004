@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Defending Against MimiKatz Attacks](https://www.youtube.com/watch?v=RGQuXAABBoo)
 - [Diana Initiative 2020 - Tabitha Sable - Kubernetes Workshop (CTF Challenge Walkthrough)](https://www.youtube.com/watch?v=n-SJe2PXF_E)
 - [DEFCON 26 - GSCRIPT](https://www.youtube.com/watch?v=8yjMlMf8NpQ)
 - [Unlocking Excel 4.0 Macro Malware](https://www.youtube.com/watch?v=WRrzX7cGHaY)
@@ -35,7 +36,6 @@
 - [Offensive Maldocs in 2020 | Joe Leon & Matt Grandy | 1 Hour | 4K](https://www.youtube.com/watch?v=RW5U9yxilf4)
 - [Attack and Detect : Vulnhub Symfonos #2 vs NEW Security Onion LIVE | Can we detect the attack?](https://www.youtube.com/watch?v=LHJskuQNudc)
 - [Flare-on 7: Level 1 - Fidler Challenge Solution | Reverse Engineering](https://www.youtube.com/watch?v=xRGWY3tgcEs)
-- [oledump.py: plugin_msg_summary](https://www.youtube.com/watch?v=lS6qQK0SMjg)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
