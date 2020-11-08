@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred MalwareAnalysis](https://github.com/astrovax/MalwareAnalysis)
 - [cowbe0x004 starred pwntools-tutorial](https://github.com/Gallopsled/pwntools-tutorial)
 - [cowbe0x004 starred pigasus](https://github.com/cmu-snap/pigasus)
 - [cowbe0x004 starred gsocket](https://github.com/hackerschoice/gsocket)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred webshell-analyzer](https://github.com/tstillz/webshell-analyzer)
 - [cowbe0x004 starred webshell-scan](https://github.com/tstillz/webshell-scan)
 - [cowbe0x004 starred rusty-hog](https://github.com/newrelic/rusty-hog)
-- [cowbe0x004 starred halogen](https://github.com/target/halogen)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
