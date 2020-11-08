@@ -40,7 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred MalwareAnalysis](https://github.com/astrovax/MalwareAnalysis)
+- [cowbe0x004 starred malwareanalysis](https://github.com/astrovax/malwareanalysis)
 - [cowbe0x004 starred pwntools-tutorial](https://github.com/Gallopsled/pwntools-tutorial)
 - [cowbe0x004 starred pigasus](https://github.com/cmu-snap/pigasus)
 - [cowbe0x004 starred gsocket](https://github.com/hackerschoice/gsocket)
