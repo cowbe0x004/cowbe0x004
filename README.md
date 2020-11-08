@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Malware Analysis - .NET Unpacking](https://www.youtube.com/watch?v=O3S-M2nAKmE)
 - [Unpacking Process Injection Malware With IDA PRO (Part 1)](https://www.youtube.com/watch?v=ScBB-Hi7NxQ)
 - [BlackHoodie Virtual Part1](https://www.youtube.com/watch?v=ce9C69o0voo)
 - [Defending Against MimiKatz Attacks](https://www.youtube.com/watch?v=RGQuXAABBoo)
@@ -35,7 +36,6 @@
 - [Cyber Mayhem Blue Team Gameplay: Process Monitoring with Snoopy (LD_Preload)](https://www.youtube.com/watch?v=gH_q0zRcPuI)
 - [Remote digital forensics for professionals](https://www.youtube.com/watch?v=Wf99kL1hhuU)
 - [How to Setup Covenant C2 With HTTP Redirector](https://www.youtube.com/watch?v=1uh5-OzBEqM)
-- [Offensive Maldocs in 2020 | Joe Leon & Matt Grandy | 1 Hour | 4K](https://www.youtube.com/watch?v=RW5U9yxilf4)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
