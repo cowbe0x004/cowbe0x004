@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Unpacking Process Injection Malware With IDA PRO (Part 1)](https://www.youtube.com/watch?v=ScBB-Hi7NxQ)
 - [BlackHoodie Virtual Part1](https://www.youtube.com/watch?v=ce9C69o0voo)
 - [Defending Against MimiKatz Attacks](https://www.youtube.com/watch?v=RGQuXAABBoo)
 - [Diana Initiative 2020 - Tabitha Sable - Kubernetes Workshop (CTF Challenge Walkthrough)](https://www.youtube.com/watch?v=n-SJe2PXF_E)
@@ -35,7 +36,6 @@
 - [Remote digital forensics for professionals](https://www.youtube.com/watch?v=Wf99kL1hhuU)
 - [How to Setup Covenant C2 With HTTP Redirector](https://www.youtube.com/watch?v=1uh5-OzBEqM)
 - [Offensive Maldocs in 2020 | Joe Leon & Matt Grandy | 1 Hour | 4K](https://www.youtube.com/watch?v=RW5U9yxilf4)
-- [Attack and Detect : Vulnhub Symfonos #2 vs NEW Security Onion LIVE | Can we detect the attack?](https://www.youtube.com/watch?v=LHJskuQNudc)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
