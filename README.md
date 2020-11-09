@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred AMSI.fail](https://github.com/Flangvik/AMSI.fail)
+- [cowbe0x004 starred WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn)
 - [cowbe0x004 starred malwareanalysis](https://github.com/astrovax/malwareanalysis)
 - [cowbe0x004 starred pwntools-tutorial](https://github.com/Gallopsled/pwntools-tutorial)
 - [cowbe0x004 starred pigasus](https://github.com/cmu-snap/pigasus)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred KaiMonkey](https://github.com/accurics/KaiMonkey)
 - [cowbe0x004 starred red-kube](https://github.com/lightspin-tech/red-kube)
 - [cowbe0x004 starred webshell-analyzer](https://github.com/tstillz/webshell-analyzer)
-- [cowbe0x004 starred webshell-scan](https://github.com/tstillz/webshell-scan)
-- [cowbe0x004 starred rusty-hog](https://github.com/newrelic/rusty-hog)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
