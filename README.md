@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred pencode](https://github.com/ffuf/pencode)
 - [cowbe0x004 starred kubernetes-handbook-projects](https://github.com/fhsinchy/kubernetes-handbook-projects)
 - [cowbe0x004 starred AMSI.fail](https://github.com/Flangvik/AMSI.fail)
 - [cowbe0x004 starred WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred gsocket](https://github.com/hackerschoice/gsocket)
 - [cowbe0x004 starred slipstream](https://github.com/samyk/slipstream)
 - [cowbe0x004 starred KaiMonkey](https://github.com/accurics/KaiMonkey)
-- [cowbe0x004 starred red-kube](https://github.com/lightspin-tech/red-kube)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
