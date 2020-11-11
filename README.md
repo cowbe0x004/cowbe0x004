@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Active Directory Post Exploitation with Powershell and Mimikatz - TryHackMe](https://www.youtube.com/watch?v=V3BkyAcYjPU)
 - [[Attack]tive Directory: Compromising a Network in 20 Minutes Through Active Directory](https://www.youtube.com/watch?v=MIt-tIjMr08)
 - [Misconfigured PATH Privilege Escalation: Linux Security 06](https://www.youtube.com/watch?v=PvbsJKpNje0)
 - [Malware Analysis - .NET Unpacking](https://www.youtube.com/watch?v=O3S-M2nAKmE)
@@ -35,7 +36,6 @@
 - [Diana Initiative 2020 - Tabitha Sable - Kubernetes Workshop (CTF Challenge Walkthrough)](https://www.youtube.com/watch?v=n-SJe2PXF_E)
 - [DEFCON 26 - GSCRIPT](https://www.youtube.com/watch?v=8yjMlMf8NpQ)
 - [Unlocking Excel 4.0 Macro Malware](https://www.youtube.com/watch?v=WRrzX7cGHaY)
-- [Cyber Mayhem Blue Team Gameplay: Process Monitoring with Snoopy (LD_Preload)](https://www.youtube.com/watch?v=gH_q0zRcPuI)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
