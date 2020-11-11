@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Exploring the Wonders of Timesketch and Jupyter (OSDFCon Webinar)](https://www.youtube.com/watch?v=zQUmo6rvQH4)
 - [Active Directory Post Exploitation with Powershell and Mimikatz - TryHackMe](https://www.youtube.com/watch?v=V3BkyAcYjPU)
 - [[Attack]tive Directory: Compromising a Network in 20 Minutes Through Active Directory](https://www.youtube.com/watch?v=MIt-tIjMr08)
 - [Misconfigured PATH Privilege Escalation: Linux Security 06](https://www.youtube.com/watch?v=PvbsJKpNje0)
@@ -35,7 +36,6 @@
 - [Defending Against MimiKatz Attacks](https://www.youtube.com/watch?v=RGQuXAABBoo)
 - [Diana Initiative 2020 - Tabitha Sable - Kubernetes Workshop (CTF Challenge Walkthrough)](https://www.youtube.com/watch?v=n-SJe2PXF_E)
 - [DEFCON 26 - GSCRIPT](https://www.youtube.com/watch?v=8yjMlMf8NpQ)
-- [Unlocking Excel 4.0 Macro Malware](https://www.youtube.com/watch?v=WRrzX7cGHaY)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
