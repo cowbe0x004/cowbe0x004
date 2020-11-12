@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Google CTF - "WRITEONLY" challenge [Sandbox Breakout Writeup]](https://www.youtube.com/watch?v=-u3727VFxP8)
 - [[11/10/2020] Emotet Maldoc Analysis - Embedded DLL and CertUtil for Base64 Decoding](https://www.youtube.com/watch?v=NzzS9DqPPfw)
 - [Exploring the Wonders of Timesketch and Jupyter (OSDFCon Webinar)](https://www.youtube.com/watch?v=zQUmo6rvQH4)
 - [Active Directory Post Exploitation with Powershell and Mimikatz - TryHackMe](https://www.youtube.com/watch?v=V3BkyAcYjPU)
@@ -35,7 +36,6 @@
 - [Unpacking Process Injection Malware With IDA PRO (Part 1)](https://www.youtube.com/watch?v=ScBB-Hi7NxQ)
 - [BlackHoodie Virtual Part1](https://www.youtube.com/watch?v=ce9C69o0voo)
 - [Defending Against MimiKatz Attacks](https://www.youtube.com/watch?v=RGQuXAABBoo)
-- [Diana Initiative 2020 - Tabitha Sable - Kubernetes Workshop (CTF Challenge Walkthrough)](https://www.youtube.com/watch?v=n-SJe2PXF_E)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
