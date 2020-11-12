@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [[11/10/2020] Emotet Maldoc Analysis - Embedded DLL and CertUtil for Base64 Decoding](https://www.youtube.com/watch?v=NzzS9DqPPfw)
 - [Exploring the Wonders of Timesketch and Jupyter (OSDFCon Webinar)](https://www.youtube.com/watch?v=zQUmo6rvQH4)
 - [Active Directory Post Exploitation with Powershell and Mimikatz - TryHackMe](https://www.youtube.com/watch?v=V3BkyAcYjPU)
 - [[Attack]tive Directory: Compromising a Network in 20 Minutes Through Active Directory](https://www.youtube.com/watch?v=MIt-tIjMr08)
@@ -35,7 +36,6 @@
 - [BlackHoodie Virtual Part1](https://www.youtube.com/watch?v=ce9C69o0voo)
 - [Defending Against MimiKatz Attacks](https://www.youtube.com/watch?v=RGQuXAABBoo)
 - [Diana Initiative 2020 - Tabitha Sable - Kubernetes Workshop (CTF Challenge Walkthrough)](https://www.youtube.com/watch?v=n-SJe2PXF_E)
-- [DEFCON 26 - GSCRIPT](https://www.youtube.com/watch?v=8yjMlMf8NpQ)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
