@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit)
+- [cowbe0x004 starred Damn-Vulnerable-Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank)
 - [cowbe0x004 starred pytmipe](https://github.com/quentinhardy/pytmipe)
 - [cowbe0x004 starred pencode](https://github.com/ffuf/pencode)
 - [cowbe0x004 starred kubernetes-handbook-projects](https://github.com/fhsinchy/kubernetes-handbook-projects)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred malwareanalysis](https://github.com/astrovax/malwareanalysis)
 - [cowbe0x004 starred pwntools-tutorial](https://github.com/Gallopsled/pwntools-tutorial)
 - [cowbe0x004 starred pigasus](https://github.com/cmu-snap/pigasus)
-- [cowbe0x004 starred gsocket](https://github.com/hackerschoice/gsocket)
-- [cowbe0x004 starred slipstream](https://github.com/samyk/slipstream)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
