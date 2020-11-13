@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred AIL-framework](https://github.com/CIRCL/AIL-framework)
 - [cowbe0x004 starred awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit)
 - [cowbe0x004 starred Damn-Vulnerable-Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank)
 - [cowbe0x004 starred pytmipe](https://github.com/quentinhardy/pytmipe)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn)
 - [cowbe0x004 starred malwareanalysis](https://github.com/astrovax/malwareanalysis)
 - [cowbe0x004 starred pwntools-tutorial](https://github.com/Gallopsled/pwntools-tutorial)
-- [cowbe0x004 starred pigasus](https://github.com/cmu-snap/pigasus)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
