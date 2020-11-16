@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Plaso and WSL 2 - The WSL Adventures Continue...](https://www.youtube.com/watch?v=g9V6OUCe12k)
 - [Explaining the exploit we wrote and rants](https://www.youtube.com/watch?v=t-t7D0vQNmo)
 - [Google CTF - "WRITEONLY" challenge [Sandbox Breakout Writeup]](https://www.youtube.com/watch?v=-u3727VFxP8)
 - [[11/10/2020] Emotet Maldoc Analysis - Embedded DLL and CertUtil for Base64 Decoding](https://www.youtube.com/watch?v=NzzS9DqPPfw)
@@ -35,7 +36,6 @@
 - [Misconfigured PATH Privilege Escalation: Linux Security 06](https://www.youtube.com/watch?v=PvbsJKpNje0)
 - [Malware Analysis - .NET Unpacking](https://www.youtube.com/watch?v=O3S-M2nAKmE)
 - [Unpacking Process Injection Malware With IDA PRO (Part 1)](https://www.youtube.com/watch?v=ScBB-Hi7NxQ)
-- [BlackHoodie Virtual Part1](https://www.youtube.com/watch?v=ce9C69o0voo)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
