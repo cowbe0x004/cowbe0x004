@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred panther-analysis](https://github.com/panther-labs/panther-analysis)
 - [cowbe0x004 starred malduck](https://github.com/CERT-Polska/malduck)
 - [cowbe0x004 starred AIL-framework](https://github.com/CIRCL/AIL-framework)
 - [cowbe0x004 starred awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred kubernetes-handbook-projects](https://github.com/fhsinchy/kubernetes-handbook-projects)
 - [cowbe0x004 starred AMSI.fail](https://github.com/Flangvik/AMSI.fail)
 - [cowbe0x004 starred WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn)
-- [cowbe0x004 starred malwareanalysis](https://github.com/astrovax/malwareanalysis)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
