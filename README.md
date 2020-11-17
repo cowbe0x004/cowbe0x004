@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SimuLand](https://github.com/OTRF/SimuLand)
 - [cowbe0x004 starred deployment](https://github.com/mirswamp/deployment)
 - [cowbe0x004 starred Useful-BloodHound-Queries](https://github.com/xenoscr/Useful-BloodHound-Queries)
 - [cowbe0x004 starred HoneyCreds](https://github.com/Ben0xA/HoneyCreds)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred malduck](https://github.com/CERT-Polska/malduck)
 - [cowbe0x004 starred AIL-framework](https://github.com/CIRCL/AIL-framework)
 - [cowbe0x004 starred awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit)
-- [cowbe0x004 starred Damn-Vulnerable-Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
