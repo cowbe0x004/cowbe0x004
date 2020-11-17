@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Useful-BloodHound-Queries](https://github.com/xenoscr/Useful-BloodHound-Queries)
+- [cowbe0x004 starred HoneyCreds](https://github.com/Ben0xA/HoneyCreds)
 - [cowbe0x004 starred kushtakad](https://github.com/kushtaka/kushtakad)
 - [cowbe0x004 starred passive-ssh](https://github.com/D4-project/passive-ssh)
 - [cowbe0x004 starred panther-analysis](https://github.com/panther-labs/panther-analysis)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit)
 - [cowbe0x004 starred Damn-Vulnerable-Bank](https://github.com/rewanth1997/Damn-Vulnerable-Bank)
 - [cowbe0x004 starred pytmipe](https://github.com/quentinhardy/pytmipe)
-- [cowbe0x004 starred pencode](https://github.com/ffuf/pencode)
-- [cowbe0x004 starred kubernetes-handbook-projects](https://github.com/fhsinchy/kubernetes-handbook-projects)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
