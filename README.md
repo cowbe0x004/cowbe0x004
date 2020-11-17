@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred kushtakad](https://github.com/kushtaka/kushtakad)
+- [cowbe0x004 starred passive-ssh](https://github.com/D4-project/passive-ssh)
 - [cowbe0x004 starred panther-analysis](https://github.com/panther-labs/panther-analysis)
 - [cowbe0x004 starred malduck](https://github.com/CERT-Polska/malduck)
 - [cowbe0x004 starred AIL-framework](https://github.com/CIRCL/AIL-framework)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred pytmipe](https://github.com/quentinhardy/pytmipe)
 - [cowbe0x004 starred pencode](https://github.com/ffuf/pencode)
 - [cowbe0x004 starred kubernetes-handbook-projects](https://github.com/fhsinchy/kubernetes-handbook-projects)
-- [cowbe0x004 starred AMSI.fail](https://github.com/Flangvik/AMSI.fail)
-- [cowbe0x004 starred WinPwn](https://github.com/S3cur3Th1sSh1t/WinPwn)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
