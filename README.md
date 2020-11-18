@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred jarm](https://github.com/salesforce/jarm)
 - [cowbe0x004 starred SimuLand](https://github.com/OTRF/SimuLand)
 - [cowbe0x004 starred deployment](https://github.com/mirswamp/deployment)
 - [cowbe0x004 starred Useful-BloodHound-Queries](https://github.com/xenoscr/Useful-BloodHound-Queries)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred panther-analysis](https://github.com/panther-labs/panther-analysis)
 - [cowbe0x004 starred malduck](https://github.com/CERT-Polska/malduck)
 - [cowbe0x004 starred AIL-framework](https://github.com/CIRCL/AIL-framework)
-- [cowbe0x004 starred awesome-browser-exploit](https://github.com/Escapingbug/awesome-browser-exploit)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
