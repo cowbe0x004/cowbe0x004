@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Fuzzing with AFL - by Michael Macnair (Workshop)](https://www.youtube.com/watch?v=6YLz9IGAGLw)
 - [Plaso and WSL 2 - The WSL Adventures Continue...](https://www.youtube.com/watch?v=g9V6OUCe12k)
 - [Explaining the exploit we wrote and rants](https://www.youtube.com/watch?v=t-t7D0vQNmo)
 - [Google CTF - "WRITEONLY" challenge [Sandbox Breakout Writeup]](https://www.youtube.com/watch?v=-u3727VFxP8)
@@ -35,7 +36,6 @@
 - [[Attack]tive Directory: Compromising a Network in 20 Minutes Through Active Directory](https://www.youtube.com/watch?v=MIt-tIjMr08)
 - [Misconfigured PATH Privilege Escalation: Linux Security 06](https://www.youtube.com/watch?v=PvbsJKpNje0)
 - [Malware Analysis - .NET Unpacking](https://www.youtube.com/watch?v=O3S-M2nAKmE)
-- [Unpacking Process Injection Malware With IDA PRO (Part 1)](https://www.youtube.com/watch?v=ScBB-Hi7NxQ)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
