@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred reg_hunter](https://github.com/theflakes/reg_hunter)
 - [cowbe0x004 starred jarm](https://github.com/salesforce/jarm)
 - [cowbe0x004 starred SimuLand](https://github.com/OTRF/SimuLand)
 - [cowbe0x004 starred deployment](https://github.com/mirswamp/deployment)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred passive-ssh](https://github.com/D4-project/passive-ssh)
 - [cowbe0x004 starred panther-analysis](https://github.com/panther-labs/panther-analysis)
 - [cowbe0x004 starred malduck](https://github.com/CERT-Polska/malduck)
-- [cowbe0x004 starred AIL-framework](https://github.com/CIRCL/AIL-framework)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
