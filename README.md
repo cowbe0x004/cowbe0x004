@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [Threat Hunting Summit - YARA Bootcamp](https://twitter.com/cowbe0x004/status/1329091504237912064)
+- [Threat Hunting Summit - Using Machine Learning for Threat Hunting – The What, Why and How](https://twitter.com/cowbe0x004/status/1329091365137838083)
 - [RT Md. Foysal: Bug Bounty Tips This is how to find sql-Injection 100% of the time /?q=1 /?q=1' /?q=1" /?q=[1] /?q[]=1 /?q=1` /?q=1\ /?q=1/*'*/ /?q=1/*...](https://twitter.com/foysal_127000/status/1326771530278334466)
 - [RT Jake Williams: Let's do something fun. Since everyone who follows me has likely already voted (or doesn't live in the US), reply here with your fav...](https://twitter.com/MalwareJake/status/1323621891211481094)
 - [RT Red Siege Information Security: New Blog From @TimMedin, breaking down ways to prevent and detect Kerberoasting! READ:  #hacking #infosec #iamoffen...](https://twitter.com/RedSiege/status/1321099835894890500)
-- [RT Florian Roth: Raccine 0.10.3 Simple #Ransomware & #Emotet ☝️ Protection - support for config via GPO by @JohnLaTwC + .ADML / .ADMX files 0.10.1 /...](https://twitter.com/cyb3rops/status/1317854838928060416)
-- [RT Microsoft Security Intelligence: We’re seeing more activity leveraging the CVE-2020-1472 exploit (ZeroLogon). A new campaign shrewdly poses as sof...](https://twitter.com/MsftSecIntel/status/1313598440719355904)
 <!-- TWEETS:END -->
 
 ---
