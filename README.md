@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred de4dot](https://github.com/de4dot/de4dot)
+- [cowbe0x004 starred ConfuserEx](https://github.com/yck1509/ConfuserEx)
 - [cowbe0x004 starred rhq](https://github.com/ReconInfoSec/rhq)
 - [cowbe0x004 starred reg_hunter](https://github.com/theflakes/reg_hunter)
 - [cowbe0x004 starred jarm](https://github.com/salesforce/jarm)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Useful-BloodHound-Queries](https://github.com/xenoscr/Useful-BloodHound-Queries)
 - [cowbe0x004 starred HoneyCreds](https://github.com/Ben0xA/HoneyCreds)
 - [cowbe0x004 starred kushtakad](https://github.com/kushtaka/kushtakad)
-- [cowbe0x004 starred passive-ssh](https://github.com/D4-project/passive-ssh)
-- [cowbe0x004 starred panther-analysis](https://github.com/panther-labs/panther-analysis)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
