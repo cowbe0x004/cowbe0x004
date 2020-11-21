@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred 403bypasser](https://github.com/yunemse48/403bypasser)
 - [cowbe0x004 starred pikvm](https://github.com/pikvm/pikvm)
 - [cowbe0x004 starred Logstash](https://github.com/HASecuritySolutions/Logstash)
 - [cowbe0x004 starred Packet-Sniffer](https://github.com/EONRaider/Packet-Sniffer)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred reg_hunter](https://github.com/theflakes/reg_hunter)
 - [cowbe0x004 starred jarm](https://github.com/salesforce/jarm)
 - [cowbe0x004 starred SimuLand](https://github.com/OTRF/SimuLand)
-- [cowbe0x004 starred deployment](https://github.com/mirswamp/deployment)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
