@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
 - [cowbe0x004 starred APTMalware](https://github.com/cyber-research/APTMalware)
 - [cowbe0x004 starred 403bypasser](https://github.com/yunemse48/403bypasser)
 - [cowbe0x004 starred pikvm](https://github.com/pikvm/pikvm)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ConfuserEx](https://github.com/yck1509/ConfuserEx)
 - [cowbe0x004 starred rhq](https://github.com/ReconInfoSec/rhq)
 - [cowbe0x004 starred reg_hunter](https://github.com/theflakes/reg_hunter)
-- [cowbe0x004 starred jarm](https://github.com/salesforce/jarm)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
