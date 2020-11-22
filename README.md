@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred nmap-query-xml](https://github.com/honze-net/nmap-query-xml)
 - [cowbe0x004 starred examples](https://github.com/elastic/examples)
 - [cowbe0x004 starred Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
 - [cowbe0x004 starred APTMalware](https://github.com/cyber-research/APTMalware)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Packet-Sniffer](https://github.com/EONRaider/Packet-Sniffer)
 - [cowbe0x004 starred de4dot](https://github.com/de4dot/de4dot)
 - [cowbe0x004 starred ConfuserEx](https://github.com/yck1509/ConfuserEx)
-- [cowbe0x004 starred rhq](https://github.com/ReconInfoSec/rhq)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
