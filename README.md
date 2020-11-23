@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [CyberSecLabs - Debug - Linux [Walkthrough]](https://www.youtube.com/watch?v=J8v2QQ9ILto)
 - [Fuzzing with AFL - by Michael Macnair (Workshop)](https://www.youtube.com/watch?v=6YLz9IGAGLw)
 - [Plaso and WSL 2 - The WSL Adventures Continue...](https://www.youtube.com/watch?v=g9V6OUCe12k)
 - [Explaining the exploit we wrote and rants](https://www.youtube.com/watch?v=t-t7D0vQNmo)
@@ -35,7 +36,6 @@
 - [Active Directory Post Exploitation with Powershell and Mimikatz - TryHackMe](https://www.youtube.com/watch?v=V3BkyAcYjPU)
 - [[Attack]tive Directory: Compromising a Network in 20 Minutes Through Active Directory](https://www.youtube.com/watch?v=MIt-tIjMr08)
 - [Misconfigured PATH Privilege Escalation: Linux Security 06](https://www.youtube.com/watch?v=PvbsJKpNje0)
-- [Malware Analysis - .NET Unpacking](https://www.youtube.com/watch?v=O3S-M2nAKmE)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
