@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred hackaday-u](https://github.com/wrongbaud/hackaday-u)
 - [cowbe0x004 starred Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 - [cowbe0x004 starred phpsploit](https://github.com/nil0x42/phpsploit)
 - [cowbe0x004 starred nmap-query-xml](https://github.com/honze-net/nmap-query-xml)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred 403bypasser](https://github.com/yunemse48/403bypasser)
 - [cowbe0x004 starred pikvm](https://github.com/pikvm/pikvm)
 - [cowbe0x004 starred Logstash](https://github.com/HASecuritySolutions/Logstash)
-- [cowbe0x004 starred Packet-Sniffer](https://github.com/EONRaider/Packet-Sniffer)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
