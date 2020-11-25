@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [3MinMax - Episode 144: Encryption - Part 20 - Diffie Hellman Key Exchange 3](https://www.youtube.com/watch?v=TZb-Clw66wI)
 - [Practical Attacks Using HTTP Request Smuggling by @defparam #NahamCon2020](https://www.youtube.com/watch?v=3tpnuzFLU8g)
 - [CyberSecLabs - Debug - Linux [Walkthrough]](https://www.youtube.com/watch?v=J8v2QQ9ILto)
 - [Fuzzing with AFL - by Michael Macnair (Workshop)](https://www.youtube.com/watch?v=6YLz9IGAGLw)
@@ -35,7 +36,6 @@
 - [[11/10/2020] Emotet Maldoc Analysis - Embedded DLL and CertUtil for Base64 Decoding](https://www.youtube.com/watch?v=NzzS9DqPPfw)
 - [Exploring the Wonders of Timesketch and Jupyter (OSDFCon Webinar)](https://www.youtube.com/watch?v=zQUmo6rvQH4)
 - [Active Directory Post Exploitation with Powershell and Mimikatz - TryHackMe](https://www.youtube.com/watch?v=V3BkyAcYjPU)
-- [[Attack]tive Directory: Compromising a Network in 20 Minutes Through Active Directory](https://www.youtube.com/watch?v=MIt-tIjMr08)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
