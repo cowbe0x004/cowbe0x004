@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [How attackers use built-in Windows tools for Reconnaissance.](https://www.youtube.com/watch?v=lBVfgWNyjho)
 - [A Tale of Two Hunters: Practical Approaches for Building a Threat Hunting Program](https://www.youtube.com/watch?v=BKowtsZM5Wk)
 - [STAR Webcast: Spooky RYUKy: The Return of UNC1878](https://www.youtube.com/watch?v=BhjQ6zsCVSc)
 - [3MinMax - Episode 144: Encryption - Part 20 - Diffie Hellman Key Exchange 3](https://www.youtube.com/watch?v=TZb-Clw66wI)
@@ -35,7 +36,6 @@
 - [Plaso and WSL 2 - The WSL Adventures Continue...](https://www.youtube.com/watch?v=g9V6OUCe12k)
 - [Explaining the exploit we wrote and rants](https://www.youtube.com/watch?v=t-t7D0vQNmo)
 - [Google CTF - "WRITEONLY" challenge [Sandbox Breakout Writeup]](https://www.youtube.com/watch?v=-u3727VFxP8)
-- [[11/10/2020] Emotet Maldoc Analysis - Embedded DLL and CertUtil for Base64 Decoding](https://www.youtube.com/watch?v=NzzS9DqPPfw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
