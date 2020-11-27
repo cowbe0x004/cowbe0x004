@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Log-Extractor](https://github.com/cbasnett/Log-Extractor)
 - [cowbe0x004 starred OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim)
 - [cowbe0x004 starred grab_beacon_config](https://github.com/whickey-r7/grab_beacon_config)
 - [cowbe0x004 starred boringproxy](https://github.com/boringproxy/boringproxy)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred phpsploit](https://github.com/nil0x42/phpsploit)
 - [cowbe0x004 starred nmap-query-xml](https://github.com/honze-net/nmap-query-xml)
 - [cowbe0x004 starred examples](https://github.com/elastic/examples)
-- [cowbe0x004 starred Awesome-Cybersecurity-Datasets](https://github.com/shramos/Awesome-Cybersecurity-Datasets)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
