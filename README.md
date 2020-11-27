@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Sorry About your WAF - Modern WAF Bypass Techniques - InfoQ QCon New York 2019](https://www.youtube.com/watch?v=nKJmgE-dYds)
 - [How attackers use built-in Windows tools for Reconnaissance.](https://www.youtube.com/watch?v=lBVfgWNyjho)
 - [A Tale of Two Hunters: Practical Approaches for Building a Threat Hunting Program](https://www.youtube.com/watch?v=BKowtsZM5Wk)
 - [STAR Webcast: Spooky RYUKy: The Return of UNC1878](https://www.youtube.com/watch?v=BhjQ6zsCVSc)
@@ -35,7 +36,6 @@
 - [Fuzzing with AFL - by Michael Macnair (Workshop)](https://www.youtube.com/watch?v=6YLz9IGAGLw)
 - [Plaso and WSL 2 - The WSL Adventures Continue...](https://www.youtube.com/watch?v=g9V6OUCe12k)
 - [Explaining the exploit we wrote and rants](https://www.youtube.com/watch?v=t-t7D0vQNmo)
-- [Google CTF - "WRITEONLY" challenge [Sandbox Breakout Writeup]](https://www.youtube.com/watch?v=-u3727VFxP8)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
