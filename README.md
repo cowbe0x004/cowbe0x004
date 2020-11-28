@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred cloudquery](https://github.com/cloudquery/cloudquery)
 - [cowbe0x004 starred restler-fuzzer](https://github.com/microsoft/restler-fuzzer)
 - [cowbe0x004 starred rest-api-fuzz-testing](https://github.com/microsoft/rest-api-fuzz-testing)
 - [cowbe0x004 starred Log-Extractor](https://github.com/cbasnett/Log-Extractor)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred rbcd_permissions](https://github.com/NinjaStyle82/rbcd_permissions)
 - [cowbe0x004 starred hackaday-u](https://github.com/wrongbaud/hackaday-u)
 - [cowbe0x004 starred Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
-- [cowbe0x004 starred phpsploit](https://github.com/nil0x42/phpsploit)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
