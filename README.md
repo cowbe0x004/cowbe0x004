@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Bash injection without letters or numbers - 33c3ctf hohoho (misc 350)](https://www.youtube.com/watch?v=6D1LnMj0Yt0)
 - [Attacking Active Directory - Bloodhound](https://www.youtube.com/watch?v=aJqjH3MsbLM)
 - [Sorry About your WAF - Modern WAF Bypass Techniques - InfoQ QCon New York 2019](https://www.youtube.com/watch?v=nKJmgE-dYds)
 - [How attackers use built-in Windows tools for Reconnaissance.](https://www.youtube.com/watch?v=lBVfgWNyjho)
@@ -35,7 +36,6 @@
 - [Practical Attacks Using HTTP Request Smuggling by @defparam #NahamCon2020](https://www.youtube.com/watch?v=3tpnuzFLU8g)
 - [CyberSecLabs - Debug - Linux [Walkthrough]](https://www.youtube.com/watch?v=J8v2QQ9ILto)
 - [Fuzzing with AFL - by Michael Macnair (Workshop)](https://www.youtube.com/watch?v=6YLz9IGAGLw)
-- [Plaso and WSL 2 - The WSL Adventures Continue...](https://www.youtube.com/watch?v=g9V6OUCe12k)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
