@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred OctopusWAF](https://github.com/CoolerVoid/OctopusWAF)
+- [cowbe0x004 starred wsb-detect](https://github.com/LloydLabs/wsb-detect)
 - [cowbe0x004 starred cloudquery](https://github.com/cloudquery/cloudquery)
 - [cowbe0x004 starred restler-fuzzer](https://github.com/microsoft/restler-fuzzer)
 - [cowbe0x004 starred rest-api-fuzz-testing](https://github.com/microsoft/rest-api-fuzz-testing)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred grab_beacon_config](https://github.com/whickey-r7/grab_beacon_config)
 - [cowbe0x004 starred boringproxy](https://github.com/boringproxy/boringproxy)
 - [cowbe0x004 starred rbcd_permissions](https://github.com/NinjaStyle82/rbcd_permissions)
-- [cowbe0x004 starred hackaday-u](https://github.com/wrongbaud/hackaday-u)
-- [cowbe0x004 starred Reverse-Engineering-Tutorial](https://github.com/mytechnotalent/Reverse-Engineering-Tutorial)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
