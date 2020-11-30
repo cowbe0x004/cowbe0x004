@@ -30,7 +30,7 @@
 - [ATTACK & DETECT | DC 9 CTF VS Security Onion](https://www.youtube.com/watch?v=ik-U8imhWAQ)
 - [Bash injection without letters or numbers - 33c3ctf hohoho (misc 350)](https://www.youtube.com/watch?v=6D1LnMj0Yt0)
 - [Attacking Active Directory - Bloodhound](https://www.youtube.com/watch?v=aJqjH3MsbLM)
-- [Sorry About your WAF - Modern WAF Bypass Techniques - InfoQ QCon New York 2019](https://www.youtube.com/watch?v=nKJmgE-dYds)
+- [WAF Anti-Bot Bypasses - Johnny Xmas - InfoQ QCon New York 2019](https://www.youtube.com/watch?v=nKJmgE-dYds)
 - [How attackers use built-in Windows tools for Reconnaissance.](https://www.youtube.com/watch?v=lBVfgWNyjho)
 - [A Tale of Two Hunters: Practical Approaches for Building a Threat Hunting Program](https://www.youtube.com/watch?v=BKowtsZM5Wk)
 - [STAR Webcast: Spooky RYUKy: The Return of UNC1878](https://www.youtube.com/watch?v=BhjQ6zsCVSc)
