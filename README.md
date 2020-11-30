@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PrivescCheck](https://github.com/itm4n/PrivescCheck)
 - [cowbe0x004 starred croc](https://github.com/schollz/croc)
 - [cowbe0x004 starred OctopusWAF](https://github.com/CoolerVoid/OctopusWAF)
 - [cowbe0x004 starred wsb-detect](https://github.com/LloydLabs/wsb-detect)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Log-Extractor](https://github.com/cbasnett/Log-Extractor)
 - [cowbe0x004 starred OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim)
 - [cowbe0x004 starred grab_beacon_config](https://github.com/whickey-r7/grab_beacon_config)
-- [cowbe0x004 starred boringproxy](https://github.com/boringproxy/boringproxy)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
