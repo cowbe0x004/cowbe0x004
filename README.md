@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Damn-Vulnerable-WooCommerce-Plugins](https://github.com/parzel/Damn-Vulnerable-WooCommerce-Plugins)
 - [cowbe0x004 starred BruteShark](https://github.com/odedshimon/BruteShark)
 - [cowbe0x004 starred PrivescCheck](https://github.com/itm4n/PrivescCheck)
 - [cowbe0x004 starred croc](https://github.com/schollz/croc)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred restler-fuzzer](https://github.com/microsoft/restler-fuzzer)
 - [cowbe0x004 starred rest-api-fuzz-testing](https://github.com/microsoft/rest-api-fuzz-testing)
 - [cowbe0x004 starred Log-Extractor](https://github.com/cbasnett/Log-Extractor)
-- [cowbe0x004 starred OffensiveNim](https://github.com/byt3bl33d3r/OffensiveNim)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
