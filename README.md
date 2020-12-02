@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT ¬ whickey: I found a way to download arbitrary files with AppInstaller.exe (signed by MS). start ms-appinstaller://?source=<url> `start` calls the...](https://twitter.com/notwhickey/status/1333900137232523264)
 - [Threat Hunting Summit - [Workshop] Threat Hunting with VirusTotal - Black Belt Edition](https://twitter.com/cowbe0x004/status/1329101788662915080)
 - [Threat Hunting Summit - Evolving Threat Hunting to Adversary Hunting](https://twitter.com/cowbe0x004/status/1329101751740477443)
 - [Threat Hunting Summit - YARA Bootcamp](https://twitter.com/cowbe0x004/status/1329091504237912064)
 - [RT Md. Foysal: Bug Bounty Tips This is how to find sql-Injection 100% of the time /?q=1 /?q=1' /?q=1" /?q=[1] /?q[]=1 /?q=1` /?q=1\ /?q=1/*'*/ /?q=1/*...](https://twitter.com/foysal_127000/status/1326771530278334466)
-- [RT Jake Williams: Let's do something fun. Since everyone who follows me has likely already voted (or doesn't live in the US), reply here with your fav...](https://twitter.com/MalwareJake/status/1323621891211481094)
 <!-- TWEETS:END -->
 
 ---
