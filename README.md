@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Workshop: Linux and Security Basics Hands On | Bill Stearns | 4 Hours](https://www.youtube.com/watch?v=35HCzGxGK94)
 - [Finding Users Cookies with Reflective Cross Site Scripting - TryHackMe](https://www.youtube.com/watch?v=0X-9iigwyro)
 - [Scapy and Python Part 3 - Crafting Customized Packets](https://www.youtube.com/watch?v=0xcr_UH4sNU)
 - [ATTACK & DETECT | DC 9 CTF VS Security Onion](https://www.youtube.com/watch?v=ik-U8imhWAQ)
@@ -35,7 +36,6 @@
 - [How attackers use built-in Windows tools for Reconnaissance.](https://www.youtube.com/watch?v=lBVfgWNyjho)
 - [A Tale of Two Hunters: Practical Approaches for Building a Threat Hunting Program](https://www.youtube.com/watch?v=BKowtsZM5Wk)
 - [STAR Webcast: Spooky RYUKy: The Return of UNC1878](https://www.youtube.com/watch?v=BhjQ6zsCVSc)
-- [3MinMax - Episode 144: Encryption - Part 20 - Diffie Hellman Key Exchange 3](https://www.youtube.com/watch?v=TZb-Clw66wI)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
