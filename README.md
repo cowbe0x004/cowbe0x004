@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT The DFIR Report: December is the month of giving, therefore... We're giving away a few DFIR Report t-shirts! Please like or RT for a chance to win ...](https://twitter.com/TheDFIRReport/status/1334912611180285953)
 - [RT BlindHacker: How about a Giveaway Poll Give Away Friday 3 @CompTIA Security + Cert Vouchers,  1 @offsectraining PWK Course / OSCP exam take  30 Hac...](https://twitter.com/TheBlindHacker/status/1334171448022339584)
 - [RT ¬ whickey: I found a way to download arbitrary files with AppInstaller.exe (signed by MS). start ms-appinstaller://?source=<url> `start` calls the...](https://twitter.com/notwhickey/status/1333900137232523264)
 - [Threat Hunting Summit - [Workshop] Threat Hunting with VirusTotal - Black Belt Edition](https://twitter.com/cowbe0x004/status/1329101788662915080)
 - [Threat Hunting Summit - Evolving Threat Hunting to Adversary Hunting](https://twitter.com/cowbe0x004/status/1329101751740477443)
-- [Threat Hunting Summit - YARA Bootcamp](https://twitter.com/cowbe0x004/status/1329091504237912064)
 <!-- TWEETS:END -->
 
 ---
