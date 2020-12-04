@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SharpMapExec](https://github.com/cube0x0/SharpMapExec)
 - [cowbe0x004 starred Invoke-Adversary](https://github.com/CyberMonitor/Invoke-Adversary)
 - [cowbe0x004 starred ImHex](https://github.com/WerWolv/ImHex)
 - [cowbe0x004 starred PDF_analysis](https://github.com/zbetcheckin/PDF_analysis)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred PrivescCheck](https://github.com/itm4n/PrivescCheck)
 - [cowbe0x004 starred croc](https://github.com/schollz/croc)
 - [cowbe0x004 starred OctopusWAF](https://github.com/CoolerVoid/OctopusWAF)
-- [cowbe0x004 starred wsb-detect](https://github.com/LloydLabs/wsb-detect)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
