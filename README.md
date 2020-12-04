@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Invoke-Adversary](https://github.com/CyberMonitor/Invoke-Adversary)
+- [cowbe0x004 starred ImHex](https://github.com/WerWolv/ImHex)
 - [cowbe0x004 starred PDF_analysis](https://github.com/zbetcheckin/PDF_analysis)
 - [cowbe0x004 starred tracee](https://github.com/aquasecurity/tracee)
 - [cowbe0x004 starred Damn-Vulnerable-WooCommerce-Plugins](https://github.com/parzel/Damn-Vulnerable-WooCommerce-Plugins)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred croc](https://github.com/schollz/croc)
 - [cowbe0x004 starred OctopusWAF](https://github.com/CoolerVoid/OctopusWAF)
 - [cowbe0x004 starred wsb-detect](https://github.com/LloydLabs/wsb-detect)
-- [cowbe0x004 starred cloudquery](https://github.com/cloudquery/cloudquery)
-- [cowbe0x004 starred restler-fuzzer](https://github.com/microsoft/restler-fuzzer)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
