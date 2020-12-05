@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred stegseek](https://github.com/RickdeJager/stegseek)
 - [cowbe0x004 starred SharpMapExec](https://github.com/cube0x0/SharpMapExec)
 - [cowbe0x004 starred Invoke-Adversary](https://github.com/CyberMonitor/Invoke-Adversary)
 - [cowbe0x004 starred ImHex](https://github.com/WerWolv/ImHex)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred BruteShark](https://github.com/odedshimon/BruteShark)
 - [cowbe0x004 starred PrivescCheck](https://github.com/itm4n/PrivescCheck)
 - [cowbe0x004 starred croc](https://github.com/schollz/croc)
-- [cowbe0x004 starred OctopusWAF](https://github.com/CoolerVoid/OctopusWAF)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
