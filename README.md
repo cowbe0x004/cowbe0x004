@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred evtx](https://github.com/Velocidex/evtx)
 - [cowbe0x004 starred rmiscout](https://github.com/BishopFox/rmiscout)
 - [cowbe0x004 starred stegseek](https://github.com/RickdeJager/stegseek)
 - [cowbe0x004 starred SharpMapExec](https://github.com/cube0x0/SharpMapExec)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred tracee](https://github.com/aquasecurity/tracee)
 - [cowbe0x004 starred Damn-Vulnerable-WooCommerce-Plugins](https://github.com/parzel/Damn-Vulnerable-WooCommerce-Plugins)
 - [cowbe0x004 starred BruteShark](https://github.com/odedshimon/BruteShark)
-- [cowbe0x004 starred PrivescCheck](https://github.com/itm4n/PrivescCheck)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
