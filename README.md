@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [cowbe0x004 starred xss-payload-list](https://github.com/payloadbox/xss-payload-list)
 - [cowbe0x004 starred secure-wireguard-implementation](https://github.com/BetterWayElectronics/secure-wireguard-implementation)
 - [cowbe0x004 starred sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SharpMapExec](https://github.com/cube0x0/SharpMapExec)
 - [cowbe0x004 starred Invoke-Adversary](https://github.com/CyberMonitor/Invoke-Adversary)
 - [cowbe0x004 starred ImHex](https://github.com/WerWolv/ImHex)
-- [cowbe0x004 starred PDF_analysis](https://github.com/zbetcheckin/PDF_analysis)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
