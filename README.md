@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred xss-payload-list](https://github.com/payloadbox/xss-payload-list)
+- [cowbe0x004 starred secure-wireguard-implementation](https://github.com/BetterWayElectronics/secure-wireguard-implementation)
 - [cowbe0x004 starred sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list)
 - [cowbe0x004 starred evtx](https://github.com/Velocidex/evtx)
 - [cowbe0x004 starred rmiscout](https://github.com/BishopFox/rmiscout)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Invoke-Adversary](https://github.com/CyberMonitor/Invoke-Adversary)
 - [cowbe0x004 starred ImHex](https://github.com/WerWolv/ImHex)
 - [cowbe0x004 starred PDF_analysis](https://github.com/zbetcheckin/PDF_analysis)
-- [cowbe0x004 starred tracee](https://github.com/aquasecurity/tracee)
-- [cowbe0x004 starred Damn-Vulnerable-WooCommerce-Plugins](https://github.com/parzel/Damn-Vulnerable-WooCommerce-Plugins)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
