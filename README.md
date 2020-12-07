@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [🚀 LLMNR /NBT-NS | SMB Relay | Responder | Impacket | Hashcat | MS AD (GPO) | Attack & Defense 🛡️](https://www.youtube.com/watch?v=gL-HwtyB4ns)
 - [BSidesAugusta 2018 - Justin Kohler & Patrick Perry - Objectively Measuring Hunt Value](https://www.youtube.com/watch?v=23v_LCObNbs)
 - [Workshop: Linux and Security Basics Hands On | Bill Stearns | 4 Hours](https://www.youtube.com/watch?v=35HCzGxGK94)
 - [Finding Users Cookies with Reflective Cross Site Scripting - TryHackMe](https://www.youtube.com/watch?v=0X-9iigwyro)
@@ -35,7 +36,6 @@
 - [Attacking Active Directory - Bloodhound](https://www.youtube.com/watch?v=aJqjH3MsbLM)
 - [WAF Anti-Bot Bypasses - Johnny Xmas - InfoQ QCon New York 2019](https://www.youtube.com/watch?v=nKJmgE-dYds)
 - [How attackers use built-in Windows tools for Reconnaissance.](https://www.youtube.com/watch?v=lBVfgWNyjho)
-- [A Tale of Two Hunters: Practical Approaches for Building a Threat Hunting Program](https://www.youtube.com/watch?v=BKowtsZM5Wk)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
