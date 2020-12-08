@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred awesome-azure-security](https://github.com/kmcquade/awesome-azure-security)
 - [cowbe0x004 starred the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [cowbe0x004 starred xss-payload-list](https://github.com/payloadbox/xss-payload-list)
 - [cowbe0x004 starred secure-wireguard-implementation](https://github.com/BetterWayElectronics/secure-wireguard-implementation)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred stegseek](https://github.com/RickdeJager/stegseek)
 - [cowbe0x004 starred SharpMapExec](https://github.com/cube0x0/SharpMapExec)
 - [cowbe0x004 starred Invoke-Adversary](https://github.com/CyberMonitor/Invoke-Adversary)
-- [cowbe0x004 starred ImHex](https://github.com/WerWolv/ImHex)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
