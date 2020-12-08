@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred red_team_tool_countermeasures](https://github.com/fireeye/red_team_tool_countermeasures)
 - [cowbe0x004 starred awesome-azure-security](https://github.com/kmcquade/awesome-azure-security)
 - [cowbe0x004 starred the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 - [cowbe0x004 starred xss-payload-list](https://github.com/payloadbox/xss-payload-list)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred rmiscout](https://github.com/BishopFox/rmiscout)
 - [cowbe0x004 starred stegseek](https://github.com/RickdeJager/stegseek)
 - [cowbe0x004 starred SharpMapExec](https://github.com/cube0x0/SharpMapExec)
-- [cowbe0x004 starred Invoke-Adversary](https://github.com/CyberMonitor/Invoke-Adversary)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
