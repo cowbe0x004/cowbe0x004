@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
 - [cowbe0x004 starred Exegol](https://github.com/ShutdownRepo/Exegol)
 - [cowbe0x004 starred red_team_tool_countermeasures](https://github.com/fireeye/red_team_tool_countermeasures)
 - [cowbe0x004 starred awesome-azure-security](https://github.com/kmcquade/awesome-azure-security)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list)
 - [cowbe0x004 starred evtx](https://github.com/Velocidex/evtx)
 - [cowbe0x004 starred rmiscout](https://github.com/BishopFox/rmiscout)
-- [cowbe0x004 starred stegseek](https://github.com/RickdeJager/stegseek)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
