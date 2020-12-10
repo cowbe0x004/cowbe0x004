@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred static-analysis](https://github.com/analysis-tools-dev/static-analysis)
 - [cowbe0x004 starred Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
 - [cowbe0x004 starred Exegol](https://github.com/ShutdownRepo/Exegol)
 - [cowbe0x004 starred red_team_tool_countermeasures](https://github.com/fireeye/red_team_tool_countermeasures)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred secure-wireguard-implementation](https://github.com/BetterWayElectronics/secure-wireguard-implementation)
 - [cowbe0x004 starred sql-injection-payload-list](https://github.com/payloadbox/sql-injection-payload-list)
 - [cowbe0x004 starred evtx](https://github.com/Velocidex/evtx)
-- [cowbe0x004 starred rmiscout](https://github.com/BishopFox/rmiscout)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
