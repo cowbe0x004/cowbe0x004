@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [How to exploit Buffer Overflow with ret2libc | Full Practical](https://www.youtube.com/watch?v=q-2O4XuLZAU)
 - [Agila - Forensic Real-Time Threat Analyzer: Overview and Introduction to Universal Threat Repository](https://www.youtube.com/watch?v=aXlaZXq-GY4)
 - [Tom Liston, Random Facts About Mersenne Twisters | KringleCon 2020](https://www.youtube.com/watch?v=Jo5Nlbqd-Vg)
 - [🚀 LLMNR /NBT-NS | SMB Relay | Responder | Impacket | Hashcat | MS AD (GPO) | Attack & Defense 🛡️](https://www.youtube.com/watch?v=gL-HwtyB4ns)
@@ -35,7 +36,6 @@
 - [Scapy and Python Part 3 - Crafting Customized Packets](https://www.youtube.com/watch?v=0xcr_UH4sNU)
 - [ATTACK & DETECT | DC 9 CTF VS Security Onion](https://www.youtube.com/watch?v=ik-U8imhWAQ)
 - [Bash injection without letters or numbers - 33c3ctf hohoho (misc 350)](https://www.youtube.com/watch?v=6D1LnMj0Yt0)
-- [Attacking Active Directory - Bloodhound](https://www.youtube.com/watch?v=aJqjH3MsbLM)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
