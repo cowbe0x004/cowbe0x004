@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Tom Liston, Random Facts About Mersenne Twisters | KringleCon 2020](https://www.youtube.com/watch?v=Jo5Nlbqd-Vg)
 - [🚀 LLMNR /NBT-NS | SMB Relay | Responder | Impacket | Hashcat | MS AD (GPO) | Attack & Defense 🛡️](https://www.youtube.com/watch?v=gL-HwtyB4ns)
 - [BSidesAugusta 2018 - Justin Kohler & Patrick Perry - Objectively Measuring Hunt Value](https://www.youtube.com/watch?v=23v_LCObNbs)
 - [Workshop: Linux and Security Basics Hands On | Bill Stearns | 4 Hours](https://www.youtube.com/watch?v=35HCzGxGK94)
@@ -35,7 +36,6 @@
 - [Bash injection without letters or numbers - 33c3ctf hohoho (misc 350)](https://www.youtube.com/watch?v=6D1LnMj0Yt0)
 - [Attacking Active Directory - Bloodhound](https://www.youtube.com/watch?v=aJqjH3MsbLM)
 - [WAF Anti-Bot Bypasses - Johnny Xmas - InfoQ QCon New York 2019](https://www.youtube.com/watch?v=nKJmgE-dYds)
-- [How attackers use built-in Windows tools for Reconnaissance.](https://www.youtube.com/watch?v=lBVfgWNyjho)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
