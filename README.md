@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred VBA-macro-experiments](https://github.com/Adepts-Of-0xCC/VBA-macro-experiments)
 - [cowbe0x004 starred naabu](https://github.com/projectdiscovery/naabu)
 - [cowbe0x004 starred Damn_Vulnerable_C_Program](https://github.com/hardik05/Damn_Vulnerable_C_Program)
 - [cowbe0x004 starred xcyclopedia](https://github.com/strontic/xcyclopedia)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Exegol](https://github.com/ShutdownRepo/Exegol)
 - [cowbe0x004 starred red_team_tool_countermeasures](https://github.com/fireeye/red_team_tool_countermeasures)
 - [cowbe0x004 starred awesome-azure-security](https://github.com/kmcquade/awesome-azure-security)
-- [cowbe0x004 starred the-book-of-secret-knowledge](https://github.com/trimstray/the-book-of-secret-knowledge)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
