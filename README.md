@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Cuddling the Cozy Bear, Emulating APT29 by Jorge Orchilles - Cyber Junegle DEF CON Red Team Village](https://www.youtube.com/watch?v=Fa4GHF_OVVc)
 - [How to exploit Buffer Overflow with ret2libc | Full Practical](https://www.youtube.com/watch?v=q-2O4XuLZAU)
 - [Agila - Forensic Real-Time Threat Analyzer: Overview and Introduction to Universal Threat Repository](https://www.youtube.com/watch?v=aXlaZXq-GY4)
 - [Tom Liston, Random Facts About Mersenne Twisters | KringleCon 2020](https://www.youtube.com/watch?v=Jo5Nlbqd-Vg)
@@ -35,7 +36,6 @@
 - [Finding Users Cookies with Reflective Cross Site Scripting - TryHackMe](https://www.youtube.com/watch?v=0X-9iigwyro)
 - [Scapy and Python Part 3 - Crafting Customized Packets](https://www.youtube.com/watch?v=0xcr_UH4sNU)
 - [ATTACK & DETECT | DC 9 CTF VS Security Onion](https://www.youtube.com/watch?v=ik-U8imhWAQ)
-- [Bash injection without letters or numbers - 33c3ctf hohoho (misc 350)](https://www.youtube.com/watch?v=6D1LnMj0Yt0)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
