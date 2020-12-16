@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred openedr](https://github.com/ComodoSecurity/openedr)
 - [cowbe0x004 starred community](https://github.com/preludeorg/community)
 - [cowbe0x004 starred BurpSuite_403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser)
 - [cowbe0x004 starred hypercore](https://github.com/hypercore-protocol/hypercore)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred xcyclopedia](https://github.com/strontic/xcyclopedia)
 - [cowbe0x004 starred sslh](https://github.com/yrutschle/sslh)
 - [cowbe0x004 starred static-analysis](https://github.com/analysis-tools-dev/static-analysis)
-- [cowbe0x004 starred Bash-Oneliner](https://github.com/onceupon/Bash-Oneliner)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
