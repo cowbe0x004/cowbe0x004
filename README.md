@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Dissecting EggHunter on Exploit Development - Vinícius Vieira (aka. v1n1v131r4)](https://www.youtube.com/watch?v=OTP3TuzxqlM)
 - [IDA Pro - Leveraging the Universal Unpacker Manual Reconstruct](https://www.youtube.com/watch?v=U0PGLNycqYI)
 - [12 Days of Defense - Day 5: How Windows Security Logging Works](https://www.youtube.com/watch?v=JzLvo4ERDpo)
 - [Cuddling the Cozy Bear, Emulating APT29 by Jorge Orchilles - Cyber Junegle DEF CON Red Team Village](https://www.youtube.com/watch?v=Fa4GHF_OVVc)
@@ -35,7 +36,6 @@
 - [🚀 LLMNR /NBT-NS | SMB Relay | Responder | Impacket | Hashcat | MS AD (GPO) | Attack & Defense 🛡️](https://www.youtube.com/watch?v=gL-HwtyB4ns)
 - [BSidesAugusta 2018 - Justin Kohler & Patrick Perry - Objectively Measuring Hunt Value](https://www.youtube.com/watch?v=23v_LCObNbs)
 - [Workshop: Linux and Security Basics Hands On | Bill Stearns | 4 Hours](https://www.youtube.com/watch?v=35HCzGxGK94)
-- [Finding Users Cookies with Reflective Cross Site Scripting - TryHackMe](https://www.youtube.com/watch?v=0X-9iigwyro)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
