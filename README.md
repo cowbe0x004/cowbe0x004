@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks)
 - [cowbe0x004 starred yersinia](https://github.com/tomac/yersinia)
 - [cowbe0x004 starred scrcpy](https://github.com/Genymobile/scrcpy)
 - [cowbe0x004 starred blue-teaming-with-kql](https://github.com/ashwin-patil/blue-teaming-with-kql)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred hypercore](https://github.com/hypercore-protocol/hypercore)
 - [cowbe0x004 starred VBA-macro-experiments](https://github.com/Adepts-Of-0xCC/VBA-macro-experiments)
 - [cowbe0x004 starred naabu](https://github.com/projectdiscovery/naabu)
-- [cowbe0x004 starred Damn_Vulnerable_C_Program](https://github.com/hardik05/Damn_Vulnerable_C_Program)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
