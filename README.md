@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [[AGILA] RUN NETMON - In-depth Review of Agila's  Realtime Network Monitoring Feature](https://www.youtube.com/watch?v=-CntTLbY1F8)
 - [Dissecting EggHunter on Exploit Development - Vinícius Vieira (aka. v1n1v131r4)](https://www.youtube.com/watch?v=OTP3TuzxqlM)
 - [IDA Pro - Leveraging the Universal Unpacker Manual Reconstruct](https://www.youtube.com/watch?v=U0PGLNycqYI)
 - [12 Days of Defense - Day 5: How Windows Security Logging Works](https://www.youtube.com/watch?v=JzLvo4ERDpo)
@@ -35,7 +36,6 @@
 - [Tom Liston, Random Facts About Mersenne Twisters | KringleCon 2020](https://www.youtube.com/watch?v=Jo5Nlbqd-Vg)
 - [🚀 LLMNR /NBT-NS | SMB Relay | Responder | Impacket | Hashcat | MS AD (GPO) | Attack & Defense 🛡️](https://www.youtube.com/watch?v=gL-HwtyB4ns)
 - [BSidesAugusta 2018 - Justin Kohler & Patrick Perry - Objectively Measuring Hunt Value](https://www.youtube.com/watch?v=23v_LCObNbs)
-- [Workshop: Linux and Security Basics Hands On | Bill Stearns | 4 Hours](https://www.youtube.com/watch?v=35HCzGxGK94)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
