@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SolarwindsVulnerablityInfo](https://github.com/eanmeyer/SolarwindsVulnerablityInfo)
 - [cowbe0x004 starred ILSpy](https://github.com/icsharpcode/ILSpy)
 - [cowbe0x004 starred Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks)
 - [cowbe0x004 starred yersinia](https://github.com/tomac/yersinia)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred community](https://github.com/preludeorg/community)
 - [cowbe0x004 starred BurpSuite_403Bypasser](https://github.com/sting8k/BurpSuite_403Bypasser)
 - [cowbe0x004 starred hypercore](https://github.com/hypercore-protocol/hypercore)
-- [cowbe0x004 starred VBA-macro-experiments](https://github.com/Adepts-Of-0xCC/VBA-macro-experiments)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
