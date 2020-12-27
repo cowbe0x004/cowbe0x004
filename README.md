@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ThreadJect](https://github.com/D4stiny/ThreadJect)
 - [cowbe0x004 starred Sparrow](https://github.com/cisagov/Sparrow)
 - [cowbe0x004 starred owncast](https://github.com/owncast/owncast)
 - [cowbe0x004 starred SolarwindsVulnerablityInfo](https://github.com/eanmeyer/SolarwindsVulnerablityInfo)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred scrcpy](https://github.com/Genymobile/scrcpy)
 - [cowbe0x004 starred blue-teaming-with-kql](https://github.com/ashwin-patil/blue-teaming-with-kql)
 - [cowbe0x004 starred openedr](https://github.com/ComodoSecurity/openedr)
-- [cowbe0x004 starred community](https://github.com/preludeorg/community)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
