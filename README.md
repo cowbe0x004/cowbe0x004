@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike)
 - [cowbe0x004 starred Vulnerable-Kext](https://github.com/ant4g0nist/Vulnerable-Kext)
 - [cowbe0x004 starred ThreadJect](https://github.com/D4stiny/ThreadJect)
 - [cowbe0x004 starred Sparrow](https://github.com/cisagov/Sparrow)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks)
 - [cowbe0x004 starred yersinia](https://github.com/tomac/yersinia)
 - [cowbe0x004 starred scrcpy](https://github.com/Genymobile/scrcpy)
-- [cowbe0x004 starred blue-teaming-with-kql](https://github.com/ashwin-patil/blue-teaming-with-kql)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
