@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred NetRipper](https://github.com/NytroRST/NetRipper)
 - [cowbe0x004 starred awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 - [cowbe0x004 starred Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike)
 - [cowbe0x004 starred Vulnerable-Kext](https://github.com/ant4g0nist/Vulnerable-Kext)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SolarwindsVulnerablityInfo](https://github.com/eanmeyer/SolarwindsVulnerablityInfo)
 - [cowbe0x004 starred ILSpy](https://github.com/icsharpcode/ILSpy)
 - [cowbe0x004 starred Hacking-Security-Ebooks](https://github.com/yeahhub/Hacking-Security-Ebooks)
-- [cowbe0x004 starred yersinia](https://github.com/tomac/yersinia)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
