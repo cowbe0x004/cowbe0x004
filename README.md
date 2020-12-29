@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Investigating WMI Attacks](https://www.youtube.com/watch?v=aBQ1vEjK6v4)
+- [SANS DFIR Webcast - Incident Response Event Log Analysis](https://www.youtube.com/watch?v=Xw536W7kbDQ)
 - [[AGILA] RUN NETMON - In-depth Review of Agila's  Realtime Network Monitoring Feature](https://www.youtube.com/watch?v=-CntTLbY1F8)
 - [Dissecting EggHunter on Exploit Development - Vinícius Vieira (aka. v1n1v131r4)](https://www.youtube.com/watch?v=OTP3TuzxqlM)
 - [IDA Pro - Leveraging the Universal Unpacker Manual Reconstruct](https://www.youtube.com/watch?v=U0PGLNycqYI)
@@ -34,8 +36,6 @@
 - [How to exploit Buffer Overflow with ret2libc | Full Practical](https://www.youtube.com/watch?v=q-2O4XuLZAU)
 - [Agila - Forensic Real-Time Threat Analyzer: Overview and Introduction to Universal Threat Repository](https://www.youtube.com/watch?v=aXlaZXq-GY4)
 - [Tom Liston, Random Facts About Mersenne Twisters | KringleCon 2020](https://www.youtube.com/watch?v=Jo5Nlbqd-Vg)
-- [🚀 LLMNR /NBT-NS | SMB Relay | Responder | Impacket | Hashcat | MS AD (GPO) | Attack & Defense 🛡️](https://www.youtube.com/watch?v=gL-HwtyB4ns)
-- [BSidesAugusta 2018 - Justin Kohler & Patrick Perry - Objectively Measuring Hunt Value](https://www.youtube.com/watch?v=23v_LCObNbs)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
