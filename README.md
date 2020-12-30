@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred opencve](https://github.com/opencve/opencve)
 - [cowbe0x004 starred yara-rules](https://github.com/StefanKelm/yara-rules)
 - [cowbe0x004 starred NetRipper](https://github.com/NytroRST/NetRipper)
 - [cowbe0x004 starred awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Sparrow](https://github.com/cisagov/Sparrow)
 - [cowbe0x004 starred owncast](https://github.com/owncast/owncast)
 - [cowbe0x004 starred SolarwindsVulnerablityInfo](https://github.com/eanmeyer/SolarwindsVulnerablityInfo)
-- [cowbe0x004 starred ILSpy](https://github.com/icsharpcode/ILSpy)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
