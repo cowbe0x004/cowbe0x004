@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Decoding Malicious PowerShell Activity](https://www.youtube.com/watch?v=FJpkI8Rsinw)
 - [Investigating WMI Attacks](https://www.youtube.com/watch?v=aBQ1vEjK6v4)
 - [SANS DFIR Webcast - Incident Response Event Log Analysis](https://www.youtube.com/watch?v=Xw536W7kbDQ)
 - [[AGILA] RUN NETMON - In-depth Review of Agila's  Realtime Network Monitoring Feature](https://www.youtube.com/watch?v=-CntTLbY1F8)
@@ -35,7 +36,6 @@
 - [Cuddling the Cozy Bear, Emulating APT29 by Jorge Orchilles - Cyber Junegle DEF CON Red Team Village](https://www.youtube.com/watch?v=Fa4GHF_OVVc)
 - [How to exploit Buffer Overflow with ret2libc | Full Practical](https://www.youtube.com/watch?v=q-2O4XuLZAU)
 - [Agila - Forensic Real-Time Threat Analyzer: Overview and Introduction to Universal Threat Repository](https://www.youtube.com/watch?v=aXlaZXq-GY4)
-- [Tom Liston, Random Facts About Mersenne Twisters | KringleCon 2020](https://www.youtube.com/watch?v=Jo5Nlbqd-Vg)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
