@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Antivirus-Artifacts](https://github.com/D3VI5H4/Antivirus-Artifacts)
 - [cowbe0x004 starred shellex](https://github.com/David-Reguera-Garcia-Dreg/shellex)
 - [cowbe0x004 starred opencve](https://github.com/opencve/opencve)
 - [cowbe0x004 starred yara-rules](https://github.com/StefanKelm/yara-rules)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Vulnerable-Kext](https://github.com/ant4g0nist/Vulnerable-Kext)
 - [cowbe0x004 starred ThreadJect](https://github.com/D4stiny/ThreadJect)
 - [cowbe0x004 starred Sparrow](https://github.com/cisagov/Sparrow)
-- [cowbe0x004 starred owncast](https://github.com/owncast/owncast)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
