@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [How to unpack FlawedAmmyy - Malware Unpacking Tutorial](https://www.youtube.com/watch?v=D1-O19AwW8U)
+- [How to Unpack Ramnit Dropper - Malware Unpacking Tutorial 2](https://www.youtube.com/watch?v=l6ZunH6YG0A)
 - [Decoding Malicious PowerShell Activity](https://www.youtube.com/watch?v=FJpkI8Rsinw)
 - [Investigating WMI Attacks](https://www.youtube.com/watch?v=aBQ1vEjK6v4)
 - [SANS DFIR Webcast - Incident Response Event Log Analysis](https://www.youtube.com/watch?v=Xw536W7kbDQ)
@@ -34,8 +36,6 @@
 - [IDA Pro - Leveraging the Universal Unpacker Manual Reconstruct](https://www.youtube.com/watch?v=U0PGLNycqYI)
 - [12 Days of Defense - Day 5: How Windows Security Logging Works](https://www.youtube.com/watch?v=JzLvo4ERDpo)
 - [Cuddling the Cozy Bear, Emulating APT29 by Jorge Orchilles - Cyber Junegle DEF CON Red Team Village](https://www.youtube.com/watch?v=Fa4GHF_OVVc)
-- [How to exploit Buffer Overflow with ret2libc | Full Practical](https://www.youtube.com/watch?v=q-2O4XuLZAU)
-- [Agila - Forensic Real-Time Threat Analyzer: Overview and Introduction to Universal Threat Repository](https://www.youtube.com/watch?v=aXlaZXq-GY4)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
