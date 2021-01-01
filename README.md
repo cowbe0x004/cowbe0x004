@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred r2con2019](https://github.com/radareorg/r2con2019)
 - [cowbe0x004 starred Antivirus-Artifacts](https://github.com/D3VI5H4/Antivirus-Artifacts)
 - [cowbe0x004 starred shellex](https://github.com/David-Reguera-Garcia-Dreg/shellex)
 - [cowbe0x004 starred opencve](https://github.com/opencve/opencve)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike)
 - [cowbe0x004 starred Vulnerable-Kext](https://github.com/ant4g0nist/Vulnerable-Kext)
 - [cowbe0x004 starred ThreadJect](https://github.com/D4stiny/ThreadJect)
+- [cowbe0x004 starred Sparrow](https://github.com/cisagov/Sparrow)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
