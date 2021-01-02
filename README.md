@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [MITRE CTF 2019 - Linux [50] Escaping RBASH with SSH](https://www.youtube.com/watch?v=MEGBY3XAe_4)
 - [How to unpack FlawedAmmyy - Malware Unpacking Tutorial](https://www.youtube.com/watch?v=D1-O19AwW8U)
 - [How to Unpack Ramnit Dropper - Malware Unpacking Tutorial 2](https://www.youtube.com/watch?v=l6ZunH6YG0A)
 - [Decoding Malicious PowerShell Activity](https://www.youtube.com/watch?v=FJpkI8Rsinw)
@@ -35,7 +36,6 @@
 - [Dissecting EggHunter on Exploit Development - Vinícius Vieira (aka. v1n1v131r4)](https://www.youtube.com/watch?v=OTP3TuzxqlM)
 - [IDA Pro - Leveraging the Universal Unpacker Manual Reconstruct](https://www.youtube.com/watch?v=U0PGLNycqYI)
 - [12 Days of Defense - Day 5: How Windows Security Logging Works](https://www.youtube.com/watch?v=JzLvo4ERDpo)
-- [Cuddling the Cozy Bear, Emulating APT29 by Jorge Orchilles - Cyber Junegle DEF CON Red Team Village](https://www.youtube.com/watch?v=Fa4GHF_OVVc)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
