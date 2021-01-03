@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Android_Security](https://github.com/anantshri/Android_Security)
 - [cowbe0x004 starred Awesome-CobaltStrike-Defence](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence)
 - [cowbe0x004 starred r2con2019](https://github.com/radareorg/r2con2019)
 - [cowbe0x004 starred Antivirus-Artifacts](https://github.com/D3VI5H4/Antivirus-Artifacts)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred NetRipper](https://github.com/NytroRST/NetRipper)
 - [cowbe0x004 starred awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 - [cowbe0x004 starred Awesome-CobaltStrike](https://github.com/zer0yu/Awesome-CobaltStrike)
-- [cowbe0x004 starred Vulnerable-Kext](https://github.com/ant4g0nist/Vulnerable-Kext)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
