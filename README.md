@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred winreg-kb](https://github.com/libyal/winreg-kb)
 - [cowbe0x004 starred ThreatHunting_with_Osquery](https://github.com/Kirtar22/ThreatHunting_with_Osquery)
 - [cowbe0x004 starred Android_Security](https://github.com/anantshri/Android_Security)
 - [cowbe0x004 starred Awesome-CobaltStrike-Defence](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred opencve](https://github.com/opencve/opencve)
 - [cowbe0x004 starred yara-rules](https://github.com/StefanKelm/yara-rules)
 - [cowbe0x004 starred NetRipper](https://github.com/NytroRST/NetRipper)
-- [cowbe0x004 starred awesome-cybersecurity-blueteam](https://github.com/fabacab/awesome-cybersecurity-blueteam)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
