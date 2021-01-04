@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Achieving SOC Operational Efficiency for Azure Sentinel Hunting](https://www.youtube.com/watch?v=Bl-pTy1YSks)
 - [MITRE CTF 2019 - Linux [50] Escaping RBASH with SSH](https://www.youtube.com/watch?v=MEGBY3XAe_4)
 - [How to unpack FlawedAmmyy - Malware Unpacking Tutorial](https://www.youtube.com/watch?v=D1-O19AwW8U)
 - [How to Unpack Ramnit Dropper - Malware Unpacking Tutorial 2](https://www.youtube.com/watch?v=l6ZunH6YG0A)
@@ -35,7 +36,6 @@
 - [[AGILA] RUN NETMON - In-depth Review of Agila's  Realtime Network Monitoring Feature](https://www.youtube.com/watch?v=-CntTLbY1F8)
 - [Dissecting EggHunter on Exploit Development - Vinícius Vieira (aka. v1n1v131r4)](https://www.youtube.com/watch?v=OTP3TuzxqlM)
 - [IDA Pro - Leveraging the Universal Unpacker Manual Reconstruct](https://www.youtube.com/watch?v=U0PGLNycqYI)
-- [12 Days of Defense - Day 5: How Windows Security Logging Works](https://www.youtube.com/watch?v=JzLvo4ERDpo)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
