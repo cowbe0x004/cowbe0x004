@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Security-Research](https://github.com/RhinoSecurityLabs/Security-Research)
 - [cowbe0x004 starred karton](https://github.com/CERT-Polska/karton)
 - [cowbe0x004 starred winreg-kb](https://github.com/libyal/winreg-kb)
 - [cowbe0x004 starred ThreatHunting_with_Osquery](https://github.com/Kirtar22/ThreatHunting_with_Osquery)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Antivirus-Artifacts](https://github.com/D3VI5H4/Antivirus-Artifacts)
 - [cowbe0x004 starred shellex](https://github.com/David-Reguera-Garcia-Dreg/shellex)
 - [cowbe0x004 starred opencve](https://github.com/opencve/opencve)
-- [cowbe0x004 starred yara-rules](https://github.com/StefanKelm/yara-rules)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
