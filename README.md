@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [KQL Tutorial Series | Joining Tables (Demo) | EP5](https://www.youtube.com/watch?v=66UDqdILgpc)
 - [Achieving SOC Operational Efficiency for Azure Sentinel Hunting](https://www.youtube.com/watch?v=Bl-pTy1YSks)
 - [MITRE CTF 2019 - Linux [50] Escaping RBASH with SSH](https://www.youtube.com/watch?v=MEGBY3XAe_4)
 - [How to unpack FlawedAmmyy - Malware Unpacking Tutorial](https://www.youtube.com/watch?v=D1-O19AwW8U)
@@ -35,7 +36,6 @@
 - [SANS DFIR Webcast - Incident Response Event Log Analysis](https://www.youtube.com/watch?v=Xw536W7kbDQ)
 - [[AGILA] RUN NETMON - In-depth Review of Agila's  Realtime Network Monitoring Feature](https://www.youtube.com/watch?v=-CntTLbY1F8)
 - [Dissecting EggHunter on Exploit Development - Vinícius Vieira (aka. v1n1v131r4)](https://www.youtube.com/watch?v=OTP3TuzxqlM)
-- [IDA Pro - Leveraging the Universal Unpacker Manual Reconstruct](https://www.youtube.com/watch?v=U0PGLNycqYI)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
