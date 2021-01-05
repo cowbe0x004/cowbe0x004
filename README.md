@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SysWhispers2](https://github.com/jthuraisamy/SysWhispers2)
 - [cowbe0x004 starred alive-progress](https://github.com/rsalmei/alive-progress)
 - [cowbe0x004 starred LogCannon](https://github.com/YoloSecurity/LogCannon)
 - [cowbe0x004 starred Security-Research](https://github.com/RhinoSecurityLabs/Security-Research)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Android_Security](https://github.com/anantshri/Android_Security)
 - [cowbe0x004 starred Awesome-CobaltStrike-Defence](https://github.com/MichaelKoczwara/Awesome-CobaltStrike-Defence)
 - [cowbe0x004 starred r2con2019](https://github.com/radareorg/r2con2019)
-- [cowbe0x004 starred Antivirus-Artifacts](https://github.com/D3VI5H4/Antivirus-Artifacts)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
