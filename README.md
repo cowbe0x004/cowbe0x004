@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [What is CSRF attack?](https://www.youtube.com/watch?v=xfXx5cqjjtc)
 - [KQL Tutorial Series | Joining Tables (Demo) | EP5](https://www.youtube.com/watch?v=66UDqdILgpc)
 - [Achieving SOC Operational Efficiency for Azure Sentinel Hunting](https://www.youtube.com/watch?v=Bl-pTy1YSks)
 - [MITRE CTF 2019 - Linux [50] Escaping RBASH with SSH](https://www.youtube.com/watch?v=MEGBY3XAe_4)
@@ -35,7 +36,6 @@
 - [Investigating WMI Attacks](https://www.youtube.com/watch?v=aBQ1vEjK6v4)
 - [SANS DFIR Webcast - Incident Response Event Log Analysis](https://www.youtube.com/watch?v=Xw536W7kbDQ)
 - [[AGILA] RUN NETMON - In-depth Review of Agila's  Realtime Network Monitoring Feature](https://www.youtube.com/watch?v=-CntTLbY1F8)
-- [Dissecting EggHunter on Exploit Development - Vinícius Vieira (aka. v1n1v131r4)](https://www.youtube.com/watch?v=OTP3TuzxqlM)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
