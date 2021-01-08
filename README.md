@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Ransomware-Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
 - [cowbe0x004 starred pybeacon](https://github.com/nccgroup/pybeacon)
 - [cowbe0x004 starred Silver](https://github.com/s0md3v/Silver)
 - [cowbe0x004 starred SysWhispers2](https://github.com/jthuraisamy/SysWhispers2)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred karton](https://github.com/CERT-Polska/karton)
 - [cowbe0x004 starred winreg-kb](https://github.com/libyal/winreg-kb)
 - [cowbe0x004 starred ThreatHunting_with_Osquery](https://github.com/Kirtar22/ThreatHunting_with_Osquery)
-- [cowbe0x004 starred Android_Security](https://github.com/anantshri/Android_Security)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
