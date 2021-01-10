@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred emp3r0r](https://github.com/jm33-m0/emp3r0r)
 - [cowbe0x004 starred ta505plus](https://github.com/fozavci/ta505plus)
 - [cowbe0x004 starred Ransomware-Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
 - [cowbe0x004 starred pybeacon](https://github.com/nccgroup/pybeacon)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred LogCannon](https://github.com/YoloSecurity/LogCannon)
 - [cowbe0x004 starred Security-Research](https://github.com/RhinoSecurityLabs/Security-Research)
 - [cowbe0x004 starred karton](https://github.com/CERT-Polska/karton)
-- [cowbe0x004 starred winreg-kb](https://github.com/libyal/winreg-kb)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
