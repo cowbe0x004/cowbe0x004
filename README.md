@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT Colin Hardy 💻: #CrowdStrike have produced fascinating research into #SUNSPOT malware, which was used to implant the SUNBURST / SolarWinds backdo...](https://twitter.com/cybercdh/status/1348912685782626304)
 - [RT Heath Adams: 'Tis the season of giving and I'm feeling the spirit.  Up for grabs: 1 - $250 in cash monies 1 - @TCMSecurity Academy Lifetime All-Acc...](https://twitter.com/thecybermentor/status/1337027468788699136)
 - [RT The DFIR Report: December is the month of giving, therefore... We're giving away a few DFIR Report t-shirts! Please like or RT for a chance to win ...](https://twitter.com/TheDFIRReport/status/1334912611180285953)
 - [RT BlindHacker: How about a Giveaway Poll Give Away Friday 3 @CompTIA Security + Cert Vouchers,  1 @offsectraining PWK Course / OSCP exam take  30 Hac...](https://twitter.com/TheBlindHacker/status/1334171448022339584)
 - [RT ¬ whickey: I found a way to download arbitrary files with AppInstaller.exe (signed by MS). start ms-appinstaller://?source=<url> `start` calls the...](https://twitter.com/notwhickey/status/1333900137232523264)
-- [Threat Hunting Summit - [Workshop] Threat Hunting with VirusTotal - Black Belt Edition](https://twitter.com/cowbe0x004/status/1329101788662915080)
 <!-- TWEETS:END -->
 
 ---
