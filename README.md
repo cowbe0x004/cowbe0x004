@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Using Direct Syscalls in Cobalt Strike's Artifact Kit](https://www.youtube.com/watch?v=mZyMs2PP38w)
 - [Webinar: Popping Shells Instead of Alert Boxes-Weaponizing XSS for Fun and Profit](https://www.youtube.com/watch?v=NBWYRLnWDkM)
 - [What is CSRF attack?](https://www.youtube.com/watch?v=xfXx5cqjjtc)
 - [KQL Tutorial Series | Joining Tables (Demo) | EP5](https://www.youtube.com/watch?v=66UDqdILgpc)
@@ -35,7 +36,6 @@
 - [How to Unpack Ramnit Dropper - Malware Unpacking Tutorial 2](https://www.youtube.com/watch?v=l6ZunH6YG0A)
 - [Decoding Malicious PowerShell Activity](https://www.youtube.com/watch?v=FJpkI8Rsinw)
 - [Investigating WMI Attacks](https://www.youtube.com/watch?v=aBQ1vEjK6v4)
-- [SANS DFIR Webcast - Incident Response Event Log Analysis](https://www.youtube.com/watch?v=Xw536W7kbDQ)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
