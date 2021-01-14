@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred crackq](https://github.com/f0cker/crackq)
 - [cowbe0x004 starred K55](https://github.com/josh0xA/K55)
 - [cowbe0x004 starred BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester)
 - [cowbe0x004 starred beagle](https://github.com/yampelo/beagle)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred k0otkit](https://github.com/brant-ruan/k0otkit)
 - [cowbe0x004 starred emp3r0r](https://github.com/jm33-m0/emp3r0r)
 - [cowbe0x004 starred ta505plus](https://github.com/fozavci/ta505plus)
-- [cowbe0x004 starred Ransomware-Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
