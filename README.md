@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred K55](https://github.com/josh0xA/K55)
+- [cowbe0x004 starred BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester)
 - [cowbe0x004 starred beagle](https://github.com/yampelo/beagle)
 - [cowbe0x004 starred lil-pwny](https://github.com/PaperMtn/lil-pwny)
 - [cowbe0x004 starred Wynis](https://github.com/Sneakysecdoggo/Wynis)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred emp3r0r](https://github.com/jm33-m0/emp3r0r)
 - [cowbe0x004 starred ta505plus](https://github.com/fozavci/ta505plus)
 - [cowbe0x004 starred Ransomware-Reports](https://github.com/d4rk-d4nph3/Ransomware-Reports)
-- [cowbe0x004 starred pybeacon](https://github.com/nccgroup/pybeacon)
-- [cowbe0x004 starred Silver](https://github.com/s0md3v/Silver)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
