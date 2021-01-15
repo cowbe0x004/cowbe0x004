@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred leaky-paths](https://github.com/ayoubfathi/leaky-paths)
 - [cowbe0x004 starred cobaltstrike](https://github.com/Te-k/cobaltstrike)
 - [cowbe0x004 starred crackq](https://github.com/f0cker/crackq)
 - [cowbe0x004 starred K55](https://github.com/josh0xA/K55)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Wynis](https://github.com/Sneakysecdoggo/Wynis)
 - [cowbe0x004 starred pgina](https://github.com/pgina/pgina)
 - [cowbe0x004 starred k0otkit](https://github.com/brant-ruan/k0otkit)
-- [cowbe0x004 starred emp3r0r](https://github.com/jm33-m0/emp3r0r)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
