@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred libprocesshider](https://github.com/gianlucaborello/libprocesshider)
 - [cowbe0x004 starred fingerprint](https://github.com/bitranox/fingerprint)
 - [cowbe0x004 starred leaky-paths](https://github.com/ayoubfathi/leaky-paths)
 - [cowbe0x004 starred cobaltstrike](https://github.com/Te-k/cobaltstrike)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred beagle](https://github.com/yampelo/beagle)
 - [cowbe0x004 starred lil-pwny](https://github.com/PaperMtn/lil-pwny)
 - [cowbe0x004 starred Wynis](https://github.com/Sneakysecdoggo/Wynis)
-- [cowbe0x004 starred pgina](https://github.com/pgina/pgina)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
