@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred sqli-labs](https://github.com/Audi-1/sqli-labs)
 - [cowbe0x004 starred lazyweb](https://github.com/RamadhanAmizudin/lazyweb)
 - [cowbe0x004 starred osquery-configuration](https://github.com/palantir/osquery-configuration)
 - [cowbe0x004 starred libprocesshider](https://github.com/gianlucaborello/libprocesshider)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred crackq](https://github.com/f0cker/crackq)
 - [cowbe0x004 starred K55](https://github.com/josh0xA/K55)
 - [cowbe0x004 starred BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester)
-- [cowbe0x004 starred beagle](https://github.com/yampelo/beagle)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
