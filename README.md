@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred OSEE](https://github.com/dhn/OSEE)
+- [cowbe0x004 starred OSEE](https://github.com/timip/OSEE)
+- [cowbe0x004 starred macOS-ATTACK-DATASET](https://github.com/sbousseaden/macOS-ATTACK-DATASET)
 - [cowbe0x004 starred sqli-labs](https://github.com/Audi-1/sqli-labs)
 - [cowbe0x004 starred lazyweb](https://github.com/RamadhanAmizudin/lazyweb)
 - [cowbe0x004 starred osquery-configuration](https://github.com/palantir/osquery-configuration)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred fingerprint](https://github.com/bitranox/fingerprint)
 - [cowbe0x004 starred leaky-paths](https://github.com/ayoubfathi/leaky-paths)
 - [cowbe0x004 starred cobaltstrike](https://github.com/Te-k/cobaltstrike)
-- [cowbe0x004 starred crackq](https://github.com/f0cker/crackq)
-- [cowbe0x004 starred K55](https://github.com/josh0xA/K55)
-- [cowbe0x004 starred BurpSuite-For-Pentester](https://github.com/Ignitetechnologies/BurpSuite-For-Pentester)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
