@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [XML External Entities (XXE) Explained](https://www.youtube.com/watch?v=gjm6VHZa_8s)
+- [Server-Side Template Injections Explained](https://www.youtube.com/watch?v=SN6EVIG4c-0)
 - [Using Direct Syscalls in Cobalt Strike's Artifact Kit](https://www.youtube.com/watch?v=mZyMs2PP38w)
 - [Webinar: Popping Shells Instead of Alert Boxes-Weaponizing XSS for Fun and Profit](https://www.youtube.com/watch?v=NBWYRLnWDkM)
 - [What is CSRF attack?](https://www.youtube.com/watch?v=xfXx5cqjjtc)
@@ -34,8 +36,6 @@
 - [MITRE CTF 2019 - Linux [50] Escaping RBASH with SSH](https://www.youtube.com/watch?v=MEGBY3XAe_4)
 - [How to unpack FlawedAmmyy - Malware Unpacking Tutorial](https://www.youtube.com/watch?v=D1-O19AwW8U)
 - [How to Unpack Ramnit Dropper - Malware Unpacking Tutorial 2](https://www.youtube.com/watch?v=l6ZunH6YG0A)
-- [Decoding Malicious PowerShell Activity](https://www.youtube.com/watch?v=FJpkI8Rsinw)
-- [Investigating WMI Attacks](https://www.youtube.com/watch?v=aBQ1vEjK6v4)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
