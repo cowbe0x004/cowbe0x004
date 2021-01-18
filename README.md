@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred operator-support](https://github.com/preludeorg/operator-support)
 - [cowbe0x004 starred OSEE](https://github.com/dhn/OSEE)
 - [cowbe0x004 starred OSEE](https://github.com/timip/OSEE)
 - [cowbe0x004 starred macOS-ATTACK-DATASET](https://github.com/sbousseaden/macOS-ATTACK-DATASET)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred libprocesshider](https://github.com/gianlucaborello/libprocesshider)
 - [cowbe0x004 starred fingerprint](https://github.com/bitranox/fingerprint)
 - [cowbe0x004 starred leaky-paths](https://github.com/ayoubfathi/leaky-paths)
-- [cowbe0x004 starred cobaltstrike](https://github.com/Te-k/cobaltstrike)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
