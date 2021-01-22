@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred JSScanner](https://github.com/0x240x23elu/JSScanner)
 - [cowbe0x004 starred SharpSphere](https://github.com/JamesCooteUK/SharpSphere)
 - [cowbe0x004 starred hindsight](https://github.com/obsidianforensics/hindsight)
 - [cowbe0x004 starred operator-support](https://github.com/preludeorg/operator-support)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred sqli-labs](https://github.com/Audi-1/sqli-labs)
 - [cowbe0x004 starred lazyweb](https://github.com/RamadhanAmizudin/lazyweb)
 - [cowbe0x004 starred osquery-configuration](https://github.com/palantir/osquery-configuration)
+- [cowbe0x004 starred libprocesshider](https://github.com/gianlucaborello/libprocesshider)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
