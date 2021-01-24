@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Insecure Deserialization Attack Explained](https://www.youtube.com/watch?v=jwzeJU_62IQ)
 - [XML External Entities (XXE) Explained](https://www.youtube.com/watch?v=gjm6VHZa_8s)
 - [Server-Side Template Injections Explained](https://www.youtube.com/watch?v=SN6EVIG4c-0)
 - [Using Direct Syscalls in Cobalt Strike's Artifact Kit](https://www.youtube.com/watch?v=mZyMs2PP38w)
@@ -35,7 +36,6 @@
 - [Achieving SOC Operational Efficiency for Azure Sentinel Hunting](https://www.youtube.com/watch?v=Bl-pTy1YSks)
 - [MITRE CTF 2019 - Linux [50] Escaping RBASH with SSH](https://www.youtube.com/watch?v=MEGBY3XAe_4)
 - [How to unpack FlawedAmmyy - Malware Unpacking Tutorial](https://www.youtube.com/watch?v=D1-O19AwW8U)
-- [How to Unpack Ramnit Dropper - Malware Unpacking Tutorial 2](https://www.youtube.com/watch?v=l6ZunH6YG0A)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
