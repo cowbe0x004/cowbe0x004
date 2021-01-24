@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred APT-Hunter](https://github.com/ahmedkhlief/APT-Hunter)
 - [cowbe0x004 starred GPOZaurr](https://github.com/EvotecIT/GPOZaurr)
 - [cowbe0x004 starred kubequery](https://github.com/Uptycs/kubequery)
 - [cowbe0x004 starred procrustes](https://github.com/vp777/procrustes)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred operator-support](https://github.com/preludeorg/operator-support)
 - [cowbe0x004 starred OSEE](https://github.com/dhn/OSEE)
 - [cowbe0x004 starred OSEE](https://github.com/timip/OSEE)
-- [cowbe0x004 starred macOS-ATTACK-DATASET](https://github.com/sbousseaden/macOS-ATTACK-DATASET)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
