@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred yara-scan-service](https://github.com/cocaman/yara-scan-service)
 - [cowbe0x004 starred KeeThief](https://github.com/GhostPack/KeeThief)
 - [cowbe0x004 starred APT-Hunter](https://github.com/ahmedkhlief/APT-Hunter)
 - [cowbe0x004 starred GPOZaurr](https://github.com/EvotecIT/GPOZaurr)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SharpSphere](https://github.com/JamesCooteUK/SharpSphere)
 - [cowbe0x004 starred hindsight](https://github.com/obsidianforensics/hindsight)
 - [cowbe0x004 starred operator-support](https://github.com/preludeorg/operator-support)
-- [cowbe0x004 starred OSEE](https://github.com/dhn/OSEE)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
