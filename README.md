@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [OSCP Prep - x86 Windows Stack-Based Buffer Overflow Full Tutorial - War-FTP 1.65](https://www.youtube.com/watch?v=Z2pQuGmFNrM)
 - [Insecure Deserialization Attack Explained](https://www.youtube.com/watch?v=jwzeJU_62IQ)
 - [XML External Entities (XXE) Explained](https://www.youtube.com/watch?v=gjm6VHZa_8s)
 - [Server-Side Template Injections Explained](https://www.youtube.com/watch?v=SN6EVIG4c-0)
@@ -35,7 +36,6 @@
 - [KQL Tutorial Series | Joining Tables (Demo) | EP5](https://www.youtube.com/watch?v=66UDqdILgpc)
 - [Achieving SOC Operational Efficiency for Azure Sentinel Hunting](https://www.youtube.com/watch?v=Bl-pTy1YSks)
 - [MITRE CTF 2019 - Linux [50] Escaping RBASH with SSH](https://www.youtube.com/watch?v=MEGBY3XAe_4)
-- [How to unpack FlawedAmmyy - Malware Unpacking Tutorial](https://www.youtube.com/watch?v=D1-O19AwW8U)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
