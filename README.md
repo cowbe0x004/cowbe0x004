@@ -40,8 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred KDU](https://github.com/hfiref0x/KDU)
-- [cowbe0x004 starred Shark](https://github.com/9176324/Shark)
 - [cowbe0x004 starred CVE-Exploits](https://github.com/lockedbyte/CVE-Exploits)
 - [cowbe0x004 starred cert-checker](https://github.com/mogensen/cert-checker)
 - [cowbe0x004 starred ddoor](https://github.com/rek7/ddoor)
@@ -50,6 +48,8 @@
 - [cowbe0x004 starred APT-Hunter](https://github.com/ahmedkhlief/APT-Hunter)
 - [cowbe0x004 starred GPOZaurr](https://github.com/EvotecIT/GPOZaurr)
 - [cowbe0x004 starred kubequery](https://github.com/Uptycs/kubequery)
+- [cowbe0x004 starred procrustes](https://github.com/vp777/procrustes)
+- [cowbe0x004 starred JSScanner](https://github.com/0x240x23elu/JSScanner)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
