@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ScareCrow](https://github.com/optiv/ScareCrow)
 - [cowbe0x004 starred KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips)
 - [cowbe0x004 starred evilginx2](https://github.com/kgretzky/evilginx2)
 - [cowbe0x004 starred muraena](https://github.com/muraenateam/muraena)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred cert-checker](https://github.com/mogensen/cert-checker)
 - [cowbe0x004 starred ddoor](https://github.com/rek7/ddoor)
 - [cowbe0x004 starred yara-scan-service](https://github.com/cocaman/yara-scan-service)
-- [cowbe0x004 starred KeeThief](https://github.com/GhostPack/KeeThief)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
