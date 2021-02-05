@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Azure Sentinel webinar: Accelerate Your Azure Sentinel Deployment with the All-in-One Accelerator](https://www.youtube.com/watch?v=JB73TuX9DVs)
 - [Automating Threat Hunting on the Dark Web and other nitty-gritty things | SANS Cyber Defense Forum](https://www.youtube.com/watch?v=LywwMq--VS0)
 - [CyberChef Course Sample Video: The Power of CyberChef](https://www.youtube.com/watch?v=tOCIc2R_xmU)
 - [OSCP Prep - x86 Windows Stack-Based Buffer Overflow Full Tutorial - War-FTP 1.65](https://www.youtube.com/watch?v=Z2pQuGmFNrM)
@@ -35,7 +36,6 @@
 - [Using Direct Syscalls in Cobalt Strike's Artifact Kit](https://www.youtube.com/watch?v=mZyMs2PP38w)
 - [Webinar: Popping Shells Instead of Alert Boxes-Weaponizing XSS for Fun and Profit](https://www.youtube.com/watch?v=NBWYRLnWDkM)
 - [What is CSRF attack?](https://www.youtube.com/watch?v=xfXx5cqjjtc)
-- [KQL Tutorial Series | Joining Tables (Demo) | EP5](https://www.youtube.com/watch?v=66UDqdILgpc)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
