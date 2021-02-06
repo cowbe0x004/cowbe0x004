@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred policy-bot](https://github.com/palantir/policy-bot)
 - [cowbe0x004 starred SharpBlock](https://github.com/CCob/SharpBlock)
 - [cowbe0x004 starred ScareCrow](https://github.com/optiv/ScareCrow)
 - [cowbe0x004 starred KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Shark](https://github.com/9176324/Shark)
 - [cowbe0x004 starred CVE-Exploits](https://github.com/lockedbyte/CVE-Exploits)
 - [cowbe0x004 starred cert-checker](https://github.com/mogensen/cert-checker)
-- [cowbe0x004 starred ddoor](https://github.com/rek7/ddoor)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
