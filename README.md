@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [x86 NASM Assembly Crash Course](https://www.youtube.com/watch?v=DNPjBvZxE3E)
 - [[Breakout #1] Better Alerts via Log Enrichment | All-Around Defenders](https://www.youtube.com/watch?v=mlI-s3Dnx8o)
 - [LinuxFest Northwest 2018: Using Osquery Via Fleet For Client/Server Visibility](https://www.youtube.com/watch?v=w-4eSntiZ4I)
 - [Building the Better Playbook: Techniques to Improve Repeatability | SANS Cyber Defense Forum 2020](https://www.youtube.com/watch?v=jDftIimcT-c)
@@ -35,7 +36,6 @@
 - [OSCP Prep - x86 Windows Stack-Based Buffer Overflow Full Tutorial - War-FTP 1.65](https://www.youtube.com/watch?v=Z2pQuGmFNrM)
 - [Insecure Deserialization Attack Explained](https://www.youtube.com/watch?v=jwzeJU_62IQ)
 - [XML External Entities (XXE) Explained](https://www.youtube.com/watch?v=gjm6VHZa_8s)
-- [Server-Side Template Injections Explained](https://www.youtube.com/watch?v=SN6EVIG4c-0)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
