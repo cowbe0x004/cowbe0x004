@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred VBA-Macro-Projects](https://github.com/JohnWoodman/VBA-Macro-Projects)
+- [cowbe0x004 starred IPCDump](https://github.com/guardicore/IPCDump)
 - [cowbe0x004 starred Shellcode-Lab](https://github.com/c0decave/Shellcode-Lab)
 - [cowbe0x004 starred policy-bot](https://github.com/palantir/policy-bot)
 - [cowbe0x004 starred SharpBlock](https://github.com/CCob/SharpBlock)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred evilginx2](https://github.com/kgretzky/evilginx2)
 - [cowbe0x004 starred muraena](https://github.com/muraenateam/muraena)
 - [cowbe0x004 starred KDU](https://github.com/hfiref0x/KDU)
-- [cowbe0x004 starred Shark](https://github.com/9176324/Shark)
-- [cowbe0x004 starred CVE-Exploits](https://github.com/lockedbyte/CVE-Exploits)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
