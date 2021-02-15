@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred traitor](https://github.com/liamg/traitor)
 - [cowbe0x004 starred VBA-Macro-Projects](https://github.com/JohnWoodman/VBA-Macro-Projects)
 - [cowbe0x004 starred IPCDump](https://github.com/guardicore/IPCDump)
 - [cowbe0x004 starred Shellcode-Lab](https://github.com/c0decave/Shellcode-Lab)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips)
 - [cowbe0x004 starred evilginx2](https://github.com/kgretzky/evilginx2)
 - [cowbe0x004 starred muraena](https://github.com/muraenateam/muraena)
-- [cowbe0x004 starred KDU](https://github.com/hfiref0x/KDU)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
