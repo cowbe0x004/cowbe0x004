@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Kerberoast-Detection](https://github.com/Blumira/Kerberoast-Detection)
 - [cowbe0x004 starred shellcode-through-ICMP](https://github.com/RomanRII/shellcode-through-ICMP)
 - [cowbe0x004 starred traitor](https://github.com/liamg/traitor)
 - [cowbe0x004 starred VBA-Macro-Projects](https://github.com/JohnWoodman/VBA-Macro-Projects)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SharpBlock](https://github.com/CCob/SharpBlock)
 - [cowbe0x004 starred ScareCrow](https://github.com/optiv/ScareCrow)
 - [cowbe0x004 starred KingOfBugBountyTips](https://github.com/KingOfBugbounty/KingOfBugBountyTips)
-- [cowbe0x004 starred evilginx2](https://github.com/kgretzky/evilginx2)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
