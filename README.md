@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [The ABCs of WMI - Finding Evil in Plain Sight](https://www.youtube.com/watch?v=k-_O59BnsHg)
 - [x86 NASM Assembly Crash Course](https://www.youtube.com/watch?v=DNPjBvZxE3E)
 - [[Breakout #1] Better Alerts via Log Enrichment | All-Around Defenders](https://www.youtube.com/watch?v=mlI-s3Dnx8o)
 - [LinuxFest Northwest 2018: Using Osquery Via Fleet For Client/Server Visibility](https://www.youtube.com/watch?v=w-4eSntiZ4I)
@@ -35,7 +36,6 @@
 - [CyberChef Course Sample Video: The Power of CyberChef](https://www.youtube.com/watch?v=tOCIc2R_xmU)
 - [OSCP Prep - x86 Windows Stack-Based Buffer Overflow Full Tutorial - War-FTP 1.65](https://www.youtube.com/watch?v=Z2pQuGmFNrM)
 - [Insecure Deserialization Attack Explained](https://www.youtube.com/watch?v=jwzeJU_62IQ)
-- [XML External Entities (XXE) Explained](https://www.youtube.com/watch?v=gjm6VHZa_8s)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
