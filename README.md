@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [You've been breached! Deploying osquery (fast) to support incident response](https://www.youtube.com/watch?v=vLC2vVVwR3c)
+- [I'm not crying, you're crying: Making incident response in the cloud less painful with osquery](https://www.youtube.com/watch?v=b81zSQ5MsDk)
 - [The ABCs of WMI - Finding Evil in Plain Sight](https://www.youtube.com/watch?v=k-_O59BnsHg)
 - [x86 NASM Assembly Crash Course](https://www.youtube.com/watch?v=DNPjBvZxE3E)
 - [[Breakout #1] Better Alerts via Log Enrichment | All-Around Defenders](https://www.youtube.com/watch?v=mlI-s3Dnx8o)
@@ -34,8 +36,6 @@
 - [Azure Sentinel webinar: Accelerate Your Azure Sentinel Deployment with the All-in-One Accelerator](https://www.youtube.com/watch?v=JB73TuX9DVs)
 - [Automating Threat Hunting on the Dark Web and other nitty-gritty things | SANS Cyber Defense Forum](https://www.youtube.com/watch?v=LywwMq--VS0)
 - [CyberChef Course Sample Video: The Power of CyberChef](https://www.youtube.com/watch?v=tOCIc2R_xmU)
-- [OSCP Prep - x86 Windows Stack-Based Buffer Overflow Full Tutorial - War-FTP 1.65](https://www.youtube.com/watch?v=Z2pQuGmFNrM)
-- [Insecure Deserialization Attack Explained](https://www.youtube.com/watch?v=jwzeJU_62IQ)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
