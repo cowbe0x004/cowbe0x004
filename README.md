@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred iamlive](https://github.com/iann0036/iamlive)
 - [cowbe0x004 starred MacHound](https://github.com/XMCyber/MacHound)
 - [cowbe0x004 starred Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources)
 - [cowbe0x004 starred Kerberoast-Detection](https://github.com/Blumira/Kerberoast-Detection)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred IPCDump](https://github.com/guardicore/IPCDump)
 - [cowbe0x004 starred Shellcode-Lab](https://github.com/c0decave/Shellcode-Lab)
 - [cowbe0x004 starred policy-bot](https://github.com/palantir/policy-bot)
-- [cowbe0x004 starred SharpBlock](https://github.com/CCob/SharpBlock)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
