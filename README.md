@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage)
 - [cowbe0x004 starred what-happens-when](https://github.com/alex/what-happens-when)
 - [cowbe0x004 starred OffensivePipeline](https://github.com/Aetsu/OffensivePipeline)
 - [cowbe0x004 starred ssrfuzz](https://github.com/ryandamour/ssrfuzz)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Kerberoast-Detection](https://github.com/Blumira/Kerberoast-Detection)
 - [cowbe0x004 starred shellcode-through-ICMP](https://github.com/RomanRII/shellcode-through-ICMP)
 - [cowbe0x004 starred traitor](https://github.com/liamg/traitor)
-- [cowbe0x004 starred VBA-Macro-Projects](https://github.com/JohnWoodman/VBA-Macro-Projects)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
