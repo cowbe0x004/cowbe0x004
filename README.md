@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred PowerDecode](https://github.com/Malandrone/PowerDecode)
 - [cowbe0x004 starred Farmer](https://github.com/mdsecactivebreach/Farmer)
 - [cowbe0x004 starred Swift-Attack](https://github.com/cedowens/Swift-Attack)
 - [cowbe0x004 starred elastalert](https://github.com/jertel/elastalert)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred ssrfuzz](https://github.com/ryandamour/ssrfuzz)
 - [cowbe0x004 starred iamlive](https://github.com/iann0036/iamlive)
 - [cowbe0x004 starred MacHound](https://github.com/XMCyber/MacHound)
+- [cowbe0x004 starred Offensive-Resources](https://github.com/Zeyad-Azima/Offensive-Resources)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
