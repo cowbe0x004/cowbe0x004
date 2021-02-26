@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
 - [cowbe0x004 starred PowerDecode](https://github.com/Malandrone/PowerDecode)
 - [cowbe0x004 starred Farmer](https://github.com/mdsecactivebreach/Farmer)
 - [cowbe0x004 starred Swift-Attack](https://github.com/cedowens/Swift-Attack)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred OffensivePipeline](https://github.com/Aetsu/OffensivePipeline)
 - [cowbe0x004 starred ssrfuzz](https://github.com/ryandamour/ssrfuzz)
 - [cowbe0x004 starred iamlive](https://github.com/iann0036/iamlive)
-- [cowbe0x004 starred MacHound](https://github.com/XMCyber/MacHound)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
