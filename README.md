@@ -40,9 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred git](https://github.com/pownjs/git)
-- [cowbe0x004 starred mquery](https://github.com/CERT-Polska/mquery)
-- [cowbe0x004 starred yarix](https://github.com/mbrengel/yarix)
 - [cowbe0x004 starred DoppelGate](https://github.com/asaurusrex/DoppelGate)
 - [cowbe0x004 starred LsassSilentProcessExit](https://github.com/deepinstinct/LsassSilentProcessExit)
 - [cowbe0x004 starred Callback_Shellcode_Injection](https://github.com/ChaitanyaHaritash/Callback_Shellcode_Injection)
@@ -50,6 +47,9 @@
 - [cowbe0x004 starred PowerDecode](https://github.com/Malandrone/PowerDecode)
 - [cowbe0x004 starred Farmer](https://github.com/mdsecactivebreach/Farmer)
 - [cowbe0x004 starred Swift-Attack](https://github.com/cedowens/Swift-Attack)
+- [cowbe0x004 starred elastalert](https://github.com/jertel/elastalert)
+- [cowbe0x004 starred Invoke-PSImage](https://github.com/peewpw/Invoke-PSImage)
+- [cowbe0x004 starred what-happens-when](https://github.com/alex/what-happens-when)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
