@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Detecting Access Token Manipulation](https://www.youtube.com/watch?v=RMVyYvt0bLY)
 - [Forensics - Exfil - Hack The Box X UNI CTF [Walkthrough]](https://www.youtube.com/watch?v=GghxAJeuhxE)
 - [You've been breached! Deploying osquery (fast) to support incident response](https://www.youtube.com/watch?v=vLC2vVVwR3c)
 - [I'm not crying, you're crying: Making incident response in the cloud less painful with osquery](https://www.youtube.com/watch?v=b81zSQ5MsDk)
@@ -35,7 +36,6 @@
 - [LinuxFest Northwest 2018: Using Osquery Via Fleet For Client/Server Visibility](https://www.youtube.com/watch?v=w-4eSntiZ4I)
 - [Building the Better Playbook: Techniques to Improve Repeatability | SANS Cyber Defense Forum 2020](https://www.youtube.com/watch?v=jDftIimcT-c)
 - [Azure Sentinel webinar: Accelerate Your Azure Sentinel Deployment with the All-in-One Accelerator](https://www.youtube.com/watch?v=JB73TuX9DVs)
-- [Automating Threat Hunting on the Dark Web and other nitty-gritty things | SANS Cyber Defense Forum](https://www.youtube.com/watch?v=LywwMq--VS0)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
