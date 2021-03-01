@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred snyk](https://github.com/snyk/snyk)
+- [cowbe0x004 starred Alaris](https://github.com/cribdragg3r/Alaris)
 - [cowbe0x004 starred git](https://github.com/pownjs/git)
 - [cowbe0x004 starred mquery](https://github.com/CERT-Polska/mquery)
 - [cowbe0x004 starred yarix](https://github.com/mbrengel/yarix)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Callback_Shellcode_Injection](https://github.com/ChaitanyaHaritash/Callback_Shellcode_Injection)
 - [cowbe0x004 starred Damn-Vulnerable-GraphQL-Application](https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application)
 - [cowbe0x004 starred PowerDecode](https://github.com/Malandrone/PowerDecode)
-- [cowbe0x004 starred Farmer](https://github.com/mdsecactivebreach/Farmer)
-- [cowbe0x004 starred Swift-Attack](https://github.com/cedowens/Swift-Attack)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
