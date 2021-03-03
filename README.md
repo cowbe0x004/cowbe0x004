@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [PowerShell 2020: State of the Art / Hack / Infection - SANS@Mic Keynote Network Security](https://www.youtube.com/watch?v=ZIQ62IZO58s)
 - [Detecting Access Token Manipulation](https://www.youtube.com/watch?v=RMVyYvt0bLY)
 - [Forensics - Exfil - Hack The Box X UNI CTF [Walkthrough]](https://www.youtube.com/watch?v=GghxAJeuhxE)
 - [You've been breached! Deploying osquery (fast) to support incident response](https://www.youtube.com/watch?v=vLC2vVVwR3c)
@@ -35,7 +36,6 @@
 - [[Breakout #1] Better Alerts via Log Enrichment | All-Around Defenders](https://www.youtube.com/watch?v=mlI-s3Dnx8o)
 - [LinuxFest Northwest 2018: Using Osquery Via Fleet For Client/Server Visibility](https://www.youtube.com/watch?v=w-4eSntiZ4I)
 - [Building the Better Playbook: Techniques to Improve Repeatability | SANS Cyber Defense Forum 2020](https://www.youtube.com/watch?v=jDftIimcT-c)
-- [Azure Sentinel webinar: Accelerate Your Azure Sentinel Deployment with the All-in-One Accelerator](https://www.youtube.com/watch?v=JB73TuX9DVs)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
