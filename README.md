@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Deobfuscate Malicious VBScript - EARL INFECTED MY MACHINE!](https://www.youtube.com/watch?v=jFWQX-aELLI)
 - [PowerShell 2020: State of the Art / Hack / Infection - SANS@Mic Keynote Network Security](https://www.youtube.com/watch?v=ZIQ62IZO58s)
 - [Detecting Access Token Manipulation](https://www.youtube.com/watch?v=RMVyYvt0bLY)
 - [Forensics - Exfil - Hack The Box X UNI CTF [Walkthrough]](https://www.youtube.com/watch?v=GghxAJeuhxE)
@@ -35,7 +36,6 @@
 - [x86 NASM Assembly Crash Course](https://www.youtube.com/watch?v=DNPjBvZxE3E)
 - [[Breakout #1] Better Alerts via Log Enrichment | All-Around Defenders](https://www.youtube.com/watch?v=mlI-s3Dnx8o)
 - [LinuxFest Northwest 2018: Using Osquery Via Fleet For Client/Server Visibility](https://www.youtube.com/watch?v=w-4eSntiZ4I)
-- [Building the Better Playbook: Techniques to Improve Repeatability | SANS Cyber Defense Forum 2020](https://www.youtube.com/watch?v=jDftIimcT-c)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
