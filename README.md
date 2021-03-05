@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred security_content](https://github.com/splunk/security_content)
 - [cowbe0x004 starred DynamicLabs](https://github.com/ctxis/DynamicLabs)
 - [cowbe0x004 starred KilledProcessCanary](https://github.com/nccgroup/KilledProcessCanary)
 - [cowbe0x004 starred apkleaks](https://github.com/dwisiswant0/apkleaks)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred git](https://github.com/pownjs/git)
 - [cowbe0x004 starred mquery](https://github.com/CERT-Polska/mquery)
 - [cowbe0x004 starred yarix](https://github.com/mbrengel/yarix)
+- [cowbe0x004 starred DoppelGate](https://github.com/asaurusrex/DoppelGate)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
