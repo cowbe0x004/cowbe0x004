@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT ¬ whickey: I found a new #lolbin for downloading arbitrary files `C:\Windows\System32\IME\SHARED\IMEWDBLD.exe <URL>` Find the downloaded file in `...](https://twitter.com/notwhickey/status/1367493406835040265)
 - [RT Recon InfoSec: SOC X world championship is THIS Thursday! #socx](https://twitter.com/Recon_InfoSec/status/1366419712884809734)
 - [RT Florian Roth: If you're a fan of #ElastAlert, you shouldn't use the official repo since it doesn't look well maintained (1.2k issues, few commits w...](https://twitter.com/cyb3rops/status/1363797740950614017)
 - [RT midas: The final part of my series Learning Linux Kernel Exploitaion: adding KASLR - Full protection. On my blog:  Mirrored on Efiens blog:](https://twitter.com/_lkmidas/status/1357656147138801665)
 - [RT Colin Hardy 💻: #CrowdStrike have produced fascinating research into #SUNSPOT malware, which was used to implant the SUNBURST / SolarWinds backdo...](https://twitter.com/cybercdh/status/1348912685782626304)
-- [RT Heath Adams: 'Tis the season of giving and I'm feeling the spirit.  Up for grabs: 1 - $250 in cash monies 1 - @TCMSecurity Academy Lifetime All-Acc...](https://twitter.com/thecybermentor/status/1337027468788699136)
 <!-- TWEETS:END -->
 
 ---
