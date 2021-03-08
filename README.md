@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Search-That-Hash](https://github.com/HashPals/Search-That-Hash)
 - [cowbe0x004 starred http2smugl](https://github.com/neex/http2smugl)
 - [cowbe0x004 starred security_content](https://github.com/splunk/security_content)
 - [cowbe0x004 starred DynamicLabs](https://github.com/ctxis/DynamicLabs)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred snyk](https://github.com/snyk/snyk)
 - [cowbe0x004 starred Alaris](https://github.com/cribdragg3r/Alaris)
 - [cowbe0x004 starred git](https://github.com/pownjs/git)
-- [cowbe0x004 starred mquery](https://github.com/CERT-Polska/mquery)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
