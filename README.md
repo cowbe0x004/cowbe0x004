@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [CSRF vulnerability with no defenses | part 1](https://www.youtube.com/watch?v=V6xQX30QtPM)
+- [#SSRF against the local server #part1 @Hack Shala @HackSudo Live](https://www.youtube.com/watch?v=H147CHNagoA)
 - [Beyond the Basic Stuff with Python - Al Sweigart - Part 1](https://www.youtube.com/watch?v=kSrnLbioN6w)
 - [Taming Kerberos - Computerphile](https://www.youtube.com/watch?v=qW361k3-BtU)
 - [Deobfuscate Malicious VBScript - EARL INFECTED MY MACHINE!](https://www.youtube.com/watch?v=jFWQX-aELLI)
@@ -34,8 +36,6 @@
 - [Forensics - Exfil - Hack The Box X UNI CTF [Walkthrough]](https://www.youtube.com/watch?v=GghxAJeuhxE)
 - [You've been breached! Deploying osquery (fast) to support incident response](https://www.youtube.com/watch?v=vLC2vVVwR3c)
 - [I'm not crying, you're crying: Making incident response in the cloud less painful with osquery](https://www.youtube.com/watch?v=b81zSQ5MsDk)
-- [The ABCs of WMI - Finding Evil in Plain Sight](https://www.youtube.com/watch?v=k-_O59BnsHg)
-- [x86 NASM Assembly Crash Course](https://www.youtube.com/watch?v=DNPjBvZxE3E)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
