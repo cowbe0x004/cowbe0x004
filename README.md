@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Beyond the Basic Stuff with Python - Al Sweigart - Part 1](https://www.youtube.com/watch?v=kSrnLbioN6w)
 - [Taming Kerberos - Computerphile](https://www.youtube.com/watch?v=qW361k3-BtU)
 - [Deobfuscate Malicious VBScript - EARL INFECTED MY MACHINE!](https://www.youtube.com/watch?v=jFWQX-aELLI)
 - [PowerShell 2020: State of the Art / Hack / Infection - SANS@Mic Keynote Network Security](https://www.youtube.com/watch?v=ZIQ62IZO58s)
@@ -35,7 +36,6 @@
 - [I'm not crying, you're crying: Making incident response in the cloud less painful with osquery](https://www.youtube.com/watch?v=b81zSQ5MsDk)
 - [The ABCs of WMI - Finding Evil in Plain Sight](https://www.youtube.com/watch?v=k-_O59BnsHg)
 - [x86 NASM Assembly Crash Course](https://www.youtube.com/watch?v=DNPjBvZxE3E)
-- [[Breakout #1] Better Alerts via Log Enrichment | All-Around Defenders](https://www.youtube.com/watch?v=mlI-s3Dnx8o)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
