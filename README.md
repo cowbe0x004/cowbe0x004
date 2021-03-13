@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred sanitizers](https://github.com/google/sanitizers)
 - [cowbe0x004 starred powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp)
 - [cowbe0x004 starred Search-That-Hash](https://github.com/HashPals/Search-That-Hash)
 - [cowbe0x004 starred http2smugl](https://github.com/neex/http2smugl)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred apkleaks](https://github.com/dwisiswant0/apkleaks)
 - [cowbe0x004 starred OWASP-VWAD](https://github.com/OWASP/OWASP-VWAD)
 - [cowbe0x004 starred snyk](https://github.com/snyk/snyk)
-- [cowbe0x004 starred Alaris](https://github.com/cribdragg3r/Alaris)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
