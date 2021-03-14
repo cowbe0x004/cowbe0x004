@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred APT_REPORT](https://github.com/blackorbird/APT_REPORT)
 - [cowbe0x004 starred sanitizers](https://github.com/google/sanitizers)
 - [cowbe0x004 starred powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp)
 - [cowbe0x004 starred Search-That-Hash](https://github.com/HashPals/Search-That-Hash)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred KilledProcessCanary](https://github.com/nccgroup/KilledProcessCanary)
 - [cowbe0x004 starred apkleaks](https://github.com/dwisiswant0/apkleaks)
 - [cowbe0x004 starred OWASP-VWAD](https://github.com/OWASP/OWASP-VWAD)
-- [cowbe0x004 starred snyk](https://github.com/snyk/snyk)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
