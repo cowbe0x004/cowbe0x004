@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred unfetter-analytic](https://github.com/unfetter-discover/unfetter-analytic)
+- [cowbe0x004 starred unfetter](https://github.com/unfetter-discover/unfetter)
+- [cowbe0x004 starred PersistentJXA](https://github.com/D00MFist/PersistentJXA)
 - [cowbe0x004 starred APT_REPORT](https://github.com/blackorbird/APT_REPORT)
 - [cowbe0x004 starred sanitizers](https://github.com/google/sanitizers)
 - [cowbe0x004 starred powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred http2smugl](https://github.com/neex/http2smugl)
 - [cowbe0x004 starred security_content](https://github.com/splunk/security_content)
 - [cowbe0x004 starred DynamicLabs](https://github.com/ctxis/DynamicLabs)
-- [cowbe0x004 starred KilledProcessCanary](https://github.com/nccgroup/KilledProcessCanary)
-- [cowbe0x004 starred apkleaks](https://github.com/dwisiswant0/apkleaks)
-- [cowbe0x004 starred OWASP-VWAD](https://github.com/OWASP/OWASP-VWAD)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
