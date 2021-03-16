@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [DearCry Ransomware - A quick look 0x00](https://www.youtube.com/watch?v=qmCjtigVVR0)
 - [CSRF vulnerability with no defenses | part 1](https://www.youtube.com/watch?v=V6xQX30QtPM)
 - [#SSRF against the local server #part1 @Hack Shala @HackSudo Live](https://www.youtube.com/watch?v=H147CHNagoA)
 - [Beyond the Basic Stuff with Python - Al Sweigart - Part 1](https://www.youtube.com/watch?v=kSrnLbioN6w)
@@ -35,7 +36,6 @@
 - [Detecting Access Token Manipulation](https://www.youtube.com/watch?v=RMVyYvt0bLY)
 - [Forensics - Exfil - Hack The Box X UNI CTF [Walkthrough]](https://www.youtube.com/watch?v=GghxAJeuhxE)
 - [You've been breached! Deploying osquery (fast) to support incident response](https://www.youtube.com/watch?v=vLC2vVVwR3c)
-- [I'm not crying, you're crying: Making incident response in the cloud less painful with osquery](https://www.youtube.com/watch?v=b81zSQ5MsDk)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
