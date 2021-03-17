@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred KNR-XSS-Payloads](https://github.com/irfan-knr/KNR-XSS-Payloads)
 - [cowbe0x004 starred unfetter-analytic](https://github.com/unfetter-discover/unfetter-analytic)
 - [cowbe0x004 starred unfetter](https://github.com/unfetter-discover/unfetter)
 - [cowbe0x004 starred PersistentJXA](https://github.com/D00MFist/PersistentJXA)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Search-That-Hash](https://github.com/HashPals/Search-That-Hash)
 - [cowbe0x004 starred http2smugl](https://github.com/neex/http2smugl)
 - [cowbe0x004 starred security_content](https://github.com/splunk/security_content)
-- [cowbe0x004 starred DynamicLabs](https://github.com/ctxis/DynamicLabs)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
