@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred 3mux](https://github.com/aaronjanse/3mux)
 - [cowbe0x004 starred KNR-XSS-Payloads](https://github.com/irfan-knr/KNR-XSS-Payloads)
 - [cowbe0x004 starred unfetter-analytic](https://github.com/unfetter-discover/unfetter-analytic)
 - [cowbe0x004 starred unfetter](https://github.com/unfetter-discover/unfetter)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp)
 - [cowbe0x004 starred Search-That-Hash](https://github.com/HashPals/Search-That-Hash)
 - [cowbe0x004 starred http2smugl](https://github.com/neex/http2smugl)
-- [cowbe0x004 starred security_content](https://github.com/splunk/security_content)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
