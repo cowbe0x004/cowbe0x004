@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)
 - [cowbe0x004 starred n8n](https://github.com/n8n-io/n8n)
 - [cowbe0x004 starred 3mux](https://github.com/aaronjanse/3mux)
 - [cowbe0x004 starred KNR-XSS-Payloads](https://github.com/irfan-knr/KNR-XSS-Payloads)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred APT_REPORT](https://github.com/blackorbird/APT_REPORT)
 - [cowbe0x004 starred sanitizers](https://github.com/google/sanitizers)
 - [cowbe0x004 starred powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp)
-- [cowbe0x004 starred Search-That-Hash](https://github.com/HashPals/Search-That-Hash)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
