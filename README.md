@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred DomainClassifier](https://github.com/adulau/DomainClassifier)
+- [cowbe0x004 starred evtx](https://github.com/omerbenamram/evtx)
+- [cowbe0x004 starred RainFall](https://github.com/anyashuka/RainFall)
+- [cowbe0x004 starred Evasions](https://github.com/CheckPointSW/Evasions)
 - [cowbe0x004 starred malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)
 - [cowbe0x004 starred n8n](https://github.com/n8n-io/n8n)
 - [cowbe0x004 starred 3mux](https://github.com/aaronjanse/3mux)
 - [cowbe0x004 starred KNR-XSS-Payloads](https://github.com/irfan-knr/KNR-XSS-Payloads)
 - [cowbe0x004 starred unfetter-analytic](https://github.com/unfetter-discover/unfetter-analytic)
 - [cowbe0x004 starred unfetter](https://github.com/unfetter-discover/unfetter)
-- [cowbe0x004 starred PersistentJXA](https://github.com/D00MFist/PersistentJXA)
-- [cowbe0x004 starred APT_REPORT](https://github.com/blackorbird/APT_REPORT)
-- [cowbe0x004 starred sanitizers](https://github.com/google/sanitizers)
-- [cowbe0x004 starred powershell-reverse-tcp](https://github.com/ivan-sincek/powershell-reverse-tcp)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
