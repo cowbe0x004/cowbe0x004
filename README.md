@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred sqli-labs](https://github.com/Audi-1/sqli-labs)
 - [cowbe0x004 starred DomainClassifier](https://github.com/adulau/DomainClassifier)
 - [cowbe0x004 starred evtx](https://github.com/omerbenamram/evtx)
 - [cowbe0x004 starred RainFall](https://github.com/anyashuka/RainFall)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred 3mux](https://github.com/aaronjanse/3mux)
 - [cowbe0x004 starred KNR-XSS-Payloads](https://github.com/irfan-knr/KNR-XSS-Payloads)
 - [cowbe0x004 starred unfetter-analytic](https://github.com/unfetter-discover/unfetter-analytic)
-- [cowbe0x004 starred unfetter](https://github.com/unfetter-discover/unfetter)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
