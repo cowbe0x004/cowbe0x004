@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred RainFall](https://github.com/dfinnis/RainFall)
+- [cowbe0x004 starred cloudquery](https://github.com/Uptycs/cloudquery)
+- [cowbe0x004 starred irma](https://github.com/quarkslab/irma)
 - [cowbe0x004 starred sqli-labs](https://github.com/Audi-1/sqli-labs)
 - [cowbe0x004 starred DomainClassifier](https://github.com/adulau/DomainClassifier)
 - [cowbe0x004 starred evtx](https://github.com/omerbenamram/evtx)
-- [cowbe0x004 starred RainFall](https://github.com/anyashuka/RainFall)
+- [cowbe0x004 starred RainFall](https://github.com/anyaschukin/RainFall)
 - [cowbe0x004 starred Evasions](https://github.com/CheckPointSW/Evasions)
 - [cowbe0x004 starred malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)
 - [cowbe0x004 starred n8n](https://github.com/n8n-io/n8n)
-- [cowbe0x004 starred 3mux](https://github.com/aaronjanse/3mux)
-- [cowbe0x004 starred KNR-XSS-Payloads](https://github.com/irfan-knr/KNR-XSS-Payloads)
-- [cowbe0x004 starred unfetter-analytic](https://github.com/unfetter-discover/unfetter-analytic)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
