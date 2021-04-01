@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [WINDBG Kernel&User Mode Debugging (EPROCESS, ETHREAD, TEB, PEB...)](https://www.youtube.com/watch?v=ngBPk5O5uhA)
 - [Linux LKM Rootkit Tutorial | Linux Kernel Module Rootkit | Part 2](https://www.youtube.com/watch?v=jw9kuN1lhiw)
 - [DearCry Ransomware - A quick look 0x00](https://www.youtube.com/watch?v=qmCjtigVVR0)
 - [CSRF vulnerability with no defenses | part 1](https://www.youtube.com/watch?v=V6xQX30QtPM)
@@ -35,7 +36,6 @@
 - [Deobfuscate Malicious VBScript - EARL INFECTED MY MACHINE!](https://www.youtube.com/watch?v=jFWQX-aELLI)
 - [PowerShell 2020: State of the Art / Hack / Infection - SANS@Mic Keynote Network Security](https://www.youtube.com/watch?v=ZIQ62IZO58s)
 - [Detecting Access Token Manipulation](https://www.youtube.com/watch?v=RMVyYvt0bLY)
-- [Forensics - Exfil - Hack The Box X UNI CTF [Walkthrough]](https://www.youtube.com/watch?v=GghxAJeuhxE)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
