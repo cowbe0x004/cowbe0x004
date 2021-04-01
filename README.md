@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred archivefox](https://github.com/layderv/archivefox)
 - [cowbe0x004 starred fleet](https://github.com/fleetdm/fleet)
 - [cowbe0x004 starred RainFall](https://github.com/dfinnis/RainFall)
 - [cowbe0x004 starred cloudquery](https://github.com/Uptycs/cloudquery)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred evtx](https://github.com/omerbenamram/evtx)
 - [cowbe0x004 starred RainFall](https://github.com/anyaschukin/RainFall)
 - [cowbe0x004 starred Evasions](https://github.com/CheckPointSW/Evasions)
-- [cowbe0x004 starred malware_training_vol1](https://github.com/hasherezade/malware_training_vol1)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
