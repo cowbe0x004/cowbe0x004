@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Zircolite](https://github.com/wagga40/Zircolite)
 - [cowbe0x004 starred archivefox](https://github.com/layderv/archivefox)
 - [cowbe0x004 starred fleet](https://github.com/fleetdm/fleet)
 - [cowbe0x004 starred RainFall](https://github.com/dfinnis/RainFall)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred DomainClassifier](https://github.com/adulau/DomainClassifier)
 - [cowbe0x004 starred evtx](https://github.com/omerbenamram/evtx)
 - [cowbe0x004 starred RainFall](https://github.com/anyaschukin/RainFall)
-- [cowbe0x004 starred Evasions](https://github.com/CheckPointSW/Evasions)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
