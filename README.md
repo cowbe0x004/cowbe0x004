@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Angstrom CTF 2021 - Pwn Challenge Walkthroughs](https://www.youtube.com/watch?v=2pqG6opzrug)
+- [OnDefend #PurpleTeam tool: BlindSPOT webinar. Early release party.](https://www.youtube.com/watch?v=7EqFdERUQYM)
 - [YARA and CyberChef](https://www.youtube.com/watch?v=vdQ9YAlhoHA)
 - [WINDBG Kernel&User Mode Debugging (EPROCESS, ETHREAD, TEB, PEB...)](https://www.youtube.com/watch?v=ngBPk5O5uhA)
 - [Linux LKM Rootkit Tutorial | Linux Kernel Module Rootkit | Part 2](https://www.youtube.com/watch?v=jw9kuN1lhiw)
@@ -34,8 +36,6 @@
 - [#SSRF against the local server #part1 @Hack Shala @HackSudo Live](https://www.youtube.com/watch?v=H147CHNagoA)
 - [Beyond the Basic Stuff with Python - Al Sweigart - Part 1](https://www.youtube.com/watch?v=kSrnLbioN6w)
 - [Taming Kerberos - Computerphile](https://www.youtube.com/watch?v=qW361k3-BtU)
-- [Deobfuscate Malicious VBScript - EARL INFECTED MY MACHINE!](https://www.youtube.com/watch?v=jFWQX-aELLI)
-- [PowerShell 2020: State of the Art / Hack / Infection - SANS@Mic Keynote Network Security](https://www.youtube.com/watch?v=ZIQ62IZO58s)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
