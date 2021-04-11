@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Defeating EDR's using D/Invoke](https://www.youtube.com/watch?v=d_Z_WV9fp9Q)
 - [Angstrom CTF 2021 - Pwn Challenge Walkthroughs](https://www.youtube.com/watch?v=2pqG6opzrug)
 - [OnDefend #PurpleTeam tool: BlindSPOT webinar. Early release party.](https://www.youtube.com/watch?v=7EqFdERUQYM)
 - [YARA and CyberChef](https://www.youtube.com/watch?v=vdQ9YAlhoHA)
@@ -35,7 +36,6 @@
 - [CSRF vulnerability with no defenses | part 1](https://www.youtube.com/watch?v=V6xQX30QtPM)
 - [#SSRF against the local server #part1 @Hack Shala @HackSudo Live](https://www.youtube.com/watch?v=H147CHNagoA)
 - [Beyond the Basic Stuff with Python - Al Sweigart - Part 1](https://www.youtube.com/watch?v=kSrnLbioN6w)
-- [Taming Kerberos - Computerphile](https://www.youtube.com/watch?v=qW361k3-BtU)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
