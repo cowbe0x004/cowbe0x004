@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Slides](https://github.com/sbousseaden/Slides)
 - [cowbe0x004 starred CyberBattleSim](https://github.com/microsoft/CyberBattleSim)
 - [cowbe0x004 starred Zircolite](https://github.com/wagga40/Zircolite)
 - [cowbe0x004 starred archivefox](https://github.com/layderv/archivefox)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred irma](https://github.com/quarkslab/irma)
 - [cowbe0x004 starred sqli-labs](https://github.com/Audi-1/sqli-labs)
 - [cowbe0x004 starred DomainClassifier](https://github.com/adulau/DomainClassifier)
-- [cowbe0x004 starred evtx](https://github.com/omerbenamram/evtx)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
