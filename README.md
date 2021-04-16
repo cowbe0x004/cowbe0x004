@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Enhancing Event Log Analysis with EvtxEcmd using KAPE](https://www.youtube.com/watch?v=BIkyWexMF0I)
 - [Malware Theory - Imphash algorithm explained](https://www.youtube.com/watch?v=fWV8Dh_RBZU)
 - [Defeating EDR's using D/Invoke](https://www.youtube.com/watch?v=d_Z_WV9fp9Q)
 - [Angstrom CTF 2021 - Pwn Challenge Walkthroughs](https://www.youtube.com/watch?v=2pqG6opzrug)
@@ -35,7 +36,6 @@
 - [Linux LKM Rootkit Tutorial | Linux Kernel Module Rootkit | Part 2](https://www.youtube.com/watch?v=jw9kuN1lhiw)
 - [DearCry Ransomware - A quick look 0x00](https://www.youtube.com/watch?v=qmCjtigVVR0)
 - [CSRF vulnerability with no defenses | part 1](https://www.youtube.com/watch?v=V6xQX30QtPM)
-- [#SSRF against the local server #part1 @Hack Shala @HackSudo Live](https://www.youtube.com/watch?v=H147CHNagoA)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
