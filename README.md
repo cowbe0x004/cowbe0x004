@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Union Based SQLi To RCE! - Escalate your SQL injections!](https://www.youtube.com/watch?v=yHpPVEVd2Cw)
 - [DLL Injection (and more!) via Application Shimming (Persistence & Defence Evasion)](https://www.youtube.com/watch?v=RQuwJUIiSEA)
 - [Threat Hunting with Sysmon - Binary Defense](https://www.youtube.com/watch?v=pnnnCgTyZo8)
 - [Enhancing Event Log Analysis with EvtxEcmd using KAPE](https://www.youtube.com/watch?v=BIkyWexMF0I)
@@ -35,7 +36,6 @@
 - [OnDefend #PurpleTeam tool: BlindSPOT webinar. Early release party.](https://www.youtube.com/watch?v=7EqFdERUQYM)
 - [YARA and CyberChef](https://www.youtube.com/watch?v=vdQ9YAlhoHA)
 - [WINDBG Kernel&User Mode Debugging (EPROCESS, ETHREAD, TEB, PEB...)](https://www.youtube.com/watch?v=ngBPk5O5uhA)
-- [Linux LKM Rootkit Tutorial | Linux Kernel Module Rootkit | Part 2](https://www.youtube.com/watch?v=jw9kuN1lhiw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
