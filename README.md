@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred winbindex](https://github.com/m417z/winbindex)
 - [cowbe0x004 starred SharpExcel4-DCOM](https://github.com/rvrsh3ll/SharpExcel4-DCOM)
 - [cowbe0x004 starred Slides](https://github.com/sbousseaden/Slides)
 - [cowbe0x004 starred CyberBattleSim](https://github.com/microsoft/CyberBattleSim)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred RainFall](https://github.com/dfinnis/RainFall)
 - [cowbe0x004 starred cloudquery](https://github.com/Uptycs/cloudquery)
 - [cowbe0x004 starred irma](https://github.com/quarkslab/irma)
+- [cowbe0x004 starred sqli-labs](https://github.com/Audi-1/sqli-labs)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
