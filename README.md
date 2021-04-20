@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred vapi](https://github.com/roottusk/vapi)
 - [cowbe0x004 starred ransomwatch](https://github.com/captainGeech42/ransomwatch)
 - [cowbe0x004 starred winbindex](https://github.com/m417z/winbindex)
 - [cowbe0x004 starred SharpExcel4-DCOM](https://github.com/rvrsh3ll/SharpExcel4-DCOM)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred archivefox](https://github.com/layderv/archivefox)
 - [cowbe0x004 starred fleet](https://github.com/fleetdm/fleet)
 - [cowbe0x004 starred RainFall](https://github.com/dfinnis/RainFall)
-- [cowbe0x004 starred cloudquery](https://github.com/Uptycs/cloudquery)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
