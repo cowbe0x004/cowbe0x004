@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [MITRE DeTTECT - Data Source Visibility and Mapping](https://www.youtube.com/watch?v=EXnutTLKS5o)
 - [Union Based SQLi To RCE! - Escalate your SQL injections!](https://www.youtube.com/watch?v=yHpPVEVd2Cw)
 - [DLL Injection (and more!) via Application Shimming (Persistence & Defence Evasion)](https://www.youtube.com/watch?v=RQuwJUIiSEA)
 - [Threat Hunting with Sysmon - Binary Defense](https://www.youtube.com/watch?v=pnnnCgTyZo8)
@@ -35,7 +36,6 @@
 - [Angstrom CTF 2021 - Pwn Challenge Walkthroughs](https://www.youtube.com/watch?v=2pqG6opzrug)
 - [OnDefend #PurpleTeam tool: BlindSPOT webinar. Early release party.](https://www.youtube.com/watch?v=7EqFdERUQYM)
 - [YARA and CyberChef](https://www.youtube.com/watch?v=vdQ9YAlhoHA)
-- [WINDBG Kernel&User Mode Debugging (EPROCESS, ETHREAD, TEB, PEB...)](https://www.youtube.com/watch?v=ngBPk5O5uhA)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
