@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Defense Against The Dark Arts Episode 2: Application Shimming](https://www.youtube.com/watch?v=FPJHko9H6TE)
 - [MITRE DeTTECT - Data Source Visibility and Mapping](https://www.youtube.com/watch?v=EXnutTLKS5o)
 - [Union Based SQLi To RCE! - Escalate your SQL injections!](https://www.youtube.com/watch?v=yHpPVEVd2Cw)
 - [DLL Injection (and more!) via Application Shimming (Persistence & Defence Evasion)](https://www.youtube.com/watch?v=RQuwJUIiSEA)
@@ -35,7 +36,6 @@
 - [Defeating EDR's using D/Invoke](https://www.youtube.com/watch?v=d_Z_WV9fp9Q)
 - [Angstrom CTF 2021 - Pwn Challenge Walkthroughs](https://www.youtube.com/watch?v=2pqG6opzrug)
 - [OnDefend #PurpleTeam tool: BlindSPOT webinar. Early release party.](https://www.youtube.com/watch?v=7EqFdERUQYM)
-- [YARA and CyberChef](https://www.youtube.com/watch?v=vdQ9YAlhoHA)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
