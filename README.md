@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred sysmon-edr](https://github.com/ion-storm/sysmon-edr)
 - [cowbe0x004 starred Azure-Sentinel-Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks)
 - [cowbe0x004 starred logging-essentials](https://github.com/JSCU-NL/logging-essentials)
 - [cowbe0x004 starred vapi](https://github.com/roottusk/vapi)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Slides](https://github.com/sbousseaden/Slides)
 - [cowbe0x004 starred CyberBattleSim](https://github.com/microsoft/CyberBattleSim)
 - [cowbe0x004 starred Zircolite](https://github.com/wagga40/Zircolite)
-- [cowbe0x004 starred archivefox](https://github.com/layderv/archivefox)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
