@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred lookyloo](https://github.com/Lookyloo/lookyloo)
+- [cowbe0x004 starred SharpNoPSExec](https://github.com/juliourena/SharpNoPSExec)
 - [cowbe0x004 starred sysmon-edr](https://github.com/ion-storm/sysmon-edr)
 - [cowbe0x004 starred Azure-Sentinel-Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks)
 - [cowbe0x004 starred logging-essentials](https://github.com/JSCU-NL/logging-essentials)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred winbindex](https://github.com/m417z/winbindex)
 - [cowbe0x004 starred SharpExcel4-DCOM](https://github.com/rvrsh3ll/SharpExcel4-DCOM)
 - [cowbe0x004 starred Slides](https://github.com/sbousseaden/Slides)
-- [cowbe0x004 starred CyberBattleSim](https://github.com/microsoft/CyberBattleSim)
-- [cowbe0x004 starred Zircolite](https://github.com/wagga40/Zircolite)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
