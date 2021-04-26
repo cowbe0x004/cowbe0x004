@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred dynaconf](https://github.com/rochacbruno/dynaconf)
 - [cowbe0x004 starred lookyloo](https://github.com/Lookyloo/lookyloo)
 - [cowbe0x004 starred SharpNoPSExec](https://github.com/juliourena/SharpNoPSExec)
 - [cowbe0x004 starred sysmon-edr](https://github.com/ion-storm/sysmon-edr)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ransomwatch](https://github.com/captainGeech42/ransomwatch)
 - [cowbe0x004 starred winbindex](https://github.com/m417z/winbindex)
 - [cowbe0x004 starred SharpExcel4-DCOM](https://github.com/rvrsh3ll/SharpExcel4-DCOM)
-- [cowbe0x004 starred Slides](https://github.com/sbousseaden/Slides)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
