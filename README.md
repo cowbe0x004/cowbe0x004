@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred binaryalert](https://github.com/airbnb/binaryalert)
 - [cowbe0x004 starred EDD](https://github.com/FortyNorthSecurity/EDD)
 - [cowbe0x004 starred dynaconf](https://github.com/rochacbruno/dynaconf)
 - [cowbe0x004 starred lookyloo](https://github.com/Lookyloo/lookyloo)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred logging-essentials](https://github.com/JSCU-NL/logging-essentials)
 - [cowbe0x004 starred vapi](https://github.com/roottusk/vapi)
 - [cowbe0x004 starred ransomwatch](https://github.com/captainGeech42/ransomwatch)
-- [cowbe0x004 starred winbindex](https://github.com/m417z/winbindex)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
