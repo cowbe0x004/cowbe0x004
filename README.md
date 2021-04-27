@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Visible vs Hidden vs VeryHidden Sheet - Excel Binary File Format (.xls)](https://www.youtube.com/watch?v=5oqzwrugfIc)
 - [Stream #1 - C# Office365 account enumerator](https://www.youtube.com/watch?v=0OJcfN3r6Ys)
 - [SQL Injection | Complete Guide](https://www.youtube.com/watch?v=1nJgupaUPEQ)
 - [Defense Against The Dark Arts Episode 2: Application Shimming](https://www.youtube.com/watch?v=FPJHko9H6TE)
@@ -35,7 +36,6 @@
 - [Threat Hunting with Sysmon - Binary Defense](https://www.youtube.com/watch?v=pnnnCgTyZo8)
 - [Enhancing Event Log Analysis with EvtxEcmd using KAPE](https://www.youtube.com/watch?v=BIkyWexMF0I)
 - [Malware Theory - Imphash algorithm explained](https://www.youtube.com/watch?v=fWV8Dh_RBZU)
-- [Defeating EDR's using D/Invoke](https://www.youtube.com/watch?v=d_Z_WV9fp9Q)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
