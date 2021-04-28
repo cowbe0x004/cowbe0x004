@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
 - [cowbe0x004 starred binaryalert](https://github.com/airbnb/binaryalert)
 - [cowbe0x004 starred EDD](https://github.com/FortyNorthSecurity/EDD)
 - [cowbe0x004 starred dynaconf](https://github.com/rochacbruno/dynaconf)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Azure-Sentinel-Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks)
 - [cowbe0x004 starred logging-essentials](https://github.com/JSCU-NL/logging-essentials)
 - [cowbe0x004 starred vapi](https://github.com/roottusk/vapi)
-- [cowbe0x004 starred ransomwatch](https://github.com/captainGeech42/ransomwatch)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
