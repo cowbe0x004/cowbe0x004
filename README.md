@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred BeaconHunter](https://github.com/3lp4tr0n/BeaconHunter)
 - [cowbe0x004 starred Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth)
 - [cowbe0x004 starred RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
 - [cowbe0x004 starred binaryalert](https://github.com/airbnb/binaryalert)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SharpNoPSExec](https://github.com/juliourena/SharpNoPSExec)
 - [cowbe0x004 starred sysmon-edr](https://github.com/ion-storm/sysmon-edr)
 - [cowbe0x004 starred Azure-Sentinel-Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks)
-- [cowbe0x004 starred logging-essentials](https://github.com/JSCU-NL/logging-essentials)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
