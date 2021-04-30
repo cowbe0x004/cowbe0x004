@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred malware-signatures](https://github.com/citizenlab/malware-signatures)
+- [cowbe0x004 starred yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)
+- [cowbe0x004 starred rules](https://github.com/Yara-Rules/rules)
 - [cowbe0x004 starred BeaconHunter](https://github.com/3lp4tr0n/BeaconHunter)
 - [cowbe0x004 starred Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth)
 - [cowbe0x004 starred RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred EDD](https://github.com/FortyNorthSecurity/EDD)
 - [cowbe0x004 starred dynaconf](https://github.com/rochacbruno/dynaconf)
 - [cowbe0x004 starred lookyloo](https://github.com/Lookyloo/lookyloo)
-- [cowbe0x004 starred SharpNoPSExec](https://github.com/juliourena/SharpNoPSExec)
-- [cowbe0x004 starred sysmon-edr](https://github.com/ion-storm/sysmon-edr)
-- [cowbe0x004 starred Azure-Sentinel-Notebooks](https://github.com/Azure/Azure-Sentinel-Notebooks)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
