@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred vaf](https://github.com/d4rckh/vaf)
 - [cowbe0x004 starred malware-signatures](https://github.com/citizenlab/malware-signatures)
 - [cowbe0x004 starred yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)
 - [cowbe0x004 starred rules](https://github.com/Yara-Rules/rules)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred binaryalert](https://github.com/airbnb/binaryalert)
 - [cowbe0x004 starred EDD](https://github.com/FortyNorthSecurity/EDD)
 - [cowbe0x004 starred dynaconf](https://github.com/rochacbruno/dynaconf)
-- [cowbe0x004 starred lookyloo](https://github.com/Lookyloo/lookyloo)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
