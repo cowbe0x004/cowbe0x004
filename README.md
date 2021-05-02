@@ -26,16 +26,16 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Attack Detection Fundamentals 2021: Workshop #4 - Azure](https://www.youtube.com/watch?v=Uen-gDtPxf4)
+- [Attack Detection Fundamentals 2021: Workshop #3 - AWS](https://www.youtube.com/watch?v=JpELEMm9OsY)
+- [Attack Detection Fundamentals 2021: Workshop #2 - macOS](https://www.youtube.com/watch?v=A6rSlavcF4Q)
+- [Attack Detection Fundamentals 2021: Workshop #1 - Windows](https://www.youtube.com/watch?v=h1OBjMx-R-M)
 - [Visible vs Hidden vs VeryHidden Sheet - Excel Binary File Format (.xls)](https://www.youtube.com/watch?v=5oqzwrugfIc)
 - [Stream #1 - C# Office365 account enumerator](https://www.youtube.com/watch?v=0OJcfN3r6Ys)
 - [SQL Injection | Complete Guide](https://www.youtube.com/watch?v=1nJgupaUPEQ)
 - [Defense Against The Dark Arts Episode 2: Application Shimming](https://www.youtube.com/watch?v=FPJHko9H6TE)
 - [MITRE DeTTECT - Data Source Visibility and Mapping](https://www.youtube.com/watch?v=EXnutTLKS5o)
 - [Union Based SQLi To RCE! - Escalate your SQL injections!](https://www.youtube.com/watch?v=yHpPVEVd2Cw)
-- [DLL Injection (and more!) via Application Shimming (Persistence & Defence Evasion)](https://www.youtube.com/watch?v=RQuwJUIiSEA)
-- [Threat Hunting with Sysmon - Binary Defense](https://www.youtube.com/watch?v=pnnnCgTyZo8)
-- [Enhancing Event Log Analysis with EvtxEcmd using KAPE](https://www.youtube.com/watch?v=BIkyWexMF0I)
-- [Malware Theory - Imphash algorithm explained](https://www.youtube.com/watch?v=fWV8Dh_RBZU)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
