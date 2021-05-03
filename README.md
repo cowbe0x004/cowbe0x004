@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred p0wny-shell](https://github.com/flozz/p0wny-shell)
 - [cowbe0x004 starred SharpNamedPipePTH](https://github.com/S3cur3Th1sSh1t/SharpNamedPipePTH)
 - [cowbe0x004 starred vaf](https://github.com/d4rckh/vaf)
 - [cowbe0x004 starred malware-signatures](https://github.com/citizenlab/malware-signatures)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Invoke-Stealth](https://github.com/JoelGMSec/Invoke-Stealth)
 - [cowbe0x004 starred RemotePotato0](https://github.com/antonioCoco/RemotePotato0)
 - [cowbe0x004 starred binaryalert](https://github.com/airbnb/binaryalert)
-- [cowbe0x004 starred EDD](https://github.com/FortyNorthSecurity/EDD)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
