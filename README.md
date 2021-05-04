@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Sysmon Guides: NetworkConnect Sysmon](https://www.youtube.com/watch?v=hy_2PLHmo0Q)
 - [Hands-On Purple Team Workshop with Tim Schulz. April](https://www.youtube.com/watch?v=4roHrgYx8bo)
 - [Attack Detection Fundamentals 2021: Workshop #4 - Azure](https://www.youtube.com/watch?v=Uen-gDtPxf4)
 - [Attack Detection Fundamentals 2021: Workshop #3 - AWS](https://www.youtube.com/watch?v=JpELEMm9OsY)
@@ -35,7 +36,6 @@
 - [Stream #1 - C# Office365 account enumerator](https://www.youtube.com/watch?v=0OJcfN3r6Ys)
 - [SQL Injection | Complete Guide](https://www.youtube.com/watch?v=1nJgupaUPEQ)
 - [Defense Against The Dark Arts Episode 2: Application Shimming](https://www.youtube.com/watch?v=FPJHko9H6TE)
-- [MITRE DeTTECT - Data Source Visibility and Mapping](https://www.youtube.com/watch?v=EXnutTLKS5o)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
