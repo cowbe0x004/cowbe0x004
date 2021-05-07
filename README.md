@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Windows File Transfers - What You Need to Know For OSCP](https://www.youtube.com/watch?v=xG5VFR5EIaY)
 - [Sysmon Guides: NetworkConnect Sysmon](https://www.youtube.com/watch?v=hy_2PLHmo0Q)
 - [Hands-On Purple Team Workshop with Tim Schulz. April](https://www.youtube.com/watch?v=4roHrgYx8bo)
 - [Attack Detection Fundamentals 2021: Workshop #4 - Azure](https://www.youtube.com/watch?v=Uen-gDtPxf4)
@@ -35,7 +36,6 @@
 - [Visible vs Hidden vs VeryHidden Sheet - Excel Binary File Format (.xls)](https://www.youtube.com/watch?v=5oqzwrugfIc)
 - [Stream #1 - C# Office365 account enumerator](https://www.youtube.com/watch?v=0OJcfN3r6Ys)
 - [SQL Injection | Complete Guide](https://www.youtube.com/watch?v=1nJgupaUPEQ)
-- [Defense Against The Dark Arts Episode 2: Application Shimming](https://www.youtube.com/watch?v=FPJHko9H6TE)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
