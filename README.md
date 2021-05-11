@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [KQL Tutorial Series - Unions - EP6 (with lab)](https://www.youtube.com/watch?v=Wk621OfOjeA)
+- [Pwn: clutter-overflow - picoMini CTF 2021 Challenge](https://www.youtube.com/watch?v=s5f7vA8AS7U)
 - [Windows File Transfers - What You Need to Know For OSCP](https://www.youtube.com/watch?v=xG5VFR5EIaY)
 - [Sysmon Guides: NetworkConnect Sysmon](https://www.youtube.com/watch?v=hy_2PLHmo0Q)
 - [Hands-On Purple Team Workshop with Tim Schulz. April](https://www.youtube.com/watch?v=4roHrgYx8bo)
@@ -34,8 +36,6 @@
 - [Attack Detection Fundamentals 2021: Workshop #2 - macOS](https://www.youtube.com/watch?v=A6rSlavcF4Q)
 - [Attack Detection Fundamentals 2021: Workshop #1 - Windows](https://www.youtube.com/watch?v=h1OBjMx-R-M)
 - [Visible vs Hidden vs VeryHidden Sheet - Excel Binary File Format (.xls)](https://www.youtube.com/watch?v=5oqzwrugfIc)
-- [Stream #1 - C# Office365 account enumerator](https://www.youtube.com/watch?v=0OJcfN3r6Ys)
-- [SQL Injection | Complete Guide](https://www.youtube.com/watch?v=1nJgupaUPEQ)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
