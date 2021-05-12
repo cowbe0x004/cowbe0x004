@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred WeaponisingCSharp-Fundamentals](https://github.com/fozavci/WeaponisingCSharp-Fundamentals)
 - [cowbe0x004 starred Solaris](https://github.com/redcode-labs/Solaris)
 - [cowbe0x004 starred tmux-suspend](https://github.com/MunifTanjim/tmux-suspend)
 - [cowbe0x004 starred rehex](https://github.com/solemnwarning/rehex)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred vaf](https://github.com/d4rckh/vaf)
 - [cowbe0x004 starred malware-signatures](https://github.com/citizenlab/malware-signatures)
 - [cowbe0x004 starred yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)
-- [cowbe0x004 starred rules](https://github.com/Yara-Rules/rules)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
