@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT Matt Swider (tracking PS5 / Xbox / GPU restock): 🎁Giveaway to celebrate helping 20,000 people w/ PS5 / Xbox Series X restock: ✅PS Plus x2 ✅PS ...](https://twitter.com/mattswider/status/1393049032948387840)
 - [RT Florian Roth: If someone asked me what would be the single most effective method to detect phishing attacks I'd say it's monitoring sub processes s...](https://twitter.com/cyb3rops/status/1389580487669297164)
 - [RT Karsten Hahn: New malware Youtuber @CatWithoutAHat7 made a series of analysing DearCry ransomware. 😃 #DearCry #ransomware #Youtube 👇](https://twitter.com/struppigel/status/1371515185609969667)
 - [RT ¬ whickey: I found a new #lolbin for downloading arbitrary files `C:\Windows\System32\IME\SHARED\IMEWDBLD.exe <URL>` Find the downloaded file in `...](https://twitter.com/notwhickey/status/1367493406835040265)
 - [RT Recon InfoSec: SOC X world championship is THIS Thursday! #socx](https://twitter.com/Recon_InfoSec/status/1366419712884809734)
-- [RT Florian Roth: If you're a fan of #ElastAlert, you shouldn't use the official repo since it doesn't look well maintained (1.2k issues, few commits w...](https://twitter.com/cyb3rops/status/1363797740950614017)
 <!-- TWEETS:END -->
 
 ---
