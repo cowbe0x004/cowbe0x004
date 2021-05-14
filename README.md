@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred charlotte](https://github.com/9emin1/charlotte)
+- [cowbe0x004 starred msticpy-lab](https://github.com/microsoft/msticpy-lab)
+- [cowbe0x004 starred External-Pentest-Checklist](https://github.com/hmaverickadams/External-Pentest-Checklist)
 - [cowbe0x004 starred WeaponisingCSharp-Fundamentals](https://github.com/fozavci/WeaponisingCSharp-Fundamentals)
 - [cowbe0x004 starred Solaris](https://github.com/redcode-labs/Solaris)
 - [cowbe0x004 starred tmux-suspend](https://github.com/MunifTanjim/tmux-suspend)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred FalconEye](https://github.com/rajiv2790/FalconEye)
 - [cowbe0x004 starred p0wny-shell](https://github.com/flozz/p0wny-shell)
 - [cowbe0x004 starred SharpNamedPipePTH](https://github.com/S3cur3Th1sSh1t/SharpNamedPipePTH)
-- [cowbe0x004 starred vaf](https://github.com/d4rckh/vaf)
-- [cowbe0x004 starred malware-signatures](https://github.com/citizenlab/malware-signatures)
-- [cowbe0x004 starred yarAnalyzer](https://github.com/Neo23x0/yarAnalyzer)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
