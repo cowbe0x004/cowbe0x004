@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred r77-rootkit](https://github.com/bytecode77/r77-rootkit)
 - [cowbe0x004 starred charlotte](https://github.com/9emin1/charlotte)
 - [cowbe0x004 starred msticpy-lab](https://github.com/microsoft/msticpy-lab)
 - [cowbe0x004 starred External-Pentest-Checklist](https://github.com/hmaverickadams/External-Pentest-Checklist)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred rehex](https://github.com/solemnwarning/rehex)
 - [cowbe0x004 starred FalconEye](https://github.com/rajiv2790/FalconEye)
 - [cowbe0x004 starred p0wny-shell](https://github.com/flozz/p0wny-shell)
-- [cowbe0x004 starred SharpNamedPipePTH](https://github.com/S3cur3Th1sSh1t/SharpNamedPipePTH)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
