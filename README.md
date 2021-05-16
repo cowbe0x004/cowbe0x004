@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [CyberSecLabs - Dictionary - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=yUtgruE664g)
 - [KQL Tutorial Series - Unions - EP6 (with lab)](https://www.youtube.com/watch?v=Wk621OfOjeA)
 - [Pwn: clutter-overflow - picoMini CTF 2021 Challenge](https://www.youtube.com/watch?v=s5f7vA8AS7U)
 - [Windows File Transfers - What You Need to Know For OSCP](https://www.youtube.com/watch?v=xG5VFR5EIaY)
@@ -35,7 +36,6 @@
 - [Attack Detection Fundamentals 2021: Workshop #3 - AWS](https://www.youtube.com/watch?v=JpELEMm9OsY)
 - [Attack Detection Fundamentals 2021: Workshop #2 - macOS](https://www.youtube.com/watch?v=A6rSlavcF4Q)
 - [Attack Detection Fundamentals 2021: Workshop #1 - Windows](https://www.youtube.com/watch?v=h1OBjMx-R-M)
-- [Visible vs Hidden vs VeryHidden Sheet - Excel Binary File Format (.xls)](https://www.youtube.com/watch?v=5oqzwrugfIc)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
