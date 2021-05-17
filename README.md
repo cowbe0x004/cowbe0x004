@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred trident](https://github.com/nov3mb3r/trident)
 - [cowbe0x004 starred chameleon](https://github.com/klezVirus/chameleon)
 - [cowbe0x004 starred Dent](https://github.com/optiv/Dent)
 - [cowbe0x004 starred r77-rootkit](https://github.com/bytecode77/r77-rootkit)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred WeaponisingCSharp-Fundamentals](https://github.com/fozavci/WeaponisingCSharp-Fundamentals)
 - [cowbe0x004 starred Solaris](https://github.com/redcode-labs/Solaris)
 - [cowbe0x004 starred tmux-suspend](https://github.com/MunifTanjim/tmux-suspend)
-- [cowbe0x004 starred rehex](https://github.com/solemnwarning/rehex)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
