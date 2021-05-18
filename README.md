@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Intro To Socket Progamming | Python3 For Application Security By OWASP Cuttack](https://www.youtube.com/watch?v=eadoU0PfrVU)
+- [A walkthrough of a typical DFIR case with Velociraptor](https://www.youtube.com/watch?v=dmmliSh91uQ)
 - [CyberSecLabs - Dictionary - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=yUtgruE664g)
 - [KQL Tutorial Series - Unions - EP6 (with lab)](https://www.youtube.com/watch?v=Wk621OfOjeA)
 - [Pwn: clutter-overflow - picoMini CTF 2021 Challenge](https://www.youtube.com/watch?v=s5f7vA8AS7U)
@@ -34,8 +36,6 @@
 - [Hands-On Purple Team Workshop with Tim Schulz. April](https://www.youtube.com/watch?v=4roHrgYx8bo)
 - [Attack Detection Fundamentals 2021: Workshop #4 - Azure](https://www.youtube.com/watch?v=Uen-gDtPxf4)
 - [Attack Detection Fundamentals 2021: Workshop #3 - AWS](https://www.youtube.com/watch?v=JpELEMm9OsY)
-- [Attack Detection Fundamentals 2021: Workshop #2 - macOS](https://www.youtube.com/watch?v=A6rSlavcF4Q)
-- [Attack Detection Fundamentals 2021: Workshop #1 - Windows](https://www.youtube.com/watch?v=h1OBjMx-R-M)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
