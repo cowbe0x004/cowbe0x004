@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred phpMussel](https://github.com/phpMussel/phpMussel)
+- [cowbe0x004 starred RedWarden](https://github.com/mgeeky/RedWarden)
+- [cowbe0x004 starred Shield](https://github.com/theevilbit/Shield)
 - [cowbe0x004 starred trident](https://github.com/nov3mb3r/trident)
 - [cowbe0x004 starred chameleon](https://github.com/klezVirus/chameleon)
 - [cowbe0x004 starred Dent](https://github.com/optiv/Dent)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred charlotte](https://github.com/9emin1/charlotte)
 - [cowbe0x004 starred msticpy-lab](https://github.com/microsoft/msticpy-lab)
 - [cowbe0x004 starred External-Pentest-Checklist](https://github.com/hmaverickadams/External-Pentest-Checklist)
-- [cowbe0x004 starred WeaponisingCSharp-Fundamentals](https://github.com/fozavci/WeaponisingCSharp-Fundamentals)
-- [cowbe0x004 starred Solaris](https://github.com/redcode-labs/Solaris)
-- [cowbe0x004 starred tmux-suspend](https://github.com/MunifTanjim/tmux-suspend)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
