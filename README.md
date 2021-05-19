@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred AMSI-Provider](https://github.com/netbiosX/AMSI-Provider)
 - [cowbe0x004 starred phpMussel](https://github.com/phpMussel/phpMussel)
 - [cowbe0x004 starred RedWarden](https://github.com/mgeeky/RedWarden)
 - [cowbe0x004 starred Shield](https://github.com/theevilbit/Shield)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred r77-rootkit](https://github.com/bytecode77/r77-rootkit)
 - [cowbe0x004 starred charlotte](https://github.com/9emin1/charlotte)
 - [cowbe0x004 starred msticpy-lab](https://github.com/microsoft/msticpy-lab)
-- [cowbe0x004 starred External-Pentest-Checklist](https://github.com/hmaverickadams/External-Pentest-Checklist)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
