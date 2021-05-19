@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ipcat](https://github.com/client9/ipcat)
 - [cowbe0x004 starred Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics)
 - [cowbe0x004 starred AMSI-Provider](https://github.com/netbiosX/AMSI-Provider)
 - [cowbe0x004 starred phpMussel](https://github.com/phpMussel/phpMussel)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred chameleon](https://github.com/klezVirus/chameleon)
 - [cowbe0x004 starred Dent](https://github.com/optiv/Dent)
 - [cowbe0x004 starred r77-rootkit](https://github.com/bytecode77/r77-rootkit)
-- [cowbe0x004 starred charlotte](https://github.com/9emin1/charlotte)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
