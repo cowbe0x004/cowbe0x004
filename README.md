@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred electron-secure-defaults](https://github.com/1Password/electron-secure-defaults)
+- [cowbe0x004 starred electronegativity](https://github.com/doyensec/electronegativity)
+- [cowbe0x004 starred electron-hardener](https://github.com/1Password/electron-hardener)
 - [cowbe0x004 starred WebShell](https://github.com/xl7dev/WebShell)
 - [cowbe0x004 starred siembol](https://github.com/G-Research/siembol)
 - [cowbe0x004 starred ipcat](https://github.com/client9/ipcat)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred AMSI-Provider](https://github.com/netbiosX/AMSI-Provider)
 - [cowbe0x004 starred phpMussel](https://github.com/phpMussel/phpMussel)
 - [cowbe0x004 starred RedWarden](https://github.com/mgeeky/RedWarden)
-- [cowbe0x004 starred Shield](https://github.com/theevilbit/Shield)
-- [cowbe0x004 starred trident](https://github.com/nov3mb3r/trident)
-- [cowbe0x004 starred chameleon](https://github.com/klezVirus/chameleon)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
