@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred WebShell](https://github.com/xl7dev/WebShell)
 - [cowbe0x004 starred siembol](https://github.com/G-Research/siembol)
 - [cowbe0x004 starred ipcat](https://github.com/client9/ipcat)
 - [cowbe0x004 starred Invoke-Forensics](https://github.com/swisscom/Invoke-Forensics)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Shield](https://github.com/theevilbit/Shield)
 - [cowbe0x004 starred trident](https://github.com/nov3mb3r/trident)
 - [cowbe0x004 starred chameleon](https://github.com/klezVirus/chameleon)
-- [cowbe0x004 starred Dent](https://github.com/optiv/Dent)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
