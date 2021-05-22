@@ -27,8 +27,8 @@
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
 - [Introduction to fuzzing](https://www.youtube.com/watch?v=btDoToZtp8M)
-- [From CTFs to Real-World Vulnerabilities](https://www.youtube.com/watch?v=-k0t_Qaro4Y)
-- [Intro To Socket Progamming | Python3 For Application Security By OWASP Cuttack | Episode 1](https://www.youtube.com/watch?v=eadoU0PfrVU)
+- [From CTFs to Real-World Vulnerabilities (Part 2)](https://www.youtube.com/watch?v=-k0t_Qaro4Y)
+- [Intro To Socket Progamming(P-1) | Python3 For Application Security By OWASP Cuttack | Episode 1](https://www.youtube.com/watch?v=eadoU0PfrVU)
 - [A walkthrough of a typical DFIR case with Velociraptor](https://www.youtube.com/watch?v=dmmliSh91uQ)
 - [CyberSecLabs - Dictionary - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=yUtgruE664g)
 - [KQL Tutorial Series - Unions - EP6 (with lab)](https://www.youtube.com/watch?v=Wk621OfOjeA)
