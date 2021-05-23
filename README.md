@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred KQL_Reference_Manual](https://github.com/secgroundzero/KQL_Reference_Manual)
 - [cowbe0x004 starred caronte](https://github.com/eciavatta/caronte)
 - [cowbe0x004 starred HoneypotBuster](https://github.com/JavelinNetworks/HoneypotBuster)
 - [cowbe0x004 starred amicontained](https://github.com/genuinetools/amicontained)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred electronegativity](https://github.com/doyensec/electronegativity)
 - [cowbe0x004 starred electron-hardener](https://github.com/1Password/electron-hardener)
 - [cowbe0x004 starred WebShell](https://github.com/xl7dev/WebShell)
-- [cowbe0x004 starred siembol](https://github.com/G-Research/siembol)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
