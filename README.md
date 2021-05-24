@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Introduction to MFTECmd - NTFS MFT and Journal Forensics](https://www.youtube.com/watch?v=_qElVZJqlGY)
 - [Abusing External Resource References MSOffice [part2] - OLEOBJECT_INJECTION](https://www.youtube.com/watch?v=7eQsjHCCvqU)
 - [Abusing External Resource References MSOffice [part1] - TEMPLATE_INJECTION](https://www.youtube.com/watch?v=tAn-Wm27Tww)
 - [Introduction to fuzzing](https://www.youtube.com/watch?v=btDoToZtp8M)
@@ -35,7 +36,6 @@
 - [CyberSecLabs - Dictionary - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=yUtgruE664g)
 - [KQL Tutorial Series - Unions - EP6 (with lab)](https://www.youtube.com/watch?v=Wk621OfOjeA)
 - [Pwn: clutter-overflow - picoMini CTF 2021 Challenge](https://www.youtube.com/watch?v=s5f7vA8AS7U)
-- [Windows File Transfers - What You Need to Know For OSCP](https://www.youtube.com/watch?v=xG5VFR5EIaY)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
