@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred cmdb](https://github.com/jerikan-network/cmdb)
 - [cowbe0x004 starred Labeled-Elfs](https://github.com/nimrodpar/Labeled-Elfs)
 - [cowbe0x004 starred PSNamedPipe](https://github.com/MSAdministrator/PSNamedPipe)
 - [cowbe0x004 starred KQL_Reference_Manual](https://github.com/secgroundzero/KQL_Reference_Manual)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred atc-react](https://github.com/atc-project/atc-react)
 - [cowbe0x004 starred SimuLand](https://github.com/Azure/SimuLand)
 - [cowbe0x004 starred electron-secure-defaults](https://github.com/1Password/electron-secure-defaults)
-- [cowbe0x004 starred electronegativity](https://github.com/doyensec/electronegativity)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
