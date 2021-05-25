@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [#13 Getting Started With Using Ghidra](https://www.youtube.com/watch?v=uS3Gd83eWJ4)
 - [Introduction to MFTECmd - NTFS MFT and Journal Forensics](https://www.youtube.com/watch?v=_qElVZJqlGY)
 - [Abusing External Resource References MSOffice [part2] - OLEOBJECT_INJECTION](https://www.youtube.com/watch?v=7eQsjHCCvqU)
 - [Abusing External Resource References MSOffice [part1] - TEMPLATE_INJECTION](https://www.youtube.com/watch?v=tAn-Wm27Tww)
@@ -35,7 +36,6 @@
 - [A walkthrough of a typical DFIR case with Velociraptor](https://www.youtube.com/watch?v=dmmliSh91uQ)
 - [CyberSecLabs - Dictionary - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=yUtgruE664g)
 - [KQL Tutorial Series - Unions - EP6 (with lab)](https://www.youtube.com/watch?v=Wk621OfOjeA)
-- [Pwn: clutter-overflow - picoMini CTF 2021 Challenge](https://www.youtube.com/watch?v=s5f7vA8AS7U)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
