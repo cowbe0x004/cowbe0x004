@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Malware Hunting with Microsoft Sysintenals Tools](https://www.youtube.com/watch?v=owAOHsLyD3Y)
 - [Troubleshooting AFL Fuzzing Problems](https://www.youtube.com/watch?v=W2kZnmchJhI)
 - [#13 Getting Started With Using Ghidra](https://www.youtube.com/watch?v=uS3Gd83eWJ4)
 - [Introduction to MFTECmd - NTFS MFT and Journal Forensics](https://www.youtube.com/watch?v=_qElVZJqlGY)
@@ -35,7 +36,6 @@
 - [From CTFs to Real-World Vulnerabilities (Part 2)](https://www.youtube.com/watch?v=-k0t_Qaro4Y)
 - [Intro To Socket Progamming(P-1) | Python3 For Application Security By OWASP Cuttack | Episode 1](https://www.youtube.com/watch?v=eadoU0PfrVU)
 - [A walkthrough of a typical DFIR case with Velociraptor](https://www.youtube.com/watch?v=dmmliSh91uQ)
-- [CyberSecLabs - Dictionary - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=yUtgruE664g)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
