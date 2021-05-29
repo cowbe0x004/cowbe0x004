@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred pentest-guide](https://github.com/Voorivex/pentest-guide)
+- [cowbe0x004 starred javascript-advanced-concepts](https://github.com/chesterheng/javascript-advanced-concepts)
+- [cowbe0x004 starred junior-to-senior](https://github.com/chesterheng/junior-to-senior)
 - [cowbe0x004 starred slopShell](https://github.com/oldkingcone/slopShell)
 - [cowbe0x004 starred FETB](https://github.com/c0brabaghdad1/FETB)
 - [cowbe0x004 starred WinAPI-Tricks](https://github.com/vxunderground/WinAPI-Tricks)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred Labeled-Elfs](https://github.com/nimrodpar/Labeled-Elfs)
 - [cowbe0x004 starred PSNamedPipe](https://github.com/MSAdministrator/PSNamedPipe)
 - [cowbe0x004 starred KQL_Reference_Manual](https://github.com/secgroundzero/KQL_Reference_Manual)
-- [cowbe0x004 starred caronte](https://github.com/eciavatta/caronte)
-- [cowbe0x004 starred HoneypotBuster](https://github.com/JavelinNetworks/HoneypotBuster)
-- [cowbe0x004 starred amicontained](https://github.com/genuinetools/amicontained)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
