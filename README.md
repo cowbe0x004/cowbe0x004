@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred slopShell](https://github.com/oldkingcone/slopShell)
 - [cowbe0x004 starred FETB](https://github.com/c0brabaghdad1/FETB)
 - [cowbe0x004 starred WinAPI-Tricks](https://github.com/vxunderground/WinAPI-Tricks)
 - [cowbe0x004 starred cmdb](https://github.com/jerikan-network/cmdb)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred caronte](https://github.com/eciavatta/caronte)
 - [cowbe0x004 starred HoneypotBuster](https://github.com/JavelinNetworks/HoneypotBuster)
 - [cowbe0x004 starred amicontained](https://github.com/genuinetools/amicontained)
-- [cowbe0x004 starred atc-react](https://github.com/atc-project/atc-react)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
