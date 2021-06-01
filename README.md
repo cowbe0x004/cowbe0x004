@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred Cobalt-Wipe](https://github.com/ORCA666/Cobalt-Wipe)
 - [cowbe0x004 starred CheeseTools](https://github.com/klezVirus/CheeseTools)
 - [cowbe0x004 starred pentest-guide](https://github.com/Voorivex/pentest-guide)
 - [cowbe0x004 starred javascript-advanced-concepts](https://github.com/chesterheng/javascript-advanced-concepts)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred WinAPI-Tricks](https://github.com/vxunderground/WinAPI-Tricks)
 - [cowbe0x004 starred cmdb](https://github.com/jerikan-network/cmdb)
 - [cowbe0x004 starred Labeled-Elfs](https://github.com/nimrodpar/Labeled-Elfs)
+- [cowbe0x004 starred PSNamedPipe](https://github.com/MSAdministrator/PSNamedPipe)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
