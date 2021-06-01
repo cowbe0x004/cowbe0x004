@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred CheeseTools](https://github.com/klezVirus/CheeseTools)
 - [cowbe0x004 starred pentest-guide](https://github.com/Voorivex/pentest-guide)
 - [cowbe0x004 starred javascript-advanced-concepts](https://github.com/chesterheng/javascript-advanced-concepts)
 - [cowbe0x004 starred junior-to-senior](https://github.com/chesterheng/junior-to-senior)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred cmdb](https://github.com/jerikan-network/cmdb)
 - [cowbe0x004 starred Labeled-Elfs](https://github.com/nimrodpar/Labeled-Elfs)
 - [cowbe0x004 starred PSNamedPipe](https://github.com/MSAdministrator/PSNamedPipe)
+- [cowbe0x004 starred KQL_Reference_Manual](https://github.com/secgroundzero/KQL_Reference_Manual)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
