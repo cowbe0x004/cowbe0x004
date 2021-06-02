@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT Tarek: 1/2 Who wants to learn AD hacking for free? I'll select 4 random people. How to participate: 1- You can fully commit to the schedule below 2...](https://twitter.com/CyberHummus/status/1399612872267870213)
 - [RT PvJBlueTeam: 2021 #BSidesLV #PvJCTF Call for Pros & Joes is open!  JOE:  PRO:  Join the PvJ crew to learn from the best Blue Pros! Defend with them...](https://twitter.com/PvJBlueTeam/status/1396285664459726851)
 - [RT Matt Swider (tracking PS5 / Xbox / GPU restock): 🎁Giveaway to celebrate helping 20,000 people w/ PS5 / Xbox Series X restock: ✅PS Plus x2 ✅PS ...](https://twitter.com/mattswider/status/1393049032948387840)
 - [RT Florian Roth: If someone asked me what would be the single most effective method to detect phishing attacks I'd say it's monitoring sub processes s...](https://twitter.com/cyb3rops/status/1389580487669297164)
 - [RT Karsten Hahn: New malware Youtuber @CatWithoutAHat7 made a series of analysing DearCry ransomware. 😃 #DearCry #ransomware #Youtube 👇](https://twitter.com/struppigel/status/1371515185609969667)
-- [RT ¬ whickey: I found a new #lolbin for downloading arbitrary files `C:\Windows\System32\IME\SHARED\IMEWDBLD.exe <URL>` Find the downloaded file in `...](https://twitter.com/notwhickey/status/1367493406835040265)
 <!-- TWEETS:END -->
 
 ---
