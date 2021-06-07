@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Sentinel-playground](https://github.com/SecureHats/Sentinel-playground)
 - [cowbe0x004 starred Active-Directory-Exploitation-Cheat-Sheet](https://github.com/fuzz-security/Active-Directory-Exploitation-Cheat-Sheet)
 - [cowbe0x004 starred SysmonConfigPusher](https://github.com/LaresLLC/SysmonConfigPusher)
 - [cowbe0x004 starred ETWNetMonv3](https://github.com/DamonMohammadbagher/ETWNetMonv3)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred javascript-advanced-concepts](https://github.com/chesterheng/javascript-advanced-concepts)
 - [cowbe0x004 starred junior-to-senior](https://github.com/chesterheng/junior-to-senior)
 - [cowbe0x004 starred slopShell](https://github.com/oldkingcone/slopShell)
-- [cowbe0x004 starred FETB](https://github.com/c0brabaghdad1/FETB)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
