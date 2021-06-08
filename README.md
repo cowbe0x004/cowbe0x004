@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Adversary-Emulation-Matrix](https://github.com/CyberSecurityUP/Adversary-Emulation-Matrix)
 - [cowbe0x004 starred Sentinel-playground](https://github.com/SecureHats/Sentinel-playground)
 - [cowbe0x004 starred Active-Directory-Exploitation-Cheat-Sheet](https://github.com/fuzz-security/Active-Directory-Exploitation-Cheat-Sheet)
 - [cowbe0x004 starred SysmonConfigPusher](https://github.com/LaresLLC/SysmonConfigPusher)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred pentest-guide](https://github.com/Voorivex/pentest-guide)
 - [cowbe0x004 starred javascript-advanced-concepts](https://github.com/chesterheng/javascript-advanced-concepts)
 - [cowbe0x004 starred junior-to-senior](https://github.com/chesterheng/junior-to-senior)
-- [cowbe0x004 starred slopShell](https://github.com/oldkingcone/slopShell)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
