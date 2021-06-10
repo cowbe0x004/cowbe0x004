@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Understanding the Software Update Policy, Maintenance Window, Business Hours and more in SCCM](https://www.youtube.com/watch?v=RSj6sDoSTN4)
 - [Cobalt Strike & DNS - Part 1](https://www.youtube.com/watch?v=wfX_bppAbbU)
 - [Malware Hunting with Microsoft Sysintenals Tools | TryHackMe](https://www.youtube.com/watch?v=owAOHsLyD3Y)
 - [Troubleshooting AFL Fuzzing Problems](https://www.youtube.com/watch?v=W2kZnmchJhI)
@@ -35,7 +36,6 @@
 - [Abusing External Resource References MSOffice [part1] - TEMPLATE_INJECTION](https://www.youtube.com/watch?v=tAn-Wm27Tww)
 - [Introduction to fuzzing](https://www.youtube.com/watch?v=btDoToZtp8M)
 - [From CTFs to Real-World Vulnerabilities (Part 2)](https://www.youtube.com/watch?v=-k0t_Qaro4Y)
-- [Intro To Socket Progamming(P-1) | Python3 For Application Security By OWASP Cuttack | Episode 1](https://www.youtube.com/watch?v=eadoU0PfrVU)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
