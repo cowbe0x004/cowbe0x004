@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred hiding-your-syscalls](https://github.com/passthehashbrowns/hiding-your-syscalls)
+- [cowbe0x004 starred StandIn](https://github.com/FuzzySecurity/StandIn)
 - [cowbe0x004 starred Kaonashi](https://github.com/kaonashi-passwords/Kaonashi)
 - [cowbe0x004 starred SharpWebServer](https://github.com/mgeeky/SharpWebServer)
 - [cowbe0x004 starred Adversary-Emulation-Matrix](https://github.com/CyberSecurityUP/Adversary-Emulation-Matrix)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred SysmonConfigPusher](https://github.com/LaresLLC/SysmonConfigPusher)
 - [cowbe0x004 starred ETWNetMonv3](https://github.com/DamonMohammadbagher/ETWNetMonv3)
 - [cowbe0x004 starred Cobalt-Wipe](https://github.com/ORCA666/Cobalt-Wipe)
-- [cowbe0x004 starred CheeseTools](https://github.com/klezVirus/CheeseTools)
-- [cowbe0x004 starred pentest-guide](https://github.com/Voorivex/pentest-guide)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
