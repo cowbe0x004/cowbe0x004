@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred BlueCloud](https://github.com/iknowjason/BlueCloud)
+- [cowbe0x004 starred ImproHound](https://github.com/improsec/ImproHound)
 - [cowbe0x004 starred hiding-your-syscalls](https://github.com/passthehashbrowns/hiding-your-syscalls)
 - [cowbe0x004 starred StandIn](https://github.com/FuzzySecurity/StandIn)
 - [cowbe0x004 starred Kaonashi](https://github.com/kaonashi-passwords/Kaonashi)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Sentinel-playground](https://github.com/SecureHats/Sentinel-playground)
 - [cowbe0x004 starred Active-Directory-Exploitation-Cheat-Sheet](https://github.com/fuzz-security/Active-Directory-Exploitation-Cheat-Sheet)
 - [cowbe0x004 starred SysmonConfigPusher](https://github.com/LaresLLC/SysmonConfigPusher)
-- [cowbe0x004 starred ETWNetMonv3](https://github.com/DamonMohammadbagher/ETWNetMonv3)
-- [cowbe0x004 starred Cobalt-Wipe](https://github.com/ORCA666/Cobalt-Wipe)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
