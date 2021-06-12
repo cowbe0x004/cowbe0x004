@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Hermes Ransomware Deep Dive Pt 1 - Unpacking](https://www.youtube.com/watch?v=kkQAJFyoCVU)
+- [Hermes Ransomware Deep Dive Pt 3 - Crypto Operations](https://www.youtube.com/watch?v=96CHdaWRmps)
 - [Active Directory Attacks | AD Enumeration and Exploitation | Hacking Active Directory](https://www.youtube.com/watch?v=9K5dQVZyaLw)
 - [Understanding the Software Update Policy, Maintenance Window, Business Hours and more in SCCM](https://www.youtube.com/watch?v=RSj6sDoSTN4)
 - [Cobalt Strike & DNS - Part 1](https://www.youtube.com/watch?v=wfX_bppAbbU)
@@ -34,8 +36,6 @@
 - [#13 Getting Started With Using Ghidra](https://www.youtube.com/watch?v=uS3Gd83eWJ4)
 - [Introduction to MFTECmd - NTFS MFT and Journal Forensics](https://www.youtube.com/watch?v=_qElVZJqlGY)
 - [Abusing External Resource References MSOffice [part2] - OLEOBJECT_INJECTION](https://www.youtube.com/watch?v=7eQsjHCCvqU)
-- [Abusing External Resource References MSOffice [part1] - TEMPLATE_INJECTION](https://www.youtube.com/watch?v=tAn-Wm27Tww)
-- [Introduction to fuzzing](https://www.youtube.com/watch?v=btDoToZtp8M)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
