@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Active Directory Attacks | AD Enumeration and Exploitation | Hacking Active Directory](https://www.youtube.com/watch?v=9K5dQVZyaLw)
 - [Understanding the Software Update Policy, Maintenance Window, Business Hours and more in SCCM](https://www.youtube.com/watch?v=RSj6sDoSTN4)
 - [Cobalt Strike & DNS - Part 1](https://www.youtube.com/watch?v=wfX_bppAbbU)
 - [Malware Hunting with Microsoft Sysintenals Tools | TryHackMe](https://www.youtube.com/watch?v=owAOHsLyD3Y)
@@ -35,7 +36,6 @@
 - [Abusing External Resource References MSOffice [part2] - OLEOBJECT_INJECTION](https://www.youtube.com/watch?v=7eQsjHCCvqU)
 - [Abusing External Resource References MSOffice [part1] - TEMPLATE_INJECTION](https://www.youtube.com/watch?v=tAn-Wm27Tww)
 - [Introduction to fuzzing](https://www.youtube.com/watch?v=btDoToZtp8M)
-- [From CTFs to Real-World Vulnerabilities (Part 2)](https://www.youtube.com/watch?v=-k0t_Qaro4Y)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
