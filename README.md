@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [#misec Lansing - A Picture's Worth A Thousand Lines of Malicious Code](https://www.youtube.com/watch?v=g6u3FapCWI4)
 - [Hermes Ransomware Deep Dive Pt 1 - Unpacking](https://www.youtube.com/watch?v=kkQAJFyoCVU)
 - [Hermes Ransomware Deep Dive Pt 3 - Crypto Operations](https://www.youtube.com/watch?v=96CHdaWRmps)
 - [Active Directory Attacks | AD Enumeration and Exploitation | Hacking Active Directory](https://www.youtube.com/watch?v=9K5dQVZyaLw)
@@ -35,7 +36,6 @@
 - [Troubleshooting AFL Fuzzing Problems](https://www.youtube.com/watch?v=W2kZnmchJhI)
 - [#13 Getting Started With Using Ghidra](https://www.youtube.com/watch?v=uS3Gd83eWJ4)
 - [Introduction to MFTECmd - NTFS MFT and Journal Forensics](https://www.youtube.com/watch?v=_qElVZJqlGY)
-- [Abusing External Resource References MSOffice [part2] - OLEOBJECT_INJECTION](https://www.youtube.com/watch?v=7eQsjHCCvqU)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
