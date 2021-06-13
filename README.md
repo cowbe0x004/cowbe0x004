@@ -40,8 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred al-khaser](https://github.com/LordNoteworthy/al-khaser)
-- [cowbe0x004 starred headscale](https://github.com/juanfont/headscale)
 - [cowbe0x004 starred BlueCloud](https://github.com/iknowjason/BlueCloud)
 - [cowbe0x004 starred ImproHound](https://github.com/improsec/ImproHound)
 - [cowbe0x004 starred hiding-your-syscalls](https://github.com/passthehashbrowns/hiding-your-syscalls)
@@ -50,6 +48,8 @@
 - [cowbe0x004 starred SharpWebServer](https://github.com/mgeeky/SharpWebServer)
 - [cowbe0x004 starred Adversary-Emulation-Matrix](https://github.com/CyberSecurityUP/Adversary-Emulation-Matrix)
 - [cowbe0x004 starred Sentinel-playground](https://github.com/SecureHats/Sentinel-playground)
+- [cowbe0x004 starred Active-Directory-Exploitation-Cheat-Sheet](https://github.com/fuzz-security/Active-Directory-Exploitation-Cheat-Sheet)
+- [cowbe0x004 starred SysmonConfigPusher](https://github.com/LaresLLC/SysmonConfigPusher)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
