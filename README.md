@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred defenselessV1](https://github.com/infosecAK/defenselessV1)
 - [cowbe0x004 starred CrimeFlare](https://github.com/zidansec/CrimeFlare)
 - [cowbe0x004 starred Name-That-Hash](https://github.com/HashPals/Name-That-Hash)
 - [cowbe0x004 starred al-khaser](https://github.com/LordNoteworthy/al-khaser)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred hiding-your-syscalls](https://github.com/passthehashbrowns/hiding-your-syscalls)
 - [cowbe0x004 starred StandIn](https://github.com/FuzzySecurity/StandIn)
 - [cowbe0x004 starred Kaonashi](https://github.com/kaonashi-passwords/Kaonashi)
-- [cowbe0x004 starred SharpWebServer](https://github.com/mgeeky/SharpWebServer)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
