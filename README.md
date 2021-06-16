@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [JavaScript Malware - Tips to analyse tricky JS code using Retefe malware](https://www.youtube.com/watch?v=g8_t1WfObok)
 - [DevSecOps - Gauntlt | Arachni | Gruyere](https://www.youtube.com/watch?v=T3E-D2J5Vcg)
 - [#misec Lansing - A Picture's Worth A Thousand Lines of Malicious Code](https://www.youtube.com/watch?v=g6u3FapCWI4)
 - [Hermes Ransomware Deep Dive Pt 1 - Unpacking](https://www.youtube.com/watch?v=kkQAJFyoCVU)
@@ -35,7 +36,6 @@
 - [Cobalt Strike & DNS - Part 1](https://www.youtube.com/watch?v=wfX_bppAbbU)
 - [Malware Hunting with Microsoft Sysintenals Tools | TryHackMe](https://www.youtube.com/watch?v=owAOHsLyD3Y)
 - [Troubleshooting AFL Fuzzing Problems](https://www.youtube.com/watch?v=W2kZnmchJhI)
-- [#13 Getting Started With Using Ghidra](https://www.youtube.com/watch?v=uS3Gd83eWJ4)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
