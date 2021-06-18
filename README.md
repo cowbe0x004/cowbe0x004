@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Extracting Shellcode with Ghidra](https://www.youtube.com/watch?v=Vvd_CP8OAUE)
 - [JavaScript Malware - Tips to analyse tricky JS code using Retefe malware](https://www.youtube.com/watch?v=g8_t1WfObok)
 - [DevSecOps - Gauntlt | Arachni | Gruyere](https://www.youtube.com/watch?v=T3E-D2J5Vcg)
 - [#misec Lansing - A Picture's Worth A Thousand Lines of Malicious Code](https://www.youtube.com/watch?v=g6u3FapCWI4)
@@ -35,7 +36,6 @@
 - [Understanding the Software Update Policy, Maintenance Window, Business Hours and more in SCCM](https://www.youtube.com/watch?v=RSj6sDoSTN4)
 - [Cobalt Strike & DNS - Part 1](https://www.youtube.com/watch?v=wfX_bppAbbU)
 - [Malware Hunting with Microsoft Sysintenals Tools | TryHackMe](https://www.youtube.com/watch?v=owAOHsLyD3Y)
-- [Troubleshooting AFL Fuzzing Problems](https://www.youtube.com/watch?v=W2kZnmchJhI)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
