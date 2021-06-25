@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred defenselessV1](https://github.com/infosecAK/defenselessV1)
-- [cowbe0x004 starred CrimeFlare](https://github.com/zidansec/CrimeFlare)
-- [cowbe0x004 starred Name-That-Hash](https://github.com/HashPals/Name-That-Hash)
-- [cowbe0x004 starred al-khaser](https://github.com/LordNoteworthy/al-khaser)
-- [cowbe0x004 starred headscale](https://github.com/juanfont/headscale)
-- [cowbe0x004 starred BlueCloud](https://github.com/iknowjason/BlueCloud)
-- [cowbe0x004 starred ImproHound](https://github.com/improsec/ImproHound)
-- [cowbe0x004 starred hiding-your-syscalls](https://github.com/passthehashbrowns/hiding-your-syscalls)
-- [cowbe0x004 starred StandIn](https://github.com/FuzzySecurity/StandIn)
-- [cowbe0x004 starred Kaonashi](https://github.com/kaonashi-passwords/Kaonashi)
+- [cowbe0x004 starred pcdc2019](https://github.com/JohnHammond/pcdc2019)
+- [cowbe0x004 starred Incident-Playbook](https://github.com/austinsonger/Incident-Playbook)
+- [cowbe0x004 starred api-firewall](https://github.com/wallarm/api-firewall)
+- [cowbe0x004 starred threathunting-spl](https://github.com/inodee/threathunting-spl)
+- [cowbe0x004 starred attack-workbench-frontend](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend)
+- [cowbe0x004 starred EnterprisePurpleTeaming](https://github.com/ch33r10/EnterprisePurpleTeaming)
+- [cowbe0x004 starred LinuxKernelStudy](https://github.com/MaherAzzouzi/LinuxKernelStudy)
+- [cowbe0x004 starred PyFunceble](https://github.com/funilrys/PyFunceble)
+- [cowbe0x004 starred PSPKIAudit](https://github.com/GhostPack/PSPKIAudit)
+- [cowbe0x004 starred active-scanning-techniques](https://github.com/adulau/active-scanning-techniques)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
