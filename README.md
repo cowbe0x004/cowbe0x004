@@ -28,7 +28,7 @@
 <!-- YOUTUBE:START -->
 - [CSRF explained by one of my own challenges - cheeseblog-5 server does not check anything](https://www.youtube.com/watch?v=j0CowTdnxmY)
 - [Extracting Shellcode with Ghidra](https://www.youtube.com/watch?v=Vvd_CP8OAUE)
-- [JavaScript Malware - Tips to analyse tricky JS code using Retefe malware](https://www.youtube.com/watch?v=g8_t1WfObok)
+- [JavaScript Malware - How bad can it be?](https://www.youtube.com/watch?v=g8_t1WfObok)
 - [DevSecOps - Gauntlt | Arachni | Gruyere](https://www.youtube.com/watch?v=T3E-D2J5Vcg)
 - [#misec Lansing - A Picture's Worth A Thousand Lines of Malicious Code](https://www.youtube.com/watch?v=g6u3FapCWI4)
 - [Hermes Ransomware Deep Dive Pt 1 - Unpacking](https://www.youtube.com/watch?v=kkQAJFyoCVU)
