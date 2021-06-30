@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Threat Hunt Deep Dives Ep. 7 - User Account Control Bypass via Registry Modification](https://www.youtube.com/watch?v=U45hJN2dPgo)
 - [CSRF explained by one of my own challenges - cheeseblog-5 server does not check anything](https://www.youtube.com/watch?v=j0CowTdnxmY)
 - [Extracting Shellcode with Ghidra](https://www.youtube.com/watch?v=Vvd_CP8OAUE)
 - [JavaScript Malware - How bad can it be?](https://www.youtube.com/watch?v=g8_t1WfObok)
@@ -35,7 +36,6 @@
 - [Hermes Ransomware Deep Dive Pt 3 - Crypto Operations](https://www.youtube.com/watch?v=96CHdaWRmps)
 - [Active Directory Attacks | AD Enumeration and Exploitation | Hacking Active Directory](https://www.youtube.com/watch?v=9K5dQVZyaLw)
 - [Understanding the Software Update Policy, Maintenance Window, Business Hours and more in SCCM](https://www.youtube.com/watch?v=RSj6sDoSTN4)
-- [Cobalt Strike & DNS - Part 1](https://www.youtube.com/watch?v=wfX_bppAbbU)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
