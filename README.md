@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Social Engineering PowerShell Empire - Macro](https://www.youtube.com/watch?v=G2_EhqekIAE)
 - [Threat Hunt Deep Dives Ep. 7 - User Account Control Bypass via Registry Modification](https://www.youtube.com/watch?v=U45hJN2dPgo)
 - [CSRF explained by one of my own challenges - cheeseblog-5 server does not check anything](https://www.youtube.com/watch?v=j0CowTdnxmY)
 - [Extracting Shellcode with Ghidra](https://www.youtube.com/watch?v=Vvd_CP8OAUE)
@@ -35,7 +36,6 @@
 - [Hermes Ransomware Deep Dive Pt 1 - Unpacking](https://www.youtube.com/watch?v=kkQAJFyoCVU)
 - [Hermes Ransomware Deep Dive Pt 3 - Crypto Operations](https://www.youtube.com/watch?v=96CHdaWRmps)
 - [Active Directory Attacks | AD Enumeration and Exploitation | Hacking Active Directory](https://www.youtube.com/watch?v=9K5dQVZyaLw)
-- [Understanding the Software Update Policy, Maintenance Window, Business Hours and more in SCCM](https://www.youtube.com/watch?v=RSj6sDoSTN4)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
