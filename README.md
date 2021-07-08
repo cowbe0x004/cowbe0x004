@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Hunting For REvil Ransomware](https://www.youtube.com/watch?v=FtSOxxPzp80)
 - [Social Engineering PowerShell Empire - Macro](https://www.youtube.com/watch?v=G2_EhqekIAE)
 - [Threat Hunt Deep Dives Ep. 7 - User Account Control Bypass via Registry Modification](https://www.youtube.com/watch?v=U45hJN2dPgo)
 - [CSRF explained by one of my own challenges - cheeseblog-5 server does not check anything](https://www.youtube.com/watch?v=j0CowTdnxmY)
@@ -35,7 +36,6 @@
 - [#misec Lansing - A Picture's Worth A Thousand Lines of Malicious Code](https://www.youtube.com/watch?v=g6u3FapCWI4)
 - [Hermes Ransomware Deep Dive Pt 1 - Unpacking](https://www.youtube.com/watch?v=kkQAJFyoCVU)
 - [Hermes Ransomware Deep Dive Pt 3 - Crypto Operations](https://www.youtube.com/watch?v=96CHdaWRmps)
-- [Active Directory Attacks | AD Enumeration and Exploitation | Hacking Active Directory](https://www.youtube.com/watch?v=9K5dQVZyaLw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
