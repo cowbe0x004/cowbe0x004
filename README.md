@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred pcdc2019](https://github.com/JohnHammond/pcdc2019)
-- [cowbe0x004 starred Incident-Playbook](https://github.com/austinsonger/Incident-Playbook)
-- [cowbe0x004 starred api-firewall](https://github.com/wallarm/api-firewall)
-- [cowbe0x004 starred threathunting-spl](https://github.com/inodee/threathunting-spl)
-- [cowbe0x004 starred attack-workbench-frontend](https://github.com/center-for-threat-informed-defense/attack-workbench-frontend)
-- [cowbe0x004 starred EnterprisePurpleTeaming](https://github.com/ch33r10/EnterprisePurpleTeaming)
-- [cowbe0x004 starred LinuxKernelStudy](https://github.com/MaherAzzouzi/LinuxKernelStudy)
-- [cowbe0x004 starred PyFunceble](https://github.com/funilrys/PyFunceble)
-- [cowbe0x004 starred PSPKIAudit](https://github.com/GhostPack/PSPKIAudit)
-- [cowbe0x004 starred active-scanning-techniques](https://github.com/adulau/active-scanning-techniques)
+- [cowbe0x004 starred d0zer](https://github.com/sad0p/d0zer)
+- [cowbe0x004 starred MANSPIDER](https://github.com/blacklanternsecurity/MANSPIDER)
+- [cowbe0x004 starred netcap](https://github.com/dreadl0ck/netcap)
+- [cowbe0x004 starred DFIR_Resources_REvil_Kaseya](https://github.com/cado-security/DFIR_Resources_REvil_Kaseya)
+- [cowbe0x004 starred Injector](https://github.com/0xDivyanshu/Injector)
+- [cowbe0x004 starred CVE-2021-1675](https://github.com/LaresLLC/CVE-2021-1675)
+- [cowbe0x004 starred evtx-hunter](https://github.com/NVISOsecurity/evtx-hunter)
+- [cowbe0x004 starred mailrise](https://github.com/YoRyan/mailrise)
+- [cowbe0x004 starred Device-Security-Guidance-Configuration-Packs](https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs)
+- [cowbe0x004 starred DInvoke](https://github.com/TheWover/DInvoke)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
