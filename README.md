@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [PCNSE Live Stream](https://www.youtube.com/watch?v=4hFQypgOAGk)
 - [The Active Directory Purple Team Playbook | Purple Team Summit 2021](https://www.youtube.com/watch?v=9UpPo20c1w8)
 - [Hunting For REvil Ransomware](https://www.youtube.com/watch?v=FtSOxxPzp80)
 - [Social Engineering PowerShell Empire - Macro](https://www.youtube.com/watch?v=G2_EhqekIAE)
@@ -35,7 +36,6 @@
 - [JavaScript Malware - How bad can it be?](https://www.youtube.com/watch?v=g8_t1WfObok)
 - [DevSecOps - Gauntlt | Arachni | Gruyere](https://www.youtube.com/watch?v=T3E-D2J5Vcg)
 - [#misec Lansing - A Picture's Worth A Thousand Lines of Malicious Code](https://www.youtube.com/watch?v=g6u3FapCWI4)
-- [Hermes Ransomware Deep Dive Pt 1 - Unpacking](https://www.youtube.com/watch?v=kkQAJFyoCVU)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
