@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred d0zer](https://github.com/sad0p/d0zer)
-- [cowbe0x004 starred MANSPIDER](https://github.com/blacklanternsecurity/MANSPIDER)
-- [cowbe0x004 starred netcap](https://github.com/dreadl0ck/netcap)
-- [cowbe0x004 starred DFIR_Resources_REvil_Kaseya](https://github.com/cado-security/DFIR_Resources_REvil_Kaseya)
-- [cowbe0x004 starred Injector](https://github.com/0xDivyanshu/Injector)
-- [cowbe0x004 starred CVE-2021-1675](https://github.com/LaresLLC/CVE-2021-1675)
-- [cowbe0x004 starred evtx-hunter](https://github.com/NVISOsecurity/evtx-hunter)
-- [cowbe0x004 starred mailrise](https://github.com/YoRyan/mailrise)
-- [cowbe0x004 starred Device-Security-Guidance-Configuration-Packs](https://github.com/ukncsc/Device-Security-Guidance-Configuration-Packs)
-- [cowbe0x004 starred DInvoke](https://github.com/TheWover/DInvoke)
+- [cowbe0x004 starred Remotely](https://github.com/lucent-sea/Remotely)
+- [cowbe0x004 starred Ventoy](https://github.com/ventoy/Ventoy)
+- [cowbe0x004 starred steampipe-plugin-virustotal](https://github.com/turbot/steampipe-plugin-virustotal)
+- [cowbe0x004 starred adsec](https://github.com/cfalta/adsec)
+- [cowbe0x004 starred kctf](https://github.com/google/kctf)
+- [cowbe0x004 starred EVA2](https://github.com/ORCA666/EVA2)
+- [cowbe0x004 starred Whisker](https://github.com/eladshamir/Whisker)
+- [cowbe0x004 starred evtx2es](https://github.com/sumeshi/evtx2es)
+- [cowbe0x004 starred sish](https://github.com/antoniomika/sish)
+- [cowbe0x004 starred HyperDbg](https://github.com/HyperDbg/HyperDbg)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
