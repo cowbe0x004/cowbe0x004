@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred angle-grinder](https://github.com/rcoh/angle-grinder)
+- [cowbe0x004 starred BOF.NET](https://github.com/CCob/BOF.NET)
+- [cowbe0x004 starred injectAmsiBypass](https://github.com/boku7/injectAmsiBypass)
+- [cowbe0x004 starred ARTIF](https://github.com/CRED-CLUB/ARTIF)
 - [cowbe0x004 starred Remotely](https://github.com/lucent-sea/Remotely)
 - [cowbe0x004 starred Ventoy](https://github.com/ventoy/Ventoy)
 - [cowbe0x004 starred steampipe-plugin-virustotal](https://github.com/turbot/steampipe-plugin-virustotal)
 - [cowbe0x004 starred adsec](https://github.com/cfalta/adsec)
 - [cowbe0x004 starred kctf](https://github.com/google/kctf)
 - [cowbe0x004 starred EVA2](https://github.com/ORCA666/EVA2)
-- [cowbe0x004 starred Whisker](https://github.com/eladshamir/Whisker)
-- [cowbe0x004 starred evtx2es](https://github.com/sumeshi/evtx2es)
-- [cowbe0x004 starred sish](https://github.com/antoniomika/sish)
-- [cowbe0x004 starred HyperDbg](https://github.com/HyperDbg/HyperDbg)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
