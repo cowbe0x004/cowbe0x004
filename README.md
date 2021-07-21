@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Velociraptor Deep Dive Workshop DFRWS](https://www.youtube.com/watch?v=PiYPLEjYXnw)
 - [Dancing with COM - Deep dive into understanding Component Object Model](https://www.youtube.com/watch?v=8tjrFm2K30Q)
 - [PCNSE Live Stream](https://www.youtube.com/watch?v=4hFQypgOAGk)
 - [The Active Directory Purple Team Playbook | Purple Team Summit 2021](https://www.youtube.com/watch?v=9UpPo20c1w8)
@@ -35,7 +36,6 @@
 - [CSRF explained by one of my own challenges - cheeseblog-5 server does not check anything](https://www.youtube.com/watch?v=j0CowTdnxmY)
 - [Extracting Shellcode with Ghidra](https://www.youtube.com/watch?v=Vvd_CP8OAUE)
 - [JavaScript Malware - How bad can it be?](https://www.youtube.com/watch?v=g8_t1WfObok)
-- [DevSecOps - Gauntlt | Arachni | Gruyere](https://www.youtube.com/watch?v=T3E-D2J5Vcg)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
