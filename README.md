@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [The COMPLETE Linux Hardening, Privacy & Security Guide!](https://www.youtube.com/watch?v=Sa0KqbpLye4)
+- [Malware analysis Course (part 1) Introduction to Malware analysis](https://www.youtube.com/watch?v=-4KsH7J3JYM)
 - [Velociraptor Deep Dive Workshop DFRWS](https://www.youtube.com/watch?v=PiYPLEjYXnw)
 - [Dancing with COM - Deep dive into understanding Component Object Model](https://www.youtube.com/watch?v=8tjrFm2K30Q)
 - [PCNSE Live Stream](https://www.youtube.com/watch?v=4hFQypgOAGk)
@@ -34,8 +36,6 @@
 - [Social Engineering PowerShell Empire - Macro](https://www.youtube.com/watch?v=G2_EhqekIAE)
 - [Threat Hunt Deep Dives Ep. 7 - User Account Control Bypass via Registry Modification](https://www.youtube.com/watch?v=U45hJN2dPgo)
 - [CSRF explained by one of my own challenges - cheeseblog-5 server does not check anything](https://www.youtube.com/watch?v=j0CowTdnxmY)
-- [Extracting Shellcode with Ghidra](https://www.youtube.com/watch?v=Vvd_CP8OAUE)
-- [JavaScript Malware - How bad can it be?](https://www.youtube.com/watch?v=g8_t1WfObok)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
