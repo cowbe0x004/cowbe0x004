@@ -30,7 +30,7 @@
 - [Malware analysis Course (part 1) Introduction to Malware analysis](https://www.youtube.com/watch?v=-4KsH7J3JYM)
 - [Velociraptor Deep Dive Workshop DFRWS](https://www.youtube.com/watch?v=PiYPLEjYXnw)
 - [Dancing with COM - Deep dive into understanding Component Object Model](https://www.youtube.com/watch?v=8tjrFm2K30Q)
-- [PCNSE Live Stream](https://www.youtube.com/watch?v=4hFQypgOAGk)
+- [PCNSE 2021 Session #1 - Planning & Core Concepts](https://www.youtube.com/watch?v=4hFQypgOAGk)
 - [The Active Directory Purple Team Playbook | Purple Team Summit 2021](https://www.youtube.com/watch?v=9UpPo20c1w8)
 - [Hunting For REvil Ransomware](https://www.youtube.com/watch?v=FtSOxxPzp80)
 - [Social Engineering PowerShell Empire - Macro](https://www.youtube.com/watch?v=G2_EhqekIAE)
