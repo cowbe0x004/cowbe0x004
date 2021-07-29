@@ -26,7 +26,6 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
-- [Red Team Assessments: Setting up Phishing Campaigns | Payatu](https://www.youtube.com/watch?v=zxxduKOpHyE)
 - [The COMPLETE Linux Hardening, Privacy & Security Guide!](https://www.youtube.com/watch?v=Sa0KqbpLye4)
 - [Malware analysis Course (part 1) Introduction to Malware analysis](https://www.youtube.com/watch?v=-4KsH7J3JYM)
 - [Velociraptor Deep Dive Workshop DFRWS](https://www.youtube.com/watch?v=PiYPLEjYXnw)
@@ -36,6 +35,7 @@
 - [Hunting For REvil Ransomware](https://www.youtube.com/watch?v=FtSOxxPzp80)
 - [Social Engineering PowerShell Empire - Macro](https://www.youtube.com/watch?v=G2_EhqekIAE)
 - [Threat Hunt Deep Dives Ep. 7 - User Account Control Bypass via Registry Modification](https://www.youtube.com/watch?v=U45hJN2dPgo)
+- [CSRF explained by one of my own challenges - cheeseblog-5 server does not check anything](https://www.youtube.com/watch?v=j0CowTdnxmY)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
