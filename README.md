@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred angle-grinder](https://github.com/rcoh/angle-grinder)
-- [cowbe0x004 starred BOF.NET](https://github.com/CCob/BOF.NET)
-- [cowbe0x004 starred injectAmsiBypass](https://github.com/boku7/injectAmsiBypass)
-- [cowbe0x004 starred ARTIF](https://github.com/CRED-CLUB/ARTIF)
-- [cowbe0x004 starred Remotely](https://github.com/lucent-sea/Remotely)
-- [cowbe0x004 starred Ventoy](https://github.com/ventoy/Ventoy)
-- [cowbe0x004 starred steampipe-plugin-virustotal](https://github.com/turbot/steampipe-plugin-virustotal)
-- [cowbe0x004 starred adsec](https://github.com/cfalta/adsec)
-- [cowbe0x004 starred kctf](https://github.com/google/kctf)
-- [cowbe0x004 starred EVA2](https://github.com/ORCA666/EVA2)
+- [cowbe0x004 starred REW-sploit](https://github.com/REW-sploit/REW-sploit)
+- [cowbe0x004 starred CSharp_Process_Injection](https://github.com/tasox/CSharp_Process_Injection)
+- [cowbe0x004 starred MicrosoftWontFixList](https://github.com/cfalta/MicrosoftWontFixList)
+- [cowbe0x004 starred PowerShellArmoury](https://github.com/cfalta/PowerShellArmoury)
+- [cowbe0x004 starred exploit_mitigations](https://github.com/nccgroup/exploit_mitigations)
+- [cowbe0x004 starred PvJ-CTF-RedTools](https://github.com/iDigitalFlame/PvJ-CTF-RedTools)
+- [cowbe0x004 starred ADCSPwn](https://github.com/bats3c/ADCSPwn)
+- [cowbe0x004 starred teardrop](https://github.com/hackthedev/teardrop)
+- [cowbe0x004 starred scarecrow_wrapper](https://github.com/kyleavery/scarecrow_wrapper)
+- [cowbe0x004 starred windows-command-line-obfuscation](https://github.com/wietze/windows-command-line-obfuscation)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
