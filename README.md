@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Malware Traffic Generation to Improve Security Incident Detections](https://www.youtube.com/watch?v=c-dpHgBPckM)
 - [CyberSecLabs - Sync - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=ndBZSWKo54c)
 - [How SUDO on Linux was HACKED! // CVE-2021-3156](https://www.youtube.com/watch?v=TLa2VqcGGEQ)
 - [The COMPLETE Linux Hardening, Privacy & Security Guide!](https://www.youtube.com/watch?v=Sa0KqbpLye4)
@@ -35,7 +36,6 @@
 - [PCNSE 2021 Session #1 - Planning & Core Concepts](https://www.youtube.com/watch?v=4hFQypgOAGk)
 - [The Active Directory Purple Team Playbook | Purple Team Summit 2021](https://www.youtube.com/watch?v=9UpPo20c1w8)
 - [Hunting For REvil Ransomware](https://www.youtube.com/watch?v=FtSOxxPzp80)
-- [Social Engineering PowerShell Empire - Macro](https://www.youtube.com/watch?v=G2_EhqekIAE)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
