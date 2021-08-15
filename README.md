@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Stream #18 - SharpC2](https://www.youtube.com/watch?v=Udkmv-sS0TU)
 - [CTF Socket IO, Pwntools Tips/Tricks!](https://www.youtube.com/watch?v=bzVIHp49ECU)
 - [DEF CON 29 Adversary Village - Matthew Eidelberg - Operation Bypass Catch My Payload If You Can](https://www.youtube.com/watch?v=JXKNdWUs77w)
 - [Malware Traffic Generation to Improve Security Incident Detections](https://www.youtube.com/watch?v=c-dpHgBPckM)
@@ -35,7 +36,6 @@
 - [Malware analysis Course (part 1) Introduction to Malware analysis](https://www.youtube.com/watch?v=-4KsH7J3JYM)
 - [Velociraptor Deep Dive Workshop DFRWS](https://www.youtube.com/watch?v=PiYPLEjYXnw)
 - [Dancing with COM - Deep dive into understanding Component Object Model](https://www.youtube.com/watch?v=8tjrFm2K30Q)
-- [PCNSE 2021 Session #1 - Planning & Core Concepts](https://www.youtube.com/watch?v=4hFQypgOAGk)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
