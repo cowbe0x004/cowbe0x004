@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Hacking Domain Admin 6 ways to Sunday | PetitPotam, DCSync & Golden Tickets](https://www.youtube.com/watch?v=ZM6-SakrOt8)
 - [Stream #18 - SharpC2](https://www.youtube.com/watch?v=Udkmv-sS0TU)
 - [CTF Socket IO, Pwntools Tips/Tricks!](https://www.youtube.com/watch?v=bzVIHp49ECU)
 - [DEF CON 29 Adversary Village - Matthew Eidelberg - Operation Bypass Catch My Payload If You Can](https://www.youtube.com/watch?v=JXKNdWUs77w)
@@ -35,7 +36,6 @@
 - [The COMPLETE Linux Hardening, Privacy & Security Guide!](https://www.youtube.com/watch?v=Sa0KqbpLye4)
 - [Malware analysis Course (part 1) Introduction to Malware analysis](https://www.youtube.com/watch?v=-4KsH7J3JYM)
 - [Velociraptor Deep Dive Workshop DFRWS](https://www.youtube.com/watch?v=PiYPLEjYXnw)
-- [Dancing with COM - Deep dive into understanding Component Object Model](https://www.youtube.com/watch?v=8tjrFm2K30Q)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
