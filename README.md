@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [BlackHat Arsenal 2021 - PurpleSharp: Active Directory Attack Simulations](https://www.youtube.com/watch?v=jvpVgJQPoXw)
 - [Hacker Tools - How to install XSSHunter](https://www.youtube.com/watch?v=HF05dr8xhso)
 - [DEF CON 29 - Matthew Bryant - Hacking G Suite: The Power of Dark Apps Script Magic](https://www.youtube.com/watch?v=6AsVUS79gLw)
 - [Hacking Domain Admin 6 ways to Sunday | PetitPotam, DCSync & Golden Tickets](https://www.youtube.com/watch?v=ZM6-SakrOt8)
@@ -35,7 +36,6 @@
 - [Malware Traffic Generation to Improve Security Incident Detections](https://www.youtube.com/watch?v=c-dpHgBPckM)
 - [CyberSecLabs - Sync - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=ndBZSWKo54c)
 - [How SUDO on Linux was HACKED! // CVE-2021-3156](https://www.youtube.com/watch?v=TLa2VqcGGEQ)
-- [The COMPLETE Linux Hardening, Privacy & Security Guide!](https://www.youtube.com/watch?v=Sa0KqbpLye4)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
