@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Hacker Tools - How to install XSSHunter](https://www.youtube.com/watch?v=HF05dr8xhso)
 - [DEF CON 29 - Matthew Bryant - Hacking G Suite: The Power of Dark Apps Script Magic](https://www.youtube.com/watch?v=6AsVUS79gLw)
 - [Hacking Domain Admin 6 ways to Sunday | PetitPotam, DCSync & Golden Tickets](https://www.youtube.com/watch?v=ZM6-SakrOt8)
 - [Stream #18 - SharpC2](https://www.youtube.com/watch?v=Udkmv-sS0TU)
@@ -35,7 +36,6 @@
 - [CyberSecLabs - Sync - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=ndBZSWKo54c)
 - [How SUDO on Linux was HACKED! // CVE-2021-3156](https://www.youtube.com/watch?v=TLa2VqcGGEQ)
 - [The COMPLETE Linux Hardening, Privacy & Security Guide!](https://www.youtube.com/watch?v=Sa0KqbpLye4)
-- [Malware analysis Course (part 1) Introduction to Malware analysis](https://www.youtube.com/watch?v=-4KsH7J3JYM)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
