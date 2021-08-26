@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [RE Tools Spotlight: Binary Refinery - High Octane Malware Triage Analysis](https://www.youtube.com/watch?v=4gTaGfFyMK4)
 - [Keynote: Cobalt Strike Threat Hunting | Chad Tilbury](https://www.youtube.com/watch?v=borfuQGrB8g)
 - [BlackHat Arsenal 2021 - PurpleSharp: Active Directory Attack Simulations](https://www.youtube.com/watch?v=jvpVgJQPoXw)
 - [Hacker Tools - How to install XSSHunter](https://www.youtube.com/watch?v=HF05dr8xhso)
@@ -35,7 +36,6 @@
 - [CTF Socket IO, Pwntools Tips/Tricks!](https://www.youtube.com/watch?v=bzVIHp49ECU)
 - [DEF CON 29 Adversary Village - Matthew Eidelberg - Operation Bypass Catch My Payload If You Can](https://www.youtube.com/watch?v=JXKNdWUs77w)
 - [Malware Traffic Generation to Improve Security Incident Detections](https://www.youtube.com/watch?v=c-dpHgBPckM)
-- [CyberSecLabs - Sync - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=ndBZSWKo54c)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
