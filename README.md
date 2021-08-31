@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred REW-sploit](https://github.com/REW-sploit/REW-sploit)
-- [cowbe0x004 starred CSharp_Process_Injection](https://github.com/tasox/CSharp_Process_Injection)
-- [cowbe0x004 starred MicrosoftWontFixList](https://github.com/cfalta/MicrosoftWontFixList)
-- [cowbe0x004 starred PowerShellArmoury](https://github.com/cfalta/PowerShellArmoury)
-- [cowbe0x004 starred exploit_mitigations](https://github.com/nccgroup/exploit_mitigations)
-- [cowbe0x004 starred PvJ-CTF-RedTools](https://github.com/iDigitalFlame/PvJ-CTF-RedTools)
-- [cowbe0x004 starred ADCSPwn](https://github.com/bats3c/ADCSPwn)
-- [cowbe0x004 starred teardrop](https://github.com/hackthedev/teardrop)
-- [cowbe0x004 starred scarecrow_wrapper](https://github.com/kyleavery/scarecrow_wrapper)
-- [cowbe0x004 starred windows-command-line-obfuscation](https://github.com/wietze/windows-command-line-obfuscation)
+- [cowbe0x004 starred Automata](https://github.com/3CORESec/Automata)
+- [cowbe0x004 starred Windows-auditing-mindmap](https://github.com/mdecrevoisier/Windows-auditing-mindmap)
+- [cowbe0x004 starred dnsmonster](https://github.com/mosajjal/dnsmonster)
+- [cowbe0x004 starred fibratus](https://github.com/rabbitstack/fibratus)
+- [cowbe0x004 starred cset](https://github.com/cisagov/cset)
+- [cowbe0x004 starred ServiceMove-BOF](https://github.com/netero1010/ServiceMove-BOF)
+- [cowbe0x004 starred gokart](https://github.com/praetorian-inc/gokart)
+- [cowbe0x004 starred SweetPotato](https://github.com/CCob/SweetPotato)
+- [cowbe0x004 starred CobaltStrikeReflectiveLoader](https://github.com/boku7/CobaltStrikeReflectiveLoader)
+- [cowbe0x004 starred malicious-pdf](https://github.com/jonaslejon/malicious-pdf)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
