@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [YARA Rule Processing Session #2 2021-09-07 FIN7 Maldoc](https://www.youtube.com/watch?v=-Q893KezuVE)
 - [YARA Rule Processing Session #1 2021-09-07 Introduction - Obfuscated JS](https://www.youtube.com/watch?v=pIFCOF_ulXw)
 - [Web Application Security Fundamentals](https://www.youtube.com/watch?v=-7OX58nHPb8)
 - [RE Tools Spotlight: Binary Refinery - High Octane Malware Triage Analysis](https://www.youtube.com/watch?v=4gTaGfFyMK4)
@@ -35,7 +36,6 @@
 - [DEF CON 29 - Matthew Bryant - Hacking G Suite: The Power of Dark Apps Script Magic](https://www.youtube.com/watch?v=6AsVUS79gLw)
 - [Hacking Domain Admin 6 ways to Sunday | PetitPotam, DCSync & Golden Tickets](https://www.youtube.com/watch?v=ZM6-SakrOt8)
 - [Stream #18 - SharpC2](https://www.youtube.com/watch?v=Udkmv-sS0TU)
-- [CTF Socket IO, Pwntools Tips/Tricks!](https://www.youtube.com/watch?v=bzVIHp49ECU)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
