@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Buffer Overflow in networking applications | TryHackMe Intro To Pwntools](https://www.youtube.com/watch?v=5er7pqRIhVk)
 - [Detecting Exploits - OMIGod (Linux Logging with Auditd)](https://www.youtube.com/watch?v=lc1i9h1GyMA)
 - [YARA Rule Processing Session #2 2021-09-07 FIN7 Maldoc](https://www.youtube.com/watch?v=-Q893KezuVE)
 - [YARA Rule Processing Session #1 2021-09-07 Introduction - Obfuscated JS](https://www.youtube.com/watch?v=pIFCOF_ulXw)
@@ -35,7 +36,6 @@
 - [BlackHat Arsenal 2021 - PurpleSharp: Active Directory Attack Simulations](https://www.youtube.com/watch?v=jvpVgJQPoXw)
 - [Hacker Tools - How to install XSSHunter](https://www.youtube.com/watch?v=HF05dr8xhso)
 - [DEF CON 29 - Matthew Bryant - Hacking G Suite: The Power of Dark Apps Script Magic](https://www.youtube.com/watch?v=6AsVUS79gLw)
-- [Hacking Domain Admin 6 ways to Sunday | PetitPotam, DCSync & Golden Tickets](https://www.youtube.com/watch?v=ZM6-SakrOt8)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
