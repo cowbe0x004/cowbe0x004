@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Powershell:Decoded](https://www.youtube.com/watch?v=tHZMwLPe7tg)
 - [Buffer Overflow in networking applications | TryHackMe Intro To Pwntools](https://www.youtube.com/watch?v=5er7pqRIhVk)
 - [Detecting Exploits - OMIGod (Linux Logging with Auditd)](https://www.youtube.com/watch?v=lc1i9h1GyMA)
 - [YARA Rule Processing Session #2 2021-09-07 FIN7 Maldoc](https://www.youtube.com/watch?v=-Q893KezuVE)
@@ -35,7 +36,6 @@
 - [Keynote: Cobalt Strike Threat Hunting | Chad Tilbury](https://www.youtube.com/watch?v=borfuQGrB8g)
 - [BlackHat Arsenal 2021 - PurpleSharp: Active Directory Attack Simulations](https://www.youtube.com/watch?v=jvpVgJQPoXw)
 - [Hacker Tools - How to install XSSHunter](https://www.youtube.com/watch?v=HF05dr8xhso)
-- [DEF CON 29 - Matthew Bryant - Hacking G Suite: The Power of Dark Apps Script Magic](https://www.youtube.com/watch?v=6AsVUS79gLw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
