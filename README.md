@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
+- [cowbe0x004 starred netwalk](https://github.com/icovada/netwalk)
+- [cowbe0x004 starred boobsnail](https://github.com/STMCyber/boobsnail)
+- [cowbe0x004 starred penelope](https://github.com/brightio/penelope)
 - [cowbe0x004 starred TweetFeed](https://github.com/0xDanielLopez/TweetFeed)
 - [cowbe0x004 starred ImpulsiveDLLHijack](https://github.com/knight0x07/ImpulsiveDLLHijack)
 - [cowbe0x004 starred PR0CESS](https://github.com/aaaddress1/PR0CESS)
 - [cowbe0x004 starred Khepri](https://github.com/geemion/Khepri)
 - [cowbe0x004 starred laurel](https://github.com/threathunters-io/laurel)
 - [cowbe0x004 starred GoPurple](https://github.com/sh4hin/GoPurple)
-- [cowbe0x004 starred 100-redteam-projects](https://github.com/kurogai/100-redteam-projects)
-- [cowbe0x004 starred xlsxPoison](https://github.com/X-C3LL/xlsxPoison)
-- [cowbe0x004 starred chainsaw](https://github.com/countercept/chainsaw)
-- [cowbe0x004 starred RunPE](https://github.com/nettitude/RunPE)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
