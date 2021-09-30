@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [How to Defeat Firewalls (Shell Strategy)](https://www.youtube.com/watch?v=OLbqF5aEO8w)
 - [Powershell:Decoded](https://www.youtube.com/watch?v=tHZMwLPe7tg)
 - [Buffer Overflow in networking applications | TryHackMe Intro To Pwntools](https://www.youtube.com/watch?v=5er7pqRIhVk)
 - [Detecting Exploits - OMIGod (Linux Logging with Auditd)](https://www.youtube.com/watch?v=lc1i9h1GyMA)
@@ -35,7 +36,6 @@
 - [RE Tools Spotlight: Binary Refinery - High Octane Malware Triage Analysis](https://www.youtube.com/watch?v=4gTaGfFyMK4)
 - [Keynote: Cobalt Strike Threat Hunting | Chad Tilbury](https://www.youtube.com/watch?v=borfuQGrB8g)
 - [BlackHat Arsenal 2021 - PurpleSharp: Active Directory Attack Simulations](https://www.youtube.com/watch?v=jvpVgJQPoXw)
-- [Hacker Tools - How to install XSSHunter](https://www.youtube.com/watch?v=HF05dr8xhso)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
