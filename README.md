@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [#6 Common Malware Persistence Techniques](https://www.youtube.com/watch?v=0DJ7Zz7B1QU)
 - [Name Server [Tamil CTF] - Binary Exploitation (Pwn) Walkthrough](https://www.youtube.com/watch?v=Q5Xx3aM0cUE)
 - [How to Defeat Firewalls (Shell Strategy)](https://www.youtube.com/watch?v=OLbqF5aEO8w)
 - [Powershell:Decoded](https://www.youtube.com/watch?v=tHZMwLPe7tg)
@@ -35,7 +36,6 @@
 - [YARA Rule Processing Session #1 2021-09-07 Introduction - Obfuscated JS](https://www.youtube.com/watch?v=pIFCOF_ulXw)
 - [Web Application Security Fundamentals](https://www.youtube.com/watch?v=-7OX58nHPb8)
 - [RE Tools Spotlight: Binary Refinery - High Octane Malware Triage Analysis](https://www.youtube.com/watch?v=4gTaGfFyMK4)
-- [Keynote: Cobalt Strike Threat Hunting | Chad Tilbury](https://www.youtube.com/watch?v=borfuQGrB8g)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
