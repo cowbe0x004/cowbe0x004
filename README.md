@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Name Server [Tamil CTF] - Binary Exploitation (Pwn) Walkthrough](https://www.youtube.com/watch?v=Q5Xx3aM0cUE)
 - [How to Defeat Firewalls (Shell Strategy)](https://www.youtube.com/watch?v=OLbqF5aEO8w)
 - [Powershell:Decoded](https://www.youtube.com/watch?v=tHZMwLPe7tg)
 - [Buffer Overflow in networking applications | TryHackMe Intro To Pwntools](https://www.youtube.com/watch?v=5er7pqRIhVk)
@@ -35,7 +36,6 @@
 - [Web Application Security Fundamentals](https://www.youtube.com/watch?v=-7OX58nHPb8)
 - [RE Tools Spotlight: Binary Refinery - High Octane Malware Triage Analysis](https://www.youtube.com/watch?v=4gTaGfFyMK4)
 - [Keynote: Cobalt Strike Threat Hunting | Chad Tilbury](https://www.youtube.com/watch?v=borfuQGrB8g)
-- [BlackHat Arsenal 2021 - PurpleSharp: Active Directory Attack Simulations](https://www.youtube.com/watch?v=jvpVgJQPoXw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
