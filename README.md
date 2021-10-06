@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Advanced Linux/UNIX User's Guide](https://www.youtube.com/watch?v=X7iFKA75MvM)
 - [Analysis of Virtualization-based Obfuscation (r2con2021workshop)](https://www.youtube.com/watch?v=b6udPT79itk)
 - [#6 Common Malware Persistence Techniques](https://www.youtube.com/watch?v=0DJ7Zz7B1QU)
 - [Name Server [Tamil CTF] - Binary Exploitation (Pwn) Walkthrough](https://www.youtube.com/watch?v=Q5Xx3aM0cUE)
@@ -35,7 +36,6 @@
 - [Detecting Exploits - OMIGod (Linux Logging with Auditd)](https://www.youtube.com/watch?v=lc1i9h1GyMA)
 - [YARA Rule Processing Session #2 2021-09-07 FIN7 Maldoc](https://www.youtube.com/watch?v=-Q893KezuVE)
 - [YARA Rule Processing Session #1 2021-09-07 Introduction - Obfuscated JS](https://www.youtube.com/watch?v=pIFCOF_ulXw)
-- [Web Application Security Fundamentals](https://www.youtube.com/watch?v=-7OX58nHPb8)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
