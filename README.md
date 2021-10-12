@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT Calvin's Brew ☕️: To celebrate the upcoming beta launch of @adahandle, I’ll be giving a random winner: 150 $ADA! 50 $ERG! Rules: ✅ Follow @adah...](https://twitter.com/CalvinsBrew/status/1439269991644164100)
+- [RT Crodex: „Are you ready for CRODEX? Professional TradingView charts, NFT Marketplace, Farms, TG Bots… all under one roof! -Tweet what you are most...](https://twitter.com/crodexapp/status/1437460799405056012)
 - [RT Jonas Vestberg:  Re @_EthicalChaos_](https://twitter.com/bugch3ck/status/1428478301593640966)
 - [RT dichotomy: HACKERS AND GEEKS, THE #BSIDESLV 2021 #PVJCTF IS NOW FINISHED!! Congratulations to all who played, Red and Blue. Thanks so much to all o...](https://twitter.com/dichotomy1/status/1421562207079473154)
 - [RT Jorge Orchilles 🦄: I just learned from @cr00ster that a * in a RunOnce key means that it should start in safe mode. From MS: "The value name of ...](https://twitter.com/jorgeorchilles/status/1421475888387043342)
-- [RT dichotomy: It's almost time!  In little more than 10 hours, the #PvJCTF for @BSidesLV 2021 will begin!    Is @PvJBlueTeam ready?   @PvJRedCell cert...](https://twitter.com/dichotomy1/status/1420923552132370434)
-- [RT Lee Christensen: Want to know if #PetitPotam / SpoolSample WebDAV abuse is possible remotely? You first need to know if the WebClient service is ru...](https://twitter.com/tifkin_/status/1419806476353298442)
 <!-- TWEETS:END -->
 
 ---
