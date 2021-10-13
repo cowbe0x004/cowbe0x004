@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [How to do Code Review - The Offensive Security Way](https://www.youtube.com/watch?v=fb-t3WWHsMQ)
 - [Advanced Linux/UNIX User's Guide](https://www.youtube.com/watch?v=X7iFKA75MvM)
 - [Analysis of Virtualization-based Obfuscation (r2con2021workshop)](https://www.youtube.com/watch?v=b6udPT79itk)
 - [#6 Common Malware Persistence Techniques](https://www.youtube.com/watch?v=0DJ7Zz7B1QU)
@@ -35,7 +36,6 @@
 - [Buffer Overflow in networking applications | TryHackMe Intro To Pwntools](https://www.youtube.com/watch?v=5er7pqRIhVk)
 - [Detecting Exploits - OMIGod (Linux Logging with Auditd)](https://www.youtube.com/watch?v=lc1i9h1GyMA)
 - [YARA Rule Processing Session #2 2021-09-07 FIN7 Maldoc](https://www.youtube.com/watch?v=-Q893KezuVE)
-- [YARA Rule Processing Session #1 2021-09-07 Introduction - Obfuscated JS](https://www.youtube.com/watch?v=pIFCOF_ulXw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
