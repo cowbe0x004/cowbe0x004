@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred Windows10Debloater](https://github.com/Sycnex/Windows10Debloater)
-- [cowbe0x004 starred netwalk](https://github.com/icovada/netwalk)
-- [cowbe0x004 starred boobsnail](https://github.com/STMCyber/boobsnail)
-- [cowbe0x004 starred penelope](https://github.com/brightio/penelope)
-- [cowbe0x004 starred TweetFeed](https://github.com/0xDanielLopez/TweetFeed)
-- [cowbe0x004 starred ImpulsiveDLLHijack](https://github.com/knight0x07/ImpulsiveDLLHijack)
-- [cowbe0x004 starred PR0CESS](https://github.com/aaaddress1/PR0CESS)
-- [cowbe0x004 starred Khepri](https://github.com/geemion/Khepri)
-- [cowbe0x004 starred laurel](https://github.com/threathunters-io/laurel)
-- [cowbe0x004 starred GoPurple](https://github.com/sh4hin/GoPurple)
+- [cowbe0x004 starred exploits](https://github.com/cfreal/exploits)
+- [cowbe0x004 starred kubescape](https://github.com/armosec/kubescape)
+- [cowbe0x004 starred Phishious](https://github.com/Rices/Phishious)
+- [cowbe0x004 starred ZipExec](https://github.com/Tylous/ZipExec)
+- [cowbe0x004 starred OffensiveVBA](https://github.com/S3cur3Th1sSh1t/OffensiveVBA)
+- [cowbe0x004 starred corsair_scan](https://github.com/Santandersecurityresearch/corsair_scan)
+- [cowbe0x004 starred Shellcode-Injection-Techniques](https://github.com/plackyhacker/Shellcode-Injection-Techniques)
+- [cowbe0x004 starred MSTIC-Sysmon](https://github.com/microsoft/MSTIC-Sysmon)
+- [cowbe0x004 starred WDACTools](https://github.com/mattifestation/WDACTools)
+- [cowbe0x004 starred SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
