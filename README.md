@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred how-to-exploit-a-double-free](https://github.com/stong/how-to-exploit-a-double-free)
 - [cowbe0x004 starred exploits](https://github.com/cfreal/exploits)
 - [cowbe0x004 starred kubescape](https://github.com/armosec/kubescape)
 - [cowbe0x004 starred Phishious](https://github.com/Rices/Phishious)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Shellcode-Injection-Techniques](https://github.com/plackyhacker/Shellcode-Injection-Techniques)
 - [cowbe0x004 starred MSTIC-Sysmon](https://github.com/microsoft/MSTIC-Sysmon)
 - [cowbe0x004 starred WDACTools](https://github.com/mattifestation/WDACTools)
-- [cowbe0x004 starred SysmonForLinux](https://github.com/Sysinternals/SysmonForLinux)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
