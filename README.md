@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [C2Centipede: APT level C2 communications for common reverse HTTP shell tools](https://www.youtube.com/watch?v=QQo2-HDW7IU)
 - [AS-REP Roasting AD Kerberos Attack - Quick Primer and Demo](https://www.youtube.com/watch?v=N_K3FaofNKw)
 - [DeadFace CTF | Forensics | Bloodshed 1, 2 & 3 walkthrough](https://www.youtube.com/watch?v=GzIRD1bcJeg)
 - [Power-Up w/PowerShell: User's Guide](https://www.youtube.com/watch?v=m-ezy3O2WDA)
@@ -35,7 +36,6 @@
 - [#6 Common Malware Persistence Techniques](https://www.youtube.com/watch?v=0DJ7Zz7B1QU)
 - [Name Server [Tamil CTF] - Binary Exploitation (Pwn) Walkthrough](https://www.youtube.com/watch?v=Q5Xx3aM0cUE)
 - [How to Defeat Firewalls (Shell Strategy)](https://www.youtube.com/watch?v=OLbqF5aEO8w)
-- [Powershell:Decoded](https://www.youtube.com/watch?v=tHZMwLPe7tg)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
