@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [The 2021 #BSidesDE #PvJCTF Call for Pros & Joes is still open to signup below. All that signed up are confirmed and teams picked. Sponsored by @gigamo...](https://twitter.com/cowbe0x004/status/1454554683046039552)
 - [RT TCM Security: Free PNPT alert: Between now and 10/31/21 at 11:59 EST, you can enter to win a PNPT voucher with training. One entry is earned for ea...](https://twitter.com/TCMSecurity/status/1454208232491212801)
 - [RT Calvin's Brew ☕️: To celebrate the upcoming beta launch of @adahandle, I’ll be giving a random winner: 150 $ADA! 50 $ERG! Rules: ✅ Follow @adah...](https://twitter.com/CalvinsBrew/status/1439269991644164100)
 - [RT Crodex | AMM DEX on Cronos: „Are you ready for CRODEX? Professional TradingView charts, NFT Marketplace, Farms, TG Bots… all under one roof! -Twe...](https://twitter.com/crodexapp/status/1437460799405056012)
 - [RT Jonas Vestberg:  Re @_EthicalChaos_](https://twitter.com/bugch3ck/status/1428478301593640966)
-- [RT dichotomy: HACKERS AND GEEKS, THE #BSIDESLV 2021 #PVJCTF IS NOW FINISHED!! Congratulations to all who played, Red and Blue. Thanks so much to all o...](https://twitter.com/dichotomy1/status/1421562207079473154)
 <!-- TWEETS:END -->
 
 ---
