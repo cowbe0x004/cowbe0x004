@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred hardentools](https://github.com/securitywithoutborders/hardentools)
+- [cowbe0x004 starred decode-spam-headers](https://github.com/mgeeky/decode-spam-headers)
 - [cowbe0x004 starred how-to-exploit-a-double-free](https://github.com/stong/how-to-exploit-a-double-free)
 - [cowbe0x004 starred exploits](https://github.com/cfreal/exploits)
 - [cowbe0x004 starred kubescape](https://github.com/armosec/kubescape)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred OffensiveVBA](https://github.com/S3cur3Th1sSh1t/OffensiveVBA)
 - [cowbe0x004 starred corsair_scan](https://github.com/Santandersecurityresearch/corsair_scan)
 - [cowbe0x004 starred Shellcode-Injection-Techniques](https://github.com/plackyhacker/Shellcode-Injection-Techniques)
-- [cowbe0x004 starred MSTIC-Sysmon](https://github.com/microsoft/MSTIC-Sysmon)
-- [cowbe0x004 starred WDACTools](https://github.com/mattifestation/WDACTools)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
