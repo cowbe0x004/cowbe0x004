@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred futurecoder](https://github.com/alexmojaki/futurecoder)
 - [cowbe0x004 starred hardentools](https://github.com/securitywithoutborders/hardentools)
 - [cowbe0x004 starred decode-spam-headers](https://github.com/mgeeky/decode-spam-headers)
 - [cowbe0x004 starred how-to-exploit-a-double-free](https://github.com/stong/how-to-exploit-a-double-free)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ZipExec](https://github.com/Tylous/ZipExec)
 - [cowbe0x004 starred OffensiveVBA](https://github.com/S3cur3Th1sSh1t/OffensiveVBA)
 - [cowbe0x004 starred corsair_scan](https://github.com/Santandersecurityresearch/corsair_scan)
-- [cowbe0x004 starred Shellcode-Injection-Techniques](https://github.com/plackyhacker/Shellcode-Injection-Techniques)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
