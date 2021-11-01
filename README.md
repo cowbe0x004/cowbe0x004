@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Nim Lang for Pentesters Part IV Automate the process of  Macro Embedded Excel creation](https://www.youtube.com/watch?v=SBjaCYNlj2A)
 - [C2Centipede: APT level C2 communications for common reverse HTTP shell tools](https://www.youtube.com/watch?v=QQo2-HDW7IU)
 - [AS-REP Roasting AD Kerberos Attack - Quick Primer and Demo](https://www.youtube.com/watch?v=N_K3FaofNKw)
 - [DeadFace CTF | Forensics | Bloodshed 1, 2 & 3 walkthrough](https://www.youtube.com/watch?v=GzIRD1bcJeg)
@@ -35,7 +36,6 @@
 - [Analysis of Virtualization-based Obfuscation (r2con2021workshop)](https://www.youtube.com/watch?v=b6udPT79itk)
 - [#6 Common Malware Persistence Techniques](https://www.youtube.com/watch?v=0DJ7Zz7B1QU)
 - [Name Server [Tamil CTF] - Binary Exploitation (Pwn) Walkthrough](https://www.youtube.com/watch?v=Q5Xx3aM0cUE)
-- [How to Defeat Firewalls (Shell Strategy)](https://www.youtube.com/watch?v=OLbqF5aEO8w)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
