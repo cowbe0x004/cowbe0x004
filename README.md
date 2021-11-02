@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred melting-cobalt](https://github.com/splunk/melting-cobalt)
 - [cowbe0x004 starred BloodHound-Tools](https://github.com/zeronetworks/BloodHound-Tools)
 - [cowbe0x004 starred futurecoder](https://github.com/alexmojaki/futurecoder)
 - [cowbe0x004 starred hardentools](https://github.com/securitywithoutborders/hardentools)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred kubescape](https://github.com/armosec/kubescape)
 - [cowbe0x004 starred Phishious](https://github.com/Rices/Phishious)
 - [cowbe0x004 starred ZipExec](https://github.com/Tylous/ZipExec)
-- [cowbe0x004 starred OffensiveVBA](https://github.com/S3cur3Th1sSh1t/OffensiveVBA)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
