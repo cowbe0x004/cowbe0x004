@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [PowerShell Master Class - PowerShell Fundamentals](https://www.youtube.com/watch?v=sQm4zRvvX58)
+- [Secrets Management with Terraform](https://www.youtube.com/watch?v=tvaWM-N6ygQ)
 - [Nim Lang for Pentesters Part IV Automate the process of  Macro Embedded Excel creation](https://www.youtube.com/watch?v=SBjaCYNlj2A)
 - [C2Centipede: APT level C2 communications for common reverse HTTP shell tools](https://www.youtube.com/watch?v=QQo2-HDW7IU)
 - [AS-REP Roasting AD Kerberos Attack - Quick Primer and Demo](https://www.youtube.com/watch?v=N_K3FaofNKw)
@@ -34,8 +36,6 @@
 - [How to do Code Review - The Offensive Security Way](https://www.youtube.com/watch?v=fb-t3WWHsMQ)
 - [Advanced Linux/UNIX User's Guide](https://www.youtube.com/watch?v=X7iFKA75MvM)
 - [Analysis of Virtualization-based Obfuscation (r2con2021workshop)](https://www.youtube.com/watch?v=b6udPT79itk)
-- [#6 Common Malware Persistence Techniques](https://www.youtube.com/watch?v=0DJ7Zz7B1QU)
-- [Name Server [Tamil CTF] - Binary Exploitation (Pwn) Walkthrough](https://www.youtube.com/watch?v=Q5Xx3aM0cUE)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
