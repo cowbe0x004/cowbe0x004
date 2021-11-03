@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT Crypto.com: Game on:  🏆 Official Global Cryptocurrency Platform Partner 🏆 Official Global Marketing Partner #CryptoGG RT this tweet & follow ...](https://twitter.com/cryptocom/status/1455883516785283076)
 - [RT INTIGRITI: ⏰ The XSS challenge is over! ☑ 138 hackers found the right solution!! 📑 27 hackers wrote a cool writeup! 🏆 Check out the winners...](https://twitter.com/intigriti/status/1455516960767291396)
 - [The 2021 #BSidesDE #PvJCTF Call for Pros & Joes is still open to signup below. All that signed up are confirmed and teams picked. Sponsored by @gigamo...](https://twitter.com/cowbe0x004/status/1454554683046039552)
 - [RT TCM Security: Free PNPT alert: Between now and 10/31/21 at 11:59 EST, you can enter to win a PNPT voucher with training. One entry is earned for ea...](https://twitter.com/TCMSecurity/status/1454208232491212801)
 - [RT Calvin's Brew ☕️: To celebrate the upcoming beta launch of @adahandle, I’ll be giving a random winner: 150 $ADA! 50 $ERG! Rules: ✅ Follow @adah...](https://twitter.com/CalvinsBrew/status/1439269991644164100)
-- [RT Crodex | AMM DEX on Cronos: „Are you ready for CRODEX? Professional TradingView charts, NFT Marketplace, Farms, TG Bots… all under one roof! -Twe...](https://twitter.com/crodexapp/status/1437460799405056012)
 <!-- TWEETS:END -->
 
 ---
