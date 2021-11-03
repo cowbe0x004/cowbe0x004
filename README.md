@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Vulnhub-CTF-Writeups](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups)
+- [cowbe0x004 starred TryHackMe-CTF-Writeups](https://github.com/Ignitetechnologies/TryHackMe-CTF-Writeups)
+- [cowbe0x004 starred HackTheBox-CTF-Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)
 - [cowbe0x004 starred melting-cobalt](https://github.com/splunk/melting-cobalt)
 - [cowbe0x004 starred BloodHound-Tools](https://github.com/zeronetworks/BloodHound-Tools)
 - [cowbe0x004 starred futurecoder](https://github.com/alexmojaki/futurecoder)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred decode-spam-headers](https://github.com/mgeeky/decode-spam-headers)
 - [cowbe0x004 starred how-to-exploit-a-double-free](https://github.com/stong/how-to-exploit-a-double-free)
 - [cowbe0x004 starred exploits](https://github.com/cfreal/exploits)
-- [cowbe0x004 starred kubescape](https://github.com/armosec/kubescape)
-- [cowbe0x004 starred Phishious](https://github.com/Rices/Phishious)
-- [cowbe0x004 starred ZipExec](https://github.com/Tylous/ZipExec)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
