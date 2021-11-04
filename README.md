@@ -28,7 +28,7 @@
 <!-- YOUTUBE:START -->
 - [PowerShell Master Class - PowerShell Fundamentals](https://www.youtube.com/watch?v=sQm4zRvvX58)
 - [Secrets Management with Terraform](https://www.youtube.com/watch?v=tvaWM-N6ygQ)
-- [Nim Lang for Pentesters Part IV Automate the process of  Macro Embedded Excel creation](https://www.youtube.com/watch?v=SBjaCYNlj2A)
+- [Nim Lang for Pentesters Part IV Automate  Macro Embedded Excel creation and  bypass antivirus](https://www.youtube.com/watch?v=SBjaCYNlj2A)
 - [C2Centipede: APT level C2 communications for common reverse HTTP shell tools](https://www.youtube.com/watch?v=QQo2-HDW7IU)
 - [AS-REP Roasting AD Kerberos Attack - Quick Primer and Demo](https://www.youtube.com/watch?v=N_K3FaofNKw)
 - [DeadFace CTF | Forensics | Bloodshed 1, 2 & 3 walkthrough](https://www.youtube.com/watch?v=GzIRD1bcJeg)
