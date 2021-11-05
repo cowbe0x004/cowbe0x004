@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Ninja_UUID_Runner](https://github.com/boku7/Ninja_UUID_Runner)
 - [cowbe0x004 starred LDAP-Password-Hunter](https://github.com/oldboy21/LDAP-Password-Hunter)
 - [cowbe0x004 starred Vulnhub-CTF-Writeups](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups)
 - [cowbe0x004 starred TryHackMe-CTF-Writeups](https://github.com/Ignitetechnologies/TryHackMe-CTF-Writeups)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred futurecoder](https://github.com/alexmojaki/futurecoder)
 - [cowbe0x004 starred hardentools](https://github.com/securitywithoutborders/hardentools)
 - [cowbe0x004 starred decode-spam-headers](https://github.com/mgeeky/decode-spam-headers)
-- [cowbe0x004 starred how-to-exploit-a-double-free](https://github.com/stong/how-to-exploit-a-double-free)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
