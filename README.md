@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred xleapp](https://github.com/flamusdiu/xleapp)
 - [cowbe0x004 starred Ninja_UUID_Runner](https://github.com/boku7/Ninja_UUID_Runner)
 - [cowbe0x004 starred LDAP-Password-Hunter](https://github.com/oldboy21/LDAP-Password-Hunter)
 - [cowbe0x004 starred Vulnhub-CTF-Writeups](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred BloodHound-Tools](https://github.com/zeronetworks/BloodHound-Tools)
 - [cowbe0x004 starred futurecoder](https://github.com/alexmojaki/futurecoder)
 - [cowbe0x004 starred hardentools](https://github.com/securitywithoutborders/hardentools)
-- [cowbe0x004 starred decode-spam-headers](https://github.com/mgeeky/decode-spam-headers)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
