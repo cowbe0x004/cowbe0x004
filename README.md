@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [DEF CON 29 Adversary Village - Fatih Ozavci - Tradecraft Development in Adversary Simulations](https://www.youtube.com/watch?v=KJsVVEn4fFw)
 - [PowerShell Master Class - PowerShell Fundamentals](https://www.youtube.com/watch?v=sQm4zRvvX58)
 - [Secrets Management with Terraform](https://www.youtube.com/watch?v=tvaWM-N6ygQ)
 - [Nim Lang for Pentesters Part IV Automate  Macro Embedded Excel creation and  bypass antivirus](https://www.youtube.com/watch?v=SBjaCYNlj2A)
@@ -35,7 +36,6 @@
 - [Power-Up w/PowerShell: User's Guide](https://www.youtube.com/watch?v=m-ezy3O2WDA)
 - [How to do Code Review - The Offensive Security Way](https://www.youtube.com/watch?v=fb-t3WWHsMQ)
 - [Advanced Linux/UNIX User's Guide](https://www.youtube.com/watch?v=X7iFKA75MvM)
-- [Analysis of Virtualization-based Obfuscation (r2con2021workshop)](https://www.youtube.com/watch?v=b6udPT79itk)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
