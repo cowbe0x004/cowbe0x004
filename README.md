@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Hunting backdoors in Active Directory Environment](https://www.youtube.com/watch?v=xeCCYmE4bZM)
 - [DEF CON 29 Adversary Village - Fatih Ozavci - Tradecraft Development in Adversary Simulations](https://www.youtube.com/watch?v=KJsVVEn4fFw)
 - [PowerShell Master Class - PowerShell Fundamentals](https://www.youtube.com/watch?v=sQm4zRvvX58)
 - [Secrets Management with Terraform](https://www.youtube.com/watch?v=tvaWM-N6ygQ)
@@ -35,7 +36,6 @@
 - [DeadFace CTF | Forensics | Bloodshed 1, 2 & 3 walkthrough](https://www.youtube.com/watch?v=GzIRD1bcJeg)
 - [Power-Up w/PowerShell: User's Guide](https://www.youtube.com/watch?v=m-ezy3O2WDA)
 - [How to do Code Review - The Offensive Security Way](https://www.youtube.com/watch?v=fb-t3WWHsMQ)
-- [Advanced Linux/UNIX User's Guide](https://www.youtube.com/watch?v=X7iFKA75MvM)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
