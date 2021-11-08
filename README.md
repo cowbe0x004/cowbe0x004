@@ -30,12 +30,12 @@
 - [Hunting backdoors in Active Directory Environment](https://www.youtube.com/watch?v=xeCCYmE4bZM)
 - [DEF CON 29 Adversary Village - Fatih Ozavci - Tradecraft Development in Adversary Simulations](https://www.youtube.com/watch?v=KJsVVEn4fFw)
 - [PowerShell Master Class - PowerShell Fundamentals](https://www.youtube.com/watch?v=sQm4zRvvX58)
-- [Secrets Management with Terraform](https://www.youtube.com/watch?v=tvaWM-N6ygQ)
 - [Nim Lang for Pentesters Part IV Automate  Macro Embedded Excel creation and  bypass antivirus](https://www.youtube.com/watch?v=SBjaCYNlj2A)
 - [C2Centipede: APT level C2 communications for common reverse HTTP shell tools](https://www.youtube.com/watch?v=QQo2-HDW7IU)
 - [AS-REP Roasting AD Kerberos Attack - Quick Primer and Demo](https://www.youtube.com/watch?v=N_K3FaofNKw)
 - [DeadFace CTF | Forensics | Bloodshed 1, 2 &amp; 3 walkthrough](https://www.youtube.com/watch?v=GzIRD1bcJeg)
 - [Power-Up w/PowerShell: User&#39;s Guide](https://www.youtube.com/watch?v=m-ezy3O2WDA)
+- [How to do Code Review - The Offensive Security Way](https://www.youtube.com/watch?v=fb-t3WWHsMQ)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
