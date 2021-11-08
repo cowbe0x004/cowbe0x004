@@ -34,8 +34,8 @@
 - [Nim Lang for Pentesters Part IV Automate  Macro Embedded Excel creation and  bypass antivirus](https://www.youtube.com/watch?v=SBjaCYNlj2A)
 - [C2Centipede: APT level C2 communications for common reverse HTTP shell tools](https://www.youtube.com/watch?v=QQo2-HDW7IU)
 - [AS-REP Roasting AD Kerberos Attack - Quick Primer and Demo](https://www.youtube.com/watch?v=N_K3FaofNKw)
-- [DeadFace CTF | Forensics | Bloodshed 1, 2 & 3 walkthrough](https://www.youtube.com/watch?v=GzIRD1bcJeg)
-- [Power-Up w/PowerShell: User's Guide](https://www.youtube.com/watch?v=m-ezy3O2WDA)
+- [DeadFace CTF | Forensics | Bloodshed 1, 2 &amp; 3 walkthrough](https://www.youtube.com/watch?v=GzIRD1bcJeg)
+- [Power-Up w/PowerShell: User&#39;s Guide](https://www.youtube.com/watch?v=m-ezy3O2WDA)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
