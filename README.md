@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Hunting Malicious Office Macros](https://www.youtube.com/watch?v=soF5iyeeWDg)
 - [Exploring Windows Command-Line Obfuscation](https://www.youtube.com/watch?v=o1g5oiCMkcI)
 - [Hunting backdoors in Active Directory Environment](https://www.youtube.com/watch?v=xeCCYmE4bZM)
 - [DEF CON 29 Adversary Village - Fatih Ozavci - Tradecraft Development in Adversary Simulations](https://www.youtube.com/watch?v=KJsVVEn4fFw)
@@ -35,7 +36,6 @@
 - [AS-REP Roasting AD Kerberos Attack - Quick Primer and Demo](https://www.youtube.com/watch?v=N_K3FaofNKw)
 - [DeadFace CTF | Forensics | Bloodshed 1, 2 &amp; 3 walkthrough](https://www.youtube.com/watch?v=GzIRD1bcJeg)
 - [Power-Up w/PowerShell: User&#39;s Guide](https://www.youtube.com/watch?v=m-ezy3O2WDA)
-- [How to do Code Review - The Offensive Security Way](https://www.youtube.com/watch?v=fb-t3WWHsMQ)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
