@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred nanodump](https://github.com/helpsystems/nanodump)
 - [cowbe0x004 starred RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)
 - [cowbe0x004 starred WinBoost](https://github.com/mobdk/WinBoost)
 - [cowbe0x004 starred HEVD-CSharpKernelPwn](https://github.com/daem0nc0re/HEVD-CSharpKernelPwn)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred LDAP-Password-Hunter](https://github.com/oldboy21/LDAP-Password-Hunter)
 - [cowbe0x004 starred Vulnhub-CTF-Writeups](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups)
 - [cowbe0x004 starred TryHackMe-CTF-Writeups](https://github.com/Ignitetechnologies/TryHackMe-CTF-Writeups)
-- [cowbe0x004 starred HackTheBox-CTF-Writeups](https://github.com/Ignitetechnologies/HackTheBox-CTF-Writeups)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
