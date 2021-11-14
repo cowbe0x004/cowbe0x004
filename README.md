@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 - [cowbe0x004 starred Limelighter](https://github.com/Tylous/Limelighter)
 - [cowbe0x004 starred sysmon-cheatsheet](https://github.com/olafhartong/sysmon-cheatsheet)
 - [cowbe0x004 starred Projects-MS-SQL-Server-DBA](https://github.com/HanseSecure/Projects-MS-SQL-Server-DBA)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred HEVD-CSharpKernelPwn](https://github.com/daem0nc0re/HEVD-CSharpKernelPwn)
 - [cowbe0x004 starred excelpeek](https://github.com/slaughterjames/excelpeek)
 - [cowbe0x004 starred xleapp](https://github.com/flamusdiu/xleapp)
-- [cowbe0x004 starred Ninja_UUID_Runner](https://github.com/boku7/Ninja_UUID_Runner)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
