@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Limelighter](https://github.com/Tylous/Limelighter)
+- [cowbe0x004 starred sysmon-cheatsheet](https://github.com/olafhartong/sysmon-cheatsheet)
 - [cowbe0x004 starred Projects-MS-SQL-Server-DBA](https://github.com/HanseSecure/Projects-MS-SQL-Server-DBA)
 - [cowbe0x004 starred nanodump](https://github.com/helpsystems/nanodump)
 - [cowbe0x004 starred RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred excelpeek](https://github.com/slaughterjames/excelpeek)
 - [cowbe0x004 starred xleapp](https://github.com/flamusdiu/xleapp)
 - [cowbe0x004 starred Ninja_UUID_Runner](https://github.com/boku7/Ninja_UUID_Runner)
-- [cowbe0x004 starred LDAP-Password-Hunter](https://github.com/oldboy21/LDAP-Password-Hunter)
-- [cowbe0x004 starred Vulnhub-CTF-Writeups](https://github.com/Ignitetechnologies/Vulnhub-CTF-Writeups)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
