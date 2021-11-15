@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred AzureHunter](https://github.com/darkquasar/AzureHunter)
 - [cowbe0x004 starred Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 - [cowbe0x004 starred Limelighter](https://github.com/Tylous/Limelighter)
 - [cowbe0x004 starred sysmon-cheatsheet](https://github.com/olafhartong/sysmon-cheatsheet)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred WinBoost](https://github.com/mobdk/WinBoost)
 - [cowbe0x004 starred HEVD-CSharpKernelPwn](https://github.com/daem0nc0re/HEVD-CSharpKernelPwn)
 - [cowbe0x004 starred excelpeek](https://github.com/slaughterjames/excelpeek)
-- [cowbe0x004 starred xleapp](https://github.com/flamusdiu/xleapp)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
