@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [t120 Attacking Microsoft Kerberos Kicking the Guard Dog of Hades Tim Medin](https://www.youtube.com/watch?v=PUyhlN-E5MU)
 - [RedTeam Tricks Exposed - Reversing Engineering Syscalls To Evade Detection](https://www.youtube.com/watch?v=Uba3SQH2jNE)
 - [Hunting Malicious Office Macros](https://www.youtube.com/watch?v=soF5iyeeWDg)
 - [Exploring Windows Command-Line Obfuscation](https://www.youtube.com/watch?v=o1g5oiCMkcI)
@@ -35,7 +36,6 @@
 - [Nim Lang for Pentesters Part IV Bypass anti virus and Automate  Macro Embedded Excel creation](https://www.youtube.com/watch?v=SBjaCYNlj2A)
 - [C2Centipede: APT level C2 communications for common reverse HTTP shell tools](https://www.youtube.com/watch?v=QQo2-HDW7IU)
 - [AS-REP Roasting AD Kerberos Attack - Quick Primer and Demo](https://www.youtube.com/watch?v=N_K3FaofNKw)
-- [DeadFace CTF | Forensics | Bloodshed 1, 2 &amp; 3 walkthrough](https://www.youtube.com/watch?v=GzIRD1bcJeg)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
