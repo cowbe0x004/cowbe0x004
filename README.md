@@ -26,6 +26,9 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Burp Suite Part 2 - Logan Diomedi](https://www.youtube.com/watch?v=76ltPReLHAs)
+- [Level Up Your Burp Suite Skills - Part 1](https://www.youtube.com/watch?v=9nnskAMaGMA)
+- [Burp Suite Cheat Sheet and Tips &amp; Tricks](https://www.youtube.com/watch?v=t8rJHhIo5lM)
 - [t120 Attacking Microsoft Kerberos Kicking the Guard Dog of Hades Tim Medin](https://www.youtube.com/watch?v=PUyhlN-E5MU)
 - [RedTeam Tricks Exposed - Reversing Engineering Syscalls To Evade Detection](https://www.youtube.com/watch?v=Uba3SQH2jNE)
 - [Hunting Malicious Office Macros](https://www.youtube.com/watch?v=soF5iyeeWDg)
@@ -33,9 +36,6 @@
 - [Hunting backdoors in Active Directory Environment](https://www.youtube.com/watch?v=xeCCYmE4bZM)
 - [DEF CON 29 Adversary Village - Fatih Ozavci - Tradecraft Development in Adversary Simulations](https://www.youtube.com/watch?v=KJsVVEn4fFw)
 - [PowerShell Master Class - PowerShell Fundamentals](https://www.youtube.com/watch?v=sQm4zRvvX58)
-- [Nim Lang for Pentesters Part IV Bypass anti virus and Automate  Macro Embedded Excel creation](https://www.youtube.com/watch?v=SBjaCYNlj2A)
-- [C2Centipede: APT level C2 communications for common reverse HTTP shell tools](https://www.youtube.com/watch?v=QQo2-HDW7IU)
-- [AS-REP Roasting AD Kerberos Attack - Quick Primer and Demo](https://www.youtube.com/watch?v=N_K3FaofNKw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
