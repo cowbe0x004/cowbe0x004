@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred MultiPotato](https://github.com/S3cur3Th1sSh1t/MultiPotato)
 - [cowbe0x004 starred threat-research-and-intelligence](https://github.com/blackberry/threat-research-and-intelligence)
 - [cowbe0x004 starred AzureHunter](https://github.com/darkquasar/AzureHunter)
 - [cowbe0x004 starred Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred nanodump](https://github.com/helpsystems/nanodump)
 - [cowbe0x004 starred RsaCtfTool](https://github.com/Ganapati/RsaCtfTool)
 - [cowbe0x004 starred WinBoost](https://github.com/mobdk/WinBoost)
-- [cowbe0x004 starred HEVD-CSharpKernelPwn](https://github.com/daem0nc0re/HEVD-CSharpKernelPwn)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
