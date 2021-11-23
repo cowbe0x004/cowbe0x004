@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [EventTranscript.db Deep Dive - New Windows Forensic Artifact!](https://www.youtube.com/watch?v=Lhw1KsXygBU)
 - [Burp Suite Part 2 - Logan Diomedi](https://www.youtube.com/watch?v=76ltPReLHAs)
 - [Level Up Your Burp Suite Skills - Part 1](https://www.youtube.com/watch?v=9nnskAMaGMA)
 - [Burp Suite Cheat Sheet and Tips &amp; Tricks](https://www.youtube.com/watch?v=t8rJHhIo5lM)
@@ -35,7 +36,6 @@
 - [Exploring Windows Command-Line Obfuscation](https://www.youtube.com/watch?v=o1g5oiCMkcI)
 - [Hunting backdoors in Active Directory Environment](https://www.youtube.com/watch?v=xeCCYmE4bZM)
 - [DEF CON 29 Adversary Village - Fatih Ozavci - Tradecraft Development in Adversary Simulations](https://www.youtube.com/watch?v=KJsVVEn4fFw)
-- [PowerShell Master Class - PowerShell Fundamentals](https://www.youtube.com/watch?v=sQm4zRvvX58)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
