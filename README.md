@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred forbidden](https://github.com/ivan-sincek/forbidden)
 - [cowbe0x004 starred OffensiveReading](https://github.com/BitnomadLive/OffensiveReading)
 - [cowbe0x004 starred threatbox](https://github.com/threatexpress/threatbox)
 - [cowbe0x004 starred MultiPotato](https://github.com/S3cur3Th1sSh1t/MultiPotato)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Limelighter](https://github.com/Tylous/Limelighter)
 - [cowbe0x004 starred sysmon-cheatsheet](https://github.com/olafhartong/sysmon-cheatsheet)
 - [cowbe0x004 starred Projects-MS-SQL-Server-DBA](https://github.com/HanseSecure/Projects-MS-SQL-Server-DBA)
-- [cowbe0x004 starred nanodump](https://github.com/helpsystems/nanodump)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
