@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Obfusc8ted](https://github.com/RoseSecurity/Obfusc8ted)
 - [cowbe0x004 starred BCA-Phantom](https://github.com/EONRaider/BCA-Phantom)
 - [cowbe0x004 starred forbidden](https://github.com/ivan-sincek/forbidden)
 - [cowbe0x004 starred OffensiveReading](https://github.com/BitnomadLive/OffensiveReading)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred AzureHunter](https://github.com/darkquasar/AzureHunter)
 - [cowbe0x004 starred Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 - [cowbe0x004 starred Limelighter](https://github.com/Tylous/Limelighter)
-- [cowbe0x004 starred sysmon-cheatsheet](https://github.com/olafhartong/sysmon-cheatsheet)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
