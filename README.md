@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [CyberSecLabs - Spray - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=pmaeQlFkFV0)
 - [EventTranscript.db Deep Dive - New Windows Forensic Artifact!](https://www.youtube.com/watch?v=Lhw1KsXygBU)
 - [Fast Software Prototyping - Python iLEAPP module example](https://www.youtube.com/watch?v=8xBNppN0_58)
 - [Burp Suite Part 2 - Logan Diomedi](https://www.youtube.com/watch?v=76ltPReLHAs)
@@ -35,7 +36,6 @@
 - [RedTeam Tricks Exposed - Reversing Engineering Syscalls To Evade Detection](https://www.youtube.com/watch?v=Uba3SQH2jNE)
 - [Hunting Malicious Office Macros](https://www.youtube.com/watch?v=soF5iyeeWDg)
 - [Exploring Windows Command-Line Obfuscation](https://www.youtube.com/watch?v=o1g5oiCMkcI)
-- [Hunting backdoors in Active Directory Environment](https://www.youtube.com/watch?v=xeCCYmE4bZM)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
