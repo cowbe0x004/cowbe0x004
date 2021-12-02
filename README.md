@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
 - [cowbe0x004 starred dim](https://github.com/Dusk-Labs/dim)
 - [cowbe0x004 starred Obfusc8ted](https://github.com/RoseSecurity/Obfusc8ted)
 - [cowbe0x004 starred BCA-Phantom](https://github.com/EONRaider/BCA-Phantom)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred MultiPotato](https://github.com/S3cur3Th1sSh1t/MultiPotato)
 - [cowbe0x004 starred threat-research-and-intelligence](https://github.com/blackberry/threat-research-and-intelligence)
 - [cowbe0x004 starred AzureHunter](https://github.com/darkquasar/AzureHunter)
-- [cowbe0x004 starred Web-Attack-Cheat-Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
