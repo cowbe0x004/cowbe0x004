@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred XMGoat](https://github.com/XMCyber/XMGoat)
 - [cowbe0x004 starred kerberoast](https://github.com/skelsec/kerberoast)
 - [cowbe0x004 starred MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
 - [cowbe0x004 starred dim](https://github.com/Dusk-Labs/dim)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred OffensiveReading](https://github.com/BitnomadLive/OffensiveReading)
 - [cowbe0x004 starred threatbox](https://github.com/threatexpress/threatbox)
 - [cowbe0x004 starred MultiPotato](https://github.com/S3cur3Th1sSh1t/MultiPotato)
-- [cowbe0x004 starred threat-research-and-intelligence](https://github.com/blackberry/threat-research-and-intelligence)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
