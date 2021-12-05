@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Anti-Virus-Evading-Payloads](https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads)
+- [cowbe0x004 starred Rubeus-GUI](https://github.com/VbScrub/Rubeus-GUI)
 - [cowbe0x004 starred XMGoat](https://github.com/XMCyber/XMGoat)
 - [cowbe0x004 starred kerberoast](https://github.com/skelsec/kerberoast)
 - [cowbe0x004 starred MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred BCA-Phantom](https://github.com/EONRaider/BCA-Phantom)
 - [cowbe0x004 starred forbidden](https://github.com/ivan-sincek/forbidden)
 - [cowbe0x004 starred OffensiveReading](https://github.com/BitnomadLive/OffensiveReading)
-- [cowbe0x004 starred threatbox](https://github.com/threatexpress/threatbox)
-- [cowbe0x004 starred MultiPotato](https://github.com/S3cur3Th1sSh1t/MultiPotato)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
