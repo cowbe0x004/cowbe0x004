@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast)
 - [cowbe0x004 starred python-obj-system](https://github.com/MoserMichael/python-obj-system)
 - [cowbe0x004 starred ninjasworkout](https://github.com/effortlessdevsec/ninjasworkout)
 - [cowbe0x004 starred Anti-Virus-Evading-Payloads](https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
 - [cowbe0x004 starred dim](https://github.com/Dusk-Labs/dim)
 - [cowbe0x004 starred Obfusc8ted](https://github.com/RoseSecurity/Obfusc8ted)
-- [cowbe0x004 starred BCA-Phantom](https://github.com/EONRaider/BCA-Phantom)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
