@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Velociraptor: Dig Deeper with Mike Cohen [OSDFCon 2021]](https://www.youtube.com/watch?v=8AQFNAICajE)
 - [CyberSecLabs - Spray - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=pmaeQlFkFV0)
 - [EventTranscript.db Deep Dive - New Windows Forensic Artifact!](https://www.youtube.com/watch?v=Lhw1KsXygBU)
 - [Fast Software Prototyping - Python iLEAPP module example](https://www.youtube.com/watch?v=8xBNppN0_58)
@@ -35,7 +36,6 @@
 - [t120 Attacking Microsoft Kerberos Kicking the Guard Dog of Hades Tim Medin](https://www.youtube.com/watch?v=PUyhlN-E5MU)
 - [RedTeam Tricks Exposed - Reversing Engineering Syscalls To Evade Detection](https://www.youtube.com/watch?v=Uba3SQH2jNE)
 - [Hunting Malicious Office Macros](https://www.youtube.com/watch?v=soF5iyeeWDg)
-- [Exploring Windows Command-Line Obfuscation](https://www.youtube.com/watch?v=o1g5oiCMkcI)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
