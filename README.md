@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [JWT Key Confusion &amp; Nunjucks SSTI - &quot;Naughty or Nice&quot; [Day 5: HackTheBox Cyber Santa CTF]](https://www.youtube.com/watch?v=tV7C6HSrtm4)
 - [How to exploit a blind SSRF?](https://www.youtube.com/watch?v=o6AJH9PFEd4)
 - [Full malware analysis Work-Flow of AgentTesla Malware](https://www.youtube.com/watch?v=QQuRp7Qiuzg)
 - [Exploiting Windows COM/WinRT ServicesExploiting Windows COM/WinRT Services](https://www.youtube.com/watch?v=KeQ0PHrHDVs)
@@ -35,7 +36,6 @@
 - [Fast Software Prototyping - Python iLEAPP module example](https://www.youtube.com/watch?v=8xBNppN0_58)
 - [Burp Suite Part 2 - Logan Diomedi](https://www.youtube.com/watch?v=76ltPReLHAs)
 - [Level Up Your Burp Suite Skills - Part 1](https://www.youtube.com/watch?v=9nnskAMaGMA)
-- [Burp Suite Cheat Sheet and Tips &amp; Tricks](https://www.youtube.com/watch?v=t8rJHhIo5lM)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
