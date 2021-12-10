@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [How to exploit a blind SSRF?](https://www.youtube.com/watch?v=o6AJH9PFEd4)
 - [Full malware analysis Work-Flow of AgentTesla Malware](https://www.youtube.com/watch?v=QQuRp7Qiuzg)
 - [Exploiting Windows COM/WinRT ServicesExploiting Windows COM/WinRT Services](https://www.youtube.com/watch?v=KeQ0PHrHDVs)
 - [Velociraptor: Dig Deeper with Mike Cohen [OSDFCon 2021]](https://www.youtube.com/watch?v=8AQFNAICajE)
@@ -35,7 +36,6 @@
 - [Burp Suite Part 2 - Logan Diomedi](https://www.youtube.com/watch?v=76ltPReLHAs)
 - [Level Up Your Burp Suite Skills - Part 1](https://www.youtube.com/watch?v=9nnskAMaGMA)
 - [Burp Suite Cheat Sheet and Tips &amp; Tricks](https://www.youtube.com/watch?v=t8rJHhIo5lM)
-- [t120 Attacking Microsoft Kerberos Kicking the Guard Dog of Hades Tim Medin](https://www.youtube.com/watch?v=PUyhlN-E5MU)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
