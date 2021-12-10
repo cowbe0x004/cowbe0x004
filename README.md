@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred marshalsec](https://github.com/mbechler/marshalsec)
+- [cowbe0x004 starred DInjector](https://github.com/snovvcrash/DInjector)
 - [cowbe0x004 starred php-jpeg-injector](https://github.com/dlegs/php-jpeg-injector)
 - [cowbe0x004 starred EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast)
 - [cowbe0x004 starred python-obj-system](https://github.com/MoserMichael/python-obj-system)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Rubeus-GUI](https://github.com/VbScrub/Rubeus-GUI)
 - [cowbe0x004 starred XMGoat](https://github.com/XMCyber/XMGoat)
 - [cowbe0x004 starred kerberoast](https://github.com/skelsec/kerberoast)
-- [cowbe0x004 starred MustLearnKQL](https://github.com/rod-trent/MustLearnKQL)
-- [cowbe0x004 starred dim](https://github.com/Dusk-Labs/dim)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
