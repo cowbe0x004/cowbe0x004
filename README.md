@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred JNDIExploit](https://github.com/0x727/JNDIExploit)
 - [cowbe0x004 starred marshalsec](https://github.com/mbechler/marshalsec)
 - [cowbe0x004 starred DInjector](https://github.com/snovvcrash/DInjector)
 - [cowbe0x004 starred php-jpeg-injector](https://github.com/dlegs/php-jpeg-injector)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Anti-Virus-Evading-Payloads](https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads)
 - [cowbe0x004 starred Rubeus-GUI](https://github.com/VbScrub/Rubeus-GUI)
 - [cowbe0x004 starred XMGoat](https://github.com/XMCyber/XMGoat)
-- [cowbe0x004 starred kerberoast](https://github.com/skelsec/kerberoast)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
