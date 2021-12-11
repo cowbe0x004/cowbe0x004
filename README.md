@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred expbox](https://github.com/0x0021h/expbox)
+- [cowbe0x004 starred fileless-xec](https://github.com/ariary/fileless-xec)
+- [cowbe0x004 starred ADenum](https://github.com/SecuProject/ADenum)
 - [cowbe0x004 starred JNDIExploit](https://github.com/0x727/JNDIExploit)
 - [cowbe0x004 starred marshalsec](https://github.com/mbechler/marshalsec)
 - [cowbe0x004 starred DInjector](https://github.com/snovvcrash/DInjector)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast)
 - [cowbe0x004 starred python-obj-system](https://github.com/MoserMichael/python-obj-system)
 - [cowbe0x004 starred ninjasworkout](https://github.com/effortlessdevsec/ninjasworkout)
-- [cowbe0x004 starred Anti-Virus-Evading-Payloads](https://github.com/RoseSecurity/Anti-Virus-Evading-Payloads)
-- [cowbe0x004 starred Rubeus-GUI](https://github.com/VbScrub/Rubeus-GUI)
-- [cowbe0x004 starred XMGoat](https://github.com/XMCyber/XMGoat)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
