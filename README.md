@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred fastoverflowtk](https://github.com/danieljs777/fastoverflowtk)
 - [cowbe0x004 starred expbox](https://github.com/0x0021h/expbox)
 - [cowbe0x004 starred fileless-xec](https://github.com/ariary/fileless-xec)
 - [cowbe0x004 starred ADenum](https://github.com/SecuProject/ADenum)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred php-jpeg-injector](https://github.com/dlegs/php-jpeg-injector)
 - [cowbe0x004 starred EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast)
 - [cowbe0x004 starred python-obj-system](https://github.com/MoserMichael/python-obj-system)
-- [cowbe0x004 starred ninjasworkout](https://github.com/effortlessdevsec/ninjasworkout)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
