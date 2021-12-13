@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Modern Authentication for the Security Admin](https://www.youtube.com/watch?v=KiHLtmcYuUA)
 - [JWT Key Confusion &amp; Nunjucks SSTI - &quot;Naughty or Nice&quot; [Day 5: HackTheBox Cyber Santa CTF]](https://www.youtube.com/watch?v=tV7C6HSrtm4)
 - [How to exploit a blind SSRF?](https://www.youtube.com/watch?v=o6AJH9PFEd4)
 - [Full malware analysis Work-Flow of AgentTesla Malware](https://www.youtube.com/watch?v=QQuRp7Qiuzg)
@@ -35,7 +36,6 @@
 - [EventTranscript.db Deep Dive - New Windows Forensic Artifact!](https://www.youtube.com/watch?v=Lhw1KsXygBU)
 - [Fast Software Prototyping - Python iLEAPP module example](https://www.youtube.com/watch?v=8xBNppN0_58)
 - [Burp Suite Part 2 - Logan Diomedi](https://www.youtube.com/watch?v=76ltPReLHAs)
-- [Level Up Your Burp Suite Skills - Part 1](https://www.youtube.com/watch?v=9nnskAMaGMA)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
