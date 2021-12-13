@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred HackVault](https://github.com/0xSobky/HackVault)
 - [cowbe0x004 starred Web-Shells](https://github.com/TheBinitGhimire/Web-Shells)
 - [cowbe0x004 starred fastoverflowtk](https://github.com/danieljs777/fastoverflowtk)
 - [cowbe0x004 starred expbox](https://github.com/0x0021h/expbox)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred marshalsec](https://github.com/mbechler/marshalsec)
 - [cowbe0x004 starred DInjector](https://github.com/snovvcrash/DInjector)
 - [cowbe0x004 starred php-jpeg-injector](https://github.com/dlegs/php-jpeg-injector)
-- [cowbe0x004 starred EDRSandblast](https://github.com/wavestone-cdt/EDRSandblast)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
