@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Jektor](https://github.com/FULLSHADE/Jektor)
 - [cowbe0x004 starred fuzzingbook](https://github.com/uds-se/fuzzingbook)
 - [cowbe0x004 starred HackVault](https://github.com/0xSobky/HackVault)
 - [cowbe0x004 starred Web-Shells](https://github.com/TheBinitGhimire/Web-Shells)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ADenum](https://github.com/SecuProject/ADenum)
 - [cowbe0x004 starred marshalsec](https://github.com/mbechler/marshalsec)
 - [cowbe0x004 starred DInjector](https://github.com/snovvcrash/DInjector)
-- [cowbe0x004 starred php-jpeg-injector](https://github.com/dlegs/php-jpeg-injector)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
