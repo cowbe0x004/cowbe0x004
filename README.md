@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred log4j-payload-generator](https://github.com/woodpecker-appstore/log4j-payload-generator)
 - [cowbe0x004 starred Jektor](https://github.com/FULLSHADE/Jektor)
 - [cowbe0x004 starred fuzzingbook](https://github.com/uds-se/fuzzingbook)
 - [cowbe0x004 starred HackVault](https://github.com/0xSobky/HackVault)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred fileless-xec](https://github.com/ariary/fileless-xec)
 - [cowbe0x004 starred ADenum](https://github.com/SecuProject/ADenum)
 - [cowbe0x004 starred marshalsec](https://github.com/mbechler/marshalsec)
-- [cowbe0x004 starred DInjector](https://github.com/snovvcrash/DInjector)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
