@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT chaignc: grep -rPi &#39;&lpar;\$|%24&rpar;[^ /]*&lpar;{|%7b&rpar;[^ /]*&lpar;j|%6a&rpar;[^ /]*&lpar;n|%6e&rpar;[^ /]*&lpar;d|%64&rpar;[^ /]*&lpar;i|%69&rpar;[^ /]*&lpar;:|%3a&rpar;[^ /]*&lpar;:|%3a&rpar;[^ /]*&lpar;/|%2f&rpar;&#39;  Match all cu...](https://twitter.com/chaignc/status/1470371365693886466)
 - [RT mr.d0x: If you rename procdump.exe to dump64.exe and place it in the &quot;C:\Program Files &lpar;x86&rpar;\Microsoft Visual Studio\*&quot; folder, you can bypass Defe...](https://twitter.com/mrd0x/status/1460597833917251595)
 - [Another fun experience from 2021 #BSidesDE #PvJCTF. Thanks for all the teams that made this happen. @dichotomy1  @NeedAMulligan  @dooktwit @PvJGoldTea...](https://twitter.com/cowbe0x004/status/1459634829448957958)
 - [RT Crypto.com: Game on:  🏆 Official Global Cryptocurrency Platform Partner 🏆 Official Global Marketing Partner #CryptoGG RT this tweet &amp; follow ...](https://twitter.com/cryptocom/status/1455883516785283076)
 - [RT INTIGRITI: ⏰ The XSS challenge is over! ☑ 138 hackers found the right solution!! 📑 27 hackers wrote a cool writeup! 🏆 Check out the winners...](https://twitter.com/intigriti/status/1455516960767291396)
-- [The 2021 #BSidesDE #PvJCTF Call for Pros &amp; Joes is still open to signup below. All that signed up are confirmed and teams picked. Sponsored by @gigamo...](https://twitter.com/cowbe0x004/status/1454554683046039552)
 <!-- TWEETS:END -->
 
 ---
