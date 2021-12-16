@@ -26,6 +26,9 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Let&#39;s Hack! - DOM XSS Labs - PortSwigger Web Security Academy](https://www.youtube.com/watch?v=-5uhv9orAhQ)
+- [Let&#39;s Hack! - DOM XSS Labs - PortSwigger Web Security Academy](https://www.youtube.com/watch?v=-5uhv9orAhQ)
+- [How To Search For DOM-Based XSS!](https://www.youtube.com/watch?v=ojiOCfg-FXU)
 - [Modern Authentication for the Security Admin](https://www.youtube.com/watch?v=KiHLtmcYuUA)
 - [JWT Key Confusion &amp; Nunjucks SSTI - &quot;Naughty or Nice&quot; [Day 5: HackTheBox Cyber Santa CTF]](https://www.youtube.com/watch?v=tV7C6HSrtm4)
 - [How to exploit a blind SSRF?](https://www.youtube.com/watch?v=o6AJH9PFEd4)
@@ -33,9 +36,6 @@
 - [Exploiting Windows COM/WinRT ServicesExploiting Windows COM/WinRT Services](https://www.youtube.com/watch?v=KeQ0PHrHDVs)
 - [Velociraptor: Dig Deeper with Mike Cohen [OSDFCon 2021]](https://www.youtube.com/watch?v=8AQFNAICajE)
 - [CyberSecLabs - Spray - Active Directory [Walkthrough]](https://www.youtube.com/watch?v=pmaeQlFkFV0)
-- [EventTranscript.db Deep Dive - New Windows Forensic Artifact!](https://www.youtube.com/watch?v=Lhw1KsXygBU)
-- [Fast Software Prototyping - Python iLEAPP module example](https://www.youtube.com/watch?v=8xBNppN0_58)
-- [Burp Suite Part 2 - Logan Diomedi](https://www.youtube.com/watch?v=76ltPReLHAs)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
