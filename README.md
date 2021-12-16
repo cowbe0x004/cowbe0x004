@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred domxsswiki](https://github.com/wisec/domxsswiki)
 - [cowbe0x004 starred mortar](https://github.com/0xsp-SRD/mortar)
 - [cowbe0x004 starred xxh](https://github.com/xxh/xxh)
 - [cowbe0x004 starred log4j-payload-generator](https://github.com/woodpecker-appstore/log4j-payload-generator)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Web-Shells](https://github.com/TheBinitGhimire/Web-Shells)
 - [cowbe0x004 starred fastoverflowtk](https://github.com/danieljs777/fastoverflowtk)
 - [cowbe0x004 starred expbox](https://github.com/0x0021h/expbox)
-- [cowbe0x004 starred fileless-xec](https://github.com/ariary/fileless-xec)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
