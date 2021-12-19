@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Advanced Debugging with GDB](https://www.youtube.com/watch?v=Rudz-uSdWHM)
 - [Deobfuscation SmartAssembly 8+ and recreating Original Module SAE+DnSpy](https://www.youtube.com/watch?v=vpdiO44Gsw8)
 - [Let&#39;s Hack! - DOM XSS Labs - PortSwigger Web Security Academy](https://www.youtube.com/watch?v=-5uhv9orAhQ)
 - [Let&#39;s Hack! - DOM XSS Labs - PortSwigger Web Security Academy](https://www.youtube.com/watch?v=-5uhv9orAhQ)
@@ -35,7 +36,6 @@
 - [How to exploit a blind SSRF?](https://www.youtube.com/watch?v=o6AJH9PFEd4)
 - [Full malware analysis Work-Flow of AgentTesla Malware](https://www.youtube.com/watch?v=QQuRp7Qiuzg)
 - [Exploiting Windows COM/WinRT ServicesExploiting Windows COM/WinRT Services](https://www.youtube.com/watch?v=KeQ0PHrHDVs)
-- [Velociraptor: Dig Deeper with Mike Cohen [OSDFCon 2021]](https://www.youtube.com/watch?v=8AQFNAICajE)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
