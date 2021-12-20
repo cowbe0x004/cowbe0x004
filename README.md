@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Mining The Shadows with ZoidbergStrike: A Scanner for Cobalt Strike](https://www.youtube.com/watch?v=MWr6bvrrYHQ)
 - [Advanced Debugging with GDB](https://www.youtube.com/watch?v=Rudz-uSdWHM)
 - [Deobfuscation SmartAssembly 8+ and recreating Original Module SAE+DnSpy](https://www.youtube.com/watch?v=vpdiO44Gsw8)
 - [Let&#39;s Hack! - DOM XSS Labs - PortSwigger Web Security Academy](https://www.youtube.com/watch?v=-5uhv9orAhQ)
@@ -35,7 +36,6 @@
 - [JWT Key Confusion &amp; Nunjucks SSTI - &quot;Naughty or Nice&quot; [Day 5: HackTheBox Cyber Santa CTF]](https://www.youtube.com/watch?v=tV7C6HSrtm4)
 - [How to exploit a blind SSRF?](https://www.youtube.com/watch?v=o6AJH9PFEd4)
 - [Full malware analysis Work-Flow of AgentTesla Malware](https://www.youtube.com/watch?v=QQuRp7Qiuzg)
-- [Exploiting Windows COM/WinRT ServicesExploiting Windows COM/WinRT Services](https://www.youtube.com/watch?v=KeQ0PHrHDVs)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
