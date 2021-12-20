@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred catalyst](https://github.com/SecurityBrewery/catalyst)
 - [cowbe0x004 starred check-log4j](https://github.com/yahoo/check-log4j)
 - [cowbe0x004 starred log4jScanner](https://github.com/proferosec/log4jScanner)
 - [cowbe0x004 starred domxsswiki](https://github.com/wisec/domxsswiki)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Jektor](https://github.com/FULLSHADE/Jektor)
 - [cowbe0x004 starred fuzzingbook](https://github.com/uds-se/fuzzingbook)
 - [cowbe0x004 starred HackVault](https://github.com/0xSobky/HackVault)
-- [cowbe0x004 starred Web-Shells](https://github.com/TheBinitGhimire/Web-Shells)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
