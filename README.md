@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Log4jSherlock](https://github.com/Maelstromage/Log4jSherlock)
 - [cowbe0x004 starred catalyst](https://github.com/SecurityBrewery/catalyst)
 - [cowbe0x004 starred check-log4j](https://github.com/yahoo/check-log4j)
 - [cowbe0x004 starred log4jScanner](https://github.com/proferosec/log4jScanner)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred log4j-payload-generator](https://github.com/woodpecker-appstore/log4j-payload-generator)
 - [cowbe0x004 starred Jektor](https://github.com/FULLSHADE/Jektor)
 - [cowbe0x004 starred fuzzingbook](https://github.com/uds-se/fuzzingbook)
-- [cowbe0x004 starred HackVault](https://github.com/0xSobky/HackVault)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
