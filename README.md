@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Tuning NIDS Rules in Security Onion](https://www.youtube.com/watch?v=GQObGTcFl-4)
 - [API hacking with postman Part 1 - getting the basics down](https://www.youtube.com/watch?v=rdxVgV8dOnQ)
 - [Mining The Shadows with ZoidbergStrike: A Scanner for Cobalt Strike](https://www.youtube.com/watch?v=MWr6bvrrYHQ)
 - [Advanced Debugging with GDB](https://www.youtube.com/watch?v=Rudz-uSdWHM)
@@ -35,7 +36,6 @@
 - [How To Search For DOM-Based XSS!](https://www.youtube.com/watch?v=ojiOCfg-FXU)
 - [Modern Authentication for the Security Admin](https://www.youtube.com/watch?v=KiHLtmcYuUA)
 - [JWT Key Confusion &amp; Nunjucks SSTI - &quot;Naughty or Nice&quot; [Day 5: HackTheBox Cyber Santa CTF]](https://www.youtube.com/watch?v=tV7C6HSrtm4)
-- [How to exploit a blind SSRF?](https://www.youtube.com/watch?v=o6AJH9PFEd4)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
