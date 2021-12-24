@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SQLbit](https://github.com/Sunlight-Rim/SQLbit)
 - [cowbe0x004 starred JSScanner](https://github.com/dark-warlord14/JSScanner)
 - [cowbe0x004 starred log4j-detector](https://github.com/mergebase/log4j-detector)
 - [cowbe0x004 starred Log4jSherlock](https://github.com/Maelstromage/Log4jSherlock)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred domxsswiki](https://github.com/wisec/domxsswiki)
 - [cowbe0x004 starred mortar](https://github.com/0xsp-SRD/mortar)
 - [cowbe0x004 starred xxh](https://github.com/xxh/xxh)
-- [cowbe0x004 starred log4j-payload-generator](https://github.com/woodpecker-appstore/log4j-payload-generator)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
