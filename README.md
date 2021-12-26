@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT big pey: To celebrate the holidays I&#39;m gonna give 500 $ADA away to someone random who like/retweets this tweet. This is also a thank you.  Remember...](https://twitter.com/bigpeyYT/status/1475110027178487813)
 - [RT Loïc Castel: First mindmap - Am I vulnerable to Log4shell &lpar;v5.0, updated with higher impact for CVE-2021-45046&rpar;](https://twitter.com/Dick_Reverse/status/1471957167213318149)
 - [RT chaignc: grep -rPi &#39;&lpar;\$|%24&rpar;[^ /]*&lpar;{|%7b&rpar;[^ /]*&lpar;j|%6a&rpar;[^ /]*&lpar;n|%6e&rpar;[^ /]*&lpar;d|%64&rpar;[^ /]*&lpar;i|%69&rpar;[^ /]*&lpar;:|%3a&rpar;[^ /]*&lpar;:|%3a&rpar;[^ /]*&lpar;/|%2f&rpar;&#39;  Match all cu...](https://twitter.com/chaignc/status/1470371365693886466)
 - [RT mr.d0x: If you rename procdump.exe to dump64.exe and place it in the &quot;C:\Program Files &lpar;x86&rpar;\Microsoft Visual Studio\*&quot; folder, you can bypass Defe...](https://twitter.com/mrd0x/status/1460597833917251595)
 - [Another fun experience from 2021 #BSidesDE #PvJCTF. Thanks for all the teams that made this happen. @dichotomy1  @NeedAMulligan  @dooktwit @PvJGoldTea...](https://twitter.com/cowbe0x004/status/1459634829448957958)
-- [RT Crypto.com: Game on:  🏆 Official Global Cryptocurrency Platform Partner 🏆 Official Global Marketing Partner #CryptoGG RT this tweet &amp; follow ...](https://twitter.com/cryptocom/status/1455883516785283076)
 <!-- TWEETS:END -->
 
 ---
