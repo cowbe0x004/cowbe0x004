@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)
+- [cowbe0x004 starred OSEP-Code-Snippets](https://github.com/chvancooten/OSEP-Code-Snippets)
+- [cowbe0x004 starred bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
+- [cowbe0x004 starred OSCE-Complete-Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide)
+- [cowbe0x004 starred heyserial](https://github.com/mandiant/heyserial)
 - [cowbe0x004 starred hayabusa](https://github.com/Yamato-Security/hayabusa)
 - [cowbe0x004 starred WELA](https://github.com/Yamato-Security/WELA)
 - [cowbe0x004 starred spamscanner](https://github.com/spamscanner/spamscanner)
 - [cowbe0x004 starred SQLbit](https://github.com/Sunlight-Rim/SQLbit)
 - [cowbe0x004 starred JSScanner](https://github.com/dark-warlord14/JSScanner)
-- [cowbe0x004 starred log4j-detector](https://github.com/mergebase/log4j-detector)
-- [cowbe0x004 starred Log4jSherlock](https://github.com/Maelstromage/Log4jSherlock)
-- [cowbe0x004 starred catalyst](https://github.com/SecurityBrewery/catalyst)
-- [cowbe0x004 starred check-log4j](https://github.com/yahoo/check-log4j)
-- [cowbe0x004 starred log4jScanner](https://github.com/proferosec/log4jScanner)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
