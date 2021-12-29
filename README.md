@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred lkrg](https://github.com/lkrg-org/lkrg)
 - [cowbe0x004 starred JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)
 - [cowbe0x004 starred OSEP-Code-Snippets](https://github.com/chvancooten/OSEP-Code-Snippets)
 - [cowbe0x004 starred bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred WELA](https://github.com/Yamato-Security/WELA)
 - [cowbe0x004 starred spamscanner](https://github.com/spamscanner/spamscanner)
 - [cowbe0x004 starred SQLbit](https://github.com/Sunlight-Rim/SQLbit)
-- [cowbe0x004 starred JSScanner](https://github.com/dark-warlord14/JSScanner)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
