@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [CONFidence 2018: Linux Kernel Runtime Guard &lpar;LKRG&rpar; under the hood &lpar;Adam &quot;pi3&quot; Zabrocki&rpar;](https://www.youtube.com/watch?v=tOiPM692DOM)
 - [Reacting to myself finding an SSRF vulnerability in Google Cloud](https://www.youtube.com/watch?v=UyemBjyQ4qA)
 - [Tuning NIDS Rules in Security Onion](https://www.youtube.com/watch?v=GQObGTcFl-4)
 - [API hacking with postman Part 1 - getting the basics down](https://www.youtube.com/watch?v=rdxVgV8dOnQ)
@@ -35,7 +36,6 @@
 - [Let&#39;s Hack! - DOM XSS Labs - PortSwigger Web Security Academy](https://www.youtube.com/watch?v=-5uhv9orAhQ)
 - [Let&#39;s Hack! - DOM XSS Labs - PortSwigger Web Security Academy](https://www.youtube.com/watch?v=-5uhv9orAhQ)
 - [How To Search For DOM-Based XSS!](https://www.youtube.com/watch?v=ojiOCfg-FXU)
-- [Modern Authentication for the Security Admin](https://www.youtube.com/watch?v=KiHLtmcYuUA)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
