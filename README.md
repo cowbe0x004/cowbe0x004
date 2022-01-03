@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred lsarelayx](https://github.com/CCob/lsarelayx)
 - [cowbe0x004 starred Exploits](https://github.com/forrest-orr/Exploits)
 - [cowbe0x004 starred lkrg](https://github.com/lkrg-org/lkrg)
 - [cowbe0x004 starred JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred heyserial](https://github.com/mandiant/heyserial)
 - [cowbe0x004 starred hayabusa](https://github.com/Yamato-Security/hayabusa)
 - [cowbe0x004 starred WELA](https://github.com/Yamato-Security/WELA)
-- [cowbe0x004 starred spamscanner](https://github.com/spamscanner/spamscanner)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
