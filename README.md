@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred rathole](https://github.com/rapiz1/rathole)
 - [cowbe0x004 starred malicious-pdf](https://github.com/pussycat0x/malicious-pdf)
 - [cowbe0x004 starred lsarelayx](https://github.com/CCob/lsarelayx)
 - [cowbe0x004 starred Exploits](https://github.com/forrest-orr/Exploits)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred bugbounty-cheatsheet](https://github.com/EdOverflow/bugbounty-cheatsheet)
 - [cowbe0x004 starred OSCE-Complete-Guide](https://github.com/CyberSecurityUP/OSCE-Complete-Guide)
 - [cowbe0x004 starred heyserial](https://github.com/mandiant/heyserial)
-- [cowbe0x004 starred hayabusa](https://github.com/Yamato-Security/hayabusa)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
