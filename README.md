@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Splunk 101 | TryHackMe Cyber Defense Lab](https://www.youtube.com/watch?v=i3CpIDRfv0Y)
 - [How We Hacked a TP-Link Router and Took Home $55,000 in Pwn2Own](https://www.youtube.com/watch?v=zjafMP7EgEA)
 - [Exploring Autopsy | Cyber forensics | Tryhackme | Investigation of cases](https://www.youtube.com/watch?v=JPhfB053sig)
 - [CONFidence 2018: Linux Kernel Runtime Guard &lpar;LKRG&rpar; under the hood &lpar;Adam &quot;pi3&quot; Zabrocki&rpar;](https://www.youtube.com/watch?v=tOiPM692DOM)
@@ -35,7 +36,6 @@
 - [Mining The Shadows with ZoidbergStrike: A Scanner for Cobalt Strike](https://www.youtube.com/watch?v=MWr6bvrrYHQ)
 - [Advanced Debugging with GDB](https://www.youtube.com/watch?v=Rudz-uSdWHM)
 - [Deobfuscation SmartAssembly 8+ and recreating Original Module SAE+DnSpy](https://www.youtube.com/watch?v=vpdiO44Gsw8)
-- [Let&#39;s Hack! - DOM XSS Labs - PortSwigger Web Security Academy](https://www.youtube.com/watch?v=-5uhv9orAhQ)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
