@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SysmonSimulator](https://github.com/ScarredMonk/SysmonSimulator)
 - [cowbe0x004 starred Hunt-Sleeping-Beacons](https://github.com/thefLink/Hunt-Sleeping-Beacons)
 - [cowbe0x004 starred redcanary-ebpf-sensor](https://github.com/redcanaryco/redcanary-ebpf-sensor)
 - [cowbe0x004 starred what_is_this_c2](https://github.com/misterch0c/what_is_this_c2)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Exploits](https://github.com/forrest-orr/Exploits)
 - [cowbe0x004 starred lkrg](https://github.com/lkrg-org/lkrg)
 - [cowbe0x004 starred JNDI-Exploit-Kit](https://github.com/pimps/JNDI-Exploit-Kit)
-- [cowbe0x004 starred OSEP-Code-Snippets](https://github.com/chvancooten/OSEP-Code-Snippets)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
