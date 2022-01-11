@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Ivy](https://github.com/optiv/Ivy)
 - [cowbe0x004 starred vulnerable-api](https://github.com/jorritfolmer/vulnerable-api)
 - [cowbe0x004 starred SysmonSimulator](https://github.com/ScarredMonk/SysmonSimulator)
 - [cowbe0x004 starred Hunt-Sleeping-Beacons](https://github.com/thefLink/Hunt-Sleeping-Beacons)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred malicious-pdf](https://github.com/pussycat0x/malicious-pdf)
 - [cowbe0x004 starred lsarelayx](https://github.com/CCob/lsarelayx)
 - [cowbe0x004 starred Exploits](https://github.com/forrest-orr/Exploits)
-- [cowbe0x004 starred lkrg](https://github.com/lkrg-org/lkrg)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
