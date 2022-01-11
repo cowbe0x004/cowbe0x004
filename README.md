@@ -31,7 +31,7 @@
 - [Exploring Autopsy | Cyber forensics | Tryhackme | Investigation of cases](https://www.youtube.com/watch?v=JPhfB053sig)
 - [CONFidence 2018: Linux Kernel Runtime Guard &lpar;LKRG&rpar; under the hood &lpar;Adam &quot;pi3&quot; Zabrocki&rpar;](https://www.youtube.com/watch?v=tOiPM692DOM)
 - [Reacting to myself finding an SSRF vulnerability in Google Cloud](https://www.youtube.com/watch?v=UyemBjyQ4qA)
-- [Tuning NIDS Rules in Security Onion](https://www.youtube.com/watch?v=GQObGTcFl-4)
+- [&lpar;Archived 1/22&rpar; Tuning NIDS Rules in Security Onion](https://www.youtube.com/watch?v=GQObGTcFl-4)
 - [API hacking with postman Part 1 - getting the basics down](https://www.youtube.com/watch?v=rdxVgV8dOnQ)
 - [Mining The Shadows with ZoidbergStrike: A Scanner for Cobalt Strike](https://www.youtube.com/watch?v=MWr6bvrrYHQ)
 - [Advanced Debugging with GDB](https://www.youtube.com/watch?v=Rudz-uSdWHM)
