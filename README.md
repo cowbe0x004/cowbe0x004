@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred AutoSUID](https://github.com/IvanGlinkin/AutoSUID)
 - [cowbe0x004 starred 100DaysOfYARA](https://github.com/3vangel1st/100DaysOfYARA)
 - [cowbe0x004 starred Vision2](https://github.com/CoolerVoid/Vision2)
 - [cowbe0x004 starred RCLocals](https://github.com/YJesus/RCLocals)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SysmonSimulator](https://github.com/ScarredMonk/SysmonSimulator)
 - [cowbe0x004 starred Hunt-Sleeping-Beacons](https://github.com/thefLink/Hunt-Sleeping-Beacons)
 - [cowbe0x004 starred redcanary-ebpf-sensor](https://github.com/redcanaryco/redcanary-ebpf-sensor)
-- [cowbe0x004 starred what_is_this_c2](https://github.com/misterch0c/what_is_this_c2)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
