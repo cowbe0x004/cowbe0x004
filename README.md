@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PMAT-labs](https://github.com/HuskyHacks/PMAT-labs)
 - [cowbe0x004 starred InsecureShop](https://github.com/optiv/InsecureShop)
 - [cowbe0x004 starred 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [cowbe0x004 starred AutoSUID](https://github.com/IvanGlinkin/AutoSUID)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred WannaRace](https://github.com/Xib3rR4dAr/WannaRace)
 - [cowbe0x004 starred Ivy](https://github.com/optiv/Ivy)
 - [cowbe0x004 starred vulnerable-api](https://github.com/jorritfolmer/vulnerable-api)
-- [cowbe0x004 starred SysmonSimulator](https://github.com/ScarredMonk/SysmonSimulator)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
