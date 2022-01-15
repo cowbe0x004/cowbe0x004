@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred InsecureShop](https://github.com/optiv/InsecureShop)
+- [cowbe0x004 starred 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [cowbe0x004 starred AutoSUID](https://github.com/IvanGlinkin/AutoSUID)
 - [cowbe0x004 starred 100DaysOfYARA](https://github.com/3vangel1st/100DaysOfYARA)
 - [cowbe0x004 starred Vision2](https://github.com/CoolerVoid/Vision2)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Ivy](https://github.com/optiv/Ivy)
 - [cowbe0x004 starred vulnerable-api](https://github.com/jorritfolmer/vulnerable-api)
 - [cowbe0x004 starred SysmonSimulator](https://github.com/ScarredMonk/SysmonSimulator)
-- [cowbe0x004 starred Hunt-Sleeping-Beacons](https://github.com/thefLink/Hunt-Sleeping-Beacons)
-- [cowbe0x004 starred redcanary-ebpf-sensor](https://github.com/redcanaryco/redcanary-ebpf-sensor)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
