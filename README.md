@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Attack and Detect: VulnDC vs Security Onion](https://www.youtube.com/watch?v=YO3y1KRcbi0)
 - [Analyzing PowerShell Payloads - Part 1](https://www.youtube.com/watch?v=6WWUFLaAxYQ)
 - [Splunk 101 | TryHackMe Cyber Defense Lab](https://www.youtube.com/watch?v=i3CpIDRfv0Y)
 - [How We Hacked a TP-Link Router and Took Home $55,000 in Pwn2Own](https://www.youtube.com/watch?v=zjafMP7EgEA)
@@ -35,7 +36,6 @@
 - [&lpar;Archived 1/22&rpar; Tuning NIDS Rules in Security Onion](https://www.youtube.com/watch?v=GQObGTcFl-4)
 - [API hacking with postman Part 1 - getting the basics down](https://www.youtube.com/watch?v=rdxVgV8dOnQ)
 - [Mining The Shadows with ZoidbergStrike: A Scanner for Cobalt Strike](https://www.youtube.com/watch?v=MWr6bvrrYHQ)
-- [Advanced Debugging with GDB](https://www.youtube.com/watch?v=Rudz-uSdWHM)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
