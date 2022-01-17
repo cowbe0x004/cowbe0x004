@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Source maps in React?! Solution to January &#39;22 XSS Challenge](https://www.youtube.com/watch?v=1zURBjsbAgg)
 - [Attack and Detect: VulnDC vs Security Onion](https://www.youtube.com/watch?v=YO3y1KRcbi0)
 - [Analyzing PowerShell Payloads - Part 1](https://www.youtube.com/watch?v=6WWUFLaAxYQ)
 - [Splunk 101 | TryHackMe Cyber Defense Lab](https://www.youtube.com/watch?v=i3CpIDRfv0Y)
@@ -35,7 +36,6 @@
 - [Reacting to myself finding an SSRF vulnerability in Google Cloud](https://www.youtube.com/watch?v=UyemBjyQ4qA)
 - [&lpar;Archived 1/22&rpar; Tuning NIDS Rules in Security Onion](https://www.youtube.com/watch?v=GQObGTcFl-4)
 - [API hacking with postman Part 1 - getting the basics down](https://www.youtube.com/watch?v=rdxVgV8dOnQ)
-- [Mining The Shadows with ZoidbergStrike: A Scanner for Cobalt Strike](https://www.youtube.com/watch?v=MWr6bvrrYHQ)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
