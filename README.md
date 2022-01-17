@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SCPA](https://github.com/ghostsec420/SCPA)
 - [cowbe0x004 starred PMAT-labs](https://github.com/HuskyHacks/PMAT-labs)
 - [cowbe0x004 starred InsecureShop](https://github.com/optiv/InsecureShop)
 - [cowbe0x004 starred 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred RCLocals](https://github.com/YJesus/RCLocals)
 - [cowbe0x004 starred WannaRace](https://github.com/Xib3rR4dAr/WannaRace)
 - [cowbe0x004 starred Ivy](https://github.com/optiv/Ivy)
-- [cowbe0x004 starred vulnerable-api](https://github.com/jorritfolmer/vulnerable-api)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
