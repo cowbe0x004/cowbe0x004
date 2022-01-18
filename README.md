@@ -26,16 +26,16 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
-- [Source maps in React?! Solution to January &#39;22 XSS Challenge](https://www.youtube.com/watch?v=1zURBjsbAgg)
-- [Attack and Detect: VulnDC vs Security Onion](https://www.youtube.com/watch?v=YO3y1KRcbi0)
-- [Analyzing PowerShell Payloads - Part 1](https://www.youtube.com/watch?v=6WWUFLaAxYQ)
-- [Splunk 101 | TryHackMe Cyber Defense Lab](https://www.youtube.com/watch?v=i3CpIDRfv0Y)
-- [How We Hacked a TP-Link Router and Took Home $55,000 in Pwn2Own](https://www.youtube.com/watch?v=zjafMP7EgEA)
-- [Exploring Autopsy | Cyber forensics | Tryhackme | Investigation of cases](https://www.youtube.com/watch?v=JPhfB053sig)
-- [CONFidence 2018: Linux Kernel Runtime Guard &lpar;LKRG&rpar; under the hood &lpar;Adam &quot;pi3&quot; Zabrocki&rpar;](https://www.youtube.com/watch?v=tOiPM692DOM)
-- [Reacting to myself finding an SSRF vulnerability in Google Cloud](https://www.youtube.com/watch?v=UyemBjyQ4qA)
-- [&lpar;Archived 1/22&rpar; Tuning NIDS Rules in Security Onion](https://www.youtube.com/watch?v=GQObGTcFl-4)
-- [API hacking with postman Part 1 - getting the basics down](https://www.youtube.com/watch?v=rdxVgV8dOnQ)
+- [Hack3rcon 3   03 Intro to Network Traffic Analysis   Part 1   Jon Schipp](https://www.youtube.com/watch?v=4WMpy3JDL3k)
+- [SQL injection tutorial for beginners on how to bypass basic login screen - SQL injection explained](https://www.youtube.com/watch?v=SJgYdTckMBY)
+- [Web PenTesting Workshop Part 1 of 12 Intro to Mutillidae, Burp Suite &amp; Injection Jeremy Druin](https://www.youtube.com/watch?v=rNkR1Joz4eU)
+- [Bring Back the Honeypots](https://www.youtube.com/watch?v=W7U2u-qLAB8)
+- [Understanding CSRF, the video tutorial edition](https://www.youtube.com/watch?v=hW2ONyxAySY)
+- [#1 Hacking 101 - Introduction - web security tutorial](https://www.youtube.com/watch?v=WW7cwBC0ytg)
+- [XSS Filter Bypass, Detection and Explanation with OWASP Xenotix](https://www.youtube.com/watch?v=loZSdedJnqc)
+- [How To - Wireshark Training: Statistics](https://www.youtube.com/watch?v=v-yqhi8bxL8)
+- [Gabriella Coleman - How Anonymous narrowly Evaded the Cyberterrorism Rhetorical Machine](https://www.youtube.com/watch?v=RvOOgVrvWtY)
+- [Olivier Bilodeau &amp; Hugo Genesse - Applying DevOps Principles for Better Malware Analysis](https://www.youtube.com/watch?v=rfmUcYGGrls)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
