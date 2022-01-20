@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred dep-scan](https://github.com/AppThreat/dep-scan)
 - [cowbe0x004 starred Jira-Lens](https://github.com/MayankPandey01/Jira-Lens)
 - [cowbe0x004 starred eWPTX-Preparation](https://github.com/CyberSecurityUP/eWPTX-Preparation)
 - [cowbe0x004 starred SCPA](https://github.com/ghostsec420/SCPA)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred AutoSUID](https://github.com/IvanGlinkin/AutoSUID)
 - [cowbe0x004 starred 100DaysOfYARA](https://github.com/3vangel1st/100DaysOfYARA)
 - [cowbe0x004 starred Vision2](https://github.com/CoolerVoid/Vision2)
-- [cowbe0x004 starred RCLocals](https://github.com/YJesus/RCLocals)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
