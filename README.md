@@ -30,12 +30,12 @@
 - [SQL injection tutorial for beginners on how to bypass basic login screen - SQL injection explained](https://www.youtube.com/watch?v=SJgYdTckMBY)
 - [Web PenTesting Workshop Part 1 of 12 Intro to Mutillidae, Burp Suite &amp; Injection Jeremy Druin](https://www.youtube.com/watch?v=rNkR1Joz4eU)
 - [Bring Back the Honeypots](https://www.youtube.com/watch?v=W7U2u-qLAB8)
-- [Understanding CSRF, the video tutorial edition](https://www.youtube.com/watch?v=hW2ONyxAySY)
 - [#1 Hacking 101 - Introduction - web security tutorial](https://www.youtube.com/watch?v=WW7cwBC0ytg)
 - [XSS Filter Bypass, Detection and Explanation with OWASP Xenotix](https://www.youtube.com/watch?v=loZSdedJnqc)
 - [How To - Wireshark Training: Statistics](https://www.youtube.com/watch?v=v-yqhi8bxL8)
 - [Gabriella Coleman - How Anonymous narrowly Evaded the Cyberterrorism Rhetorical Machine](https://www.youtube.com/watch?v=RvOOgVrvWtY)
 - [Olivier Bilodeau &amp; Hugo Genesse - Applying DevOps Principles for Better Malware Analysis](https://www.youtube.com/watch?v=rfmUcYGGrls)
+- [Laurent Desaulniers - Stupid Pentester Tricks](https://www.youtube.com/watch?v=edLXMm7m4bM)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
