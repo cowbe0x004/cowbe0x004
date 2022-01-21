@@ -32,10 +32,10 @@
 - [Bring Back the Honeypots](https://www.youtube.com/watch?v=W7U2u-qLAB8)
 - [#1 Hacking 101 - Introduction - web security tutorial](https://www.youtube.com/watch?v=WW7cwBC0ytg)
 - [XSS Filter Bypass, Detection and Explanation with OWASP Xenotix](https://www.youtube.com/watch?v=loZSdedJnqc)
-- [How To - Wireshark Training: Statistics](https://www.youtube.com/watch?v=v-yqhi8bxL8)
 - [Gabriella Coleman - How Anonymous narrowly Evaded the Cyberterrorism Rhetorical Machine](https://www.youtube.com/watch?v=RvOOgVrvWtY)
 - [Olivier Bilodeau &amp; Hugo Genesse - Applying DevOps Principles for Better Malware Analysis](https://www.youtube.com/watch?v=rfmUcYGGrls)
 - [Laurent Desaulniers - Stupid Pentester Tricks](https://www.youtube.com/watch?v=edLXMm7m4bM)
+- [Philippe Arteau - The New Wave of Deserialization Bugs](https://www.youtube.com/watch?v=0H7yDihGcKM)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
