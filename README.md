@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs)
 - [cowbe0x004 starred HOUDINI](https://github.com/cybersecsi/HOUDINI)
 - [cowbe0x004 starred dep-scan](https://github.com/AppThreat/dep-scan)
 - [cowbe0x004 starred Jira-Lens](https://github.com/MayankPandey01/Jira-Lens)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred InsecureShop](https://github.com/optiv/InsecureShop)
 - [cowbe0x004 starred 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 - [cowbe0x004 starred AutoSUID](https://github.com/IvanGlinkin/AutoSUID)
-- [cowbe0x004 starred 100DaysOfYARA](https://github.com/3vangel1st/100DaysOfYARA)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
