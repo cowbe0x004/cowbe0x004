@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred IRCP](https://github.com/hackjalstead/IRCP)
 - [cowbe0x004 starred LSMS](https://github.com/sqall01/LSMS)
 - [cowbe0x004 starred Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs)
 - [cowbe0x004 starred HOUDINI](https://github.com/cybersecsi/HOUDINI)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SCPA](https://github.com/ghostsec420/SCPA)
 - [cowbe0x004 starred PMAT-labs](https://github.com/HuskyHacks/PMAT-labs)
 - [cowbe0x004 starred InsecureShop](https://github.com/optiv/InsecureShop)
-- [cowbe0x004 starred 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
