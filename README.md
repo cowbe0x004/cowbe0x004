@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred LSMS](https://github.com/sqall01/LSMS)
 - [cowbe0x004 starred Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs)
 - [cowbe0x004 starred HOUDINI](https://github.com/cybersecsi/HOUDINI)
 - [cowbe0x004 starred dep-scan](https://github.com/AppThreat/dep-scan)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred PMAT-labs](https://github.com/HuskyHacks/PMAT-labs)
 - [cowbe0x004 starred InsecureShop](https://github.com/optiv/InsecureShop)
 - [cowbe0x004 starred 30-Days-Of-Python](https://github.com/Asabeneh/30-Days-Of-Python)
-- [cowbe0x004 starred AutoSUID](https://github.com/IvanGlinkin/AutoSUID)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
