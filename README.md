@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred nmap-nse-vulnerability-scripts](https://github.com/nccgroup/nmap-nse-vulnerability-scripts)
 - [cowbe0x004 starred DefenderSwitch](https://github.com/APTortellini/DefenderSwitch)
 - [cowbe0x004 starred respounder](https://github.com/codeexpress/respounder)
 - [cowbe0x004 starred VulnLab](https://github.com/Yavuzlar/VulnLab)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred HOUDINI](https://github.com/cybersecsi/HOUDINI)
 - [cowbe0x004 starred dep-scan](https://github.com/AppThreat/dep-scan)
 - [cowbe0x004 starred Jira-Lens](https://github.com/MayankPandey01/Jira-Lens)
-- [cowbe0x004 starred eWPTX-Preparation](https://github.com/CyberSecurityUP/eWPTX-Preparation)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
