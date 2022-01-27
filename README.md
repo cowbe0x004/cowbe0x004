@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred jpcert-yara](https://github.com/JPCERTCC/jpcert-yara)
 - [cowbe0x004 starred bloodyAD](https://github.com/CravateRouge/bloodyAD)
 - [cowbe0x004 starred awesome-api-security](https://github.com/arainho/awesome-api-security)
 - [cowbe0x004 starred subdirectories-discover](https://github.com/aels/subdirectories-discover)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred VulnLab](https://github.com/Yavuzlar/VulnLab)
 - [cowbe0x004 starred IRCP](https://github.com/hackjalstead/IRCP)
 - [cowbe0x004 starred LSMS](https://github.com/sqall01/LSMS)
-- [cowbe0x004 starred Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
