@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred subdirectories-discover](https://github.com/aels/subdirectories-discover)
 - [cowbe0x004 starred nmap-nse-vulnerability-scripts](https://github.com/nccgroup/nmap-nse-vulnerability-scripts)
 - [cowbe0x004 starred DefenderSwitch](https://github.com/APTortellini/DefenderSwitch)
 - [cowbe0x004 starred respounder](https://github.com/codeexpress/respounder)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Red-Teaming-TTPs](https://github.com/RoseSecurity/Red-Teaming-TTPs)
 - [cowbe0x004 starred HOUDINI](https://github.com/cybersecsi/HOUDINI)
 - [cowbe0x004 starred dep-scan](https://github.com/AppThreat/dep-scan)
-- [cowbe0x004 starred Jira-Lens](https://github.com/MayankPandey01/Jira-Lens)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
