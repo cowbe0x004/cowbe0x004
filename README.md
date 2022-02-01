@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Binary-exploitation-series](https://github.com/7h3h4ckv157/Binary-exploitation-series)
 - [cowbe0x004 starred EDRHunt](https://github.com/FourCoreLabs/EDRHunt)
 - [cowbe0x004 starred jpcert-yara](https://github.com/JPCERTCC/jpcert-yara)
 - [cowbe0x004 starred bloodyAD](https://github.com/CravateRouge/bloodyAD)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred DefenderSwitch](https://github.com/APTortellini/DefenderSwitch)
 - [cowbe0x004 starred respounder](https://github.com/codeexpress/respounder)
 - [cowbe0x004 starred VulnLab](https://github.com/Yavuzlar/VulnLab)
-- [cowbe0x004 starred IRCP](https://github.com/hackjalstead/IRCP)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
