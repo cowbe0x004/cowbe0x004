@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred adPEAS](https://github.com/61106960/adPEAS)
+- [cowbe0x004 starred wmiexec-RegOut](https://github.com/XiaoliChan/wmiexec-RegOut)
 - [cowbe0x004 starred practical-python-projects](https://github.com/yasoob/practical-python-projects)
 - [cowbe0x004 starred Binary-exploitation-series](https://github.com/7h3h4ckv157/Binary-exploitation-series)
 - [cowbe0x004 starred EDRHunt](https://github.com/FourCoreLabs/EDRHunt)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred awesome-api-security](https://github.com/arainho/awesome-api-security)
 - [cowbe0x004 starred subdirectories-discover](https://github.com/aels/subdirectories-discover)
 - [cowbe0x004 starred nmap-nse-vulnerability-scripts](https://github.com/nccgroup/nmap-nse-vulnerability-scripts)
-- [cowbe0x004 starred DefenderSwitch](https://github.com/APTortellini/DefenderSwitch)
-- [cowbe0x004 starred respounder](https://github.com/codeexpress/respounder)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
