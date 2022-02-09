@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred iis-hardening](https://github.com/drewhjelm/iis-hardening)
 - [cowbe0x004 starred FwHunt](https://github.com/binarly-io/FwHunt)
 - [cowbe0x004 starred Vulnerable-OAuth-2.0-Applications](https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications)
 - [cowbe0x004 starred adPEAS](https://github.com/61106960/adPEAS)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred EDRHunt](https://github.com/FourCoreLabs/EDRHunt)
 - [cowbe0x004 starred jpcert-yara](https://github.com/JPCERTCC/jpcert-yara)
 - [cowbe0x004 starred bloodyAD](https://github.com/CravateRouge/bloodyAD)
-- [cowbe0x004 starred awesome-api-security](https://github.com/arainho/awesome-api-security)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
