@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred x8](https://github.com/Sh1Yo/x8)
 - [cowbe0x004 starred iis-hardening](https://github.com/drewhjelm/iis-hardening)
 - [cowbe0x004 starred FwHunt](https://github.com/binarly-io/FwHunt)
 - [cowbe0x004 starred Vulnerable-OAuth-2.0-Applications](https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Binary-exploitation-series](https://github.com/7h3h4ckv157/Binary-exploitation-series)
 - [cowbe0x004 starred EDRHunt](https://github.com/FourCoreLabs/EDRHunt)
 - [cowbe0x004 starred jpcert-yara](https://github.com/JPCERTCC/jpcert-yara)
-- [cowbe0x004 starred bloodyAD](https://github.com/CravateRouge/bloodyAD)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
