@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PowerForensics](https://github.com/Invoke-IR/PowerForensics)
 - [cowbe0x004 starred wrongsecrets](https://github.com/commjoen/wrongsecrets)
 - [cowbe0x004 starred x8](https://github.com/Sh1Yo/x8)
 - [cowbe0x004 starred iis-hardening](https://github.com/drewhjelm/iis-hardening)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred wmiexec-RegOut](https://github.com/XiaoliChan/wmiexec-RegOut)
 - [cowbe0x004 starred practical-python-projects](https://github.com/yasoob/practical-python-projects)
 - [cowbe0x004 starred Binary-exploitation-series](https://github.com/7h3h4ckv157/Binary-exploitation-series)
-- [cowbe0x004 starred EDRHunt](https://github.com/FourCoreLabs/EDRHunt)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
