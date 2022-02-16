@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred BackupOperatorToDA](https://github.com/mpgn/BackupOperatorToDA)
 - [cowbe0x004 starred cursed_types](https://github.com/shhnjk/cursed_types)
 - [cowbe0x004 starred PowerForensics](https://github.com/Invoke-IR/PowerForensics)
 - [cowbe0x004 starred wrongsecrets](https://github.com/commjoen/wrongsecrets)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Vulnerable-OAuth-2.0-Applications](https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications)
 - [cowbe0x004 starred adPEAS](https://github.com/61106960/adPEAS)
 - [cowbe0x004 starred wmiexec-RegOut](https://github.com/XiaoliChan/wmiexec-RegOut)
-- [cowbe0x004 starred practical-python-projects](https://github.com/yasoob/practical-python-projects)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
