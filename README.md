@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred windows_hardening](https://github.com/0x6d69636b/windows_hardening)
+- [cowbe0x004 starred Win-Core-Processes-for-Blues](https://github.com/HellishPn/Win-Core-Processes-for-Blues)
+- [cowbe0x004 starred AppSecEzine](https://github.com/Simpsonpt/AppSecEzine)
 - [cowbe0x004 starred boko](https://github.com/bashexplode/boko)
 - [cowbe0x004 starred BackupOperatorToDA](https://github.com/mpgn/BackupOperatorToDA)
 - [cowbe0x004 starred cursed_types](https://github.com/shhnjk/cursed_types)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred wrongsecrets](https://github.com/commjoen/wrongsecrets)
 - [cowbe0x004 starred x8](https://github.com/Sh1Yo/x8)
 - [cowbe0x004 starred iis-hardening](https://github.com/drewhjelm/iis-hardening)
-- [cowbe0x004 starred FwHunt](https://github.com/binarly-io/FwHunt)
-- [cowbe0x004 starred Vulnerable-OAuth-2.0-Applications](https://github.com/koenbuyens/Vulnerable-OAuth-2.0-Applications)
-- [cowbe0x004 starred adPEAS](https://github.com/61106960/adPEAS)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
