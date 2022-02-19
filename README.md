@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Certipy](https://github.com/ly4k/Certipy)
 - [cowbe0x004 starred windows_hardening](https://github.com/0x6d69636b/windows_hardening)
 - [cowbe0x004 starred Win-Core-Processes-for-Blues](https://github.com/HellishPn/Win-Core-Processes-for-Blues)
 - [cowbe0x004 starred AppSecEzine](https://github.com/Simpsonpt/AppSecEzine)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred PowerForensics](https://github.com/Invoke-IR/PowerForensics)
 - [cowbe0x004 starred wrongsecrets](https://github.com/commjoen/wrongsecrets)
 - [cowbe0x004 starred x8](https://github.com/Sh1Yo/x8)
-- [cowbe0x004 starred iis-hardening](https://github.com/drewhjelm/iis-hardening)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
