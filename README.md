@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Get-UserSession](https://github.com/YossiSassi/Get-UserSession)
 - [cowbe0x004 starred Certipy](https://github.com/ly4k/Certipy)
 - [cowbe0x004 starred windows_hardening](https://github.com/0x6d69636b/windows_hardening)
 - [cowbe0x004 starred Win-Core-Processes-for-Blues](https://github.com/HellishPn/Win-Core-Processes-for-Blues)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred cursed_types](https://github.com/shhnjk/cursed_types)
 - [cowbe0x004 starred PowerForensics](https://github.com/Invoke-IR/PowerForensics)
 - [cowbe0x004 starred wrongsecrets](https://github.com/commjoen/wrongsecrets)
-- [cowbe0x004 starred x8](https://github.com/Sh1Yo/x8)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
