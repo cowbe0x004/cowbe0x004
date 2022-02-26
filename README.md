@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred opensquat](https://github.com/atenreiro/opensquat)
 - [cowbe0x004 starred HTTPCustomHouse](https://github.com/ariary/HTTPCustomHouse)
 - [cowbe0x004 starred BofAllTheThings](https://github.com/N7WEra/BofAllTheThings)
 - [cowbe0x004 starred Get-UserSession](https://github.com/YossiSassi/Get-UserSession)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred AppSecEzine](https://github.com/Simpsonpt/AppSecEzine)
 - [cowbe0x004 starred boko](https://github.com/bashexplode/boko)
 - [cowbe0x004 starred BackupOperatorToDA](https://github.com/mpgn/BackupOperatorToDA)
-- [cowbe0x004 starred cursed_types](https://github.com/shhnjk/cursed_types)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
