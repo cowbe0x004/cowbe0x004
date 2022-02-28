@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred awesome-appsec](https://github.com/paragonie/awesome-appsec)
 - [cowbe0x004 starred reveng_rtkit](https://github.com/reveng007/reveng_rtkit)
 - [cowbe0x004 starred opensquat](https://github.com/atenreiro/opensquat)
 - [cowbe0x004 starred HTTPCustomHouse](https://github.com/ariary/HTTPCustomHouse)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred windows_hardening](https://github.com/0x6d69636b/windows_hardening)
 - [cowbe0x004 starred Win-Core-Processes-for-Blues](https://github.com/HellishPn/Win-Core-Processes-for-Blues)
 - [cowbe0x004 starred AppSecEzine](https://github.com/Simpsonpt/AppSecEzine)
-- [cowbe0x004 starred boko](https://github.com/bashexplode/boko)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
