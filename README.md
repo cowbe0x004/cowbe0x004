@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred faker](https://github.com/joke2k/faker)
 - [cowbe0x004 starred awesome-appsec](https://github.com/paragonie/awesome-appsec)
 - [cowbe0x004 starred reveng_rtkit](https://github.com/reveng007/reveng_rtkit)
 - [cowbe0x004 starred opensquat](https://github.com/atenreiro/opensquat)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Certipy](https://github.com/ly4k/Certipy)
 - [cowbe0x004 starred windows_hardening](https://github.com/0x6d69636b/windows_hardening)
 - [cowbe0x004 starred Win-Core-Processes-for-Blues](https://github.com/HellishPn/Win-Core-Processes-for-Blues)
-- [cowbe0x004 starred AppSecEzine](https://github.com/Simpsonpt/AppSecEzine)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
