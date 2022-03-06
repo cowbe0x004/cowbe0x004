@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred authz0](https://github.com/hahwul/authz0)
 - [cowbe0x004 starred openssh-7.6p1-patch](https://github.com/QAX-A-Team/openssh-7.6p1-patch)
 - [cowbe0x004 starred ElectricEye](https://github.com/jonrau1/ElectricEye)
 - [cowbe0x004 starred faker](https://github.com/joke2k/faker)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred HTTPCustomHouse](https://github.com/ariary/HTTPCustomHouse)
 - [cowbe0x004 starred BofAllTheThings](https://github.com/N7WEra/BofAllTheThings)
 - [cowbe0x004 starred Get-UserSession](https://github.com/YossiSassi/Get-UserSession)
-- [cowbe0x004 starred Certipy](https://github.com/ly4k/Certipy)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
