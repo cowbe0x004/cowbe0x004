@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred master_librarian](https://github.com/CoolerVoid/master_librarian)
 - [cowbe0x004 starred GONET-Scanner](https://github.com/luijait/GONET-Scanner)
 - [cowbe0x004 starred Hard_Configurator](https://github.com/AndyFul/Hard_Configurator)
 - [cowbe0x004 starred authz0](https://github.com/hahwul/authz0)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred awesome-appsec](https://github.com/paragonie/awesome-appsec)
 - [cowbe0x004 starred reveng_rtkit](https://github.com/reveng007/reveng_rtkit)
 - [cowbe0x004 starred opensquat](https://github.com/atenreiro/opensquat)
-- [cowbe0x004 starred HTTPCustomHouse](https://github.com/ariary/HTTPCustomHouse)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
