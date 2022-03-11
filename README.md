@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ADReaper](https://github.com/AidenPearce369/ADReaper)
+- [cowbe0x004 starred AH2021Workshop](https://github.com/chr0n1k/AH2021Workshop)
 - [cowbe0x004 starred master_librarian](https://github.com/CoolerVoid/master_librarian)
 - [cowbe0x004 starred GONET-Scanner](https://github.com/luijait/GONET-Scanner)
 - [cowbe0x004 starred Hard_Configurator](https://github.com/AndyFul/Hard_Configurator)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred ElectricEye](https://github.com/jonrau1/ElectricEye)
 - [cowbe0x004 starred faker](https://github.com/joke2k/faker)
 - [cowbe0x004 starred awesome-appsec](https://github.com/paragonie/awesome-appsec)
-- [cowbe0x004 starred reveng_rtkit](https://github.com/reveng007/reveng_rtkit)
-- [cowbe0x004 starred opensquat](https://github.com/atenreiro/opensquat)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
