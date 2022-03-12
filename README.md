@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred wtfbins](https://github.com/mttaggart/wtfbins)
+- [cowbe0x004 starred uac](https://github.com/tclahr/uac)
 - [cowbe0x004 starred ADReaper](https://github.com/AidenPearce369/ADReaper)
 - [cowbe0x004 starred AH2021Workshop](https://github.com/chr0n1k/AH2021Workshop)
 - [cowbe0x004 starred master_librarian](https://github.com/CoolerVoid/master_librarian)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred authz0](https://github.com/hahwul/authz0)
 - [cowbe0x004 starred openssh-7.6p1-patch](https://github.com/QAX-A-Team/openssh-7.6p1-patch)
 - [cowbe0x004 starred ElectricEye](https://github.com/jonrau1/ElectricEye)
-- [cowbe0x004 starred faker](https://github.com/joke2k/faker)
-- [cowbe0x004 starred awesome-appsec](https://github.com/paragonie/awesome-appsec)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
