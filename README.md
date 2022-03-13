@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ctf-realworldapp](https://github.com/anupshaw50/ctf-realworldapp)
 - [cowbe0x004 starred wtfbins](https://github.com/mttaggart/wtfbins)
 - [cowbe0x004 starred uac](https://github.com/tclahr/uac)
 - [cowbe0x004 starred ADReaper](https://github.com/AidenPearce369/ADReaper)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Hard_Configurator](https://github.com/AndyFul/Hard_Configurator)
 - [cowbe0x004 starred authz0](https://github.com/hahwul/authz0)
 - [cowbe0x004 starred openssh-7.6p1-patch](https://github.com/QAX-A-Team/openssh-7.6p1-patch)
-- [cowbe0x004 starred ElectricEye](https://github.com/jonrau1/ElectricEye)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
