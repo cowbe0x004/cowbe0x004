@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred GoodHound](https://github.com/idnahacks/GoodHound)
+- [cowbe0x004 starred dnsx](https://github.com/projectdiscovery/dnsx)
+- [cowbe0x004 starred webpwn3r](https://github.com/zigoo0/webpwn3r)
 - [cowbe0x004 starred ctf-realworldapp](https://github.com/anupshaw50/ctf-realworldapp)
 - [cowbe0x004 starred wtfbins](https://github.com/mttaggart/wtfbins)
 - [cowbe0x004 starred uac](https://github.com/tclahr/uac)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred AH2021Workshop](https://github.com/chr0n1k/AH2021Workshop)
 - [cowbe0x004 starred master_librarian](https://github.com/CoolerVoid/master_librarian)
 - [cowbe0x004 starred GONET-Scanner](https://github.com/luijait/GONET-Scanner)
-- [cowbe0x004 starred Hard_Configurator](https://github.com/AndyFul/Hard_Configurator)
-- [cowbe0x004 starred authz0](https://github.com/hahwul/authz0)
-- [cowbe0x004 starred openssh-7.6p1-patch](https://github.com/QAX-A-Team/openssh-7.6p1-patch)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
