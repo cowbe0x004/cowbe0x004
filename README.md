@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred kitphishr](https://github.com/cybercdh/kitphishr)
+- [cowbe0x004 starred CyberQueens](https://github.com/CyberQueens/CyberQueens)
 - [cowbe0x004 starred interactsh](https://github.com/projectdiscovery/interactsh)
 - [cowbe0x004 starred GoodHound](https://github.com/idnahacks/GoodHound)
 - [cowbe0x004 starred dnsx](https://github.com/projectdiscovery/dnsx)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred wtfbins](https://github.com/mttaggart/wtfbins)
 - [cowbe0x004 starred uac](https://github.com/tclahr/uac)
 - [cowbe0x004 starred ADReaper](https://github.com/AidenPearce369/ADReaper)
-- [cowbe0x004 starred AH2021Workshop](https://github.com/chr0n1k/AH2021Workshop)
-- [cowbe0x004 starred master_librarian](https://github.com/CoolerVoid/master_librarian)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
