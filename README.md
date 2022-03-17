@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Group3r](https://github.com/Group3r/Group3r)
 - [cowbe0x004 starred BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab)
 - [cowbe0x004 starred kitphishr](https://github.com/cybercdh/kitphishr)
 - [cowbe0x004 starred CyberQueens](https://github.com/CyberQueens/CyberQueens)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred webpwn3r](https://github.com/zigoo0/webpwn3r)
 - [cowbe0x004 starred ctf-realworldapp](https://github.com/anupshaw50/ctf-realworldapp)
 - [cowbe0x004 starred wtfbins](https://github.com/mttaggart/wtfbins)
-- [cowbe0x004 starred uac](https://github.com/tclahr/uac)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
