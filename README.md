@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred mip22](https://github.com/makdosx/mip22)
 - [cowbe0x004 starred reapoc](https://github.com/cckuailong/reapoc)
 - [cowbe0x004 starred Group3r](https://github.com/Group3r/Group3r)
 - [cowbe0x004 starred BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred GoodHound](https://github.com/idnahacks/GoodHound)
 - [cowbe0x004 starred dnsx](https://github.com/projectdiscovery/dnsx)
 - [cowbe0x004 starred webpwn3r](https://github.com/zigoo0/webpwn3r)
-- [cowbe0x004 starred ctf-realworldapp](https://github.com/anupshaw50/ctf-realworldapp)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
