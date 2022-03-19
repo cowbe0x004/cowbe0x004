@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred 0d1n](https://github.com/CoolerVoid/0d1n)
+- [cowbe0x004 starred S1EM](https://github.com/V1D1AN/S1EM)
 - [cowbe0x004 starred mip22](https://github.com/makdosx/mip22)
 - [cowbe0x004 starred reapoc](https://github.com/cckuailong/reapoc)
 - [cowbe0x004 starred Group3r](https://github.com/Group3r/Group3r)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred CyberQueens](https://github.com/CyberQueens/CyberQueens)
 - [cowbe0x004 starred interactsh](https://github.com/projectdiscovery/interactsh)
 - [cowbe0x004 starred GoodHound](https://github.com/idnahacks/GoodHound)
-- [cowbe0x004 starred dnsx](https://github.com/projectdiscovery/dnsx)
-- [cowbe0x004 starred webpwn3r](https://github.com/zigoo0/webpwn3r)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
