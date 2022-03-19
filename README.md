@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred MalMemDetect](https://github.com/waldo-irc/MalMemDetect)
 - [cowbe0x004 starred 0d1n](https://github.com/CoolerVoid/0d1n)
 - [cowbe0x004 starred S1EM](https://github.com/V1D1AN/S1EM)
 - [cowbe0x004 starred mip22](https://github.com/makdosx/mip22)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred kitphishr](https://github.com/cybercdh/kitphishr)
 - [cowbe0x004 starred CyberQueens](https://github.com/CyberQueens/CyberQueens)
 - [cowbe0x004 starred interactsh](https://github.com/projectdiscovery/interactsh)
-- [cowbe0x004 starred GoodHound](https://github.com/idnahacks/GoodHound)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
