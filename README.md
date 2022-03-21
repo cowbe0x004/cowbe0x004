@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PSRansom](https://github.com/JoelGMSec/PSRansom)
 - [cowbe0x004 starred BSidesRoc2022_Linux_Malware_Analysis_Course](https://github.com/archcloudlabs/BSidesRoc2022_Linux_Malware_Analysis_Course)
 - [cowbe0x004 starred MalMemDetect](https://github.com/waldo-irc/MalMemDetect)
 - [cowbe0x004 starred 0d1n](https://github.com/CoolerVoid/0d1n)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Group3r](https://github.com/Group3r/Group3r)
 - [cowbe0x004 starred BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab)
 - [cowbe0x004 starred kitphishr](https://github.com/cybercdh/kitphishr)
-- [cowbe0x004 starred CyberQueens](https://github.com/CyberQueens/CyberQueens)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
