@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred pwncat](https://github.com/calebstewart/pwncat)
 - [cowbe0x004 starred xepor](https://github.com/xepor/xepor)
 - [cowbe0x004 starred PSRansom](https://github.com/JoelGMSec/PSRansom)
 - [cowbe0x004 starred BSidesRoc2022_Linux_Malware_Analysis_Course](https://github.com/archcloudlabs/BSidesRoc2022_Linux_Malware_Analysis_Course)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred mip22](https://github.com/makdosx/mip22)
 - [cowbe0x004 starred reapoc](https://github.com/cckuailong/reapoc)
 - [cowbe0x004 starred Group3r](https://github.com/Group3r/Group3r)
-- [cowbe0x004 starred BlueTeam.Lab](https://github.com/op7ic/BlueTeam.Lab)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
