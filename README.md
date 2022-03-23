@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PSKoans](https://github.com/vexx32/PSKoans)
 - [cowbe0x004 starred dty](https://github.com/duty1g/dty)
 - [cowbe0x004 starred pwncat](https://github.com/calebstewart/pwncat)
 - [cowbe0x004 starred xepor](https://github.com/xepor/xepor)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred 0d1n](https://github.com/CoolerVoid/0d1n)
 - [cowbe0x004 starred S1EM](https://github.com/V1D1AN/S1EM)
 - [cowbe0x004 starred mip22](https://github.com/makdosx/mip22)
-- [cowbe0x004 starred reapoc](https://github.com/cckuailong/reapoc)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
