@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred portmaster](https://github.com/safing/portmaster)
 - [cowbe0x004 starred PSSW100AVB](https://github.com/tihanyin/PSSW100AVB)
 - [cowbe0x004 starred musashi-js](https://github.com/SamuraiWTF/musashi-js)
 - [cowbe0x004 starred PSKoans](https://github.com/vexx32/PSKoans)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred PSRansom](https://github.com/JoelGMSec/PSRansom)
 - [cowbe0x004 starred BSidesRoc2022_Linux_Malware_Analysis_Course](https://github.com/archcloudlabs/BSidesRoc2022_Linux_Malware_Analysis_Course)
 - [cowbe0x004 starred MalMemDetect](https://github.com/waldo-irc/MalMemDetect)
-- [cowbe0x004 starred 0d1n](https://github.com/CoolerVoid/0d1n)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
