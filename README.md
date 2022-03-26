@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Adversary3](https://github.com/malvuln/Adversary3)
 - [cowbe0x004 starred Cronos-Rootkit](https://github.com/XaFF-XaFF/Cronos-Rootkit)
 - [cowbe0x004 starred portmaster](https://github.com/safing/portmaster)
 - [cowbe0x004 starred PSSW100AVB](https://github.com/tihanyin/PSSW100AVB)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred pwncat](https://github.com/calebstewart/pwncat)
 - [cowbe0x004 starred xepor](https://github.com/xepor/xepor)
 - [cowbe0x004 starred PSRansom](https://github.com/JoelGMSec/PSRansom)
-- [cowbe0x004 starred BSidesRoc2022_Linux_Malware_Analysis_Course](https://github.com/archcloudlabs/BSidesRoc2022_Linux_Malware_Analysis_Course)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
