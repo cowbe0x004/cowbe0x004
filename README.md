@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred OffensivePascal](https://github.com/0xsp-SRD/OffensivePascal)
 - [cowbe0x004 starred PacketStreamer](https://github.com/deepfence/PacketStreamer)
 - [cowbe0x004 starred infoooze](https://github.com/7ORP3DO/infoooze)
 - [cowbe0x004 starred ADExplorerSnapshot.py](https://github.com/c3c/ADExplorerSnapshot.py)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred PSSW100AVB](https://github.com/tihanyin/PSSW100AVB)
 - [cowbe0x004 starred musashi-js](https://github.com/SamuraiWTF/musashi-js)
 - [cowbe0x004 starred PSKoans](https://github.com/vexx32/PSKoans)
-- [cowbe0x004 starred dty](https://github.com/duty1g/dty)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
