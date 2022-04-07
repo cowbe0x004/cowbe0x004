@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [RT @sam4k1: Tore myself away from Elden Ring long enough to finish part 2 of my virtual memory mini-series, where I ramble about the user v…](https://twitter.com/cowbe0x004/status/1505707560795529216)
-- [RT @jonasl: One-liner to detect dirtypipe with auditd on linux systems: -a always,exit -F arch=b64 -S splice -F a0=0x3 -F a2=0x5 -F a3=0x0…](https://twitter.com/cowbe0x004/status/1503942407481700357)
-- [RT @Hexacorn: Beyond good ol’ Run key, Part 136 &lpar;Persistence trick + #lolbin in 1&rpar; x 2 Thx to test Office DLLs: HKCU\SOFTWARE\Microsoft\…](https://twitter.com/cowbe0x004/status/1483541925273784320)
-- [RT @rebootuser: We&#39;re running our 2-hour #FREE technical #CyberSecurity workshop &quot;Catch me if you can - seeing the red through the blue&quot; on…](https://twitter.com/cowbe0x004/status/1481306146308767748)
-- [RT @Dick_Reverse: First mindmap - Am I vulnerable to Log4shell &lpar;v5.0, updated with higher impact for CVE-2021-45046&rpar;](https://twitter.com/cowbe0x004/status/1472004109683376135)
+- [RT sam4k: Tore myself away from Elden Ring long enough to finish part 2 of my virtual memory mini-series, where I ramble about the user virtual addres...](https://twitter.com/sam4k1/status/1505639833582161926)
+- [RT Jonas Lejon: One-liner to detect dirtypipe with auditd on linux systems: -a always,exit -F arch=b64 -S splice -F a0=0x3 -F a2=0x5 -F a3=0x0 -F key=...](https://twitter.com/jonasl/status/1501840914381258756)
+- [RT Adam: Beyond good ol’ Run key, Part 136 &lpar;Persistence trick + #lolbin in 1&rpar; x 2 Thx to test Office DLLs: HKCU\SOFTWARE\Microsoft\Office\16.0\ Word\...](https://twitter.com/Hexacorn/status/1483522459420827653)
+- [RT Owen Shearing: We&#39;re running our 2-hour #FREE technical #CyberSecurity workshop &quot;Catch me if you can - seeing the red through the blue&quot; on 8th Marc...](https://twitter.com/rebootuser/status/1481301169930657793)
+- [RT Loïc Castel: First mindmap - Am I vulnerable to Log4shell &lpar;v5.0, updated with higher impact for CVE-2021-45046&rpar;](https://twitter.com/Dick_Reverse/status/1471957167213318149)
 <!-- TWEETS:END -->
 
 ---
