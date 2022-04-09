@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred boopkit](https://github.com/kris-nova/boopkit)
 - [cowbe0x004 starred ICMP-TransferTools](https://github.com/icyguider/ICMP-TransferTools)
 - [cowbe0x004 starred Microsoft-Defender-for-Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud)
 - [cowbe0x004 starred OffensivePascal](https://github.com/0xsp-SRD/OffensivePascal)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Adversary3](https://github.com/malvuln/Adversary3)
 - [cowbe0x004 starred Cronos-Rootkit](https://github.com/XaFF-XaFF/Cronos-Rootkit)
 - [cowbe0x004 starred portmaster](https://github.com/safing/portmaster)
-- [cowbe0x004 starred PSSW100AVB](https://github.com/tihanyin/PSSW100AVB)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
