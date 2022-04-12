@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred cicd-goat](https://github.com/cider-security-research/cicd-goat)
 - [cowbe0x004 starred open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)
 - [cowbe0x004 starred uncover](https://github.com/projectdiscovery/uncover)
 - [cowbe0x004 starred boopkit](https://github.com/kris-nova/boopkit)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred PacketStreamer](https://github.com/deepfence/PacketStreamer)
 - [cowbe0x004 starred infoooze](https://github.com/7ORP3DO/infoooze)
 - [cowbe0x004 starred ADExplorerSnapshot.py](https://github.com/c3c/ADExplorerSnapshot.py)
-- [cowbe0x004 starred Adversary3](https://github.com/malvuln/Adversary3)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
