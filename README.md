@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred presshell](https://github.com/scheatkode/presshell)
 - [cowbe0x004 starred cicd-goat](https://github.com/cider-security-research/cicd-goat)
 - [cowbe0x004 starred open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)
 - [cowbe0x004 starred uncover](https://github.com/projectdiscovery/uncover)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred OffensivePascal](https://github.com/0xsp-SRD/OffensivePascal)
 - [cowbe0x004 starred PacketStreamer](https://github.com/deepfence/PacketStreamer)
 - [cowbe0x004 starred infoooze](https://github.com/7ORP3DO/infoooze)
-- [cowbe0x004 starred ADExplorerSnapshot.py](https://github.com/c3c/ADExplorerSnapshot.py)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
