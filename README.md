@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred frostbyte](https://github.com/pwn1sher/frostbyte)
 - [cowbe0x004 starred static-binaries](https://github.com/andrew-d/static-binaries)
 - [cowbe0x004 starred presshell](https://github.com/scheatkode/presshell)
 - [cowbe0x004 starred cicd-goat](https://github.com/cider-security-research/cicd-goat)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ICMP-TransferTools](https://github.com/icyguider/ICMP-TransferTools)
 - [cowbe0x004 starred Microsoft-Defender-for-Cloud](https://github.com/Azure/Microsoft-Defender-for-Cloud)
 - [cowbe0x004 starred OffensivePascal](https://github.com/0xsp-SRD/OffensivePascal)
-- [cowbe0x004 starred PacketStreamer](https://github.com/deepfence/PacketStreamer)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
