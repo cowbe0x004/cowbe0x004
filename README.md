@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred AD-Pentesting-Notes](https://github.com/nirajkharel/AD-Pentesting-Notes)
 - [cowbe0x004 starred Bypass-AMSI](https://github.com/HernanRodriguez1/Bypass-AMSI)
 - [cowbe0x004 starred DDexec](https://github.com/arget13/DDexec)
 - [cowbe0x004 starred protocols](https://github.com/netspooky/protocols)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred cicd-goat](https://github.com/cider-security-research/cicd-goat)
 - [cowbe0x004 starred open-source-web-scanners](https://github.com/psiinon/open-source-web-scanners)
 - [cowbe0x004 starred uncover](https://github.com/projectdiscovery/uncover)
-- [cowbe0x004 starred boopkit](https://github.com/kris-nova/boopkit)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
