@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred MrKaplan](https://github.com/Idov31/MrKaplan)
 - [cowbe0x004 starred ecapture](https://github.com/ehids/ecapture)
 - [cowbe0x004 starred avml](https://github.com/microsoft/avml)
 - [cowbe0x004 starred AD-Pentesting-Notes](https://github.com/nirajkharel/AD-Pentesting-Notes)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred frostbyte](https://github.com/pwn1sher/frostbyte)
 - [cowbe0x004 starred static-binaries](https://github.com/andrew-d/static-binaries)
 - [cowbe0x004 starred presshell](https://github.com/scheatkode/presshell)
-- [cowbe0x004 starred cicd-goat](https://github.com/cider-security-research/cicd-goat)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
