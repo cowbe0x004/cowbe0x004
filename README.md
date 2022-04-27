@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook)
 - [cowbe0x004 starred git-dumper](https://github.com/arthaud/git-dumper)
 - [cowbe0x004 starred security-labs-pocs](https://github.com/DataDog/security-labs-pocs)
 - [cowbe0x004 starred MrKaplan](https://github.com/Idov31/MrKaplan)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Bypass-AMSI](https://github.com/HernanRodriguez1/Bypass-AMSI)
 - [cowbe0x004 starred DDexec](https://github.com/arget13/DDexec)
 - [cowbe0x004 starred protocols](https://github.com/netspooky/protocols)
-- [cowbe0x004 starred frostbyte](https://github.com/pwn1sher/frostbyte)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
