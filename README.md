@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 - [cowbe0x004 starred rip_raw](https://github.com/cado-security/rip_raw)
 - [cowbe0x004 starred ntfy](https://github.com/binwiederhier/ntfy)
 - [cowbe0x004 starred linWinPwn](https://github.com/lefayjey/linWinPwn)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred MrKaplan](https://github.com/Idov31/MrKaplan)
 - [cowbe0x004 starred ecapture](https://github.com/ehids/ecapture)
 - [cowbe0x004 starred avml](https://github.com/microsoft/avml)
-- [cowbe0x004 starred AD-Pentesting-Notes](https://github.com/nirajkharel/AD-Pentesting-Notes)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
