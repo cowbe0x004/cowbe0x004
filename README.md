@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Pasta](https://github.com/Kr0ff/Pasta)
 - [cowbe0x004 starred Fuzzing101](https://github.com/antonio-morales/Fuzzing101)
 - [cowbe0x004 starred Certified-Kubernetes-Security-Specialist](https://github.com/walidshaari/Certified-Kubernetes-Security-Specialist)
 - [cowbe0x004 starred rip_raw](https://github.com/cado-security/rip_raw)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred git-dumper](https://github.com/arthaud/git-dumper)
 - [cowbe0x004 starred security-labs-pocs](https://github.com/DataDog/security-labs-pocs)
 - [cowbe0x004 starred MrKaplan](https://github.com/Idov31/MrKaplan)
-- [cowbe0x004 starred ecapture](https://github.com/ehids/ecapture)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
