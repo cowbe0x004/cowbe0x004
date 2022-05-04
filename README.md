@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred xpid](https://github.com/kris-nova/xpid)
 - [cowbe0x004 starred dora](https://github.com/sdushantha/dora)
 - [cowbe0x004 starred Pasta](https://github.com/Kr0ff/Pasta)
 - [cowbe0x004 starred Fuzzing101](https://github.com/antonio-morales/Fuzzing101)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred linWinPwn](https://github.com/lefayjey/linWinPwn)
 - [cowbe0x004 starred DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook)
 - [cowbe0x004 starred git-dumper](https://github.com/arthaud/git-dumper)
-- [cowbe0x004 starred security-labs-pocs](https://github.com/DataDog/security-labs-pocs)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
