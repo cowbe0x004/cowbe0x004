@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PowerSCCM](https://github.com/PowerShellMafia/PowerSCCM)
 - [cowbe0x004 starred Digital-Forensics-Guide](https://github.com/mikeroyal/Digital-Forensics-Guide)
 - [cowbe0x004 starred xpid](https://github.com/kris-nova/xpid)
 - [cowbe0x004 starred dora](https://github.com/sdushantha/dora)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred rip_raw](https://github.com/cado-security/rip_raw)
 - [cowbe0x004 starred ntfy](https://github.com/binwiederhier/ntfy)
 - [cowbe0x004 starred linWinPwn](https://github.com/lefayjey/linWinPwn)
-- [cowbe0x004 starred DevSecOps-Playbook](https://github.com/6mile/DevSecOps-Playbook)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
