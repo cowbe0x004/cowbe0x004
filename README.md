@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred dnsftp](https://github.com/breenmachine/dnsftp)
+- [cowbe0x004 starred AzureRT](https://github.com/mgeeky/AzureRT)
 - [cowbe0x004 starred VPNTabs](https://github.com/Nickguitar/VPNTabs)
 - [cowbe0x004 starred atuin](https://github.com/ellie/atuin)
 - [cowbe0x004 starred hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred PowerSCCM](https://github.com/PowerShellMafia/PowerSCCM)
 - [cowbe0x004 starred Digital-Forensics-Guide](https://github.com/mikeroyal/Digital-Forensics-Guide)
 - [cowbe0x004 starred xpid](https://github.com/kris-nova/xpid)
-- [cowbe0x004 starred dora](https://github.com/sdushantha/dora)
-- [cowbe0x004 starred Pasta](https://github.com/Kr0ff/Pasta)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
