@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred VPNTabs](https://github.com/Nickguitar/VPNTabs)
 - [cowbe0x004 starred atuin](https://github.com/ellie/atuin)
 - [cowbe0x004 starred hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser)
 - [cowbe0x004 starred SharpWSUS](https://github.com/nettitude/SharpWSUS)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred xpid](https://github.com/kris-nova/xpid)
 - [cowbe0x004 starred dora](https://github.com/sdushantha/dora)
 - [cowbe0x004 starred Pasta](https://github.com/Kr0ff/Pasta)
-- [cowbe0x004 starred Fuzzing101](https://github.com/antonio-morales/Fuzzing101)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
