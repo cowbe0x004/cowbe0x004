@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Network-Covert-Channels-A-University-level-Course](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course)
 - [cowbe0x004 starred BWASP](https://github.com/BWASP/BWASP)
 - [cowbe0x004 starred bore](https://github.com/ekzhang/bore)
 - [cowbe0x004 starred dnsftp](https://github.com/breenmachine/dnsftp)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred hashlookup-forensic-analyser](https://github.com/hashlookup/hashlookup-forensic-analyser)
 - [cowbe0x004 starred SharpWSUS](https://github.com/nettitude/SharpWSUS)
 - [cowbe0x004 starred thc-tips-tricks-hacks-cheat-sheet](https://github.com/hackerschoice/thc-tips-tricks-hacks-cheat-sheet)
-- [cowbe0x004 starred PowerSCCM](https://github.com/PowerShellMafia/PowerSCCM)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
