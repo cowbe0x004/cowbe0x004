@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Malcolm](https://github.com/idaholab/Malcolm)
 - [cowbe0x004 starred tetragon](https://github.com/cilium/tetragon)
 - [cowbe0x004 starred Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques)
 - [cowbe0x004 starred awesome-console-services](https://github.com/chubin/awesome-console-services)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred dnsftp](https://github.com/breenmachine/dnsftp)
 - [cowbe0x004 starred AzureRT](https://github.com/mgeeky/AzureRT)
 - [cowbe0x004 starred VPNTabs](https://github.com/Nickguitar/VPNTabs)
-- [cowbe0x004 starred atuin](https://github.com/ellie/atuin)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
