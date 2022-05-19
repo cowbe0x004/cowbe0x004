@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred BirDuster](https://github.com/ytisf/BirDuster)
 - [cowbe0x004 starred DNS_Tunneling](https://github.com/Octoberfest7/DNS_Tunneling)
 - [cowbe0x004 starred vaas](https://github.com/GDATASoftwareAG/vaas)
 - [cowbe0x004 starred Malcolm](https://github.com/idaholab/Malcolm)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Network-Covert-Channels-A-University-level-Course](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course)
 - [cowbe0x004 starred BWASP](https://github.com/BWASP/BWASP)
 - [cowbe0x004 starred bore](https://github.com/ekzhang/bore)
-- [cowbe0x004 starred dnsftp](https://github.com/breenmachine/dnsftp)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
