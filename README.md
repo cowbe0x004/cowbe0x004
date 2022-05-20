@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Exploit-Development](https://github.com/wtsxDev/Exploit-Development)
 - [cowbe0x004 starred EVTX-to-MITRE-Attack](https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack)
 - [cowbe0x004 starred BirDuster](https://github.com/ytisf/BirDuster)
 - [cowbe0x004 starred DNS_Tunneling](https://github.com/Octoberfest7/DNS_Tunneling)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques)
 - [cowbe0x004 starred awesome-console-services](https://github.com/chubin/awesome-console-services)
 - [cowbe0x004 starred Network-Covert-Channels-A-University-level-Course](https://github.com/cdpxe/Network-Covert-Channels-A-University-level-Course)
-- [cowbe0x004 starred BWASP](https://github.com/BWASP/BWASP)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
