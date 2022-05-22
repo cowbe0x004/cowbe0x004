@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred tetanus](https://github.com/MythicAgents/tetanus)
 - [cowbe0x004 starred PowerShell-for-Hackers](https://github.com/I-Am-Jakoby/PowerShell-for-Hackers)
 - [cowbe0x004 starred Exploit-Development](https://github.com/wtsxDev/Exploit-Development)
 - [cowbe0x004 starred EVTX-to-MITRE-Attack](https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Malcolm](https://github.com/idaholab/Malcolm)
 - [cowbe0x004 starred tetragon](https://github.com/cilium/tetragon)
 - [cowbe0x004 starred Awesome-RCE-techniques](https://github.com/p0dalirius/Awesome-RCE-techniques)
-- [cowbe0x004 starred awesome-console-services](https://github.com/chubin/awesome-console-services)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
