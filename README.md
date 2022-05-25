@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SharpEventPersist](https://github.com/improsec/SharpEventPersist)
+- [cowbe0x004 starred fire](https://github.com/thelicato/fire)
 - [cowbe0x004 starred supertokens-core](https://github.com/supertokens/supertokens-core)
 - [cowbe0x004 starred how2exploit_binary](https://github.com/Bretley/how2exploit_binary)
 - [cowbe0x004 starred tetanus](https://github.com/MythicAgents/tetanus)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred EVTX-to-MITRE-Attack](https://github.com/mdecrevoisier/EVTX-to-MITRE-Attack)
 - [cowbe0x004 starred BirDuster](https://github.com/ytisf/BirDuster)
 - [cowbe0x004 starred DNS_Tunneling](https://github.com/Octoberfest7/DNS_Tunneling)
-- [cowbe0x004 starred vaas](https://github.com/GDATASoftwareAG/vaas)
-- [cowbe0x004 starred Malcolm](https://github.com/idaholab/Malcolm)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
