@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred REVENANT](https://github.com/redcode-labs/REVENANT)
+- [cowbe0x004 starred AWS-Threat-Simulation-and-Detection](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection)
+- [cowbe0x004 starred awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic)
 - [cowbe0x004 starred Pentest-Notes](https://github.com/SofianeHamlaoui/Pentest-Notes)
 - [cowbe0x004 starred VAmPI](https://github.com/erev0s/VAmPI)
 - [cowbe0x004 starred agartha](https://github.com/volkandindar/agartha)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector)
 - [cowbe0x004 starred LEAF](https://github.com/alex-cart/LEAF)
 - [cowbe0x004 starred SharpEventPersist](https://github.com/improsec/SharpEventPersist)
-- [cowbe0x004 starred fire](https://github.com/thelicato/fire)
-- [cowbe0x004 starred supertokens-core](https://github.com/supertokens/supertokens-core)
-- [cowbe0x004 starred how2exploit_binary](https://github.com/Bretley/how2exploit_binary)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
