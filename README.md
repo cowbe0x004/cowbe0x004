@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go)
 - [cowbe0x004 starred REVENANT](https://github.com/redcode-labs/REVENANT)
 - [cowbe0x004 starred AWS-Threat-Simulation-and-Detection](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection)
 - [cowbe0x004 starred awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred PersistBOF](https://github.com/IcebreakerSecurity/PersistBOF)
 - [cowbe0x004 starred BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector)
 - [cowbe0x004 starred LEAF](https://github.com/alex-cart/LEAF)
-- [cowbe0x004 starred SharpEventPersist](https://github.com/improsec/SharpEventPersist)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
