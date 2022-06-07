@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred lockc](https://github.com/lockc-project/lockc)
 - [cowbe0x004 starred Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go)
 - [cowbe0x004 starred REVENANT](https://github.com/redcode-labs/REVENANT)
 - [cowbe0x004 starred AWS-Threat-Simulation-and-Detection](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred agartha](https://github.com/volkandindar/agartha)
 - [cowbe0x004 starred PersistBOF](https://github.com/IcebreakerSecurity/PersistBOF)
 - [cowbe0x004 starred BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector)
-- [cowbe0x004 starred LEAF](https://github.com/alex-cart/LEAF)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
