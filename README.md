@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred raptor_waf](https://github.com/CoolerVoid/raptor_waf)
 - [cowbe0x004 starred lockc](https://github.com/lockc-project/lockc)
 - [cowbe0x004 starred Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go)
 - [cowbe0x004 starred REVENANT](https://github.com/redcode-labs/REVENANT)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred VAmPI](https://github.com/erev0s/VAmPI)
 - [cowbe0x004 starred agartha](https://github.com/volkandindar/agartha)
 - [cowbe0x004 starred PersistBOF](https://github.com/IcebreakerSecurity/PersistBOF)
-- [cowbe0x004 starred BinAbsInspector](https://github.com/KeenSecurityLab/BinAbsInspector)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
