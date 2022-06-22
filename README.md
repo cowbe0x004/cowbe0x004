@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred spirit](https://github.com/aogspirit/spirit)
 - [cowbe0x004 starred DCSecurityOperations](https://github.com/DanielChronlund/DCSecurityOperations)
 - [cowbe0x004 starred raptor_waf](https://github.com/CoolerVoid/raptor_waf)
 - [cowbe0x004 starred lockc](https://github.com/lockc-project/lockc)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic)
 - [cowbe0x004 starred Pentest-Notes](https://github.com/SofianeHamlaoui/Pentest-Notes)
 - [cowbe0x004 starred VAmPI](https://github.com/erev0s/VAmPI)
-- [cowbe0x004 starred agartha](https://github.com/volkandindar/agartha)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
