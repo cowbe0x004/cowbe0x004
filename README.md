@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ADVobfuscator](https://github.com/andrivet/ADVobfuscator)
 - [cowbe0x004 starred spirit](https://github.com/aogspirit/spirit)
 - [cowbe0x004 starred DCSecurityOperations](https://github.com/DanielChronlund/DCSecurityOperations)
 - [cowbe0x004 starred raptor_waf](https://github.com/CoolerVoid/raptor_waf)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred AWS-Threat-Simulation-and-Detection](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection)
 - [cowbe0x004 starred awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic)
 - [cowbe0x004 starred Pentest-Notes](https://github.com/SofianeHamlaoui/Pentest-Notes)
-- [cowbe0x004 starred VAmPI](https://github.com/erev0s/VAmPI)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
