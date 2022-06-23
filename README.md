@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Mangle](https://github.com/optiv/Mangle)
 - [cowbe0x004 starred ADVobfuscator](https://github.com/andrivet/ADVobfuscator)
 - [cowbe0x004 starred spirit](https://github.com/aogspirit/spirit)
 - [cowbe0x004 starred DCSecurityOperations](https://github.com/DanielChronlund/DCSecurityOperations)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred REVENANT](https://github.com/redcode-labs/REVENANT)
 - [cowbe0x004 starred AWS-Threat-Simulation-and-Detection](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection)
 - [cowbe0x004 starred awesome-anti-forensic](https://github.com/shadawck/awesome-anti-forensic)
-- [cowbe0x004 starred Pentest-Notes](https://github.com/SofianeHamlaoui/Pentest-Notes)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
