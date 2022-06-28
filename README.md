@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred MSSQL-Pentest-Cheatsheet](https://github.com/Ignitetechnologies/MSSQL-Pentest-Cheatsheet)
 - [cowbe0x004 starred dismember](https://github.com/liamg/dismember)
 - [cowbe0x004 starred Mangle](https://github.com/optiv/Mangle)
 - [cowbe0x004 starred ADVobfuscator](https://github.com/andrivet/ADVobfuscator)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred lockc](https://github.com/lockc-project/lockc)
 - [cowbe0x004 starred Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go)
 - [cowbe0x004 starred REVENANT](https://github.com/redcode-labs/REVENANT)
-- [cowbe0x004 starred AWS-Threat-Simulation-and-Detection](https://github.com/sbasu7241/AWS-Threat-Simulation-and-Detection)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
