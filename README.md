@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred TripleCross](https://github.com/h3xduck/TripleCross)
 - [cowbe0x004 starred WitnessMe](https://github.com/byt3bl33d3r/WitnessMe)
 - [cowbe0x004 starred MSSQL-Pentest-Cheatsheet](https://github.com/Ignitetechnologies/MSSQL-Pentest-Cheatsheet)
 - [cowbe0x004 starred dismember](https://github.com/liamg/dismember)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred DCSecurityOperations](https://github.com/DanielChronlund/DCSecurityOperations)
 - [cowbe0x004 starred raptor_waf](https://github.com/CoolerVoid/raptor_waf)
 - [cowbe0x004 starred lockc](https://github.com/lockc-project/lockc)
-- [cowbe0x004 starred Hacking-with-Go](https://github.com/parsiya/Hacking-with-Go)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
