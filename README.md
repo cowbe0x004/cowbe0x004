@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PWF](https://github.com/bluecapesecurity/PWF)
 - [cowbe0x004 starred dangerzone](https://github.com/freedomofpress/dangerzone)
 - [cowbe0x004 starred pamspy](https://github.com/citronneur/pamspy)
 - [cowbe0x004 starred TripleCross](https://github.com/h3xduck/TripleCross)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Mangle](https://github.com/optiv/Mangle)
 - [cowbe0x004 starred ADVobfuscator](https://github.com/andrivet/ADVobfuscator)
 - [cowbe0x004 starred spirit](https://github.com/aogspirit/spirit)
-- [cowbe0x004 starred DCSecurityOperations](https://github.com/DanielChronlund/DCSecurityOperations)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
