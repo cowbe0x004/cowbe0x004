@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred gowitness](https://github.com/sensepost/gowitness)
 - [cowbe0x004 starred OSWE-Prep](https://github.com/kajalNair/OSWE-Prep)
 - [cowbe0x004 starred PWF](https://github.com/bluecapesecurity/PWF)
 - [cowbe0x004 starred dangerzone](https://github.com/freedomofpress/dangerzone)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred MSSQL-Pentest-Cheatsheet](https://github.com/Ignitetechnologies/MSSQL-Pentest-Cheatsheet)
 - [cowbe0x004 starred dismember](https://github.com/liamg/dismember)
 - [cowbe0x004 starred Mangle](https://github.com/optiv/Mangle)
-- [cowbe0x004 starred ADVobfuscator](https://github.com/andrivet/ADVobfuscator)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
