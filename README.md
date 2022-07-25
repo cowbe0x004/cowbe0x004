@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred bpflock](https://github.com/linux-lock/bpflock)
 - [cowbe0x004 starred Azure_Workshop](https://github.com/mandiant/Azure_Workshop)
 - [cowbe0x004 starred gowitness](https://github.com/sensepost/gowitness)
 - [cowbe0x004 starred OSWE-Prep](https://github.com/kajalNair/OSWE-Prep)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred TripleCross](https://github.com/h3xduck/TripleCross)
 - [cowbe0x004 starred WitnessMe](https://github.com/byt3bl33d3r/WitnessMe)
 - [cowbe0x004 starred MSSQL-Pentest-Cheatsheet](https://github.com/Ignitetechnologies/MSSQL-Pentest-Cheatsheet)
-- [cowbe0x004 starred dismember](https://github.com/liamg/dismember)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
