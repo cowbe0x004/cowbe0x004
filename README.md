@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Mara](https://github.com/io-tl/Mara)
+- [cowbe0x004 starred shelljack](https://github.com/emptymonkey/shelljack)
+- [cowbe0x004 starred maldev-for-dummies](https://github.com/chvancooten/maldev-for-dummies)
 - [cowbe0x004 starred manticoresearch](https://github.com/manticoresoftware/manticoresearch)
 - [cowbe0x004 starred bpflock](https://github.com/linux-lock/bpflock)
 - [cowbe0x004 starred Azure_Workshop](https://github.com/mandiant/Azure_Workshop)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred OSWE-Prep](https://github.com/kajalNair/OSWE-Prep)
 - [cowbe0x004 starred PWF](https://github.com/bluecapesecurity/PWF)
 - [cowbe0x004 starred dangerzone](https://github.com/freedomofpress/dangerzone)
-- [cowbe0x004 starred pamspy](https://github.com/citronneur/pamspy)
-- [cowbe0x004 starred TripleCross](https://github.com/h3xduck/TripleCross)
-- [cowbe0x004 starred WitnessMe](https://github.com/byt3bl33d3r/WitnessMe)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
