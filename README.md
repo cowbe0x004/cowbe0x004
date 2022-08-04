@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PersistenceSniper](https://github.com/last-byte/PersistenceSniper)
 - [cowbe0x004 starred Mara](https://github.com/io-tl/Mara)
 - [cowbe0x004 starred shelljack](https://github.com/emptymonkey/shelljack)
 - [cowbe0x004 starred maldev-for-dummies](https://github.com/chvancooten/maldev-for-dummies)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred gowitness](https://github.com/sensepost/gowitness)
 - [cowbe0x004 starred OSWE-Prep](https://github.com/kajalNair/OSWE-Prep)
 - [cowbe0x004 starred PWF](https://github.com/bluecapesecurity/PWF)
-- [cowbe0x004 starred dangerzone](https://github.com/freedomofpress/dangerzone)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
