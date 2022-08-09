@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred BlueHound](https://github.com/zeronetworks/BlueHound)
 - [cowbe0x004 starred peetch](https://github.com/quarkslab/peetch)
 - [cowbe0x004 starred protections-artifacts](https://github.com/elastic/protections-artifacts)
 - [cowbe0x004 starred PersistenceSniper](https://github.com/last-byte/PersistenceSniper)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred manticoresearch](https://github.com/manticoresoftware/manticoresearch)
 - [cowbe0x004 starred bpflock](https://github.com/linux-lock/bpflock)
 - [cowbe0x004 starred Azure_Workshop](https://github.com/mandiant/Azure_Workshop)
-- [cowbe0x004 starred gowitness](https://github.com/sensepost/gowitness)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
