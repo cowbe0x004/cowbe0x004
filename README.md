@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Malware-IOCs](https://github.com/executemalware/Malware-IOCs)
 - [cowbe0x004 starred packj](https://github.com/ossillate-inc/packj)
 - [cowbe0x004 starred BlueHound](https://github.com/zeronetworks/BlueHound)
 - [cowbe0x004 starred peetch](https://github.com/quarkslab/peetch)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred shelljack](https://github.com/emptymonkey/shelljack)
 - [cowbe0x004 starred maldev-for-dummies](https://github.com/chvancooten/maldev-for-dummies)
 - [cowbe0x004 starred manticoresearch](https://github.com/manticoresoftware/manticoresearch)
-- [cowbe0x004 starred bpflock](https://github.com/linux-lock/bpflock)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
