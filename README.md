@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SMBploit](https://github.com/Xcod3bughunt3r/SMBploit)
+- [cowbe0x004 starred wtfis](https://github.com/pirxthepilot/wtfis)
 - [cowbe0x004 starred HijackLibs](https://github.com/wietze/HijackLibs)
 - [cowbe0x004 starred Intune-ACSC-Windows-Hardening-Guidelines](https://github.com/microsoft/Intune-ACSC-Windows-Hardening-Guidelines)
 - [cowbe0x004 starred Malware-IOCs](https://github.com/executemalware/Malware-IOCs)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred peetch](https://github.com/quarkslab/peetch)
 - [cowbe0x004 starred protections-artifacts](https://github.com/elastic/protections-artifacts)
 - [cowbe0x004 starred PersistenceSniper](https://github.com/last-byte/PersistenceSniper)
-- [cowbe0x004 starred Mara](https://github.com/io-tl/Mara)
-- [cowbe0x004 starred shelljack](https://github.com/emptymonkey/shelljack)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
