@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred HijackLibs](https://github.com/wietze/HijackLibs)
 - [cowbe0x004 starred Intune-ACSC-Windows-Hardening-Guidelines](https://github.com/microsoft/Intune-ACSC-Windows-Hardening-Guidelines)
 - [cowbe0x004 starred Malware-IOCs](https://github.com/executemalware/Malware-IOCs)
 - [cowbe0x004 starred packj](https://github.com/ossillate-inc/packj)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred PersistenceSniper](https://github.com/last-byte/PersistenceSniper)
 - [cowbe0x004 starred Mara](https://github.com/io-tl/Mara)
 - [cowbe0x004 starred shelljack](https://github.com/emptymonkey/shelljack)
-- [cowbe0x004 starred maldev-for-dummies](https://github.com/chvancooten/maldev-for-dummies)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
