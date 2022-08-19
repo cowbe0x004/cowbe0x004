@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred crAPI](https://github.com/OWASP/crAPI)
 - [cowbe0x004 starred hoaxshell](https://github.com/t3l3machus/hoaxshell)
 - [cowbe0x004 starred SMBploit](https://github.com/Xcod3bughunt3r/SMBploit)
 - [cowbe0x004 starred wtfis](https://github.com/pirxthepilot/wtfis)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred packj](https://github.com/ossillate-inc/packj)
 - [cowbe0x004 starred BlueHound](https://github.com/zeronetworks/BlueHound)
 - [cowbe0x004 starred peetch](https://github.com/quarkslab/peetch)
-- [cowbe0x004 starred protections-artifacts](https://github.com/elastic/protections-artifacts)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
