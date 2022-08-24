@@ -44,12 +44,12 @@
 - [cowbe0x004 starred Zeek-Intelligence-Feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds)
 - [cowbe0x004 starred crAPI](https://github.com/OWASP/crAPI)
 - [cowbe0x004 starred hoaxshell](https://github.com/t3l3machus/hoaxshell)
-- [cowbe0x004 starred SMBploit](https://github.com/Xcod3bughunt3r/SMBploit)
 - [cowbe0x004 starred wtfis](https://github.com/pirxthepilot/wtfis)
 - [cowbe0x004 starred HijackLibs](https://github.com/wietze/HijackLibs)
 - [cowbe0x004 starred Intune-ACSC-Windows-Hardening-Guidelines](https://github.com/microsoft/Intune-ACSC-Windows-Hardening-Guidelines)
 - [cowbe0x004 starred Malware-IOCs](https://github.com/executemalware/Malware-IOCs)
 - [cowbe0x004 starred packj](https://github.com/ossillate-inc/packj)
+- [cowbe0x004 starred BlueHound](https://github.com/zeronetworks/BlueHound)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
