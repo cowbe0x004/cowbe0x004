@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Lastenzug](https://github.com/codewhitesec/Lastenzug)
 - [cowbe0x004 starred HardeningKitty](https://github.com/scipag/HardeningKitty)
 - [cowbe0x004 starred RPCMon](https://github.com/cyberark/RPCMon)
 - [cowbe0x004 starred Zeek-Intelligence-Feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred HijackLibs](https://github.com/wietze/HijackLibs)
 - [cowbe0x004 starred Intune-ACSC-Windows-Hardening-Guidelines](https://github.com/microsoft/Intune-ACSC-Windows-Hardening-Guidelines)
 - [cowbe0x004 starred Malware-IOCs](https://github.com/executemalware/Malware-IOCs)
-- [cowbe0x004 starred packj](https://github.com/ossillate-inc/packj)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
