@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Havoc](https://github.com/HavocFramework/Havoc)
 - [cowbe0x004 starred nginxpwner](https://github.com/stark0de/nginxpwner)
 - [cowbe0x004 starred Lastenzug](https://github.com/codewhitesec/Lastenzug)
 - [cowbe0x004 starred HardeningKitty](https://github.com/scipag/HardeningKitty)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred hoaxshell](https://github.com/t3l3machus/hoaxshell)
 - [cowbe0x004 starred wtfis](https://github.com/pirxthepilot/wtfis)
 - [cowbe0x004 starred HijackLibs](https://github.com/wietze/HijackLibs)
-- [cowbe0x004 starred Intune-ACSC-Windows-Hardening-Guidelines](https://github.com/microsoft/Intune-ACSC-Windows-Hardening-Guidelines)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
