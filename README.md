@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred nfdump](https://github.com/phaag/nfdump)
 - [cowbe0x004 starred ghauri](https://github.com/r0oth3x49/ghauri)
 - [cowbe0x004 starred Havoc](https://github.com/HavocFramework/Havoc)
 - [cowbe0x004 starred nginxpwner](https://github.com/stark0de/nginxpwner)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Zeek-Intelligence-Feeds](https://github.com/CriticalPathSecurity/Zeek-Intelligence-Feeds)
 - [cowbe0x004 starred crAPI](https://github.com/OWASP/crAPI)
 - [cowbe0x004 starred hoaxshell](https://github.com/t3l3machus/hoaxshell)
-- [cowbe0x004 starred wtfis](https://github.com/pirxthepilot/wtfis)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
