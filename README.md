@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ssh-audit](https://github.com/jtesta/ssh-audit)
+- [cowbe0x004 starred Ladon](https://github.com/k8gege/Ladon)
 - [cowbe0x004 starred akamai-security-research](https://github.com/akamai/akamai-security-research)
 - [cowbe0x004 starred xSMTP](https://github.com/c99tn/xSMTP)
 - [cowbe0x004 starred Above](https://github.com/in9uz/Above)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Havoc](https://github.com/HavocFramework/Havoc)
 - [cowbe0x004 starred nginxpwner](https://github.com/stark0de/nginxpwner)
 - [cowbe0x004 starred Lastenzug](https://github.com/codewhitesec/Lastenzug)
-- [cowbe0x004 starred HardeningKitty](https://github.com/scipag/HardeningKitty)
-- [cowbe0x004 starred RPCMon](https://github.com/cyberark/RPCMon)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
