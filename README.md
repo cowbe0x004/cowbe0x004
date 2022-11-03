@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred vucsa](https://github.com/Warxim/vucsa)
 - [cowbe0x004 starred ssh-audit](https://github.com/jtesta/ssh-audit)
 - [cowbe0x004 starred Ladon](https://github.com/k8gege/Ladon)
 - [cowbe0x004 starred akamai-security-research](https://github.com/akamai/akamai-security-research)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ghauri](https://github.com/r0oth3x49/ghauri)
 - [cowbe0x004 starred Havoc](https://github.com/HavocFramework/Havoc)
 - [cowbe0x004 starred nginxpwner](https://github.com/stark0de/nginxpwner)
-- [cowbe0x004 starred Lastenzug](https://github.com/codewhitesec/Lastenzug)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
