@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Methodology](https://github.com/lutzenfried/Methodology)
 - [cowbe0x004 starred vucsa](https://github.com/Warxim/vucsa)
 - [cowbe0x004 starred ssh-audit](https://github.com/jtesta/ssh-audit)
 - [cowbe0x004 starred Ladon](https://github.com/k8gege/Ladon)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred nfdump](https://github.com/phaag/nfdump)
 - [cowbe0x004 starred ghauri](https://github.com/r0oth3x49/ghauri)
 - [cowbe0x004 starred Havoc](https://github.com/HavocFramework/Havoc)
-- [cowbe0x004 starred nginxpwner](https://github.com/stark0de/nginxpwner)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
