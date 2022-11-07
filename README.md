@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred karate](https://github.com/karatelabs/karate)
 - [cowbe0x004 starred SingleDose](https://github.com/Wra7h/SingleDose)
 - [cowbe0x004 starred Methodology](https://github.com/lutzenfried/Methodology)
 - [cowbe0x004 starred vucsa](https://github.com/Warxim/vucsa)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred xSMTP](https://github.com/c99tn/xSMTP)
 - [cowbe0x004 starred Above](https://github.com/in9uz/Above)
 - [cowbe0x004 starred nfdump](https://github.com/phaag/nfdump)
-- [cowbe0x004 starred ghauri](https://github.com/r0oth3x49/ghauri)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
