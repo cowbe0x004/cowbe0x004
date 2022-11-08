@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred metlo](https://github.com/metlo-labs/metlo)
 - [cowbe0x004 starred karate](https://github.com/karatelabs/karate)
 - [cowbe0x004 starred SingleDose](https://github.com/Wra7h/SingleDose)
 - [cowbe0x004 starred Methodology](https://github.com/lutzenfried/Methodology)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred akamai-security-research](https://github.com/akamai/akamai-security-research)
 - [cowbe0x004 starred xSMTP](https://github.com/c99tn/xSMTP)
 - [cowbe0x004 starred Above](https://github.com/in9uz/Above)
-- [cowbe0x004 starred nfdump](https://github.com/phaag/nfdump)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
