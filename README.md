@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred autossrf](https://github.com/Th0h0/autossrf)
 - [cowbe0x004 starred Home-Grown-Red-Team](https://github.com/assume-breach/Home-Grown-Red-Team)
 - [cowbe0x004 starred metlo](https://github.com/metlo-labs/metlo)
 - [cowbe0x004 starred karate](https://github.com/karatelabs/karate)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ssh-audit](https://github.com/jtesta/ssh-audit)
 - [cowbe0x004 starred Ladon](https://github.com/k8gege/Ladon)
 - [cowbe0x004 starred akamai-security-research](https://github.com/akamai/akamai-security-research)
-- [cowbe0x004 starred xSMTP](https://github.com/c99tn/xSMTP)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
