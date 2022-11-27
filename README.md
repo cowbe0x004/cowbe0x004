@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred DFIRArtifactMuseum](https://github.com/AndrewRathbun/DFIRArtifactMuseum)
 - [cowbe0x004 starred Fast-Ansible](https://github.com/omerbsezer/Fast-Ansible)
 - [cowbe0x004 starred laZzzy](https://github.com/capt-meelo/laZzzy)
 - [cowbe0x004 starred autossrf](https://github.com/Th0h0/autossrf)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SingleDose](https://github.com/Wra7h/SingleDose)
 - [cowbe0x004 starred Methodology](https://github.com/lutzenfried/Methodology)
 - [cowbe0x004 starred vucsa](https://github.com/Warxim/vucsa)
-- [cowbe0x004 starred ssh-audit](https://github.com/jtesta/ssh-audit)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
