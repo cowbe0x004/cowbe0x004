@@ -54,11 +54,11 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
+- [RT Ali Hadi | B!n@ry: Here we go again. Will randomly choose end of Nov. one person to attend the @cyber5w #CCDFA certification LIVE with me starting ...](https://twitter.com/binaryz0ne/status/1593025491430436866)
 - [RT Formuler: Formuler Z11 Series &amp; MYTVOnline 3 Launching Celebration Giveaway! Participate and win a Formuler Z11 Pro Max with MYTVOnline 3! Watch th...](https://twitter.com/FormulerTv/status/1590879042223624192)
 - [RT Florian Roth ⚡: This AMSI bypass in PowerShell is very good obfuscated and compact at the same time](https://twitter.com/cyb3rops/status/1588574518057979905)
 - [RT Formuler: This is the second giveaway of Formuler 2022 Spring Giveaway Series! Please join and share with your friends, family, and loved ones. We ...](https://twitter.com/FormulerTv/status/1529264109971091456)
 - [RT sam4k: Tore myself away from Elden Ring long enough to finish part 2 of my virtual memory mini-series, where I ramble about the user virtual addres...](https://twitter.com/sam4k1/status/1505639833582161926)
-- [RT Jonas Lejon: One-liner to detect dirtypipe with auditd on linux systems: -a always,exit -F arch=b64 -S splice -F a0=0x3 -F a2=0x5 -F a3=0x0 -F key=...](https://twitter.com/jonasl/status/1501840914381258756)
 <!-- TWEETS:END -->
 
 ---
