@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred legitify](https://github.com/Legit-Labs/legitify)
 - [cowbe0x004 starred Hoarder](https://github.com/muteb/Hoarder)
 - [cowbe0x004 starred vulnerability-write-ups](https://github.com/b1ack0wl/vulnerability-write-ups)
 - [cowbe0x004 starred DFIRArtifactMuseum](https://github.com/AndrewRathbun/DFIRArtifactMuseum)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Home-Grown-Red-Team](https://github.com/assume-breach/Home-Grown-Red-Team)
 - [cowbe0x004 starred metlo](https://github.com/metlo-labs/metlo)
 - [cowbe0x004 starred karate](https://github.com/karatelabs/karate)
-- [cowbe0x004 starred SingleDose](https://github.com/Wra7h/SingleDose)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
