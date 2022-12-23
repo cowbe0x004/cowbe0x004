@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred logstash-modsecurity](https://github.com/bitsofinfo/logstash-modsecurity)
 - [cowbe0x004 starred CasaOS](https://github.com/IceWhaleTech/CasaOS)
 - [cowbe0x004 starred FarsightAD](https://github.com/Qazeer/FarsightAD)
 - [cowbe0x004 starred legitify](https://github.com/Legit-Labs/legitify)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Fast-Ansible](https://github.com/omerbsezer/Fast-Ansible)
 - [cowbe0x004 starred laZzzy](https://github.com/capt-meelo/laZzzy)
 - [cowbe0x004 starred autossrf](https://github.com/Th0h0/autossrf)
-- [cowbe0x004 starred Home-Grown-Red-Team](https://github.com/assume-breach/Home-Grown-Red-Team)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
