@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred indoxploit-shell](https://github.com/0xAsuka/indoxploit-shell)
+- [cowbe0x004 starred cowexploit-shell](https://github.com/Cvar1984/cowexploit-shell)
 - [cowbe0x004 starred SecurityExplained](https://github.com/harsh-bothra/SecurityExplained)
 - [cowbe0x004 starred openmiko](https://github.com/openmiko/openmiko)
 - [cowbe0x004 starred logstash-modsecurity](https://github.com/bitsofinfo/logstash-modsecurity)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred legitify](https://github.com/Legit-Labs/legitify)
 - [cowbe0x004 starred Hoarder](https://github.com/muteb/Hoarder)
 - [cowbe0x004 starred vulnerability-write-ups](https://github.com/b1ack0wl/vulnerability-write-ups)
-- [cowbe0x004 starred DFIRArtifactMuseum](https://github.com/AndrewRathbun/DFIRArtifactMuseum)
-- [cowbe0x004 starred Fast-Ansible](https://github.com/omerbsezer/Fast-Ansible)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
