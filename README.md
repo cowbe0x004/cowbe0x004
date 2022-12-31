@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred matano](https://github.com/matanolabs/matano)
 - [cowbe0x004 starred JustEvadeBro](https://github.com/sinfulz/JustEvadeBro)
 - [cowbe0x004 starred indoxploit-shell](https://github.com/0xAsuka/indoxploit-shell)
 - [cowbe0x004 starred cowexploit-shell](https://github.com/Cvar1984/cowexploit-shell)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred CasaOS](https://github.com/IceWhaleTech/CasaOS)
 - [cowbe0x004 starred FarsightAD](https://github.com/Qazeer/FarsightAD)
 - [cowbe0x004 starred legitify](https://github.com/Legit-Labs/legitify)
-- [cowbe0x004 starred Hoarder](https://github.com/muteb/Hoarder)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
