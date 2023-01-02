@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred cypherhound](https://github.com/fin3ss3g0d/cypherhound)
 - [cowbe0x004 starred matano](https://github.com/matanolabs/matano)
 - [cowbe0x004 starred JustEvadeBro](https://github.com/sinfulz/JustEvadeBro)
 - [cowbe0x004 starred indoxploit-shell](https://github.com/0xAsuka/indoxploit-shell)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred logstash-modsecurity](https://github.com/bitsofinfo/logstash-modsecurity)
 - [cowbe0x004 starred CasaOS](https://github.com/IceWhaleTech/CasaOS)
 - [cowbe0x004 starred FarsightAD](https://github.com/Qazeer/FarsightAD)
-- [cowbe0x004 starred legitify](https://github.com/Legit-Labs/legitify)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
