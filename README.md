@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SentinelKQL](https://github.com/rod-trent/SentinelKQL)
+- [cowbe0x004 starred Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
+- [cowbe0x004 starred KQL-Search](https://github.com/ugurkocde/KQL-Search)
 - [cowbe0x004 starred cypherhound](https://github.com/fin3ss3g0d/cypherhound)
 - [cowbe0x004 starred matano](https://github.com/matanolabs/matano)
 - [cowbe0x004 starred JustEvadeBro](https://github.com/sinfulz/JustEvadeBro)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred cowexploit-shell](https://github.com/Cvar1984/cowexploit-shell)
 - [cowbe0x004 starred SecurityExplained](https://github.com/harsh-bothra/SecurityExplained)
 - [cowbe0x004 starred openmiko](https://github.com/openmiko/openmiko)
-- [cowbe0x004 starred logstash-modsecurity](https://github.com/bitsofinfo/logstash-modsecurity)
-- [cowbe0x004 starred CasaOS](https://github.com/IceWhaleTech/CasaOS)
-- [cowbe0x004 starred FarsightAD](https://github.com/Qazeer/FarsightAD)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
