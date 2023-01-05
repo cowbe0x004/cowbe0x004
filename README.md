@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred defcon_27_windbg_workshop](https://github.com/hugsy/defcon_27_windbg_workshop)
 - [cowbe0x004 starred SentinelKQL](https://github.com/rod-trent/SentinelKQL)
 - [cowbe0x004 starred Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
 - [cowbe0x004 starred KQL-Search](https://github.com/ugurkocde/KQL-Search)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred indoxploit-shell](https://github.com/0xAsuka/indoxploit-shell)
 - [cowbe0x004 starred cowexploit-shell](https://github.com/Cvar1984/cowexploit-shell)
 - [cowbe0x004 starred SecurityExplained](https://github.com/harsh-bothra/SecurityExplained)
-- [cowbe0x004 starred openmiko](https://github.com/openmiko/openmiko)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
