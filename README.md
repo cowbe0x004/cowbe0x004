@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred yark](https://github.com/Owez/yark)
 - [cowbe0x004 starred Cohab_Processes](https://github.com/Octoberfest7/Cohab_Processes)
 - [cowbe0x004 starred defcon_27_windbg_workshop](https://github.com/hugsy/defcon_27_windbg_workshop)
 - [cowbe0x004 starred SentinelKQL](https://github.com/rod-trent/SentinelKQL)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred matano](https://github.com/matanolabs/matano)
 - [cowbe0x004 starred JustEvadeBro](https://github.com/sinfulz/JustEvadeBro)
 - [cowbe0x004 starred indoxploit-shell](https://github.com/0xAsuka/indoxploit-shell)
-- [cowbe0x004 starred cowexploit-shell](https://github.com/Cvar1984/cowexploit-shell)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
