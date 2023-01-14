@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SOC-Multitool](https://github.com/zdhenard42/SOC-Multitool)
 - [cowbe0x004 starred PowerHuntShares](https://github.com/NetSPI/PowerHuntShares)
 - [cowbe0x004 starred waf-bypass](https://github.com/nemesida-waf/waf-bypass)
 - [cowbe0x004 starred osv-scanner](https://github.com/google/osv-scanner)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SentinelKQL](https://github.com/rod-trent/SentinelKQL)
 - [cowbe0x004 starred Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
 - [cowbe0x004 starred KQL-Search](https://github.com/ugurkocde/KQL-Search)
-- [cowbe0x004 starred cypherhound](https://github.com/fin3ss3g0d/cypherhound)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
