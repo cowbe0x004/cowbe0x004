@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred 2022](https://github.com/100DaysofYARA/2022)
+- [cowbe0x004 starred 2023](https://github.com/100DaysofYARA/2023)
 - [cowbe0x004 starred SOC-Multitool](https://github.com/zdhenard42/SOC-Multitool)
 - [cowbe0x004 starred PowerHuntShares](https://github.com/NetSPI/PowerHuntShares)
 - [cowbe0x004 starred waf-bypass](https://github.com/nemesida-waf/waf-bypass)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Cohab_Processes](https://github.com/Octoberfest7/Cohab_Processes)
 - [cowbe0x004 starred defcon_27_windbg_workshop](https://github.com/hugsy/defcon_27_windbg_workshop)
 - [cowbe0x004 starred SentinelKQL](https://github.com/rod-trent/SentinelKQL)
-- [cowbe0x004 starred Sentinel-Queries](https://github.com/reprise99/Sentinel-Queries)
-- [cowbe0x004 starred KQL-Search](https://github.com/ugurkocde/KQL-Search)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
