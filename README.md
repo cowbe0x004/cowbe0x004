@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred hass-browser_mod](https://github.com/thomasloven/hass-browser_mod)
 - [cowbe0x004 starred linux_injector](https://github.com/namazso/linux_injector)
 - [cowbe0x004 starred 2022](https://github.com/100DaysofYARA/2022)
 - [cowbe0x004 starred 2023](https://github.com/100DaysofYARA/2023)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred osv-scanner](https://github.com/google/osv-scanner)
 - [cowbe0x004 starred yark](https://github.com/Owez/yark)
 - [cowbe0x004 starred Cohab_Processes](https://github.com/Octoberfest7/Cohab_Processes)
-- [cowbe0x004 starred defcon_27_windbg_workshop](https://github.com/hugsy/defcon_27_windbg_workshop)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
