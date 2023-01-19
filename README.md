@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred TheDefendersGuide](https://github.com/Defenders-Guide/TheDefendersGuide)
 - [cowbe0x004 starred build](https://github.com/preludeorg/build)
 - [cowbe0x004 starred hass-browser_mod](https://github.com/thomasloven/hass-browser_mod)
 - [cowbe0x004 starred linux_injector](https://github.com/namazso/linux_injector)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred PowerHuntShares](https://github.com/NetSPI/PowerHuntShares)
 - [cowbe0x004 starred waf-bypass](https://github.com/nemesida-waf/waf-bypass)
 - [cowbe0x004 starred osv-scanner](https://github.com/google/osv-scanner)
-- [cowbe0x004 starred yark](https://github.com/Owez/yark)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
