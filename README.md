@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SilentHound](https://github.com/layer8secure/SilentHound)
 - [cowbe0x004 starred Challenges_2022_Public](https://github.com/DownUnderCTF/Challenges_2022_Public)
 - [cowbe0x004 starred TheDefendersGuide](https://github.com/Defenders-Guide/TheDefendersGuide)
 - [cowbe0x004 starred build](https://github.com/preludeorg/build)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred 2023](https://github.com/100DaysofYARA/2023)
 - [cowbe0x004 starred SOC-Multitool](https://github.com/zdhenard42/SOC-Multitool)
 - [cowbe0x004 starred PowerHuntShares](https://github.com/NetSPI/PowerHuntShares)
-- [cowbe0x004 starred waf-bypass](https://github.com/nemesida-waf/waf-bypass)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
