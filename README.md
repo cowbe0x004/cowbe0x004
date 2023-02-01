@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred burpa](https://github.com/tristanlatr/burpa)
 - [cowbe0x004 starred FlavorTown](https://github.com/Wra7h/FlavorTown)
 - [cowbe0x004 starred sshd_backdoor](https://github.com/Esonhugh/sshd_backdoor)
 - [cowbe0x004 starred Threat_Hunting](https://github.com/BankSecurity/Threat_Hunting)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Challenges_2022_Public](https://github.com/DownUnderCTF/Challenges_2022_Public)
 - [cowbe0x004 starred TheDefendersGuide](https://github.com/Defenders-Guide/TheDefendersGuide)
 - [cowbe0x004 starred build](https://github.com/preludeorg/build)
-- [cowbe0x004 starred hass-browser_mod](https://github.com/thomasloven/hass-browser_mod)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
