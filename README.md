@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred CTFs](https://github.com/Adamkadaban/CTFs)
 - [cowbe0x004 starred PSpersist](https://github.com/TheD1rkMtr/PSpersist)
 - [cowbe0x004 starred activepieces](https://github.com/activepieces/activepieces)
 - [cowbe0x004 starred burpa](https://github.com/tristanlatr/burpa)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred dc-sonar](https://github.com/ST1LLY/dc-sonar)
 - [cowbe0x004 starred infisical](https://github.com/Infisical/infisical)
 - [cowbe0x004 starred SilentHound](https://github.com/layer8secure/SilentHound)
-- [cowbe0x004 starred Challenges_2022_Public](https://github.com/DownUnderCTF/Challenges_2022_Public)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
