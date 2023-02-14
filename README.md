@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Anti-Forensics](https://github.com/ashemery/Anti-Forensics)
 - [cowbe0x004 starred noseyparker](https://github.com/praetorian-inc/noseyparker)
 - [cowbe0x004 starred wiresocks](https://github.com/sensepost/wiresocks)
 - [cowbe0x004 starred CTFs](https://github.com/Adamkadaban/CTFs)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred FlavorTown](https://github.com/Wra7h/FlavorTown)
 - [cowbe0x004 starred sshd_backdoor](https://github.com/Esonhugh/sshd_backdoor)
 - [cowbe0x004 starred Threat_Hunting](https://github.com/BankSecurity/Threat_Hunting)
-- [cowbe0x004 starred dc-sonar](https://github.com/ST1LLY/dc-sonar)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
