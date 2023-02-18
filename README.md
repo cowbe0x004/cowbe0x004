@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred upload_bypass_carnage](https://github.com/sAjibuu/upload_bypass_carnage)
 - [cowbe0x004 starred SharpSCCM](https://github.com/Mayyhem/SharpSCCM)
 - [cowbe0x004 starred web-hacking-playground](https://github.com/takito1812/web-hacking-playground)
 - [cowbe0x004 starred Anti-Forensics](https://github.com/ashemery/Anti-Forensics)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred PSpersist](https://github.com/TheD1rkMtr/PSpersist)
 - [cowbe0x004 starred activepieces](https://github.com/activepieces/activepieces)
 - [cowbe0x004 starred burpa](https://github.com/tristanlatr/burpa)
-- [cowbe0x004 starred FlavorTown](https://github.com/Wra7h/FlavorTown)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
