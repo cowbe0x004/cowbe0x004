@@ -40,7 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred upload_bypass_carnage](https://github.com/sAjibuu/upload_bypass_carnage)
+- [cowbe0x004 starred upload_bypass](https://github.com/sAjibuu/upload_bypass)
 - [cowbe0x004 starred SharpSCCM](https://github.com/Mayyhem/SharpSCCM)
 - [cowbe0x004 starred web-hacking-playground](https://github.com/takito1812/web-hacking-playground)
 - [cowbe0x004 starred Anti-Forensics](https://github.com/ashemery/Anti-Forensics)
