@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred input-leap](https://github.com/input-leap/input-leap)
 - [cowbe0x004 starred IPED](https://github.com/sepinf-inc/IPED)
 - [cowbe0x004 starred upload_bypass](https://github.com/sAjibuu/upload_bypass)
 - [cowbe0x004 starred SharpSCCM](https://github.com/Mayyhem/SharpSCCM)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred wiresocks](https://github.com/sensepost/wiresocks)
 - [cowbe0x004 starred CTFs](https://github.com/Adamkadaban/CTFs)
 - [cowbe0x004 starred PSpersist](https://github.com/TheD1rkMtr/PSpersist)
-- [cowbe0x004 starred activepieces](https://github.com/activepieces/activepieces)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
