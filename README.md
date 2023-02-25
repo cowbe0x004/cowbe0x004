@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred TelemetrySource](https://github.com/jsecurity101/TelemetrySource)
+- [cowbe0x004 starred offsec-tools](https://github.com/Syslifters/offsec-tools)
 - [cowbe0x004 starred input-leap](https://github.com/input-leap/input-leap)
 - [cowbe0x004 starred IPED](https://github.com/sepinf-inc/IPED)
 - [cowbe0x004 starred upload_bypass](https://github.com/sAjibuu/upload_bypass)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Anti-Forensics](https://github.com/ashemery/Anti-Forensics)
 - [cowbe0x004 starred noseyparker](https://github.com/praetorian-inc/noseyparker)
 - [cowbe0x004 starred wiresocks](https://github.com/sensepost/wiresocks)
-- [cowbe0x004 starred CTFs](https://github.com/Adamkadaban/CTFs)
-- [cowbe0x004 starred PSpersist](https://github.com/TheD1rkMtr/PSpersist)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
