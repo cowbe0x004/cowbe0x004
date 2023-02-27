@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred AtomLdr](https://github.com/NUL0x4C/AtomLdr)
 - [cowbe0x004 starred Mindmap](https://github.com/Ignitetechnologies/Mindmap)
 - [cowbe0x004 starred kc7_data](https://github.com/kkneomis/kc7_data)
 - [cowbe0x004 starred kc7](https://github.com/kkneomis/kc7)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred IPED](https://github.com/sepinf-inc/IPED)
 - [cowbe0x004 starred upload_bypass](https://github.com/sAjibuu/upload_bypass)
 - [cowbe0x004 starred SharpSCCM](https://github.com/Mayyhem/SharpSCCM)
-- [cowbe0x004 starred web-hacking-playground](https://github.com/takito1812/web-hacking-playground)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
