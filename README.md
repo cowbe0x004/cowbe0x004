@@ -58,7 +58,7 @@
 - [RT Oliver Lyak: Today we&#39;re publishing new techniques for recovering NTLM hashes from encrypted credentials protected by Windows Defender Credential G...](https://twitter.com/ly4k_/status/1607477540242718721)
 - [RT Ali Hadi | B!n@ry: Here we go again. Will randomly choose end of Nov. one person to attend the @cyber5w #CCDFA certification LIVE with me starting ...](https://twitter.com/binaryz0ne/status/1593025491430436866)
 - [RT Formuler: Formuler Z11 Series &amp; MYTVOnline 3 Launching Celebration Giveaway! Participate and win a Formuler Z11 Pro Max with MYTVOnline 3! Watch th...](https://twitter.com/FormulerTv/status/1590879042223624192)
-- [RT Florian Roth ⚡: This AMSI bypass in PowerShell is very good obfuscated and compact at the same time https://hastebin.com/seyapuzanu.md https://t.c...](https://twitter.com/cyb3rops/status/1588574518057979905)
+- [RT Florian Roth: This AMSI bypass in PowerShell is very good obfuscated and compact at the same time https://hastebin.com/seyapuzanu.md https://t.co/8...](https://twitter.com/cyb3rops/status/1588574518057979905)
 <!-- TWEETS:END -->
 
 ---
