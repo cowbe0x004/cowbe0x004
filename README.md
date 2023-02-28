@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Amsi-Killer](https://github.com/ZeroMemoryEx/Amsi-Killer)
+- [cowbe0x004 starred Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security)
+- [cowbe0x004 starred Locksmith](https://github.com/TrimarcJake/Locksmith)
 - [cowbe0x004 starred AtomLdr](https://github.com/NUL0x4C/AtomLdr)
 - [cowbe0x004 starred Mindmap](https://github.com/Ignitetechnologies/Mindmap)
 - [cowbe0x004 starred kc7_data](https://github.com/kkneomis/kc7_data)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred TelemetrySource](https://github.com/jsecurity101/TelemetrySource)
 - [cowbe0x004 starred offsec-tools](https://github.com/Syslifters/offsec-tools)
 - [cowbe0x004 starred input-leap](https://github.com/input-leap/input-leap)
-- [cowbe0x004 starred IPED](https://github.com/sepinf-inc/IPED)
-- [cowbe0x004 starred upload_bypass](https://github.com/sAjibuu/upload_bypass)
-- [cowbe0x004 starred SharpSCCM](https://github.com/Mayyhem/SharpSCCM)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
