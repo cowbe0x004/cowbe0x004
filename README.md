@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Aladdin](https://github.com/nettitude/Aladdin)
 - [cowbe0x004 starred Vol3xp](https://github.com/memoryforensics1/Vol3xp)
 - [cowbe0x004 starred rootkit_plugins](https://github.com/AsafEitani/rootkit_plugins)
 - [cowbe0x004 starred Amsi-Killer](https://github.com/ZeroMemoryEx/Amsi-Killer)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Mindmap](https://github.com/Ignitetechnologies/Mindmap)
 - [cowbe0x004 starred kc7_data](https://github.com/kkneomis/kc7_data)
 - [cowbe0x004 starred kc7](https://github.com/kkneomis/kc7)
-- [cowbe0x004 starred TelemetrySource](https://github.com/jsecurity101/TelemetrySource)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
