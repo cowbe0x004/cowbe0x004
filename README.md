@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Silhouette](https://github.com/elastic/Silhouette)
+- [cowbe0x004 starred autobloody](https://github.com/CravateRouge/autobloody)
 - [cowbe0x004 starred Aladdin](https://github.com/nettitude/Aladdin)
 - [cowbe0x004 starred Vol3xp](https://github.com/memoryforensics1/Vol3xp)
 - [cowbe0x004 starred rootkit_plugins](https://github.com/AsafEitani/rootkit_plugins)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Locksmith](https://github.com/TrimarcJake/Locksmith)
 - [cowbe0x004 starred AtomLdr](https://github.com/NUL0x4C/AtomLdr)
 - [cowbe0x004 starred Mindmap](https://github.com/Ignitetechnologies/Mindmap)
-- [cowbe0x004 starred kc7_data](https://github.com/kkneomis/kc7_data)
-- [cowbe0x004 starred kc7](https://github.com/kkneomis/kc7)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
