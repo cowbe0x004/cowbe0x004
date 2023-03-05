@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred synapse](https://github.com/vertexproject/synapse)
 - [cowbe0x004 starred Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)
 - [cowbe0x004 starred blogposts](https://github.com/NVISOsecurity/blogposts)
 - [cowbe0x004 starred Silhouette](https://github.com/elastic/Silhouette)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred rootkit_plugins](https://github.com/AsafEitani/rootkit_plugins)
 - [cowbe0x004 starred Amsi-Killer](https://github.com/ZeroMemoryEx/Amsi-Killer)
 - [cowbe0x004 starred Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security)
-- [cowbe0x004 starred Locksmith](https://github.com/TrimarcJake/Locksmith)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
