@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Nidhogg](https://github.com/Idov31/Nidhogg)
+- [cowbe0x004 starred ChopChopGo](https://github.com/M00NLIG7/ChopChopGo)
+- [cowbe0x004 starred awesome-kubernetes-threat-detection](https://github.com/jatrost/awesome-kubernetes-threat-detection)
+- [cowbe0x004 starred cli](https://github.com/phylum-dev/cli)
 - [cowbe0x004 starred synapse](https://github.com/vertexproject/synapse)
 - [cowbe0x004 starred Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)
 - [cowbe0x004 starred blogposts](https://github.com/NVISOsecurity/blogposts)
 - [cowbe0x004 starred Silhouette](https://github.com/elastic/Silhouette)
 - [cowbe0x004 starred autobloody](https://github.com/CravateRouge/autobloody)
 - [cowbe0x004 starred Aladdin](https://github.com/nettitude/Aladdin)
-- [cowbe0x004 starred Vol3xp](https://github.com/memoryforensics1/Vol3xp)
-- [cowbe0x004 starred rootkit_plugins](https://github.com/AsafEitani/rootkit_plugins)
-- [cowbe0x004 starred Amsi-Killer](https://github.com/ZeroMemoryEx/Amsi-Killer)
-- [cowbe0x004 starred Harden-Windows-Security](https://github.com/HotCakeX/Harden-Windows-Security)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
