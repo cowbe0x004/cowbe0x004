@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Gank-RECON](https://github.com/cold-try/Gank-RECON)
 - [cowbe0x004 starred Basic-Rootkit](https://github.com/adamhlt/Basic-Rootkit)
 - [cowbe0x004 starred Nidhogg](https://github.com/Idov31/Nidhogg)
 - [cowbe0x004 starred ChopChopGo](https://github.com/M00NLIG7/ChopChopGo)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)
 - [cowbe0x004 starred blogposts](https://github.com/NVISOsecurity/blogposts)
 - [cowbe0x004 starred Silhouette](https://github.com/elastic/Silhouette)
-- [cowbe0x004 starred autobloody](https://github.com/CravateRouge/autobloody)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
