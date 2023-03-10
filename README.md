@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred MacOSThreatTrack](https://github.com/ab2pentest/MacOSThreatTrack)
+- [cowbe0x004 starred hackingtool](https://github.com/Z4nzu/hackingtool)
 - [cowbe0x004 starred Gank-RECON](https://github.com/cold-try/Gank-RECON)
 - [cowbe0x004 starred Basic-Rootkit](https://github.com/adamhlt/Basic-Rootkit)
 - [cowbe0x004 starred Nidhogg](https://github.com/Idov31/Nidhogg)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred cli](https://github.com/phylum-dev/cli)
 - [cowbe0x004 starred synapse](https://github.com/vertexproject/synapse)
 - [cowbe0x004 starred Hunting-Queries-Detection-Rules](https://github.com/Bert-JanP/Hunting-Queries-Detection-Rules)
-- [cowbe0x004 starred blogposts](https://github.com/NVISOsecurity/blogposts)
-- [cowbe0x004 starred Silhouette](https://github.com/elastic/Silhouette)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
