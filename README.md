@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred seed-lab-2.0-projects](https://github.com/ramesh-adhikari/seed-lab-2.0-projects)
 - [cowbe0x004 starred sublime-rules](https://github.com/sublime-security/sublime-rules)
 - [cowbe0x004 starred MacOSThreatTrack](https://github.com/ab2pentest/MacOSThreatTrack)
 - [cowbe0x004 starred hackingtool](https://github.com/Z4nzu/hackingtool)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ChopChopGo](https://github.com/M00NLIG7/ChopChopGo)
 - [cowbe0x004 starred awesome-kubernetes-threat-detection](https://github.com/jatrost/awesome-kubernetes-threat-detection)
 - [cowbe0x004 starred cli](https://github.com/phylum-dev/cli)
-- [cowbe0x004 starred synapse](https://github.com/vertexproject/synapse)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
