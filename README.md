@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred NMapify](https://github.com/Parimal-shaw/NMapify)
 - [cowbe0x004 starred memories](https://github.com/pulsejet/memories)
 - [cowbe0x004 starred forward-bash-history-to-syslog](https://github.com/alwashali/forward-bash-history-to-syslog)
 - [cowbe0x004 starred vmlinux-to-elf](https://github.com/marin-m/vmlinux-to-elf)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred hackingtool](https://github.com/Z4nzu/hackingtool)
 - [cowbe0x004 starred Gank-RECON](https://github.com/cold-try/Gank-RECON)
 - [cowbe0x004 starred Basic-Rootkit](https://github.com/adamhlt/Basic-Rootkit)
-- [cowbe0x004 starred Nidhogg](https://github.com/Idov31/Nidhogg)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
