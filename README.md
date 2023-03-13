@@ -55,10 +55,10 @@
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
 - [RT Alh4zr3d: Red Teamers: Windows Subsystem for Linux &lpar;WSL&rpar; is more and more common, especially on dev workstations. Don&#39;t neglect it! WSL rev shell: ...](https://twitter.com/Alh4zr3d/status/1633108045675786244)
+- [RT Grzegorz Tworek: Need an almost invisible, post-exploitation, persistent, fileless, LPE backdoor? There are many, but this one looks really beautif...](https://twitter.com/0gtweet/status/1628720819537936386)
 - [RT Mr. Rc 🇮🇳: Are you interested in learning reverse engineering in 2023? I&#39;ve spent the this year studying RE, and I want to share all the reso...](https://twitter.com/coder_rc/status/1608385931463258112)
 - [RT Oliver Lyak: Today we&#39;re publishing new techniques for recovering NTLM hashes from encrypted credentials protected by Windows Defender Credential G...](https://twitter.com/ly4k_/status/1607477540242718721)
 - [RT Ali Hadi | B!n@ry: Here we go again. Will randomly choose end of Nov. one person to attend the @cyber5w #CCDFA certification LIVE with me starting ...](https://twitter.com/binaryz0ne/status/1593025491430436866)
-- [RT Formuler: Formuler Z11 Series &amp; MYTVOnline 3 Launching Celebration Giveaway! Participate and win a Formuler Z11 Pro Max with MYTVOnline 3! Watch th...](https://twitter.com/FormulerTv/status/1590879042223624192)
 <!-- TWEETS:END -->
 
 ---
