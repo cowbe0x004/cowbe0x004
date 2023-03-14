@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred juicyinfo-nuclei-templates](https://github.com/cipher387/juicyinfo-nuclei-templates)
+- [cowbe0x004 starred Crawlector](https://github.com/MFMokbel/Crawlector)
+- [cowbe0x004 starred MindMap](https://github.com/eMVee-NL/MindMap)
 - [cowbe0x004 starred burp-dom-scanner](https://github.com/fcavallarin/burp-dom-scanner)
 - [cowbe0x004 starred MemProcFS-Analyzer](https://github.com/evild3ad/MemProcFS-Analyzer)
 - [cowbe0x004 starred A-Course-on-Digital-Forensics](https://github.com/asiamina/A-Course-on-Digital-Forensics)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred tlsx](https://github.com/projectdiscovery/tlsx)
 - [cowbe0x004 starred NMapify](https://github.com/Parimal-shaw/NMapify)
 - [cowbe0x004 starred memories](https://github.com/pulsejet/memories)
-- [cowbe0x004 starred forward-bash-history-to-syslog](https://github.com/alwashali/forward-bash-history-to-syslog)
-- [cowbe0x004 starred vmlinux-to-elf](https://github.com/marin-m/vmlinux-to-elf)
-- [cowbe0x004 starred seed-lab-2.0-projects](https://github.com/ramesh-adhikari/seed-lab-2.0-projects)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
