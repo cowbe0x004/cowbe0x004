@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PowerSiem](https://github.com/IppSec/PowerSiem)
+- [cowbe0x004 starred user.js](https://github.com/pyllyukko/user.js)
 - [cowbe0x004 starred certwatcher](https://github.com/drfabiocastro/certwatcher)
 - [cowbe0x004 starred 4-ZERO-3](https://github.com/Dheerajmadhukar/4-ZERO-3)
 - [cowbe0x004 starred juicyinfo-nuclei-templates](https://github.com/cipher387/juicyinfo-nuclei-templates)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred burp-dom-scanner](https://github.com/fcavallarin/burp-dom-scanner)
 - [cowbe0x004 starred MemProcFS-Analyzer](https://github.com/evild3ad/MemProcFS-Analyzer)
 - [cowbe0x004 starred A-Course-on-Digital-Forensics](https://github.com/asiamina/A-Course-on-Digital-Forensics)
-- [cowbe0x004 starred exploit-writing-for-oswe](https://github.com/rizemon/exploit-writing-for-oswe)
-- [cowbe0x004 starred tlsx](https://github.com/projectdiscovery/tlsx)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
