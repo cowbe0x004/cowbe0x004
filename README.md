@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred 4-ZERO-3](https://github.com/Dheerajmadhukar/4-ZERO-3)
 - [cowbe0x004 starred juicyinfo-nuclei-templates](https://github.com/cipher387/juicyinfo-nuclei-templates)
 - [cowbe0x004 starred Crawlector](https://github.com/MFMokbel/Crawlector)
 - [cowbe0x004 starred MindMap](https://github.com/eMVee-NL/MindMap)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred exploit-writing-for-oswe](https://github.com/rizemon/exploit-writing-for-oswe)
 - [cowbe0x004 starred tlsx](https://github.com/projectdiscovery/tlsx)
 - [cowbe0x004 starred NMapify](https://github.com/Parimal-shaw/NMapify)
-- [cowbe0x004 starred memories](https://github.com/pulsejet/memories)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
