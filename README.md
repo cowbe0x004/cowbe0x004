@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Compose-Examples](https://github.com/Haxxnet/Compose-Examples)
 - [cowbe0x004 starred PowerSiem](https://github.com/IppSec/PowerSiem)
 - [cowbe0x004 starred user.js](https://github.com/pyllyukko/user.js)
 - [cowbe0x004 starred certwatcher](https://github.com/drfabiocastro/certwatcher)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred MindMap](https://github.com/eMVee-NL/MindMap)
 - [cowbe0x004 starred burp-dom-scanner](https://github.com/fcavallarin/burp-dom-scanner)
 - [cowbe0x004 starred MemProcFS-Analyzer](https://github.com/evild3ad/MemProcFS-Analyzer)
-- [cowbe0x004 starred A-Course-on-Digital-Forensics](https://github.com/asiamina/A-Course-on-Digital-Forensics)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
