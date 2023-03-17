@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ruff](https://github.com/charliermarsh/ruff)
+- [cowbe0x004 starred binlex](https://github.com/c3rb3ru5d3d53c/binlex)
 - [cowbe0x004 starred Compose-Examples](https://github.com/Haxxnet/Compose-Examples)
 - [cowbe0x004 starred PowerSiem](https://github.com/IppSec/PowerSiem)
 - [cowbe0x004 starred user.js](https://github.com/pyllyukko/user.js)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred juicyinfo-nuclei-templates](https://github.com/cipher387/juicyinfo-nuclei-templates)
 - [cowbe0x004 starred Crawlector](https://github.com/MFMokbel/Crawlector)
 - [cowbe0x004 starred MindMap](https://github.com/eMVee-NL/MindMap)
-- [cowbe0x004 starred burp-dom-scanner](https://github.com/fcavallarin/burp-dom-scanner)
-- [cowbe0x004 starred MemProcFS-Analyzer](https://github.com/evild3ad/MemProcFS-Analyzer)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
