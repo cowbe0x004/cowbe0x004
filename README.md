@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred kernel-security-learning](https://github.com/bsauce/kernel-security-learning)
 - [cowbe0x004 starred reaper](https://github.com/1T57H3F0X/reaper)
 - [cowbe0x004 starred ruff](https://github.com/charliermarsh/ruff)
 - [cowbe0x004 starred binlex](https://github.com/c3rb3ru5d3d53c/binlex)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred certwatcher](https://github.com/drfabiocastro/certwatcher)
 - [cowbe0x004 starred 4-ZERO-3](https://github.com/Dheerajmadhukar/4-ZERO-3)
 - [cowbe0x004 starred juicyinfo-nuclei-templates](https://github.com/cipher387/juicyinfo-nuclei-templates)
-- [cowbe0x004 starred Crawlector](https://github.com/MFMokbel/Crawlector)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
