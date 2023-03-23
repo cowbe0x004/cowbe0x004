@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Awesome-Malware-and-Reverse-Engineering](https://github.com/CyberSecurityUP/Awesome-Malware-and-Reverse-Engineering)
+- [cowbe0x004 starred rpcfirewall](https://github.com/zeronetworks/rpcfirewall)
+- [cowbe0x004 starred attack_range](https://github.com/splunk/attack_range)
 - [cowbe0x004 starred kernel-security-learning](https://github.com/bsauce/kernel-security-learning)
 - [cowbe0x004 starred reaper](https://github.com/1T57H3F0X/reaper)
 - [cowbe0x004 starred ruff](https://github.com/charliermarsh/ruff)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred Compose-Examples](https://github.com/Haxxnet/Compose-Examples)
 - [cowbe0x004 starred PowerSiem](https://github.com/IppSec/PowerSiem)
 - [cowbe0x004 starred user.js](https://github.com/pyllyukko/user.js)
-- [cowbe0x004 starred certwatcher](https://github.com/drfabiocastro/certwatcher)
-- [cowbe0x004 starred 4-ZERO-3](https://github.com/Dheerajmadhukar/4-ZERO-3)
-- [cowbe0x004 starred juicyinfo-nuclei-templates](https://github.com/cipher387/juicyinfo-nuclei-templates)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
