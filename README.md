@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred CS-Remote-OPs-BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF)
+- [cowbe0x004 starred ffufPostprocessing](https://github.com/Damian89/ffufPostprocessing)
+- [cowbe0x004 starred TokenUniverse](https://github.com/diversenok/TokenUniverse)
 - [cowbe0x004 starred arttoolkit.github.io](https://github.com/arttoolkit/arttoolkit.github.io)
 - [cowbe0x004 starred akvorado](https://github.com/akvorado/akvorado)
 - [cowbe0x004 starred palo_alto_firewall_analyzer](https://github.com/moshekaplan/palo_alto_firewall_analyzer)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred rpcfirewall](https://github.com/zeronetworks/rpcfirewall)
 - [cowbe0x004 starred attack_range](https://github.com/splunk/attack_range)
 - [cowbe0x004 starred kernel-security-learning](https://github.com/bsauce/kernel-security-learning)
-- [cowbe0x004 starred reaper](https://github.com/1T57H3F0X/reaper)
-- [cowbe0x004 starred ruff](https://github.com/charliermarsh/ruff)
-- [cowbe0x004 starred binlex](https://github.com/c3rb3ru5d3d53c/binlex)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
