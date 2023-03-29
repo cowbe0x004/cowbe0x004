@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred bofhound](https://github.com/fortalice/bofhound)
 - [cowbe0x004 starred decider](https://github.com/cisagov/decider)
 - [cowbe0x004 starred reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator)
 - [cowbe0x004 starred CS-Remote-OPs-BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred akvorado](https://github.com/akvorado/akvorado)
 - [cowbe0x004 starred palo_alto_firewall_analyzer](https://github.com/moshekaplan/palo_alto_firewall_analyzer)
 - [cowbe0x004 starred Awesome-Malware-and-Reverse-Engineering](https://github.com/CyberSecurityUP/Awesome-Malware-and-Reverse-Engineering)
-- [cowbe0x004 starred rpcfirewall](https://github.com/zeronetworks/rpcfirewall)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
