@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred CakeFuzzer](https://github.com/Zigrin-Security/CakeFuzzer)
 - [cowbe0x004 starred hacking-writeups](https://github.com/BitFlippa27/hacking-writeups)
 - [cowbe0x004 starred bofhound](https://github.com/fortalice/bofhound)
 - [cowbe0x004 starred decider](https://github.com/cisagov/decider)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred TokenUniverse](https://github.com/diversenok/TokenUniverse)
 - [cowbe0x004 starred arttoolkit.github.io](https://github.com/arttoolkit/arttoolkit.github.io)
 - [cowbe0x004 starred akvorado](https://github.com/akvorado/akvorado)
-- [cowbe0x004 starred palo_alto_firewall_analyzer](https://github.com/moshekaplan/palo_alto_firewall_analyzer)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
