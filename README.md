@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Malware-Analysis](https://github.com/dodo-sec/Malware-Analysis)
 - [cowbe0x004 starred hakoriginfinder](https://github.com/hakluke/hakoriginfinder)
 - [cowbe0x004 starred awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 - [cowbe0x004 starred CakeFuzzer](https://github.com/Zigrin-Security/CakeFuzzer)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator)
 - [cowbe0x004 starred CS-Remote-OPs-BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF)
 - [cowbe0x004 starred ffufPostprocessing](https://github.com/Damian89/ffufPostprocessing)
-- [cowbe0x004 starred TokenUniverse](https://github.com/diversenok/TokenUniverse)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
