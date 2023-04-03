@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Astra](https://github.com/flipkart-incubator/Astra)
+- [cowbe0x004 starred kerbrute](https://github.com/ropnop/kerbrute)
 - [cowbe0x004 starred zxc](https://github.com/liiuxii/zxc)
 - [cowbe0x004 starred Malware-Analysis](https://github.com/dodo-sec/Malware-Analysis)
 - [cowbe0x004 starred hakoriginfinder](https://github.com/hakluke/hakoriginfinder)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred hacking-writeups](https://github.com/BitFlippa27/hacking-writeups)
 - [cowbe0x004 starred bofhound](https://github.com/fortalice/bofhound)
 - [cowbe0x004 starred decider](https://github.com/cisagov/decider)
-- [cowbe0x004 starred reverse-shell-generator](https://github.com/0dayCTF/reverse-shell-generator)
-- [cowbe0x004 starred CS-Remote-OPs-BOF](https://github.com/trustedsec/CS-Remote-OPs-BOF)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
