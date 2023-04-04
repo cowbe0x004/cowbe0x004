@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred immich](https://github.com/immich-app/immich)
 - [cowbe0x004 starred hackerone-reports](https://github.com/reddelexc/hackerone-reports)
 - [cowbe0x004 starred feroxbuster](https://github.com/epi052/feroxbuster)
 - [cowbe0x004 starred SIGMA-Resources](https://github.com/nasbench/SIGMA-Resources)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred zxc](https://github.com/liiuxii/zxc)
 - [cowbe0x004 starred Malware-Analysis](https://github.com/dodo-sec/Malware-Analysis)
 - [cowbe0x004 starred hakoriginfinder](https://github.com/hakluke/hakoriginfinder)
-- [cowbe0x004 starred awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
