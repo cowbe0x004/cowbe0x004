@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred feroxbuster](https://github.com/epi052/feroxbuster)
 - [cowbe0x004 starred SIGMA-Resources](https://github.com/nasbench/SIGMA-Resources)
 - [cowbe0x004 starred awesome-forensics](https://github.com/cugu/awesome-forensics)
 - [cowbe0x004 starred Astra](https://github.com/flipkart-incubator/Astra)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred hakoriginfinder](https://github.com/hakluke/hakoriginfinder)
 - [cowbe0x004 starred awesome-web-hacking](https://github.com/infoslack/awesome-web-hacking)
 - [cowbe0x004 starred CakeFuzzer](https://github.com/Zigrin-Security/CakeFuzzer)
-- [cowbe0x004 starred hacking-writeups](https://github.com/BitFlippa27/hacking-writeups)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
