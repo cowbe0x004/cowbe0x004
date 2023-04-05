@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan)
+- [cowbe0x004 starred tmuxp](https://github.com/tmux-python/tmuxp)
+- [cowbe0x004 starred gotestwaf](https://github.com/wallarm/gotestwaf)
 - [cowbe0x004 starred wmiexec-Pro](https://github.com/XiaoliChan/wmiexec-Pro)
 - [cowbe0x004 starred immich](https://github.com/immich-app/immich)
 - [cowbe0x004 starred hackerone-reports](https://github.com/reddelexc/hackerone-reports)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred SIGMA-Resources](https://github.com/nasbench/SIGMA-Resources)
 - [cowbe0x004 starred awesome-forensics](https://github.com/cugu/awesome-forensics)
 - [cowbe0x004 starred Astra](https://github.com/flipkart-incubator/Astra)
-- [cowbe0x004 starred kerbrute](https://github.com/ropnop/kerbrute)
-- [cowbe0x004 starred zxc](https://github.com/liiuxii/zxc)
-- [cowbe0x004 starred Malware-Analysis](https://github.com/dodo-sec/Malware-Analysis)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
