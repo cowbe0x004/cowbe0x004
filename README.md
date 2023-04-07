@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred LOOBins](https://github.com/infosecB/LOOBins)
+- [cowbe0x004 starred XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
 - [cowbe0x004 starred Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan)
 - [cowbe0x004 starred tmuxp](https://github.com/tmux-python/tmuxp)
 - [cowbe0x004 starred gotestwaf](https://github.com/wallarm/gotestwaf)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred hackerone-reports](https://github.com/reddelexc/hackerone-reports)
 - [cowbe0x004 starred feroxbuster](https://github.com/epi052/feroxbuster)
 - [cowbe0x004 starred SIGMA-Resources](https://github.com/nasbench/SIGMA-Resources)
-- [cowbe0x004 starred awesome-forensics](https://github.com/cugu/awesome-forensics)
-- [cowbe0x004 starred Astra](https://github.com/flipkart-incubator/Astra)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
