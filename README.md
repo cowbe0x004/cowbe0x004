@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Pyramid](https://github.com/naksyn/Pyramid)
 - [cowbe0x004 starred Vulnerable-WordPress](https://github.com/onhexgroup/Vulnerable-WordPress)
 - [cowbe0x004 starred LOOBins](https://github.com/infosecB/LOOBins)
 - [cowbe0x004 starred XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred wmiexec-Pro](https://github.com/XiaoliChan/wmiexec-Pro)
 - [cowbe0x004 starred immich](https://github.com/immich-app/immich)
 - [cowbe0x004 starred hackerone-reports](https://github.com/reddelexc/hackerone-reports)
-- [cowbe0x004 starred feroxbuster](https://github.com/epi052/feroxbuster)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
