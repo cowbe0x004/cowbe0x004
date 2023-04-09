@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Purpleteam](https://github.com/mthcht/Purpleteam)
+- [cowbe0x004 starred Bug-Bounty-Beginner-Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap)
 - [cowbe0x004 starred lazydocker](https://github.com/jesseduffield/lazydocker)
 - [cowbe0x004 starred Pyramid](https://github.com/naksyn/Pyramid)
 - [cowbe0x004 starred Vulnerable-WordPress](https://github.com/onhexgroup/Vulnerable-WordPress)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan)
 - [cowbe0x004 starred tmuxp](https://github.com/tmux-python/tmuxp)
 - [cowbe0x004 starred gotestwaf](https://github.com/wallarm/gotestwaf)
-- [cowbe0x004 starred wmiexec-Pro](https://github.com/XiaoliChan/wmiexec-Pro)
-- [cowbe0x004 starred immich](https://github.com/immich-app/immich)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
