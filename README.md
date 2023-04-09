@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred kyverno](https://github.com/kyverno/kyverno)
+- [cowbe0x004 starred RedTeamOps-Havoc-101](https://github.com/WesleyWong420/RedTeamOps-Havoc-101)
 - [cowbe0x004 starred Purpleteam](https://github.com/mthcht/Purpleteam)
 - [cowbe0x004 starred Bug-Bounty-Beginner-Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap)
 - [cowbe0x004 starred lazydocker](https://github.com/jesseduffield/lazydocker)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred LOOBins](https://github.com/infosecB/LOOBins)
 - [cowbe0x004 starred XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
 - [cowbe0x004 starred Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan)
-- [cowbe0x004 starred tmuxp](https://github.com/tmux-python/tmuxp)
-- [cowbe0x004 starred gotestwaf](https://github.com/wallarm/gotestwaf)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
