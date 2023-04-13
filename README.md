@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred sniffnet](https://github.com/GyulyVGC/sniffnet)
 - [cowbe0x004 starred kyverno](https://github.com/kyverno/kyverno)
 - [cowbe0x004 starred RedTeamOps-Havoc-101](https://github.com/WesleyWong420/RedTeamOps-Havoc-101)
 - [cowbe0x004 starred Purpleteam](https://github.com/mthcht/Purpleteam)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Vulnerable-WordPress](https://github.com/onhexgroup/Vulnerable-WordPress)
 - [cowbe0x004 starred LOOBins](https://github.com/infosecB/LOOBins)
 - [cowbe0x004 starred XSS-Payloads](https://github.com/RenwaX23/XSS-Payloads)
-- [cowbe0x004 starred Fast-Google-Dorks-Scan](https://github.com/IvanGlinkin/Fast-Google-Dorks-Scan)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
