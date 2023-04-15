@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred GTFOArgs.github.io](https://github.com/GTFOArgs/GTFOArgs.github.io)
+- [cowbe0x004 starred asnmap](https://github.com/projectdiscovery/asnmap)
 - [cowbe0x004 starred macos_gatekeeper](https://github.com/yo-yo-yo-jbo/macos_gatekeeper)
 - [cowbe0x004 starred macos_app_structure](https://github.com/yo-yo-yo-jbo/macos_app_structure)
 - [cowbe0x004 starred sniffnet](https://github.com/GyulyVGC/sniffnet)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Purpleteam](https://github.com/mthcht/Purpleteam)
 - [cowbe0x004 starred Bug-Bounty-Beginner-Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap)
 - [cowbe0x004 starred lazydocker](https://github.com/jesseduffield/lazydocker)
-- [cowbe0x004 starred Pyramid](https://github.com/naksyn/Pyramid)
-- [cowbe0x004 starred Vulnerable-WordPress](https://github.com/onhexgroup/Vulnerable-WordPress)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
