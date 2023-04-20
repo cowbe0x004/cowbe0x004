@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred refact-self-hosting](https://github.com/smallcloudai/refact-self-hosting)
+- [cowbe0x004 starred Hunt-Weird-Syscalls](https://github.com/thefLink/Hunt-Weird-Syscalls)
+- [cowbe0x004 starred PowerShell-Obfuscation-Bible](https://github.com/t3l3machus/PowerShell-Obfuscation-Bible)
 - [cowbe0x004 starred DylibHijackScanner](https://github.com/objective-see/DylibHijackScanner)
 - [cowbe0x004 starred GTFOArgs.github.io](https://github.com/GTFOArgs/GTFOArgs.github.io)
 - [cowbe0x004 starred asnmap](https://github.com/projectdiscovery/asnmap)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred macos_app_structure](https://github.com/yo-yo-yo-jbo/macos_app_structure)
 - [cowbe0x004 starred sniffnet](https://github.com/GyulyVGC/sniffnet)
 - [cowbe0x004 starred kyverno](https://github.com/kyverno/kyverno)
-- [cowbe0x004 starred RedTeamOps-Havoc-101](https://github.com/WesleyWong420/RedTeamOps-Havoc-101)
-- [cowbe0x004 starred Purpleteam](https://github.com/mthcht/Purpleteam)
-- [cowbe0x004 starred Bug-Bounty-Beginner-Roadmap](https://github.com/bittentech/Bug-Bounty-Beginner-Roadmap)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
