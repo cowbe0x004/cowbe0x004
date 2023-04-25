@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred auditpolCIS](https://github.com/SevenStones/auditpolCIS)
 - [cowbe0x004 starred refact-self-hosting](https://github.com/smallcloudai/refact-self-hosting)
 - [cowbe0x004 starred Hunt-Weird-Syscalls](https://github.com/thefLink/Hunt-Weird-Syscalls)
 - [cowbe0x004 starred PowerShell-Obfuscation-Bible](https://github.com/t3l3machus/PowerShell-Obfuscation-Bible)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred macos_gatekeeper](https://github.com/yo-yo-yo-jbo/macos_gatekeeper)
 - [cowbe0x004 starred macos_app_structure](https://github.com/yo-yo-yo-jbo/macos_app_structure)
 - [cowbe0x004 starred sniffnet](https://github.com/GyulyVGC/sniffnet)
-- [cowbe0x004 starred kyverno](https://github.com/kyverno/kyverno)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
