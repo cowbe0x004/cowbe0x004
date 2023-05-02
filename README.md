@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Trawler](https://github.com/joeavanzato/Trawler)
 - [cowbe0x004 starred KubeStalk](https://github.com/redhuntlabs/KubeStalk)
 - [cowbe0x004 starred auditpolCIS](https://github.com/SevenStones/auditpolCIS)
 - [cowbe0x004 starred refact-self-hosting](https://github.com/smallcloudai/refact-self-hosting)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred GTFOArgs.github.io](https://github.com/GTFOArgs/GTFOArgs.github.io)
 - [cowbe0x004 starred asnmap](https://github.com/projectdiscovery/asnmap)
 - [cowbe0x004 starred macos_gatekeeper](https://github.com/yo-yo-yo-jbo/macos_gatekeeper)
-- [cowbe0x004 starred macos_app_structure](https://github.com/yo-yo-yo-jbo/macos_app_structure)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
