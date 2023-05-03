@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred EDR-Telemetry](https://github.com/tsale/EDR-Telemetry)
 - [cowbe0x004 starred Kraken](https://github.com/kraken-ng/Kraken)
 - [cowbe0x004 starred Trawler](https://github.com/joeavanzato/Trawler)
 - [cowbe0x004 starred KubeStalk](https://github.com/redhuntlabs/KubeStalk)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred PowerShell-Obfuscation-Bible](https://github.com/t3l3machus/PowerShell-Obfuscation-Bible)
 - [cowbe0x004 starred DylibHijackScanner](https://github.com/objective-see/DylibHijackScanner)
 - [cowbe0x004 starred GTFOArgs.github.io](https://github.com/GTFOArgs/GTFOArgs.github.io)
-- [cowbe0x004 starred asnmap](https://github.com/projectdiscovery/asnmap)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
