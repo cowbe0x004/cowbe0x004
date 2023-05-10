@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet)
+- [cowbe0x004 starred OSED](https://github.com/nop-tech/OSED)
 - [cowbe0x004 starred EDR-Telemetry](https://github.com/tsale/EDR-Telemetry)
 - [cowbe0x004 starred Kraken](https://github.com/kraken-ng/Kraken)
 - [cowbe0x004 starred Trawler](https://github.com/joeavanzato/Trawler)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred refact-self-hosting](https://github.com/smallcloudai/refact-self-hosting)
 - [cowbe0x004 starred Hunt-Weird-Syscalls](https://github.com/thefLink/Hunt-Weird-Syscalls)
 - [cowbe0x004 starred PowerShell-Obfuscation-Bible](https://github.com/t3l3machus/PowerShell-Obfuscation-Bible)
-- [cowbe0x004 starred DylibHijackScanner](https://github.com/objective-see/DylibHijackScanner)
-- [cowbe0x004 starred GTFOArgs.github.io](https://github.com/GTFOArgs/GTFOArgs.github.io)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
