@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred fq](https://github.com/wader/fq)
 - [cowbe0x004 starred top25-parameter](https://github.com/lutfumertceylan/top25-parameter)
 - [cowbe0x004 starred Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet)
 - [cowbe0x004 starred OSED](https://github.com/nop-tech/OSED)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred KubeStalk](https://github.com/redhuntlabs/KubeStalk)
 - [cowbe0x004 starred auditpolCIS](https://github.com/SevenStones/auditpolCIS)
 - [cowbe0x004 starred refact-self-hosting](https://github.com/smallcloudai/refact-self-hosting)
-- [cowbe0x004 starred Hunt-Weird-Syscalls](https://github.com/thefLink/Hunt-Weird-Syscalls)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
