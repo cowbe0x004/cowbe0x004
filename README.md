@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Mantra](https://github.com/MrEmpy/Mantra)
 - [cowbe0x004 starred SMBSR](https://github.com/oldboy21/SMBSR)
 - [cowbe0x004 starred Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs)
 - [cowbe0x004 starred fq](https://github.com/wader/fq)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred EDR-Telemetry](https://github.com/tsale/EDR-Telemetry)
 - [cowbe0x004 starred Kraken](https://github.com/kraken-ng/Kraken)
 - [cowbe0x004 starred Trawler](https://github.com/joeavanzato/Trawler)
-- [cowbe0x004 starred KubeStalk](https://github.com/redhuntlabs/KubeStalk)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
