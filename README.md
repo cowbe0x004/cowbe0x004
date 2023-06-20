@@ -40,7 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred Mantra](https://github.com/MrEmpy/Mantra)
+- [cowbe0x004 starred mantra](https://github.com/MrEmpy/mantra)
 - [cowbe0x004 starred SMBSR](https://github.com/oldboy21/SMBSR)
 - [cowbe0x004 starred Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs)
 - [cowbe0x004 starred fq](https://github.com/wader/fq)
