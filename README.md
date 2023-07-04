@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred scrypted](https://github.com/koush/scrypted)
 - [cowbe0x004 starred broken-link-checker](https://github.com/stevenvachon/broken-link-checker)
 - [cowbe0x004 starred Proxy-Attackchain](https://github.com/FDlucifer/Proxy-Attackchain)
 - [cowbe0x004 starred mantra](https://github.com/MrEmpy/mantra)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred top25-parameter](https://github.com/lutfumertceylan/top25-parameter)
 - [cowbe0x004 starred Awesome-RedTeam-Cheatsheet](https://github.com/RistBS/Awesome-RedTeam-Cheatsheet)
 - [cowbe0x004 starred OSED](https://github.com/nop-tech/OSED)
-- [cowbe0x004 starred EDR-Telemetry](https://github.com/tsale/EDR-Telemetry)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
