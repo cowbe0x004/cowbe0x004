@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred C2-Hunter](https://github.com/ZeroMemoryEx/C2-Hunter)
 - [cowbe0x004 starred evilgophish](https://github.com/fin3ss3g0d/evilgophish)
 - [cowbe0x004 starred WRock](https://github.com/abdallah-elsharif/WRock)
 - [cowbe0x004 starred scrypted](https://github.com/koush/scrypted)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SMBSR](https://github.com/oldboy21/SMBSR)
 - [cowbe0x004 starred Awesome-CloudSec-Labs](https://github.com/iknowjason/Awesome-CloudSec-Labs)
 - [cowbe0x004 starred fq](https://github.com/wader/fq)
-- [cowbe0x004 starred top25-parameter](https://github.com/lutfumertceylan/top25-parameter)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
