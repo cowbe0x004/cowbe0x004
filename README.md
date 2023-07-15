@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
 - [cowbe0x004 starred ebpfmon](https://github.com/redcanaryco/ebpfmon)
 - [cowbe0x004 starred ReportCompiler](https://github.com/cornerpirate/ReportCompiler)
 - [cowbe0x004 starred C2-Hunter](https://github.com/ZeroMemoryEx/C2-Hunter)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred broken-link-checker](https://github.com/stevenvachon/broken-link-checker)
 - [cowbe0x004 starred Proxy-Attackchain](https://github.com/FDlucifer/Proxy-Attackchain)
 - [cowbe0x004 starred mantra](https://github.com/MrEmpy/mantra)
-- [cowbe0x004 starred SMBSR](https://github.com/oldboy21/SMBSR)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
