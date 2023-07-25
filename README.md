@@ -6,7 +6,7 @@
 
 - 📖 I’m currently working on threat hunting
 - 📘 I’m currently learning everything 🤣
-- 🎭 I’m looking to collaborate with other content creators
+- 🎭 I’m looking to explore purple teaming
 - ☑️ 2023 Goals: Contribute more to Open Source projects
 
 ---
