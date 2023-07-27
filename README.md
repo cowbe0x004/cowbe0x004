@@ -39,6 +39,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred espy](https://github.com/activecm/espy)
 - [cowbe0x004 starred openappsec](https://github.com/openappsec/openappsec)
 - [cowbe0x004 starred Egyscan](https://github.com/dragonked2/Egyscan)
 - [cowbe0x004 starred i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect)
@@ -48,7 +49,6 @@
 - [cowbe0x004 starred ReportCompiler](https://github.com/cornerpirate/ReportCompiler)
 - [cowbe0x004 starred C2-Hunter](https://github.com/ZeroMemoryEx/C2-Hunter)
 - [cowbe0x004 starred evilgophish](https://github.com/fin3ss3g0d/evilgophish)
-- [cowbe0x004 starred WRock](https://github.com/abdallah-elsharif/WRock)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
