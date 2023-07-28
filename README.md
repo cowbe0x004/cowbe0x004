@@ -39,6 +39,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred saas-attacks](https://github.com/pushsecurity/saas-attacks)
 - [cowbe0x004 starred espy](https://github.com/activecm/espy)
 - [cowbe0x004 starred openappsec](https://github.com/openappsec/openappsec)
 - [cowbe0x004 starred Egyscan](https://github.com/dragonked2/Egyscan)
@@ -48,7 +49,6 @@
 - [cowbe0x004 starred ebpfmon](https://github.com/redcanaryco/ebpfmon)
 - [cowbe0x004 starred ReportCompiler](https://github.com/cornerpirate/ReportCompiler)
 - [cowbe0x004 starred C2-Hunter](https://github.com/ZeroMemoryEx/C2-Hunter)
-- [cowbe0x004 starred evilgophish](https://github.com/fin3ss3g0d/evilgophish)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
