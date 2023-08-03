@@ -39,6 +39,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred secretsdump.py](https://github.com/fin3ss3g0d/secretsdump.py)
+- [cowbe0x004 starred SSRFPwned](https://github.com/blackhatethicalhacking/SSRFPwned)
 - [cowbe0x004 starred wsrepl](https://github.com/doyensec/wsrepl)
 - [cowbe0x004 starred nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve)
 - [cowbe0x004 starred saas-attacks](https://github.com/pushsecurity/saas-attacks)
@@ -47,8 +49,6 @@
 - [cowbe0x004 starred Egyscan](https://github.com/dragonked2/Egyscan)
 - [cowbe0x004 starred i3-resurrect](https://github.com/JonnyHaystack/i3-resurrect)
 - [cowbe0x004 starred powershell-backdoor-generator](https://github.com/Drew-Alleman/powershell-backdoor-generator)
-- [cowbe0x004 starred How-To-Secure-A-Linux-Server](https://github.com/imthenachoman/How-To-Secure-A-Linux-Server)
-- [cowbe0x004 starred ebpfmon](https://github.com/redcanaryco/ebpfmon)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
