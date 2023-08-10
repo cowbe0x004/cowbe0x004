@@ -39,6 +39,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ligolo-ng](https://github.com/nicocha30/ligolo-ng)
 - [cowbe0x004 starred html-obfuscator](https://github.com/BinBashBanana/html-obfuscator)
 - [cowbe0x004 starred PrivKit](https://github.com/mertdas/PrivKit)
 - [cowbe0x004 starred secretsdump.py](https://github.com/fin3ss3g0d/secretsdump.py)
@@ -48,7 +49,6 @@
 - [cowbe0x004 starred saas-attacks](https://github.com/pushsecurity/saas-attacks)
 - [cowbe0x004 starred espy](https://github.com/activecm/espy)
 - [cowbe0x004 starred openappsec](https://github.com/openappsec/openappsec)
-- [cowbe0x004 starred Egyscan](https://github.com/dragonked2/Egyscan)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
