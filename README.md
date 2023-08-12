@@ -39,6 +39,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred netdata](https://github.com/netdata/netdata)
 - [cowbe0x004 starred debian-cis](https://github.com/ovh/debian-cis)
 - [cowbe0x004 starred ved-ebpf](https://github.com/hardenedvault/ved-ebpf)
 - [cowbe0x004 starred ligolo-ng](https://github.com/nicocha30/ligolo-ng)
@@ -48,7 +49,6 @@
 - [cowbe0x004 starred SSRFPwned](https://github.com/blackhatethicalhacking/SSRFPwned)
 - [cowbe0x004 starred wsrepl](https://github.com/doyensec/wsrepl)
 - [cowbe0x004 starred nuclei-wordfence-cve](https://github.com/topscoder/nuclei-wordfence-cve)
-- [cowbe0x004 starred saas-attacks](https://github.com/pushsecurity/saas-attacks)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
