@@ -39,6 +39,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist)
+- [cowbe0x004 starred headerpwn](https://github.com/devanshbatham/headerpwn)
 - [cowbe0x004 starred AD_Enumeration_Hunt](https://github.com/alperenugurlu/AD_Enumeration_Hunt)
 - [cowbe0x004 starred chameleon](https://github.com/iustin24/chameleon)
 - [cowbe0x004 starred IPv6teal](https://github.com/christophetd/IPv6teal)
@@ -47,8 +49,6 @@
 - [cowbe0x004 starred panos-scanner](https://github.com/noperator/panos-scanner)
 - [cowbe0x004 starred GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension)
 - [cowbe0x004 starred pisshoff](https://github.com/w4/pisshoff)
-- [cowbe0x004 starred netdata](https://github.com/netdata/netdata)
-- [cowbe0x004 starred debian-cis](https://github.com/ovh/debian-cis)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
