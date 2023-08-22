@@ -39,6 +39,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred AD_Enumeration_Hunt](https://github.com/alperenugurlu/AD_Enumeration_Hunt)
 - [cowbe0x004 starred chameleon](https://github.com/iustin24/chameleon)
 - [cowbe0x004 starred IPv6teal](https://github.com/christophetd/IPv6teal)
 - [cowbe0x004 starred dnscat2](https://github.com/iagox86/dnscat2)
@@ -48,7 +49,6 @@
 - [cowbe0x004 starred pisshoff](https://github.com/w4/pisshoff)
 - [cowbe0x004 starred netdata](https://github.com/netdata/netdata)
 - [cowbe0x004 starred debian-cis](https://github.com/ovh/debian-cis)
-- [cowbe0x004 starred ved-ebpf](https://github.com/hardenedvault/ved-ebpf)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
