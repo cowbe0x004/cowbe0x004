@@ -39,6 +39,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred MSSqlPwner](https://github.com/ScorpionesLabs/MSSqlPwner)
 - [cowbe0x004 starred graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist)
 - [cowbe0x004 starred headerpwn](https://github.com/devanshbatham/headerpwn)
 - [cowbe0x004 starred AD_Enumeration_Hunt](https://github.com/alperenugurlu/AD_Enumeration_Hunt)
@@ -48,7 +49,6 @@
 - [cowbe0x004 starred My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges)
 - [cowbe0x004 starred panos-scanner](https://github.com/noperator/panos-scanner)
 - [cowbe0x004 starred GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension)
-- [cowbe0x004 starred pisshoff](https://github.com/w4/pisshoff)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
