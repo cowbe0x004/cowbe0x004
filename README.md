@@ -39,6 +39,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred canarytokens-docker](https://github.com/thinkst/canarytokens-docker)
+- [cowbe0x004 starred Awesome-Deception](https://github.com/tolgadevsec/Awesome-Deception)
 - [cowbe0x004 starred MSSqlPwner](https://github.com/ScorpionesLabs/MSSqlPwner)
 - [cowbe0x004 starred graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist)
 - [cowbe0x004 starred headerpwn](https://github.com/devanshbatham/headerpwn)
@@ -47,8 +49,6 @@
 - [cowbe0x004 starred IPv6teal](https://github.com/christophetd/IPv6teal)
 - [cowbe0x004 starred dnscat2](https://github.com/iagox86/dnscat2)
 - [cowbe0x004 starred My-CTF-Web-Challenges](https://github.com/orangetw/My-CTF-Web-Challenges)
-- [cowbe0x004 starred panos-scanner](https://github.com/noperator/panos-scanner)
-- [cowbe0x004 starred GAP-Burp-Extension](https://github.com/xnl-h4ck3r/GAP-Burp-Extension)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
