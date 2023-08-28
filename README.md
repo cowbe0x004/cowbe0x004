@@ -39,6 +39,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SharpShellPipe](https://github.com/DarkCoderSc/SharpShellPipe)
 - [cowbe0x004 starred Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules)
 - [cowbe0x004 starred canarytokens-docker](https://github.com/thinkst/canarytokens-docker)
 - [cowbe0x004 starred Awesome-Deception](https://github.com/tolgadevsec/Awesome-Deception)
@@ -48,7 +49,6 @@
 - [cowbe0x004 starred AD_Enumeration_Hunt](https://github.com/alperenugurlu/AD_Enumeration_Hunt)
 - [cowbe0x004 starred chameleon](https://github.com/iustin24/chameleon)
 - [cowbe0x004 starred IPv6teal](https://github.com/christophetd/IPv6teal)
-- [cowbe0x004 starred dnscat2](https://github.com/iagox86/dnscat2)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
