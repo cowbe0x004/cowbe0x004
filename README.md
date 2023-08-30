@@ -39,6 +39,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PPLBlade](https://github.com/tastypepperoni/PPLBlade)
 - [cowbe0x004 starred DebugAmsi](https://github.com/MzHmO/DebugAmsi)
 - [cowbe0x004 starred SharpShellPipe](https://github.com/DarkCoderSc/SharpShellPipe)
 - [cowbe0x004 starred Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules)
@@ -48,7 +49,6 @@
 - [cowbe0x004 starred graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist)
 - [cowbe0x004 starred headerpwn](https://github.com/devanshbatham/headerpwn)
 - [cowbe0x004 starred AD_Enumeration_Hunt](https://github.com/alperenugurlu/AD_Enumeration_Hunt)
-- [cowbe0x004 starred chameleon](https://github.com/iustin24/chameleon)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
