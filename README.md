@@ -39,6 +39,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred owasp-asvs-checklist](https://github.com/shenril/owasp-asvs-checklist)
 - [cowbe0x004 starred DockerDetectionNotes](https://github.com/Antonlovesdnb/DockerDetectionNotes)
 - [cowbe0x004 starred awesome-sre](https://github.com/dastergon/awesome-sre)
 - [cowbe0x004 starred PPLBlade](https://github.com/tastypepperoni/PPLBlade)
@@ -48,7 +49,6 @@
 - [cowbe0x004 starred canarytokens-docker](https://github.com/thinkst/canarytokens-docker)
 - [cowbe0x004 starred Awesome-Deception](https://github.com/tolgadevsec/Awesome-Deception)
 - [cowbe0x004 starred MSSqlPwner](https://github.com/ScorpionesLabs/MSSqlPwner)
-- [cowbe0x004 starred graphql-wordlist](https://github.com/Escape-Technologies/graphql-wordlist)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
