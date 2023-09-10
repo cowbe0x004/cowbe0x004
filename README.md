@@ -39,6 +39,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred sub.Monitor](https://github.com/e1abrador/sub.Monitor)
+- [cowbe0x004 starred phishing_pot](https://github.com/rf-peixoto/phishing_pot)
 - [cowbe0x004 starred pwndoc](https://github.com/pwndoc/pwndoc)
 - [cowbe0x004 starred HTMLSmuggler](https://github.com/D00Movenok/HTMLSmuggler)
 - [cowbe0x004 starred ssrf-exploit](https://github.com/errorfiathck/ssrf-exploit)
@@ -47,8 +49,6 @@
 - [cowbe0x004 starred DockerDetectionNotes](https://github.com/Antonlovesdnb/DockerDetectionNotes)
 - [cowbe0x004 starred awesome-sre](https://github.com/dastergon/awesome-sre)
 - [cowbe0x004 starred PPLBlade](https://github.com/tastypepperoni/PPLBlade)
-- [cowbe0x004 starred DebugAmsi](https://github.com/MzHmO/DebugAmsi)
-- [cowbe0x004 starred SharpShellPipe](https://github.com/DarkCoderSc/SharpShellPipe)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
