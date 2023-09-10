@@ -39,6 +39,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred pwndoc](https://github.com/pwndoc/pwndoc)
 - [cowbe0x004 starred HTMLSmuggler](https://github.com/D00Movenok/HTMLSmuggler)
 - [cowbe0x004 starred ssrf-exploit](https://github.com/errorfiathck/ssrf-exploit)
 - [cowbe0x004 starred xss_vibes](https://github.com/faiyazahmad07/xss_vibes)
@@ -48,7 +49,6 @@
 - [cowbe0x004 starred PPLBlade](https://github.com/tastypepperoni/PPLBlade)
 - [cowbe0x004 starred DebugAmsi](https://github.com/MzHmO/DebugAmsi)
 - [cowbe0x004 starred SharpShellPipe](https://github.com/DarkCoderSc/SharpShellPipe)
-- [cowbe0x004 starred Wazuh-Rules](https://github.com/socfortress/Wazuh-Rules)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
