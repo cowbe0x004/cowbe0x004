@@ -39,6 +39,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred AbuseIPdb](https://github.com/themalwarenews/AbuseIPdb)
 - [cowbe0x004 starred sub.Monitor](https://github.com/e1abrador/sub.Monitor)
 - [cowbe0x004 starred phishing_pot](https://github.com/rf-peixoto/phishing_pot)
 - [cowbe0x004 starred pwndoc](https://github.com/pwndoc/pwndoc)
@@ -48,7 +49,6 @@
 - [cowbe0x004 starred owasp-asvs-checklist](https://github.com/shenril/owasp-asvs-checklist)
 - [cowbe0x004 starred DockerDetectionNotes](https://github.com/Antonlovesdnb/DockerDetectionNotes)
 - [cowbe0x004 starred awesome-sre](https://github.com/dastergon/awesome-sre)
-- [cowbe0x004 starred PPLBlade](https://github.com/tastypepperoni/PPLBlade)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
