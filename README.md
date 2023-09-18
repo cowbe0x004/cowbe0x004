@@ -39,6 +39,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred tht](https://github.com/ethack/tht)
 - [cowbe0x004 starred Periscope](https://github.com/malcomvetter/Periscope)
 - [cowbe0x004 starred SaltStackCheatSheet](https://github.com/eon01/SaltStackCheatSheet)
 - [cowbe0x004 starred Burp-Suite-Certified-Practitioner-Exam-Study](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study)
@@ -48,7 +49,6 @@
 - [cowbe0x004 starred pwndoc](https://github.com/pwndoc/pwndoc)
 - [cowbe0x004 starred HTMLSmuggler](https://github.com/D00Movenok/HTMLSmuggler)
 - [cowbe0x004 starred ssrf-exploit](https://github.com/errorfiathck/ssrf-exploit)
-- [cowbe0x004 starred xss_vibes](https://github.com/faiyazahmad07/xss_vibes)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
