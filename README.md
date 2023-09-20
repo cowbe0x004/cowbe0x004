@@ -12,8 +12,9 @@
 ---
 
 ### 🤝🏽 Connect with me:
-[<img align="left" alt="cowbe0x004 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="cowbe0x004 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="cowbe0x004 | Twitter" width="22px" src="https://cdn.simpleicons.org/mastodon" />][mastodon]
+[<img align="left" alt="cowbe0x004 | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />][twitter]
+[<img align="left" alt="cowbe0x004 | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 
 <!--
 [<img align="left" alt="cowbe0x004.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -68,6 +69,7 @@
 
 
 [website]: https://cowbe0x004.com
+[mastodon]: https://infosec.exchange/@cowbe
 [twitter]: https://twitter.com/cowbe0x004
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
