@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Open-Source-Threat-Intel-Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds)
+- [cowbe0x004 starred z9](https://github.com/Sh1n0g1/z9)
 - [cowbe0x004 starred aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory)
 - [cowbe0x004 starred tht](https://github.com/ethack/tht)
 - [cowbe0x004 starred Periscope](https://github.com/malcomvetter/Periscope)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred AbuseIPdb](https://github.com/themalwarenews/AbuseIPdb)
 - [cowbe0x004 starred sub.Monitor](https://github.com/e1abrador/sub.Monitor)
 - [cowbe0x004 starred phishing_pot](https://github.com/rf-peixoto/phishing_pot)
-- [cowbe0x004 starred pwndoc](https://github.com/pwndoc/pwndoc)
-- [cowbe0x004 starred HTMLSmuggler](https://github.com/D00Movenok/HTMLSmuggler)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
