@@ -45,11 +45,11 @@
 - [cowbe0x004 starred z9](https://github.com/Sh1n0g1/z9)
 - [cowbe0x004 starred aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory)
 - [cowbe0x004 starred tht](https://github.com/ethack/tht)
-- [cowbe0x004 starred Periscope](https://github.com/malcomvetter/Periscope)
 - [cowbe0x004 starred SaltStackCheatSheet](https://github.com/eon01/SaltStackCheatSheet)
 - [cowbe0x004 starred Burp-Suite-Certified-Practitioner-Exam-Study](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study)
 - [cowbe0x004 starred AbuseIPdb](https://github.com/themalwarenews/AbuseIPdb)
 - [cowbe0x004 starred sub.Monitor](https://github.com/e1abrador/sub.Monitor)
+- [cowbe0x004 starred phishing_pot](https://github.com/rf-peixoto/phishing_pot)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
