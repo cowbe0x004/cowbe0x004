@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred red_team_attack_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab)
 - [cowbe0x004 starred kiterunner](https://github.com/assetnote/kiterunner)
 - [cowbe0x004 starred Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking)
 - [cowbe0x004 starred OSCP-Cheatsheet](https://github.com/saisathvik1/OSCP-Cheatsheet)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred tht](https://github.com/ethack/tht)
 - [cowbe0x004 starred SaltStackCheatSheet](https://github.com/eon01/SaltStackCheatSheet)
 - [cowbe0x004 starred Burp-Suite-Certified-Practitioner-Exam-Study](https://github.com/botesjuan/Burp-Suite-Certified-Practitioner-Exam-Study)
-- [cowbe0x004 starred AbuseIPdb](https://github.com/themalwarenews/AbuseIPdb)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
