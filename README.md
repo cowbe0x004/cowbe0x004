@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Cosmos-Server](https://github.com/azukaar/Cosmos-Server)
 - [cowbe0x004 starred PurpleOps](https://github.com/CyberCX-STA/PurpleOps)
 - [cowbe0x004 starred red_team_attack_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab)
 - [cowbe0x004 starred kiterunner](https://github.com/assetnote/kiterunner)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred z9](https://github.com/Sh1n0g1/z9)
 - [cowbe0x004 starred aws-firewall-factory](https://github.com/globaldatanet/aws-firewall-factory)
 - [cowbe0x004 starred tht](https://github.com/ethack/tht)
-- [cowbe0x004 starred SaltStackCheatSheet](https://github.com/eon01/SaltStackCheatSheet)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
