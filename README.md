@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred tuya-convert](https://github.com/ct-Open-Source/tuya-convert)
 - [cowbe0x004 starred subby](https://github.com/n0mi1k/subby)
 - [cowbe0x004 starred Dark-Shell-V1](https://github.com/SegmaSec/Dark-Shell-V1)
 - [cowbe0x004 starred Sirius](https://github.com/SiriusScan/Sirius)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred kiterunner](https://github.com/assetnote/kiterunner)
 - [cowbe0x004 starred Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking)
 - [cowbe0x004 starred OSCP-Cheatsheet](https://github.com/saisathvik1/OSCP-Cheatsheet)
-- [cowbe0x004 starred Open-Source-Threat-Intel-Feeds](https://github.com/Bert-JanP/Open-Source-Threat-Intel-Feeds)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
