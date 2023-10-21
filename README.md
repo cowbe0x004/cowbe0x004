@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred wwwolf-php-webshell](https://github.com/WhiteWinterWolf/wwwolf-php-webshell)
+- [cowbe0x004 starred php-reverse-shell](https://github.com/ivan-sincek/php-reverse-shell)
 - [cowbe0x004 starred bbot](https://github.com/blacklanternsecurity/bbot)
 - [cowbe0x004 starred tuya-convert](https://github.com/ct-Open-Source/tuya-convert)
 - [cowbe0x004 starred subby](https://github.com/n0mi1k/subby)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Cosmos-Server](https://github.com/azukaar/Cosmos-Server)
 - [cowbe0x004 starred PurpleOps](https://github.com/CyberCX-STA/PurpleOps)
 - [cowbe0x004 starred red_team_attack_lab](https://github.com/Marshall-Hallenbeck/red_team_attack_lab)
-- [cowbe0x004 starred kiterunner](https://github.com/assetnote/kiterunner)
-- [cowbe0x004 starred Web_Hacking](https://github.com/Mehdi0x90/Web_Hacking)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
