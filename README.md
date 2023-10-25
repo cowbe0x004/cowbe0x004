@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred phpggc](https://github.com/ambionics/phpggc)
 - [cowbe0x004 starred KrbRelayUp](https://github.com/ShorSec/KrbRelayUp)
 - [cowbe0x004 starred SharpKatz](https://github.com/b4rtik/SharpKatz)
 - [cowbe0x004 starred hugo-theme-docdock](https://github.com/vjeantet/hugo-theme-docdock)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred bbot](https://github.com/blacklanternsecurity/bbot)
 - [cowbe0x004 starred tuya-convert](https://github.com/ct-Open-Source/tuya-convert)
 - [cowbe0x004 starred subby](https://github.com/n0mi1k/subby)
-- [cowbe0x004 starred Dark-Shell-V1](https://github.com/SegmaSec/Dark-Shell-V1)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
