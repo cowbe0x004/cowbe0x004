@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred dashboard-icons](https://github.com/walkxcode/dashboard-icons)
 - [cowbe0x004 starred Proxy-DLL-Loads](https://github.com/kleiton0x00/Proxy-DLL-Loads)
 - [cowbe0x004 starred phpggc](https://github.com/ambionics/phpggc)
 - [cowbe0x004 starred KrbRelayUp](https://github.com/ShorSec/KrbRelayUp)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred wwwolf-php-webshell](https://github.com/WhiteWinterWolf/wwwolf-php-webshell)
 - [cowbe0x004 starred php-reverse-shell](https://github.com/ivan-sincek/php-reverse-shell)
 - [cowbe0x004 starred bbot](https://github.com/blacklanternsecurity/bbot)
-- [cowbe0x004 starred tuya-convert](https://github.com/ct-Open-Source/tuya-convert)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
