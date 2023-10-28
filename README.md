@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred sccmhunter](https://github.com/garrettfoster13/sccmhunter)
 - [cowbe0x004 starred windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)
 - [cowbe0x004 starred awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass)
 - [cowbe0x004 starred dashboard-icons](https://github.com/walkxcode/dashboard-icons)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SharpKatz](https://github.com/b4rtik/SharpKatz)
 - [cowbe0x004 starred hugo-theme-docdock](https://github.com/vjeantet/hugo-theme-docdock)
 - [cowbe0x004 starred HiveNightmare](https://github.com/GossiTheDog/HiveNightmare)
-- [cowbe0x004 starred wwwolf-php-webshell](https://github.com/WhiteWinterWolf/wwwolf-php-webshell)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
