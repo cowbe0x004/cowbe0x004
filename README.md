@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SharPersist](https://github.com/mandiant/SharPersist)
 - [cowbe0x004 starred PatchaPalooza](https://github.com/xaitax/PatchaPalooza)
 - [cowbe0x004 starred SQLAB](https://github.com/K3rnel-Dev/SQLAB)
 - [cowbe0x004 starred sccmhunter](https://github.com/garrettfoster13/sccmhunter)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Proxy-DLL-Loads](https://github.com/kleiton0x00/Proxy-DLL-Loads)
 - [cowbe0x004 starred phpggc](https://github.com/ambionics/phpggc)
 - [cowbe0x004 starred KrbRelayUp](https://github.com/ShorSec/KrbRelayUp)
-- [cowbe0x004 starred SharpKatz](https://github.com/b4rtik/SharpKatz)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
