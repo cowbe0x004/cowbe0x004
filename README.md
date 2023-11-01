@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting)
 - [cowbe0x004 starred devops_labs](https://github.com/iesodias/devops_labs)
 - [cowbe0x004 starred SharPersist](https://github.com/mandiant/SharPersist)
 - [cowbe0x004 starred PatchaPalooza](https://github.com/xaitax/PatchaPalooza)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass)
 - [cowbe0x004 starred dashboard-icons](https://github.com/walkxcode/dashboard-icons)
 - [cowbe0x004 starred Proxy-DLL-Loads](https://github.com/kleiton0x00/Proxy-DLL-Loads)
-- [cowbe0x004 starred phpggc](https://github.com/ambionics/phpggc)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
