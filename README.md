@@ -26,16 +26,16 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
-- [Hack3rcon 3   03 Intro to Network Traffic Analysis   Part 1   Jon Schipp](https://www.youtube.com/watch?v=4WMpy3JDL3k)
-- [SQL injection tutorial for beginners on how to bypass basic login screen - SQL injection explained](https://www.youtube.com/watch?v=SJgYdTckMBY)
-- [Web PenTesting Workshop Part 1 of 12 Intro to Mutillidae, Burp Suite &amp; Injection Jeremy Druin](https://www.youtube.com/watch?v=rNkR1Joz4eU)
-- [Bring Back the Honeypots](https://www.youtube.com/watch?v=W7U2u-qLAB8)
-- [#1 Hacking 101 - Introduction - web security tutorial](https://www.youtube.com/watch?v=WW7cwBC0ytg)
-- [XSS Filter Bypass, Detection and Explanation with OWASP Xenotix](https://www.youtube.com/watch?v=loZSdedJnqc)
-- [Gabriella Coleman - How Anonymous narrowly Evaded the Cyberterrorism Rhetorical Machine](https://www.youtube.com/watch?v=RvOOgVrvWtY)
-- [Olivier Bilodeau &amp; Hugo Genesse - Applying DevOps Principles for Better Malware Analysis](https://www.youtube.com/watch?v=rfmUcYGGrls)
-- [Laurent Desaulniers - Stupid Pentester Tricks](https://www.youtube.com/watch?v=edLXMm7m4bM)
-- [Philippe Arteau - The New Wave of Deserialization Bugs](https://www.youtube.com/watch?v=0H7yDihGcKM)
+- [I Stole a Microsoft 365 Account. Here&#39;s How.](https://www.youtube.com/watch?v=sZ22YulJwao)
+- [Red Teaming 101 - Establishing Persistence with Havoc C2 and SharPersist](https://www.youtube.com/watch?v=SSs4njyILEE)
+- [Havoc C2 Framework - Setup Demonstration with Windows Defender Bypass](https://www.youtube.com/watch?v=DXJNWiZJGko)
+- [AASLR: Dynamic Device Code Phishing with Steve Borosh](https://www.youtube.com/watch?v=GZ_nn0uRLr4)
+- [How to Secure Active Directory &lpar;AD Tiering&rpar; - Tutorial 15 min](https://www.youtube.com/watch?v=OPwR2UFDYR0)
+- [SiegeCast: Pentesting Step One](https://www.youtube.com/watch?v=51mduFDpEP0)
+- [Cisco and Pentester Academy Attacking Active Directory Class with Nikhil Mittal 7/2020](https://www.youtube.com/watch?v=1fiZbYhEkYA)
+- [OffSec Live | Walkthrough of a PEN-200 AD Set](https://www.youtube.com/watch?v=2NLi4wzAvTw)
+- [How to Dump LSASS.exe Process Memory with Nanodump BOF - Windows Defender Bypass](https://www.youtube.com/watch?v=jwETspKR6JU)
+- [TROOPERS23: Real world detection engineering in a multi-cloud environment](https://www.youtube.com/watch?v=IHDNkpAr5JY)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
