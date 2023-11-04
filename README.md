@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred MDE-DFIR-Resources](https://github.com/cyb3rmik3/MDE-DFIR-Resources)
 - [cowbe0x004 starred C2-Tracker](https://github.com/montysecurity/C2-Tracker)
 - [cowbe0x004 starred Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting)
 - [cowbe0x004 starred devops_labs](https://github.com/iesodias/devops_labs)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred sccmhunter](https://github.com/garrettfoster13/sccmhunter)
 - [cowbe0x004 starred windows-defender-remover](https://github.com/ionuttbara/windows-defender-remover)
 - [cowbe0x004 starred awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass)
-- [cowbe0x004 starred dashboard-icons](https://github.com/walkxcode/dashboard-icons)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
