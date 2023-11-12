@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ai-goat](https://github.com/dhammon/ai-goat)
 - [cowbe0x004 starred Afuzz](https://github.com/RapidDNS/Afuzz)
 - [cowbe0x004 starred LocalPotato](https://github.com/decoder-it/LocalPotato)
 - [cowbe0x004 starred MDE-DFIR-Resources](https://github.com/cyb3rmik3/MDE-DFIR-Resources)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SharPersist](https://github.com/mandiant/SharPersist)
 - [cowbe0x004 starred PatchaPalooza](https://github.com/xaitax/PatchaPalooza)
 - [cowbe0x004 starred SQLAB](https://github.com/K3rnel-Dev/SQLAB)
-- [cowbe0x004 starred sccmhunter](https://github.com/garrettfoster13/sccmhunter)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
