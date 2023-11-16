@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred RedCloud-OS](https://github.com/RedTeamOperations/RedCloud-OS)
+- [cowbe0x004 starred SecurityResearcher-Note](https://github.com/LearningKijo/SecurityResearcher-Note)
 - [cowbe0x004 starred goblob](https://github.com/Macmod/goblob)
 - [cowbe0x004 starred digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab)
 - [cowbe0x004 starred SharpLateral](https://github.com/mertdas/SharpLateral)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred LocalPotato](https://github.com/decoder-it/LocalPotato)
 - [cowbe0x004 starred MDE-DFIR-Resources](https://github.com/cyb3rmik3/MDE-DFIR-Resources)
 - [cowbe0x004 starred C2-Tracker](https://github.com/montysecurity/C2-Tracker)
-- [cowbe0x004 starred Active_Directory_Advanced_Threat_Hunting](https://github.com/tomwechsler/Active_Directory_Advanced_Threat_Hunting)
-- [cowbe0x004 starred devops_labs](https://github.com/iesodias/devops_labs)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
