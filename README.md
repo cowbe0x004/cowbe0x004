@@ -32,7 +32,7 @@
 - [Havoc C2 Framework - Setup Demonstration with Windows Defender Bypass](https://www.youtube.com/watch?v=DXJNWiZJGko)
 - [AASLR: Dynamic Device Code Phishing with Steve Borosh](https://www.youtube.com/watch?v=GZ_nn0uRLr4)
 - [How to Secure Active Directory &lpar;AD Tiering&rpar; - Tutorial 15 min](https://www.youtube.com/watch?v=OPwR2UFDYR0)
-- [SiegeCast: Pentesting Step One](https://www.youtube.com/watch?v=51mduFDpEP0)
+- [SIEGECAST: Pentesting Step One](https://www.youtube.com/watch?v=51mduFDpEP0)
 - [Cisco and Pentester Academy Attacking Active Directory Class with Nikhil Mittal 7/2020](https://www.youtube.com/watch?v=1fiZbYhEkYA)
 - [OffSec Live | Walkthrough of a PEN-200 AD Set](https://www.youtube.com/watch?v=2NLi4wzAvTw)
 - [How to Dump LSASS.exe Process Memory with Nanodump BOF - Windows Defender Bypass](https://www.youtube.com/watch?v=jwETspKR6JU)
