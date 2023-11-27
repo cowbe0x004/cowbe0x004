@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred AD-Canaries](https://github.com/AirbusProtect/AD-Canaries)
 - [cowbe0x004 starred dockge](https://github.com/louislam/dockge)
 - [cowbe0x004 starred arsenal](https://github.com/Orange-Cyberdefense/arsenal)
 - [cowbe0x004 starred LOFLCAB](https://github.com/LOFL-Project/LOFLCAB)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred goblob](https://github.com/Macmod/goblob)
 - [cowbe0x004 starred digital-forensics-lab](https://github.com/frankwxu/digital-forensics-lab)
 - [cowbe0x004 starred SharpLateral](https://github.com/mertdas/SharpLateral)
-- [cowbe0x004 starred ai-goat](https://github.com/dhammon/ai-goat)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
