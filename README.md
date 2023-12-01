@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred malware-tools](https://github.com/albertzsigovits/malware-tools)
 - [cowbe0x004 starred Awesome-BEC](https://github.com/randomaccess3/Awesome-BEC)
 - [cowbe0x004 starred IceKube](https://github.com/WithSecureLabs/IceKube)
 - [cowbe0x004 starred AD-Canaries](https://github.com/AirbusProtect/AD-Canaries)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ocd-mindmaps](https://github.com/Orange-Cyberdefense/ocd-mindmaps)
 - [cowbe0x004 starred RedCloud-OS](https://github.com/RedTeamOperations/RedCloud-OS)
 - [cowbe0x004 starred SecurityResearcher-Note](https://github.com/LearningKijo/SecurityResearcher-Note)
-- [cowbe0x004 starred goblob](https://github.com/Macmod/goblob)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
