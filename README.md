@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred kernel-exploit-factory](https://github.com/bsauce/kernel-exploit-factory)
 - [cowbe0x004 starred Frida-Labs](https://github.com/DERE-ad2001/Frida-Labs)
 - [cowbe0x004 starred malware-tools](https://github.com/albertzsigovits/malware-tools)
 - [cowbe0x004 starred Awesome-BEC](https://github.com/randomaccess3/Awesome-BEC)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred arsenal](https://github.com/Orange-Cyberdefense/arsenal)
 - [cowbe0x004 starred LOFLCAB](https://github.com/LOFL-Project/LOFLCAB)
 - [cowbe0x004 starred ocd-mindmaps](https://github.com/Orange-Cyberdefense/ocd-mindmaps)
-- [cowbe0x004 starred RedCloud-OS](https://github.com/RedTeamOperations/RedCloud-OS)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
