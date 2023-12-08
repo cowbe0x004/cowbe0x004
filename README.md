@@ -54,7 +54,7 @@
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [RT Grzegorz Tworek: Need an almost invisible, post-exploitation, persistent, fileless, LPE backdoor? There are many, but this one looks really beautif...](https://twitter.com/0gtweet/status/1628720819537936386)
+- [Another fun experience from 2021 #BSidesDE #PvJCTF. Thanks for all the teams that made this happen. @dichotomy1 @NeedAMulligan @dooktwit @PvJGoldTeam ...](https://twitter.com/cowbe0x004/status/1459634829448957958)
 <!-- TWEETS:END -->
 
 ---
