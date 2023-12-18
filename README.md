@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Librum](https://github.com/Librum-Reader/Librum)
 - [cowbe0x004 starred opal](https://github.com/permitio/opal)
 - [cowbe0x004 starred espionage](https://github.com/iAbdullahMughal/espionage)
 - [cowbe0x004 starred NetExec](https://github.com/Pennyw0rth/NetExec)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred malware-tools](https://github.com/albertzsigovits/malware-tools)
 - [cowbe0x004 starred Awesome-BEC](https://github.com/randomaccess3/Awesome-BEC)
 - [cowbe0x004 starred IceKube](https://github.com/WithSecureLabs/IceKube)
-- [cowbe0x004 starred AD-Canaries](https://github.com/AirbusProtect/AD-Canaries)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
