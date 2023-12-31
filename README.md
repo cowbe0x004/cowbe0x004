@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred rootkitdev-linux](https://github.com/SourceCodeDeleted/rootkitdev-linux)
 - [cowbe0x004 starred Librum](https://github.com/Librum-Reader/Librum)
 - [cowbe0x004 starred opal](https://github.com/permitio/opal)
 - [cowbe0x004 starred espionage](https://github.com/iAbdullahMughal/espionage)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Frida-Labs](https://github.com/DERE-ad2001/Frida-Labs)
 - [cowbe0x004 starred malware-tools](https://github.com/albertzsigovits/malware-tools)
 - [cowbe0x004 starred Awesome-BEC](https://github.com/randomaccess3/Awesome-BEC)
-- [cowbe0x004 starred IceKube](https://github.com/WithSecureLabs/IceKube)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
