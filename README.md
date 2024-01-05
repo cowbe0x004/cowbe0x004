@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred GodPotato](https://github.com/BeichenDream/GodPotato)
 - [cowbe0x004 starred TokenTactics](https://github.com/rvrsh3ll/TokenTactics)
 - [cowbe0x004 starred rootkitdev-linux](https://github.com/SourceCodeDeleted/rootkitdev-linux)
 - [cowbe0x004 starred Librum](https://github.com/Librum-Reader/Librum)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred awesome-data-exfiltration](https://github.com/benstew/awesome-data-exfiltration)
 - [cowbe0x004 starred kernel-exploit-factory](https://github.com/bsauce/kernel-exploit-factory)
 - [cowbe0x004 starred Frida-Labs](https://github.com/DERE-ad2001/Frida-Labs)
-- [cowbe0x004 starred malware-tools](https://github.com/albertzsigovits/malware-tools)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
