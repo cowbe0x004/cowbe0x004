@@ -40,6 +40,9 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Microsoft-Defender-Security-Center-Hunting-Queries](https://github.com/gmellini/Microsoft-Defender-Security-Center-Hunting-Queries)
+- [cowbe0x004 starred AdvancedHuntingQueries](https://github.com/lawndoc/AdvancedHuntingQueries)
+- [cowbe0x004 starred Windows-Defender-Hardening](https://github.com/simeononsecurity/Windows-Defender-Hardening)
 - [cowbe0x004 starred LDAP-Monitoring-Watchdog](https://github.com/MegaManSec/LDAP-Monitoring-Watchdog)
 - [cowbe0x004 starred D3m0n1z3dShell](https://github.com/MatheuZSecurity/D3m0n1z3dShell)
 - [cowbe0x004 starred GodPotato](https://github.com/BeichenDream/GodPotato)
@@ -47,9 +50,6 @@
 - [cowbe0x004 starred rootkitdev-linux](https://github.com/SourceCodeDeleted/rootkitdev-linux)
 - [cowbe0x004 starred Librum](https://github.com/Librum-Reader/Librum)
 - [cowbe0x004 starred opal](https://github.com/permitio/opal)
-- [cowbe0x004 starred espionage](https://github.com/iAbdullahMughal/espionage)
-- [cowbe0x004 starred NetExec](https://github.com/Pennyw0rth/NetExec)
-- [cowbe0x004 starred awesome-data-exfiltration](https://github.com/benstew/awesome-data-exfiltration)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
