@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred midea_ac_lan](https://github.com/georgezhao2010/midea_ac_lan)
 - [cowbe0x004 starred SuperSharpShares](https://github.com/LaresLLC/SuperSharpShares)
 - [cowbe0x004 starred Microsoft-Defender-Security-Center-Hunting-Queries](https://github.com/gmellini/Microsoft-Defender-Security-Center-Hunting-Queries)
 - [cowbe0x004 starred AdvancedHuntingQueries](https://github.com/lawndoc/AdvancedHuntingQueries)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred GodPotato](https://github.com/BeichenDream/GodPotato)
 - [cowbe0x004 starred TokenTactics](https://github.com/rvrsh3ll/TokenTactics)
 - [cowbe0x004 starred rootkitdev-linux](https://github.com/SourceCodeDeleted/rootkitdev-linux)
-- [cowbe0x004 starred Librum](https://github.com/Librum-Reader/Librum)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
