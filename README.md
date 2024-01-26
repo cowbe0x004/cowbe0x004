@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Classifying Malicious PowerShell](https://www.youtube.com/watch?v=wARQu3fqz0s)
 - [Shellcode Loader/Execute Shellcode - Automate with Python Programming!](https://www.youtube.com/watch?v=hWbfifU8TtA)
 - [I Stole a Microsoft 365 Account. Here&#39;s How.](https://www.youtube.com/watch?v=sZ22YulJwao)
 - [Red Teaming 101 - Establishing Persistence with Havoc C2 and SharPersist](https://www.youtube.com/watch?v=SSs4njyILEE)
@@ -35,7 +36,6 @@
 - [SIEGECAST: Pentesting Step One](https://www.youtube.com/watch?v=51mduFDpEP0)
 - [Cisco and Pentester Academy Attacking Active Directory Class with Nikhil Mittal 7/2020](https://www.youtube.com/watch?v=1fiZbYhEkYA)
 - [OffSec Live | Walkthrough of a PEN-200 AD Set](https://www.youtube.com/watch?v=2NLi4wzAvTw)
-- [How to Dump LSASS.exe Process Memory with Nanodump BOF - Windows Defender Bypass](https://www.youtube.com/watch?v=jwETspKR6JU)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
