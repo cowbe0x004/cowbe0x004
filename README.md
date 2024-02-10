@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred CTF-Write-Ups](https://github.com/abdoghazy2015/CTF-Write-Ups)
 - [cowbe0x004 starred hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud)
 - [cowbe0x004 starred realm](https://github.com/spellshift/realm)
 - [cowbe0x004 starred midea_ac_lan](https://github.com/georgezhao2010/midea_ac_lan)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Windows-Defender-Hardening](https://github.com/simeononsecurity/Windows-Defender-Hardening)
 - [cowbe0x004 starred LDAP-Monitoring-Watchdog](https://github.com/MegaManSec/LDAP-Monitoring-Watchdog)
 - [cowbe0x004 starred D3m0n1z3dShell](https://github.com/MatheuZSecurity/D3m0n1z3dShell)
-- [cowbe0x004 starred GodPotato](https://github.com/BeichenDream/GodPotato)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
