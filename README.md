@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred webhood](https://github.com/webhood-io/webhood)
 - [cowbe0x004 starred v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin)
 - [cowbe0x004 starred frameless-bitb](https://github.com/waelmas/frameless-bitb)
 - [cowbe0x004 starred http-garden](https://github.com/narfindustries/http-garden)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred midea_ac_lan](https://github.com/georgezhao2010/midea_ac_lan)
 - [cowbe0x004 starred SuperSharpShares](https://github.com/LaresLLC/SuperSharpShares)
 - [cowbe0x004 starred Microsoft-Defender-Security-Center-Hunting-Queries](https://github.com/gmellini/Microsoft-Defender-Security-Center-Hunting-Queries)
-- [cowbe0x004 starred AdvancedHuntingQueries](https://github.com/lawndoc/AdvancedHuntingQueries)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
