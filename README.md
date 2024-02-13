@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred frameless-bitb](https://github.com/waelmas/frameless-bitb)
 - [cowbe0x004 starred http-garden](https://github.com/narfindustries/http-garden)
 - [cowbe0x004 starred CTF-Write-Ups](https://github.com/abdoghazy2015/CTF-Write-Ups)
 - [cowbe0x004 starred hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Microsoft-Defender-Security-Center-Hunting-Queries](https://github.com/gmellini/Microsoft-Defender-Security-Center-Hunting-Queries)
 - [cowbe0x004 starred AdvancedHuntingQueries](https://github.com/lawndoc/AdvancedHuntingQueries)
 - [cowbe0x004 starred Windows-Defender-Hardening](https://github.com/simeononsecurity/Windows-Defender-Hardening)
-- [cowbe0x004 starred LDAP-Monitoring-Watchdog](https://github.com/MegaManSec/LDAP-Monitoring-Watchdog)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
