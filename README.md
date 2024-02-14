@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred sidr](https://github.com/strozfriedberg/sidr)
+- [cowbe0x004 starred WinEDB](https://github.com/kacos2000/WinEDB)
 - [cowbe0x004 starred ROADtools](https://github.com/dirkjanm/ROADtools)
 - [cowbe0x004 starred DetectRaptor](https://github.com/mgreen27/DetectRaptor)
 - [cowbe0x004 starred ArtifactCollectionMatrix](https://github.com/swisscom/ArtifactCollectionMatrix)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred frameless-bitb](https://github.com/waelmas/frameless-bitb)
 - [cowbe0x004 starred http-garden](https://github.com/narfindustries/http-garden)
 - [cowbe0x004 starred CTF-Write-Ups](https://github.com/abdoghazy2015/CTF-Write-Ups)
-- [cowbe0x004 starred hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud)
-- [cowbe0x004 starred realm](https://github.com/spellshift/realm)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
