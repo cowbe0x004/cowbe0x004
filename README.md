@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ROADtools](https://github.com/dirkjanm/ROADtools)
+- [cowbe0x004 starred DetectRaptor](https://github.com/mgreen27/DetectRaptor)
 - [cowbe0x004 starred ArtifactCollectionMatrix](https://github.com/swisscom/ArtifactCollectionMatrix)
 - [cowbe0x004 starred webhood](https://github.com/webhood-io/webhood)
 - [cowbe0x004 starred v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred CTF-Write-Ups](https://github.com/abdoghazy2015/CTF-Write-Ups)
 - [cowbe0x004 starred hackingthe.cloud](https://github.com/Hacking-the-Cloud/hackingthe.cloud)
 - [cowbe0x004 starred realm](https://github.com/spellshift/realm)
-- [cowbe0x004 starred midea_ac_lan](https://github.com/georgezhao2010/midea_ac_lan)
-- [cowbe0x004 starred SuperSharpShares](https://github.com/LaresLLC/SuperSharpShares)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
