@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Malware Development Course: Process Injection Part 1 &lpar;DLL&#39;s&rpar;](https://www.youtube.com/watch?v=2Y4nwJVLlqw)
 - [How To: Evilginx + BITB | Browser In The Browser without iframes in 2024](https://www.youtube.com/watch?v=luJjxpEwVHI)
 - [Classifying Malicious PowerShell](https://www.youtube.com/watch?v=wARQu3fqz0s)
 - [Shellcode Loader/Execute Shellcode - Automate with Python Programming!](https://www.youtube.com/watch?v=hWbfifU8TtA)
@@ -35,7 +36,6 @@
 - [AASLR: Dynamic Device Code Phishing with Steve Borosh](https://www.youtube.com/watch?v=GZ_nn0uRLr4)
 - [How to Secure Active Directory &lpar;AD Tiering&rpar; - Tutorial 15 min](https://www.youtube.com/watch?v=OPwR2UFDYR0)
 - [SIEGECAST: Pentesting Step One](https://www.youtube.com/watch?v=51mduFDpEP0)
-- [Cisco and Pentester Academy Attacking Active Directory Class with Nikhil Mittal 7/2020](https://www.youtube.com/watch?v=1fiZbYhEkYA)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
