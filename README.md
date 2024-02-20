@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred peirates](https://github.com/inguardians/peirates)
 - [cowbe0x004 starred sidr](https://github.com/strozfriedberg/sidr)
 - [cowbe0x004 starred WinEDB](https://github.com/kacos2000/WinEDB)
 - [cowbe0x004 starred ROADtools](https://github.com/dirkjanm/ROADtools)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred v2ray-plugin](https://github.com/shadowsocks/v2ray-plugin)
 - [cowbe0x004 starred frameless-bitb](https://github.com/waelmas/frameless-bitb)
 - [cowbe0x004 starred http-garden](https://github.com/narfindustries/http-garden)
-- [cowbe0x004 starred CTF-Write-Ups](https://github.com/abdoghazy2015/CTF-Write-Ups)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
