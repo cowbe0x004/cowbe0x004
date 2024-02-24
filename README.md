@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Cyber Threat Hunting Level 1 | Chris Brenton | December 2023](https://www.youtube.com/watch?v=SAV3fx3m2Gk)
+- [A | C - Cyber Threat Hunting Level 1 | Chris Brenton | Tuesday October 4th, 2022 | 6 Hours](https://www.youtube.com/watch?v=xIkC--HhFdw)
 - [Deep Dive into DLL Sideloading and DLL Hijacking - Malware Development Course](https://www.youtube.com/watch?v=4aiAtGF9tF4)
 - [Malware Development Course: Process Injection Part 1 &lpar;DLL&#39;s&rpar;](https://www.youtube.com/watch?v=2Y4nwJVLlqw)
 - [How To: Evilginx + BITB | Browser In The Browser without iframes in 2024](https://www.youtube.com/watch?v=luJjxpEwVHI)
@@ -34,8 +36,6 @@
 - [I Stole a Microsoft 365 Account. Here&#39;s How.](https://www.youtube.com/watch?v=sZ22YulJwao)
 - [Red Teaming 101 - Establishing Persistence with Havoc C2 and SharPersist](https://www.youtube.com/watch?v=SSs4njyILEE)
 - [Havoc C2 Framework - Setup Demonstration with Windows Defender Bypass](https://www.youtube.com/watch?v=DXJNWiZJGko)
-- [AASLR: Dynamic Device Code Phishing with Steve Borosh](https://www.youtube.com/watch?v=GZ_nn0uRLr4)
-- [How to Secure Active Directory &lpar;AD Tiering&rpar; - Tutorial 15 min](https://www.youtube.com/watch?v=OPwR2UFDYR0)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
