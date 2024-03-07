@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [&quot;Tales of AV/EDR Bypass: Ropping the Night Away.&quot;](https://www.youtube.com/watch?v=CLD0GuPXf3s)
 - [How to LEARN WINDOWS API &lpar;for hacking windows&rpar;](https://www.youtube.com/watch?v=zqi2KE6RA38)
 - [Cyber Threat Hunting Level 1 | Chris Brenton | December 2023](https://www.youtube.com/watch?v=SAV3fx3m2Gk)
 - [A | C - Cyber Threat Hunting Level 1 | Chris Brenton | Tuesday October 4th, 2022 | 6 Hours](https://www.youtube.com/watch?v=xIkC--HhFdw)
@@ -35,7 +36,6 @@
 - [Classifying Malicious PowerShell](https://www.youtube.com/watch?v=wARQu3fqz0s)
 - [Shellcode Loader/Execute Shellcode - Automate with Python Programming!](https://www.youtube.com/watch?v=hWbfifU8TtA)
 - [I Stole a Microsoft 365 Account. Here&#39;s How.](https://www.youtube.com/watch?v=sZ22YulJwao)
-- [Red Teaming 101 - Establishing Persistence with Havoc C2 and SharPersist](https://www.youtube.com/watch?v=SSs4njyILEE)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
