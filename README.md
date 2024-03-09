@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred nomore403](https://github.com/devploit/nomore403)
 - [cowbe0x004 starred programming-challenges](https://github.com/michelbernardods/programming-challenges)
 - [cowbe0x004 starred apk.sh](https://github.com/ax/apk.sh)
 - [cowbe0x004 starred attack-arsenal](https://github.com/mitre-attack/attack-arsenal)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ROADtools](https://github.com/dirkjanm/ROADtools)
 - [cowbe0x004 starred DetectRaptor](https://github.com/mgreen27/DetectRaptor)
 - [cowbe0x004 starred ArtifactCollectionMatrix](https://github.com/swisscom/ArtifactCollectionMatrix)
-- [cowbe0x004 starred webhood](https://github.com/webhood-io/webhood)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
