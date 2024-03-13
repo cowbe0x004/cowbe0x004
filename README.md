@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [#misec Jackson Presents Isaac Dunham &quot;Windows Portable Executable Files for Cats&quot;](https://www.youtube.com/watch?v=L9dX8nhX0_w)
 - [&quot;Tales of AV/EDR Bypass: Ropping the Night Away.&quot;](https://www.youtube.com/watch?v=CLD0GuPXf3s)
 - [How to LEARN WINDOWS API &lpar;for hacking windows&rpar;](https://www.youtube.com/watch?v=zqi2KE6RA38)
 - [Cyber Threat Hunting Level 1 | Chris Brenton | December 2023](https://www.youtube.com/watch?v=SAV3fx3m2Gk)
@@ -35,7 +36,6 @@
 - [How To: Evilginx + BITB | Browser In The Browser without iframes in 2024](https://www.youtube.com/watch?v=luJjxpEwVHI)
 - [Classifying Malicious PowerShell](https://www.youtube.com/watch?v=wARQu3fqz0s)
 - [Shellcode Loader/Execute Shellcode - Automate with Python Programming!](https://www.youtube.com/watch?v=hWbfifU8TtA)
-- [I Stole a Microsoft 365 Account. Here&#39;s How.](https://www.youtube.com/watch?v=sZ22YulJwao)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
