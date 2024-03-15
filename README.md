@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [How to BYPASS ANTIVIRUS with WEB-BASED PAYLOAD STAGING](https://www.youtube.com/watch?v=82FwbS4jEns)
 - [#misec Jackson Presents Isaac Dunham &quot;Windows Portable Executable Files for Cats&quot;](https://www.youtube.com/watch?v=L9dX8nhX0_w)
 - [&quot;Tales of AV/EDR Bypass: Ropping the Night Away.&quot;](https://www.youtube.com/watch?v=CLD0GuPXf3s)
 - [How to LEARN WINDOWS API &lpar;for hacking windows&rpar;](https://www.youtube.com/watch?v=zqi2KE6RA38)
@@ -35,7 +36,6 @@
 - [Malware Development Course: Process Injection Part 1 &lpar;DLL&#39;s&rpar;](https://www.youtube.com/watch?v=2Y4nwJVLlqw)
 - [How To: Evilginx + BITB | Browser In The Browser without iframes in 2024](https://www.youtube.com/watch?v=luJjxpEwVHI)
 - [Classifying Malicious PowerShell](https://www.youtube.com/watch?v=wARQu3fqz0s)
-- [Shellcode Loader/Execute Shellcode - Automate with Python Programming!](https://www.youtube.com/watch?v=hWbfifU8TtA)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
