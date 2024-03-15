@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager)
 - [cowbe0x004 starred TeamsPhisher](https://github.com/Octoberfest7/TeamsPhisher)
 - [cowbe0x004 starred nomore403](https://github.com/devploit/nomore403)
 - [cowbe0x004 starred programming-challenges](https://github.com/michelbernardods/programming-challenges)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred sidr](https://github.com/strozfriedberg/sidr)
 - [cowbe0x004 starred WinEDB](https://github.com/kacos2000/WinEDB)
 - [cowbe0x004 starred ROADtools](https://github.com/dirkjanm/ROADtools)
-- [cowbe0x004 starred DetectRaptor](https://github.com/mgreen27/DetectRaptor)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
