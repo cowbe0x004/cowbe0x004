@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [NSEC2023 - Burp Suite Pro tips and tricks, the sequel](https://www.youtube.com/watch?v=N7BN--CMOMI)
 - [How to BYPASS ANTIVIRUS with WEB-BASED PAYLOAD STAGING](https://www.youtube.com/watch?v=82FwbS4jEns)
 - [#misec Jackson Presents Isaac Dunham &quot;Windows Portable Executable Files for Cats&quot;](https://www.youtube.com/watch?v=L9dX8nhX0_w)
 - [&quot;Tales of AV/EDR Bypass: Ropping the Night Away.&quot;](https://www.youtube.com/watch?v=CLD0GuPXf3s)
@@ -35,7 +36,6 @@
 - [Deep Dive into DLL Sideloading and DLL Hijacking - Malware Development Course](https://www.youtube.com/watch?v=4aiAtGF9tF4)
 - [Malware Development Course: Process Injection Part 1 &lpar;DLL&#39;s&rpar;](https://www.youtube.com/watch?v=2Y4nwJVLlqw)
 - [How To: Evilginx + BITB | Browser In The Browser without iframes in 2024](https://www.youtube.com/watch?v=luJjxpEwVHI)
-- [Classifying Malicious PowerShell](https://www.youtube.com/watch?v=wARQu3fqz0s)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
