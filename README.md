@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred dvca](https://github.com/m6a-UdS/dvca)
 - [cowbe0x004 starred Unit42-timely-threat-intel](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel)
 - [cowbe0x004 starred Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
 - [cowbe0x004 starred impulse-xdr](https://github.com/bgenev/impulse-xdr)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred programming-challenges](https://github.com/michelbernardods/programming-challenges)
 - [cowbe0x004 starred apk.sh](https://github.com/ax/apk.sh)
 - [cowbe0x004 starred attack-arsenal](https://github.com/mitre-attack/attack-arsenal)
-- [cowbe0x004 starred peirates](https://github.com/inguardians/peirates)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
