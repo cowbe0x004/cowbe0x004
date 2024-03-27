@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
 - [cowbe0x004 starred Community](https://github.com/SEKOIA-IO/Community)
 - [cowbe0x004 starred clarion](https://github.com/HuskyHacks/clarion)
 - [cowbe0x004 starred dvca](https://github.com/m6a-UdS/dvca)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Misconfiguration-Manager](https://github.com/subat0mik/Misconfiguration-Manager)
 - [cowbe0x004 starred TeamsPhisher](https://github.com/Octoberfest7/TeamsPhisher)
 - [cowbe0x004 starred nomore403](https://github.com/devploit/nomore403)
-- [cowbe0x004 starred programming-challenges](https://github.com/michelbernardods/programming-challenges)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
