@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Misc-Research](https://github.com/nasbench/Misc-Research)
 - [cowbe0x004 starred VolWeb](https://github.com/k1nd0ne/VolWeb)
 - [cowbe0x004 starred ccl_chrome_indexeddb](https://github.com/cclgroupltd/ccl_chrome_indexeddb)
 - [cowbe0x004 starred noia](https://github.com/0x742/noia)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred dvca](https://github.com/m6a-UdS/dvca)
 - [cowbe0x004 starred Unit42-timely-threat-intel](https://github.com/PaloAltoNetworks/Unit42-timely-threat-intel)
 - [cowbe0x004 starred Detect-It-Easy](https://github.com/horsicq/Detect-It-Easy)
-- [cowbe0x004 starred impulse-xdr](https://github.com/bgenev/impulse-xdr)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
