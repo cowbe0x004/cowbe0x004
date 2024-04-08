@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [JA4+ Intro](https://www.youtube.com/watch?v=b1c7xxe6ouM)
 - [Modern Threat Hunting](https://www.youtube.com/watch?v=h4taXieI9Xo)
 - [NSEC2023 - Burp Suite Pro tips and tricks, the sequel](https://www.youtube.com/watch?v=N7BN--CMOMI)
 - [How to BYPASS ANTIVIRUS with WEB-BASED PAYLOAD STAGING](https://www.youtube.com/watch?v=82FwbS4jEns)
@@ -35,7 +36,6 @@
 - [Cyber Threat Hunting Level 1 | Chris Brenton | December 2023](https://www.youtube.com/watch?v=SAV3fx3m2Gk)
 - [A | C - Cyber Threat Hunting Level 1 | Chris Brenton | Tuesday October 4th, 2022 | 6 Hours](https://www.youtube.com/watch?v=xIkC--HhFdw)
 - [Deep Dive into DLL Sideloading and DLL Hijacking - Malware Development Course](https://www.youtube.com/watch?v=4aiAtGF9tF4)
-- [Malware Development Course: Process Injection Part 1 &lpar;DLL&#39;s&rpar;](https://www.youtube.com/watch?v=2Y4nwJVLlqw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
