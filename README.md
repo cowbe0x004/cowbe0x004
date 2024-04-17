@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Prompt Injection in LLM Browser Agents](https://www.youtube.com/watch?v=TxyjjsXT-vw)
 - [Hacking Windows Domain Active Directory Series - Episode 02](https://www.youtube.com/watch?v=61lriESHdPw)
 - [JA4+ Intro](https://www.youtube.com/watch?v=b1c7xxe6ouM)
 - [Modern Threat Hunting](https://www.youtube.com/watch?v=h4taXieI9Xo)
@@ -35,7 +36,6 @@
 - [&quot;Tales of AV/EDR Bypass: Ropping the Night Away.&quot;](https://www.youtube.com/watch?v=CLD0GuPXf3s)
 - [How to LEARN WINDOWS API &lpar;for hacking windows&rpar;](https://www.youtube.com/watch?v=zqi2KE6RA38)
 - [Cyber Threat Hunting Level 1 | Chris Brenton | December 2023](https://www.youtube.com/watch?v=SAV3fx3m2Gk)
-- [A | C - Cyber Threat Hunting Level 1 | Chris Brenton | Tuesday October 4th, 2022 | 6 Hours](https://www.youtube.com/watch?v=xIkC--HhFdw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
