@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred lsa-whisperer](https://github.com/EvanMcBroom/lsa-whisperer)
 - [cowbe0x004 starred dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard)
 - [cowbe0x004 starred TokenTacticsV2](https://github.com/f-bader/TokenTacticsV2)
 - [cowbe0x004 starred ja4](https://github.com/FoxIO-LLC/ja4)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred noia](https://github.com/0x742/noia)
 - [cowbe0x004 starred javascript-obfuscator](https://github.com/javascript-obfuscator/javascript-obfuscator)
 - [cowbe0x004 starred Community](https://github.com/SEKOIA-IO/Community)
-- [cowbe0x004 starred clarion](https://github.com/HuskyHacks/clarion)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
