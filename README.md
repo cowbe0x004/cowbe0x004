@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Methods for Finding Threat Signals - Greg Lesnewich @ NetNoiseCon](https://www.youtube.com/watch?v=mJJFzQq5B1k)
 - [BlueHat Oct 23. S10: Exploring the Windows Registry as a Powerful LPE Attack Surface](https://www.youtube.com/watch?v=8mJLe8sZki8)
 - [Prompt Injection in LLM Browser Agents](https://www.youtube.com/watch?v=TxyjjsXT-vw)
 - [Hacking Windows Domain Active Directory Series - Episode 02](https://www.youtube.com/watch?v=61lriESHdPw)
@@ -35,7 +36,6 @@
 - [How to BYPASS ANTIVIRUS with WEB-BASED PAYLOAD STAGING](https://www.youtube.com/watch?v=82FwbS4jEns)
 - [#misec Jackson Presents Isaac Dunham &quot;Windows Portable Executable Files for Cats&quot;](https://www.youtube.com/watch?v=L9dX8nhX0_w)
 - [&quot;Tales of AV/EDR Bypass: Ropping the Night Away.&quot;](https://www.youtube.com/watch?v=CLD0GuPXf3s)
-- [How to LEARN WINDOWS API &lpar;for hacking windows&rpar;](https://www.youtube.com/watch?v=zqi2KE6RA38)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
