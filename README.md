@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Memory Forensics with Volatility | PDF Malware Analysis with Any.Run | Cyber Incident Response](https://www.youtube.com/watch?v=vIrDy-eA91I)
 - [Methods for Finding Threat Signals - Greg Lesnewich @ NetNoiseCon](https://www.youtube.com/watch?v=mJJFzQq5B1k)
 - [BlueHat Oct 23. S10: Exploring the Windows Registry as a Powerful LPE Attack Surface](https://www.youtube.com/watch?v=8mJLe8sZki8)
 - [Prompt Injection in LLM Browser Agents](https://www.youtube.com/watch?v=TxyjjsXT-vw)
@@ -35,7 +36,6 @@
 - [NSEC2023 - Burp Suite Pro tips and tricks, the sequel](https://www.youtube.com/watch?v=N7BN--CMOMI)
 - [How to BYPASS ANTIVIRUS with WEB-BASED PAYLOAD STAGING](https://www.youtube.com/watch?v=82FwbS4jEns)
 - [#misec Jackson Presents Isaac Dunham &quot;Windows Portable Executable Files for Cats&quot;](https://www.youtube.com/watch?v=L9dX8nhX0_w)
-- [&quot;Tales of AV/EDR Bypass: Ropping the Night Away.&quot;](https://www.youtube.com/watch?v=CLD0GuPXf3s)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
