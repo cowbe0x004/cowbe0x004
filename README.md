@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred MasterParser](https://github.com/securityjoes/MasterParser)
 - [cowbe0x004 starred CrimsonEDR](https://github.com/Helixo32/CrimsonEDR)
 - [cowbe0x004 starred libvmi](https://github.com/libvmi/libvmi)
 - [cowbe0x004 starred pyOneNote](https://github.com/DissectMalware/pyOneNote)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ja4](https://github.com/FoxIO-LLC/ja4)
 - [cowbe0x004 starred Misc-Research](https://github.com/nasbench/Misc-Research)
 - [cowbe0x004 starred VolWeb](https://github.com/k1nd0ne/VolWeb)
-- [cowbe0x004 starred ccl_chrome_indexeddb](https://github.com/cclgroupltd/ccl_chrome_indexeddb)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
