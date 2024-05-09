@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred websocat](https://github.com/vi/websocat)
 - [cowbe0x004 starred Learning-EDR-and-EDR_Evasion](https://github.com/reveng007/Learning-EDR-and-EDR_Evasion)
 - [cowbe0x004 starred MasterParser](https://github.com/securityjoes/MasterParser)
 - [cowbe0x004 starred CrimsonEDR](https://github.com/Helixo32/CrimsonEDR)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard)
 - [cowbe0x004 starred TokenTacticsV2](https://github.com/f-bader/TokenTacticsV2)
 - [cowbe0x004 starred ja4](https://github.com/FoxIO-LLC/ja4)
-- [cowbe0x004 starred Misc-Research](https://github.com/nasbench/Misc-Research)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
