@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred TrollAMSI](https://github.com/cybersectroll/TrollAMSI)
+- [cowbe0x004 starred admyral](https://github.com/Admyral-Security/admyral)
+- [cowbe0x004 starred awrbacs](https://github.com/lobuhi/awrbacs)
+- [cowbe0x004 starred yara-x](https://github.com/VirusTotal/yara-x)
 - [cowbe0x004 starred pfsense-saml2-auth](https://github.com/jaredhendrickson13/pfsense-saml2-auth)
 - [cowbe0x004 starred SharpPersistSD](https://github.com/cybersectroll/SharpPersistSD)
 - [cowbe0x004 starred websocat](https://github.com/vi/websocat)
 - [cowbe0x004 starred Learning-EDR-and-EDR_Evasion](https://github.com/reveng007/Learning-EDR-and-EDR_Evasion)
 - [cowbe0x004 starred MasterParser](https://github.com/securityjoes/MasterParser)
 - [cowbe0x004 starred CrimsonEDR](https://github.com/Helixo32/CrimsonEDR)
-- [cowbe0x004 starred libvmi](https://github.com/libvmi/libvmi)
-- [cowbe0x004 starred pyOneNote](https://github.com/DissectMalware/pyOneNote)
-- [cowbe0x004 starred lsa-whisperer](https://github.com/EvanMcBroom/lsa-whisperer)
-- [cowbe0x004 starred dwains-lovelace-dashboard](https://github.com/dwainscheeren/dwains-lovelace-dashboard)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
