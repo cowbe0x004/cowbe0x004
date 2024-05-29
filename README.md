@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred EnableWindowsLogSettings](https://github.com/Yamato-Security/EnableWindowsLogSettings)
 - [cowbe0x004 starred Freeway](https://github.com/FLOCK4H/Freeway)
 - [cowbe0x004 starred TrollAMSI](https://github.com/cybersectroll/TrollAMSI)
 - [cowbe0x004 starred admyral](https://github.com/Admyral-Security/admyral)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SharpPersistSD](https://github.com/cybersectroll/SharpPersistSD)
 - [cowbe0x004 starred websocat](https://github.com/vi/websocat)
 - [cowbe0x004 starred Learning-EDR-and-EDR_Evasion](https://github.com/reveng007/Learning-EDR-and-EDR_Evasion)
-- [cowbe0x004 starred MasterParser](https://github.com/securityjoes/MasterParser)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
