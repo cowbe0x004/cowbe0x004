@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal)
+- [cowbe0x004 starred ChromeKatz](https://github.com/Meckazin/ChromeKatz)
 - [cowbe0x004 starred zgrab2](https://github.com/zmap/zgrab2)
 - [cowbe0x004 starred EnableWindowsLogSettings](https://github.com/Yamato-Security/EnableWindowsLogSettings)
 - [cowbe0x004 starred Freeway](https://github.com/FLOCK4H/Freeway)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred awrbacs](https://github.com/lobuhi/awrbacs)
 - [cowbe0x004 starred yara-x](https://github.com/VirusTotal/yara-x)
 - [cowbe0x004 starred pfsense-saml2-auth](https://github.com/jaredhendrickson13/pfsense-saml2-auth)
-- [cowbe0x004 starred SharpPersistSD](https://github.com/cybersectroll/SharpPersistSD)
-- [cowbe0x004 starred websocat](https://github.com/vi/websocat)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
