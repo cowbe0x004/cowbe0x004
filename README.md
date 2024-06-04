@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred OffensiveGolang](https://github.com/MrTuxx/OffensiveGolang)
 - [cowbe0x004 starred XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal)
 - [cowbe0x004 starred ChromeKatz](https://github.com/Meckazin/ChromeKatz)
 - [cowbe0x004 starred zgrab2](https://github.com/zmap/zgrab2)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred admyral](https://github.com/Admyral-Security/admyral)
 - [cowbe0x004 starred awrbacs](https://github.com/lobuhi/awrbacs)
 - [cowbe0x004 starred yara-x](https://github.com/VirusTotal/yara-x)
-- [cowbe0x004 starred pfsense-saml2-auth](https://github.com/jaredhendrickson13/pfsense-saml2-auth)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
