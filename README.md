@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred msg-extractor](https://github.com/TeamMsgExtractor/msg-extractor)
 - [cowbe0x004 starred FilelessPELoader](https://github.com/SaadAhla/FilelessPELoader)
 - [cowbe0x004 starred OffensiveGolang](https://github.com/MrTuxx/OffensiveGolang)
 - [cowbe0x004 starred XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Freeway](https://github.com/FLOCK4H/Freeway)
 - [cowbe0x004 starred TrollAMSI](https://github.com/cybersectroll/TrollAMSI)
 - [cowbe0x004 starred admyral](https://github.com/Admyral-Security/admyral)
-- [cowbe0x004 starred awrbacs](https://github.com/lobuhi/awrbacs)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
