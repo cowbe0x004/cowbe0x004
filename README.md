@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred TotalRecall](https://github.com/xaitax/TotalRecall)
 - [cowbe0x004 starred msg-extractor](https://github.com/TeamMsgExtractor/msg-extractor)
 - [cowbe0x004 starred FilelessPELoader](https://github.com/SaadAhla/FilelessPELoader)
 - [cowbe0x004 starred OffensiveGolang](https://github.com/MrTuxx/OffensiveGolang)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred EnableWindowsLogSettings](https://github.com/Yamato-Security/EnableWindowsLogSettings)
 - [cowbe0x004 starred Freeway](https://github.com/FLOCK4H/Freeway)
 - [cowbe0x004 starred TrollAMSI](https://github.com/cybersectroll/TrollAMSI)
-- [cowbe0x004 starred admyral](https://github.com/Admyral-Security/admyral)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
