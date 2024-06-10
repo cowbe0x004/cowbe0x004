@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SigmaPotato](https://github.com/tylerdotrar/SigmaPotato)
 - [cowbe0x004 starred TotalRecall](https://github.com/xaitax/TotalRecall)
 - [cowbe0x004 starred msg-extractor](https://github.com/TeamMsgExtractor/msg-extractor)
 - [cowbe0x004 starred FilelessPELoader](https://github.com/SaadAhla/FilelessPELoader)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred zgrab2](https://github.com/zmap/zgrab2)
 - [cowbe0x004 starred EnableWindowsLogSettings](https://github.com/Yamato-Security/EnableWindowsLogSettings)
 - [cowbe0x004 starred Freeway](https://github.com/FLOCK4H/Freeway)
-- [cowbe0x004 starred TrollAMSI](https://github.com/cybersectroll/TrollAMSI)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
