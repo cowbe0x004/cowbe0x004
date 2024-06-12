@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Shortcuts for Understanding Malicious Scripts](https://www.youtube.com/watch?v=XxjeRuwRyOw)
+- [The State of Malware Analysis:  Advice from the Trenches](https://www.youtube.com/watch?v=u_Mbh8r7L0E)
 - [Bypass Windows Defender 2024 - Windows Cyber Security](https://www.youtube.com/watch?v=NmB2MPAafTo)
 - [LSASS Dumping Using DFIR Tools](https://www.youtube.com/watch?v=RW3cEdKbC4E)
 - [Memory Forensics with Volatility | PDF Malware Analysis with Any.Run | Cyber Incident Response](https://www.youtube.com/watch?v=vIrDy-eA91I)
@@ -34,8 +36,6 @@
 - [Prompt Injection in LLM Browser Agents](https://www.youtube.com/watch?v=TxyjjsXT-vw)
 - [Hacking Windows Domain Active Directory Series - Episode 02](https://www.youtube.com/watch?v=61lriESHdPw)
 - [JA4+ Intro](https://www.youtube.com/watch?v=b1c7xxe6ouM)
-- [Modern Threat Hunting](https://www.youtube.com/watch?v=h4taXieI9Xo)
-- [NSEC2023 - Burp Suite Pro tips and tricks, the sequel](https://www.youtube.com/watch?v=N7BN--CMOMI)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
