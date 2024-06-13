@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [🔴 Malware Mondays Episode 01 - Identifying Malicious Activity in Process Monitor &lpar;ProcMon&rpar; Data](https://www.youtube.com/watch?v=b5_PUMmpwjk)
+- [Analyzing Windows Malware on Linux: Getting Started Tips and Examples](https://www.youtube.com/watch?v=J85991pPYoc)
 - [Shortcuts for Understanding Malicious Scripts](https://www.youtube.com/watch?v=XxjeRuwRyOw)
 - [The State of Malware Analysis:  Advice from the Trenches](https://www.youtube.com/watch?v=u_Mbh8r7L0E)
 - [Bypass Windows Defender 2024 - Windows Cyber Security](https://www.youtube.com/watch?v=NmB2MPAafTo)
@@ -34,8 +36,6 @@
 - [Methods for Finding Threat Signals - Greg Lesnewich @ NetNoiseCon](https://www.youtube.com/watch?v=mJJFzQq5B1k)
 - [BlueHat Oct 23. S10: Exploring the Windows Registry as a Powerful LPE Attack Surface](https://www.youtube.com/watch?v=8mJLe8sZki8)
 - [Prompt Injection in LLM Browser Agents](https://www.youtube.com/watch?v=TxyjjsXT-vw)
-- [Hacking Windows Domain Active Directory Series - Episode 02](https://www.youtube.com/watch?v=61lriESHdPw)
-- [JA4+ Intro](https://www.youtube.com/watch?v=b1c7xxe6ouM)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
