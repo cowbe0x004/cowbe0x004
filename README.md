@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred SafeLine](https://github.com/chaitin/SafeLine)
 - [cowbe0x004 starred SigmaPotato](https://github.com/tylerdotrar/SigmaPotato)
 - [cowbe0x004 starred TotalRecall](https://github.com/xaitax/TotalRecall)
 - [cowbe0x004 starred msg-extractor](https://github.com/TeamMsgExtractor/msg-extractor)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred ChromeKatz](https://github.com/Meckazin/ChromeKatz)
 - [cowbe0x004 starred zgrab2](https://github.com/zmap/zgrab2)
 - [cowbe0x004 starred EnableWindowsLogSettings](https://github.com/Yamato-Security/EnableWindowsLogSettings)
-- [cowbe0x004 starred Freeway](https://github.com/FLOCK4H/Freeway)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
