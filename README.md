@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PWA-Phishing](https://github.com/mrd0x/PWA-Phishing)
 - [cowbe0x004 starred msitools](https://github.com/GNOME/msitools)
 - [cowbe0x004 starred SafeLine](https://github.com/chaitin/SafeLine)
 - [cowbe0x004 starred SigmaPotato](https://github.com/tylerdotrar/SigmaPotato)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred OffensiveGolang](https://github.com/MrTuxx/OffensiveGolang)
 - [cowbe0x004 starred XnlReveal](https://github.com/xnl-h4ck3r/XnlReveal)
 - [cowbe0x004 starred ChromeKatz](https://github.com/Meckazin/ChromeKatz)
-- [cowbe0x004 starred zgrab2](https://github.com/zmap/zgrab2)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
