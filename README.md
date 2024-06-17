@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Threat Hunting with VirusTotal - Introduction to VT Intelligence](https://www.youtube.com/watch?v=EV6FZJMvPzs)
 - [Memory Forensics Made Easy, with SANS and Intezer](https://www.youtube.com/watch?v=6zDl8MNlyQw)
 - [🔴 Malware Mondays Episode 01 - Identifying Malicious Activity in Process Monitor &lpar;ProcMon&rpar; Data](https://www.youtube.com/watch?v=b5_PUMmpwjk)
 - [Analyzing Windows Malware on Linux: Getting Started Tips and Examples](https://www.youtube.com/watch?v=J85991pPYoc)
@@ -35,7 +36,6 @@
 - [LSASS Dumping Using DFIR Tools](https://www.youtube.com/watch?v=RW3cEdKbC4E)
 - [Memory Forensics with Volatility | PDF Malware Analysis with Any.Run | Cyber Incident Response](https://www.youtube.com/watch?v=vIrDy-eA91I)
 - [Methods for Finding Threat Signals - Greg Lesnewich @ NetNoiseCon](https://www.youtube.com/watch?v=mJJFzQq5B1k)
-- [BlueHat Oct 23. S10: Exploring the Windows Registry as a Powerful LPE Attack Surface](https://www.youtube.com/watch?v=8mJLe8sZki8)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
