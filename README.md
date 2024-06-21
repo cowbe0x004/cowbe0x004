@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred smbclient-ng](https://github.com/p0dalirius/smbclient-ng)
 - [cowbe0x004 starred gcpwn](https://github.com/NetSPI/gcpwn)
 - [cowbe0x004 starred GCP-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation)
 - [cowbe0x004 starred PPID-Spoofing](https://github.com/EvilBytecode/PPID-Spoofing)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SigmaPotato](https://github.com/tylerdotrar/SigmaPotato)
 - [cowbe0x004 starred TotalRecall](https://github.com/xaitax/TotalRecall)
 - [cowbe0x004 starred msg-extractor](https://github.com/TeamMsgExtractor/msg-extractor)
-- [cowbe0x004 starred FilelessPELoader](https://github.com/SaadAhla/FilelessPELoader)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
