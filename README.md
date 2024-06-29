@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [How To Pivot Through A Network With Mythic C2 And Ligolo-NG](https://www.youtube.com/watch?v=Zrg17UvNqXI)
 - [How attackers can bypass phishing-resistant MFA | Use these protections!](https://www.youtube.com/watch?v=gNflVkmr6RA)
 - [Threat Hunting with VirusTotal - Introduction to VT Intelligence](https://www.youtube.com/watch?v=EV6FZJMvPzs)
 - [Memory Forensics Made Easy, with SANS and Intezer](https://www.youtube.com/watch?v=6zDl8MNlyQw)
@@ -35,7 +36,6 @@
 - [The State of Malware Analysis:  Advice from the Trenches](https://www.youtube.com/watch?v=u_Mbh8r7L0E)
 - [Bypass Windows Defender 2024 - Windows Cyber Security](https://www.youtube.com/watch?v=NmB2MPAafTo)
 - [LSASS Dumping Using DFIR Tools](https://www.youtube.com/watch?v=RW3cEdKbC4E)
-- [Memory Forensics with Volatility | PDF Malware Analysis with Any.Run | Cyber Incident Response](https://www.youtube.com/watch?v=vIrDy-eA91I)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
