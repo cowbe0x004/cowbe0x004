@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Supershell](https://github.com/tdragon6/Supershell)
+- [cowbe0x004 starred C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds)
 - [cowbe0x004 starred WinProcessShot](https://github.com/Lifka/WinProcessShot)
 - [cowbe0x004 starred Shellcode-Loader](https://github.com/EvilBytecode/Shellcode-Loader)
 - [cowbe0x004 starred RemoteKrbRelay](https://github.com/CICADA8-Research/RemoteKrbRelay)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred Lifetime-Amsi-EtwPatch](https://github.com/EvilBytecode/Lifetime-Amsi-EtwPatch)
 - [cowbe0x004 starred smbclient-ng](https://github.com/p0dalirius/smbclient-ng)
 - [cowbe0x004 starred gcpwn](https://github.com/NetSPI/gcpwn)
-- [cowbe0x004 starred GCP-IAM-Privilege-Escalation](https://github.com/RhinoSecurityLabs/GCP-IAM-Privilege-Escalation)
-- [cowbe0x004 starred PPID-Spoofing](https://github.com/EvilBytecode/PPID-Spoofing)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
