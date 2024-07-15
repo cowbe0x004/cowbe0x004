@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [AV Bypass](https://www.youtube.com/watch?v=bHSjmwRAR2g)
 - [Hide And Seek With Active Directory: Secrets For Persistence and Deception](https://www.youtube.com/watch?v=3KzyE-J_xEw)
 - [How To Pivot Through A Network With Mythic C2 And Ligolo-NG](https://www.youtube.com/watch?v=Zrg17UvNqXI)
 - [How attackers can bypass phishing-resistant MFA | Use these protections!](https://www.youtube.com/watch?v=gNflVkmr6RA)
@@ -35,7 +36,6 @@
 - [Analyzing Windows Malware on Linux: Getting Started Tips and Examples](https://www.youtube.com/watch?v=J85991pPYoc)
 - [Shortcuts for Understanding Malicious Scripts](https://www.youtube.com/watch?v=XxjeRuwRyOw)
 - [The State of Malware Analysis:  Advice from the Trenches](https://www.youtube.com/watch?v=u_Mbh8r7L0E)
-- [Bypass Windows Defender 2024 - Windows Cyber Security](https://www.youtube.com/watch?v=NmB2MPAafTo)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
