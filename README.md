@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred awesome-lists](https://github.com/mthcht/awesome-lists)
+- [cowbe0x004 starred NativeDump](https://github.com/ricardojoserf/NativeDump)
 - [cowbe0x004 starred batch-obfuscator](https://github.com/SkyEmie/batch-obfuscator)
 - [cowbe0x004 starred Supershell](https://github.com/tdragon6/Supershell)
 - [cowbe0x004 starred C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred RemoteKrbRelay](https://github.com/CICADA8-Research/RemoteKrbRelay)
 - [cowbe0x004 starred Certiception](https://github.com/srlabs/Certiception)
 - [cowbe0x004 starred ShellSweep](https://github.com/splunk/ShellSweep)
-- [cowbe0x004 starred Lifetime-Amsi-EtwPatch](https://github.com/EvilBytecode/Lifetime-Amsi-EtwPatch)
-- [cowbe0x004 starred smbclient-ng](https://github.com/p0dalirius/smbclient-ng)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
