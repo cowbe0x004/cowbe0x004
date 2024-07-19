@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred turbinia](https://github.com/google/turbinia)
+- [cowbe0x004 starred dftimewolf](https://github.com/log2timeline/dftimewolf)
 - [cowbe0x004 starred awesome-lists](https://github.com/mthcht/awesome-lists)
 - [cowbe0x004 starred NativeDump](https://github.com/ricardojoserf/NativeDump)
 - [cowbe0x004 starred batch-obfuscator](https://github.com/SkyEmie/batch-obfuscator)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred WinProcessShot](https://github.com/Lifka/WinProcessShot)
 - [cowbe0x004 starred Shellcode-Loader](https://github.com/EvilBytecode/Shellcode-Loader)
 - [cowbe0x004 starred RemoteKrbRelay](https://github.com/CICADA8-Research/RemoteKrbRelay)
-- [cowbe0x004 starred Certiception](https://github.com/srlabs/Certiception)
-- [cowbe0x004 starred ShellSweep](https://github.com/splunk/ShellSweep)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
