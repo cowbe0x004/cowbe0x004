@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Exploiting DLL Hijacking with Rust &amp; Golang: Step-by-Step Guide](https://www.youtube.com/watch?v=Tm7RDjD67zU)
 - [ShellBag Forensics](https://www.youtube.com/watch?v=YvVemshnpKQ)
 - [Let&#39;s Talk About MUICache](https://www.youtube.com/watch?v=ea2nvxN878s)
 - [AV Bypass](https://www.youtube.com/watch?v=bHSjmwRAR2g)
@@ -35,7 +36,6 @@
 - [Threat Hunting with VirusTotal - Introduction to VT Intelligence](https://www.youtube.com/watch?v=EV6FZJMvPzs)
 - [Memory Forensics Made Easy, with SANS and Intezer](https://www.youtube.com/watch?v=6zDl8MNlyQw)
 - [🔴 Malware Mondays Episode 01 - Identifying Malicious Activity in Process Monitor &lpar;ProcMon&rpar; Data](https://www.youtube.com/watch?v=b5_PUMmpwjk)
-- [Analyzing Windows Malware on Linux: Getting Started Tips and Examples](https://www.youtube.com/watch?v=J85991pPYoc)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
