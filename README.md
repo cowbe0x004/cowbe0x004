@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred Respotter](https://github.com/lawndoc/Respotter)
 - [cowbe0x004 starred turbinia](https://github.com/google/turbinia)
 - [cowbe0x004 starred dftimewolf](https://github.com/log2timeline/dftimewolf)
 - [cowbe0x004 starred awesome-lists](https://github.com/mthcht/awesome-lists)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds)
 - [cowbe0x004 starred WinProcessShot](https://github.com/Lifka/WinProcessShot)
 - [cowbe0x004 starred Shellcode-Loader](https://github.com/EvilBytecode/Shellcode-Loader)
+- [cowbe0x004 starred RemoteKrbRelay](https://github.com/CICADA8-Research/RemoteKrbRelay)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
