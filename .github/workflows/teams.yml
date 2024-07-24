@@ -1,4 +1,4 @@
-name: Latest Starred Repos
+name: Post message to Teams
 on:
   schedule:
     # Runs every hour
@@ -6,15 +6,16 @@ on:
   workflow_dispatch:
 
 jobs:
-  Teams test:
+  post-message:
     name: Post message to Teams
     runs-on: ubuntu-latest
+    steps:
     - uses: tlolkema/simple-teams-message@main
-      with:
-        message_title: "Test Message"
-        message_description: "Test"
-        webhook: ${{ secrets.TEAMS_WEBHOOK }}
-    
-        # Optional parameters
-        image_url: "https://example.com/path/to/your/image.jpg"
-        extra_text_blocks: "This is an extra block|||This is another extra block"
+        with:
+          message_title: "Test Message"
+          message_description: "Test"
+          webhook: ${{ secrets.TEAMS_WEBHOOK }}
+      
+          # Optional parameters
+          image_url: "https://example.com/path/to/your/image.jpg"
+          extra_text_blocks: "This is an extra block|||This is another extra block"
