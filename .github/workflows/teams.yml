@@ -11,11 +11,11 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: tlolkema/simple-teams-message@main
-        with:
-          message_title: "Test Message"
-          message_description: "Test"
-          webhook: ${{ secrets.TEAMS_WEBHOOK }}
+      with:
+        message_title: "Test Message"
+        message_description: "Test"
+        webhook: ${{ secrets.TEAMS_WEBHOOK }}
       
-          # Optional parameters
-          image_url: "https://example.com/path/to/your/image.jpg"
-          extra_text_blocks: "This is an extra block|||This is another extra block"
+        # Optional parameters
+        image_url: "https://example.com/path/to/your/image.jpg"
+        extra_text_blocks: "This is an extra block|||This is another extra block"
