@@ -14,7 +14,7 @@ jobs:
       with:
         message_title: "Test Message"
         message_description: "Test"
-        webhook: ${{ secrets.TEAMS_WEBHOOK }}
+        webhook: ${{ secrets.https://prod-137.westus.logic.azure.com:443/workflows/4452b3786f324499b1bd366918629192/triggers/manual/paths/invoke\?api-version\=2016-06-01\&sp\=%2Ftriggers%2Fmanual%2Frun\&sv\=1.0\&sig\=q_m5lK82cfSb-pBhKsq7gbvpjbzllU_Pr_B8MnOQzZs }}
       
         # Optional parameters
         image_url: "https://example.com/path/to/your/image.jpg"
