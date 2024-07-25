@@ -40,7 +40,6 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred alerting-detection-strategy-framework](https://github.com/palantir/alerting-detection-strategy-framework)
 - [cowbe0x004 starred osv.dev](https://github.com/google/osv.dev)
 - [cowbe0x004 starred Respotter](https://github.com/lawndoc/Respotter)
 - [cowbe0x004 starred turbinia](https://github.com/google/turbinia)
@@ -50,6 +49,7 @@
 - [cowbe0x004 starred batch-obfuscator](https://github.com/SkyEmie/batch-obfuscator)
 - [cowbe0x004 starred Supershell](https://github.com/tdragon6/Supershell)
 - [cowbe0x004 starred C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds)
+- [cowbe0x004 starred WinProcessShot](https://github.com/Lifka/WinProcessShot)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
