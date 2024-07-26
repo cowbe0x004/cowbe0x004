@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred notes](https://github.com/MHaggis/notes)
+- [cowbe0x004 starred bunkerweb](https://github.com/bunkerity/bunkerweb)
 - [cowbe0x004 starred alerting-detection-strategy-framework](https://github.com/palantir/alerting-detection-strategy-framework)
 - [cowbe0x004 starred osv.dev](https://github.com/google/osv.dev)
 - [cowbe0x004 starred Respotter](https://github.com/lawndoc/Respotter)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred awesome-lists](https://github.com/mthcht/awesome-lists)
 - [cowbe0x004 starred NativeDump](https://github.com/ricardojoserf/NativeDump)
 - [cowbe0x004 starred batch-obfuscator](https://github.com/SkyEmie/batch-obfuscator)
-- [cowbe0x004 starred Supershell](https://github.com/tdragon6/Supershell)
-- [cowbe0x004 starred C2IntelFeeds](https://github.com/drb-ra/C2IntelFeeds)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
