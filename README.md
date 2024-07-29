@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Certify](https://github.com/GhostPack/Certify)
 - [cowbe0x004 starred AADInternals](https://github.com/Gerenios/AADInternals)
 - [cowbe0x004 starred Dirty-Vanity](https://github.com/deepinstinct/Dirty-Vanity)
 - [cowbe0x004 starred SharpADWS](https://github.com/wh0amitz/SharpADWS)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred osv.dev](https://github.com/google/osv.dev)
 - [cowbe0x004 starred Respotter](https://github.com/lawndoc/Respotter)
 - [cowbe0x004 starred turbinia](https://github.com/google/turbinia)
-- [cowbe0x004 starred dftimewolf](https://github.com/log2timeline/dftimewolf)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
