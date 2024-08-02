@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [16. Nick Powers: Relay Your Heart Away: An OPSEC-Conscious Approach to 445 Takeover](https://www.youtube.com/watch?v=iBqOOkQGJEA)
 - [Exploiting DLL Hijacking with Rust &amp; Golang: Step-by-Step Guide](https://www.youtube.com/watch?v=Tm7RDjD67zU)
 - [ShellBag Forensics](https://www.youtube.com/watch?v=YvVemshnpKQ)
 - [Let&#39;s Talk About MUICache](https://www.youtube.com/watch?v=ea2nvxN878s)
@@ -35,7 +36,6 @@
 - [How attackers can bypass phishing-resistant MFA | Use these protections!](https://www.youtube.com/watch?v=gNflVkmr6RA)
 - [Threat Hunting with VirusTotal - Introduction to VT Intelligence](https://www.youtube.com/watch?v=EV6FZJMvPzs)
 - [Memory Forensics Made Easy, with SANS and Intezer](https://www.youtube.com/watch?v=6zDl8MNlyQw)
-- [🔴 Malware Mondays Episode 01 - Identifying Malicious Activity in Process Monitor &lpar;ProcMon&rpar; Data](https://www.youtube.com/watch?v=b5_PUMmpwjk)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
