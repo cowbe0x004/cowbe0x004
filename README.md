@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred smbtakeover](https://github.com/zyn3rgy/smbtakeover)
 - [cowbe0x004 starred bruno](https://github.com/usebruno/bruno)
 - [cowbe0x004 starred Testimo](https://github.com/EvotecIT/Testimo)
 - [cowbe0x004 starred Certify](https://github.com/GhostPack/Certify)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred notes](https://github.com/MHaggis/notes)
 - [cowbe0x004 starred bunkerweb](https://github.com/bunkerity/bunkerweb)
 - [cowbe0x004 starred alerting-detection-strategy-framework](https://github.com/palantir/alerting-detection-strategy-framework)
-- [cowbe0x004 starred osv.dev](https://github.com/google/osv.dev)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
