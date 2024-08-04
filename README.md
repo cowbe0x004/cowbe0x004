@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Digital Forensics Bootcamp - Day 2](https://www.youtube.com/watch?v=bpnATJYYKoo)
 - [16. Nick Powers: Relay Your Heart Away: An OPSEC-Conscious Approach to 445 Takeover](https://www.youtube.com/watch?v=iBqOOkQGJEA)
 - [Exploiting DLL Hijacking with Rust &amp; Golang: Step-by-Step Guide](https://www.youtube.com/watch?v=Tm7RDjD67zU)
 - [ShellBag Forensics](https://www.youtube.com/watch?v=YvVemshnpKQ)
@@ -35,7 +36,6 @@
 - [How To Pivot Through A Network With Mythic C2 And Ligolo-NG](https://www.youtube.com/watch?v=Zrg17UvNqXI)
 - [How attackers can bypass phishing-resistant MFA | Use these protections!](https://www.youtube.com/watch?v=gNflVkmr6RA)
 - [Threat Hunting with VirusTotal - Introduction to VT Intelligence](https://www.youtube.com/watch?v=EV6FZJMvPzs)
-- [Memory Forensics Made Easy, with SANS and Intezer](https://www.youtube.com/watch?v=6zDl8MNlyQw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
