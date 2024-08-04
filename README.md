@@ -26,7 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
-- [Digital Forensics Bootcamp - Day 2](https://www.youtube.com/watch?v=bpnATJYYKoo)
+- [Digital Forensics Bootcamp](https://www.youtube.com/watch?v=bpnATJYYKoo)
 - [16. Nick Powers: Relay Your Heart Away: An OPSEC-Conscious Approach to 445 Takeover](https://www.youtube.com/watch?v=iBqOOkQGJEA)
 - [Exploiting DLL Hijacking with Rust &amp; Golang: Step-by-Step Guide](https://www.youtube.com/watch?v=Tm7RDjD67zU)
 - [ShellBag Forensics](https://www.youtube.com/watch?v=YvVemshnpKQ)
