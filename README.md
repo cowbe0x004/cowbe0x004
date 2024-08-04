@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred OpenBullet2](https://github.com/openbullet/OpenBullet2)
 - [cowbe0x004 starred smbtakeover](https://github.com/zyn3rgy/smbtakeover)
 - [cowbe0x004 starred bruno](https://github.com/usebruno/bruno)
 - [cowbe0x004 starred Testimo](https://github.com/EvotecIT/Testimo)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SharpADWS](https://github.com/wh0amitz/SharpADWS)
 - [cowbe0x004 starred notes](https://github.com/MHaggis/notes)
 - [cowbe0x004 starred bunkerweb](https://github.com/bunkerity/bunkerweb)
-- [cowbe0x004 starred alerting-detection-strategy-framework](https://github.com/palantir/alerting-detection-strategy-framework)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
