@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Lets Go Around Defender with NativeDump](https://www.youtube.com/watch?v=Z29qJXzx_9E)
 - [Digital Forensics Bootcamp](https://www.youtube.com/watch?v=bpnATJYYKoo)
 - [16. Nick Powers: Relay Your Heart Away: An OPSEC-Conscious Approach to 445 Takeover](https://www.youtube.com/watch?v=iBqOOkQGJEA)
 - [Exploiting DLL Hijacking with Rust &amp; Golang: Step-by-Step Guide](https://www.youtube.com/watch?v=Tm7RDjD67zU)
@@ -35,7 +36,6 @@
 - [Hide And Seek With Active Directory: Secrets For Persistence and Deception](https://www.youtube.com/watch?v=3KzyE-J_xEw)
 - [How To Pivot Through A Network With Mythic C2 And Ligolo-NG](https://www.youtube.com/watch?v=Zrg17UvNqXI)
 - [How attackers can bypass phishing-resistant MFA | Use these protections!](https://www.youtube.com/watch?v=gNflVkmr6RA)
-- [Threat Hunting with VirusTotal - Introduction to VT Intelligence](https://www.youtube.com/watch?v=EV6FZJMvPzs)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
