@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Invoke-Maldaptive](https://github.com/MaLDAPtive/Invoke-Maldaptive)
+- [cowbe0x004 starred CredDefense](https://github.com/CredDefense/CredDefense)
 - [cowbe0x004 starred BloodHoundOperator](https://github.com/SadProcessor/BloodHoundOperator)
 - [cowbe0x004 starred PackMyPayload](https://github.com/mgeeky/PackMyPayload)
 - [cowbe0x004 starred SigThief](https://github.com/secretsquirrel/SigThief)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred bruno](https://github.com/usebruno/bruno)
 - [cowbe0x004 starred Testimo](https://github.com/EvotecIT/Testimo)
 - [cowbe0x004 starred Certify](https://github.com/GhostPack/Certify)
-- [cowbe0x004 starred AADInternals](https://github.com/Gerenios/AADInternals)
-- [cowbe0x004 starred Dirty-Vanity](https://github.com/deepinstinct/Dirty-Vanity)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
