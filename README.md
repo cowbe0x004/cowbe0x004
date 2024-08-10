@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Maestro](https://github.com/Mayyhem/Maestro)
+- [cowbe0x004 starred TrickDump](https://github.com/ricardojoserf/TrickDump)
 - [cowbe0x004 starred Invoke-Maldaptive](https://github.com/MaLDAPtive/Invoke-Maldaptive)
 - [cowbe0x004 starred CredDefense](https://github.com/CredDefense/CredDefense)
 - [cowbe0x004 starred BloodHoundOperator](https://github.com/SadProcessor/BloodHoundOperator)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred OpenBullet2](https://github.com/openbullet/OpenBullet2)
 - [cowbe0x004 starred smbtakeover](https://github.com/zyn3rgy/smbtakeover)
 - [cowbe0x004 starred bruno](https://github.com/usebruno/bruno)
-- [cowbe0x004 starred Testimo](https://github.com/EvotecIT/Testimo)
-- [cowbe0x004 starred Certify](https://github.com/GhostPack/Certify)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
