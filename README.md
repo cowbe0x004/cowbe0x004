@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Shwmae](https://github.com/CCob/Shwmae)
 - [cowbe0x004 starred Maestro](https://github.com/Mayyhem/Maestro)
 - [cowbe0x004 starred TrickDump](https://github.com/ricardojoserf/TrickDump)
 - [cowbe0x004 starred Invoke-Maldaptive](https://github.com/MaLDAPtive/Invoke-Maldaptive)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SigThief](https://github.com/secretsquirrel/SigThief)
 - [cowbe0x004 starred OpenBullet2](https://github.com/openbullet/OpenBullet2)
 - [cowbe0x004 starred smbtakeover](https://github.com/zyn3rgy/smbtakeover)
-- [cowbe0x004 starred bruno](https://github.com/usebruno/bruno)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
