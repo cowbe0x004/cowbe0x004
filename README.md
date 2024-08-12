@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred ShimMe](https://github.com/deepinstinct/ShimMe)
 - [cowbe0x004 starred Koppeling](https://github.com/monoxgas/Koppeling)
 - [cowbe0x004 starred BadZure](https://github.com/mvelazc0/BadZure)
 - [cowbe0x004 starred Shwmae](https://github.com/CCob/Shwmae)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred CredDefense](https://github.com/CredDefense/CredDefense)
 - [cowbe0x004 starred BloodHoundOperator](https://github.com/SadProcessor/BloodHoundOperator)
 - [cowbe0x004 starred PackMyPayload](https://github.com/mgeeky/PackMyPayload)
-- [cowbe0x004 starred SigThief](https://github.com/secretsquirrel/SigThief)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
