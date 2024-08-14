@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PowerParse](https://github.com/jsecurity101/PowerParse)
 - [cowbe0x004 starred ShimMe](https://github.com/deepinstinct/ShimMe)
 - [cowbe0x004 starred Koppeling](https://github.com/monoxgas/Koppeling)
 - [cowbe0x004 starred BadZure](https://github.com/mvelazc0/BadZure)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Invoke-Maldaptive](https://github.com/MaLDAPtive/Invoke-Maldaptive)
 - [cowbe0x004 starred CredDefense](https://github.com/CredDefense/CredDefense)
 - [cowbe0x004 starred BloodHoundOperator](https://github.com/SadProcessor/BloodHoundOperator)
-- [cowbe0x004 starred PackMyPayload](https://github.com/mgeeky/PackMyPayload)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
