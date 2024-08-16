@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [System Calls For Hackers](https://www.youtube.com/watch?v=LLRwsh2oA2Y)
 - [Malware Development: Thread HiJacking](https://www.youtube.com/watch?v=tG8WacArJsE)
 - [RVAsec 2024: Corey Overstreet - That Shouldn&#39;t Have Worked - Payload Development 101](https://www.youtube.com/watch?v=C83Mg2OS_og)
 - [Lets Go Around Defender with NativeDump](https://www.youtube.com/watch?v=Z29qJXzx_9E)
@@ -35,7 +36,6 @@
 - [ShellBag Forensics](https://www.youtube.com/watch?v=YvVemshnpKQ)
 - [Let&#39;s Talk About MUICache](https://www.youtube.com/watch?v=ea2nvxN878s)
 - [AV Bypass](https://www.youtube.com/watch?v=bHSjmwRAR2g)
-- [Hide And Seek With Active Directory: Secrets For Persistence and Deception](https://www.youtube.com/watch?v=3KzyE-J_xEw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
