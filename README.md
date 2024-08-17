@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [[#E02] Secure Code Review for Beginners: SQL Injection](https://www.youtube.com/watch?v=q8MYTI18Q0g)
 - [System Calls For Hackers](https://www.youtube.com/watch?v=LLRwsh2oA2Y)
 - [Malware Development: Thread HiJacking](https://www.youtube.com/watch?v=tG8WacArJsE)
 - [RVAsec 2024: Corey Overstreet - That Shouldn&#39;t Have Worked - Payload Development 101](https://www.youtube.com/watch?v=C83Mg2OS_og)
@@ -35,7 +36,6 @@
 - [Exploiting DLL Hijacking with Rust &amp; Golang: Step-by-Step Guide](https://www.youtube.com/watch?v=Tm7RDjD67zU)
 - [ShellBag Forensics](https://www.youtube.com/watch?v=YvVemshnpKQ)
 - [Let&#39;s Talk About MUICache](https://www.youtube.com/watch?v=ea2nvxN878s)
-- [AV Bypass](https://www.youtube.com/watch?v=bHSjmwRAR2g)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
