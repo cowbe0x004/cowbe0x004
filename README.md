@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred PANIX](https://github.com/Aegrah/PANIX)
 - [cowbe0x004 starred airstrike](https://github.com/smokeme/airstrike)
 - [cowbe0x004 starred PowerParse](https://github.com/jsecurity101/PowerParse)
 - [cowbe0x004 starred ShimMe](https://github.com/deepinstinct/ShimMe)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Maestro](https://github.com/Mayyhem/Maestro)
 - [cowbe0x004 starred TrickDump](https://github.com/ricardojoserf/TrickDump)
 - [cowbe0x004 starred Invoke-Maldaptive](https://github.com/MaLDAPtive/Invoke-Maldaptive)
-- [cowbe0x004 starred CredDefense](https://github.com/CredDefense/CredDefense)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
