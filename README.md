@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Using scdbg to analyze shellcode](https://www.youtube.com/watch?v=SHgIVMVnP0w)
 - [[#E02] Secure Code Review for Beginners: SQL Injection](https://www.youtube.com/watch?v=q8MYTI18Q0g)
 - [System Calls For Hackers](https://www.youtube.com/watch?v=LLRwsh2oA2Y)
 - [Malware Development: Thread HiJacking](https://www.youtube.com/watch?v=tG8WacArJsE)
@@ -35,7 +36,6 @@
 - [16. Nick Powers: Relay Your Heart Away: An OPSEC-Conscious Approach to 445 Takeover](https://www.youtube.com/watch?v=iBqOOkQGJEA)
 - [Exploiting DLL Hijacking with Rust &amp; Golang: Step-by-Step Guide](https://www.youtube.com/watch?v=Tm7RDjD67zU)
 - [ShellBag Forensics](https://www.youtube.com/watch?v=YvVemshnpKQ)
-- [Let&#39;s Talk About MUICache](https://www.youtube.com/watch?v=ea2nvxN878s)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
