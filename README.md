@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred GraphRunner](https://github.com/dafthack/GraphRunner)
 - [cowbe0x004 starred NetAlertX](https://github.com/jokob-sk/NetAlertX)
 - [cowbe0x004 starred PANIX](https://github.com/Aegrah/PANIX)
 - [cowbe0x004 starred airstrike](https://github.com/smokeme/airstrike)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred BadZure](https://github.com/mvelazc0/BadZure)
 - [cowbe0x004 starred Shwmae](https://github.com/CCob/Shwmae)
 - [cowbe0x004 starred Maestro](https://github.com/Mayyhem/Maestro)
-- [cowbe0x004 starred TrickDump](https://github.com/ricardojoserf/TrickDump)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
