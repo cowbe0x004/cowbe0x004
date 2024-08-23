@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Malware Development - Creating a Custom C2 Agent Part 2](https://www.youtube.com/watch?v=3xoWEYHXE2A)
 - [Using scdbg to analyze shellcode](https://www.youtube.com/watch?v=SHgIVMVnP0w)
 - [[#E02] Secure Code Review for Beginners: SQL Injection](https://www.youtube.com/watch?v=q8MYTI18Q0g)
 - [System Calls For Hackers](https://www.youtube.com/watch?v=LLRwsh2oA2Y)
@@ -35,7 +36,6 @@
 - [Digital Forensics Bootcamp](https://www.youtube.com/watch?v=bpnATJYYKoo)
 - [16. Nick Powers: Relay Your Heart Away: An OPSEC-Conscious Approach to 445 Takeover](https://www.youtube.com/watch?v=iBqOOkQGJEA)
 - [Exploiting DLL Hijacking with Rust &amp; Golang: Step-by-Step Guide](https://www.youtube.com/watch?v=Tm7RDjD67zU)
-- [ShellBag Forensics](https://www.youtube.com/watch?v=YvVemshnpKQ)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
