@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
+- [cowbe0x004 starred cobaltstrike-config-extractor](https://github.com/strozfriedberg/cobaltstrike-config-extractor)
+- [cowbe0x004 starred CobaltStrikeParser](https://github.com/Sentinel-One/CobaltStrikeParser)
+- [cowbe0x004 starred DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite)
 - [cowbe0x004 starred windows-api-function-cheatsheets](https://github.com/7etsuo/windows-api-function-cheatsheets)
 - [cowbe0x004 starred sgn](https://github.com/EgeBalci/sgn)
 - [cowbe0x004 starred GraphRunner](https://github.com/dafthack/GraphRunner)
 - [cowbe0x004 starred NetAlertX](https://github.com/jokob-sk/NetAlertX)
 - [cowbe0x004 starred PANIX](https://github.com/Aegrah/PANIX)
 - [cowbe0x004 starred airstrike](https://github.com/smokeme/airstrike)
-- [cowbe0x004 starred PowerParse](https://github.com/jsecurity101/PowerParse)
-- [cowbe0x004 starred ShimMe](https://github.com/deepinstinct/ShimMe)
-- [cowbe0x004 starred Koppeling](https://github.com/monoxgas/Koppeling)
-- [cowbe0x004 starred BadZure](https://github.com/mvelazc0/BadZure)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
