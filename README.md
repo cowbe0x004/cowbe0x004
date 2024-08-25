@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred WMI_Forensics](https://github.com/davidpany/WMI_Forensics)
 - [cowbe0x004 starred kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [cowbe0x004 starred cobaltstrike-config-extractor](https://github.com/strozfriedberg/cobaltstrike-config-extractor)
 - [cowbe0x004 starred CobaltStrikeParser](https://github.com/Sentinel-One/CobaltStrikeParser)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred GraphRunner](https://github.com/dafthack/GraphRunner)
 - [cowbe0x004 starred NetAlertX](https://github.com/jokob-sk/NetAlertX)
 - [cowbe0x004 starred PANIX](https://github.com/Aegrah/PANIX)
-- [cowbe0x004 starred airstrike](https://github.com/smokeme/airstrike)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
