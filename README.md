@@ -40,6 +40,8 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Invisi-Shell](https://github.com/OmerYa/Invisi-Shell)
+- [cowbe0x004 starred VeilTransfer](https://github.com/infosecn1nja/VeilTransfer)
 - [cowbe0x004 starred WMI_Forensics](https://github.com/davidpany/WMI_Forensics)
 - [cowbe0x004 starred kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [cowbe0x004 starred cobaltstrike-config-extractor](https://github.com/strozfriedberg/cobaltstrike-config-extractor)
@@ -48,8 +50,6 @@
 - [cowbe0x004 starred windows-api-function-cheatsheets](https://github.com/7etsuo/windows-api-function-cheatsheets)
 - [cowbe0x004 starred sgn](https://github.com/EgeBalci/sgn)
 - [cowbe0x004 starred GraphRunner](https://github.com/dafthack/GraphRunner)
-- [cowbe0x004 starred NetAlertX](https://github.com/jokob-sk/NetAlertX)
-- [cowbe0x004 starred PANIX](https://github.com/Aegrah/PANIX)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
