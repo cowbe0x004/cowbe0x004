@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred TRACE-Forensic-Toolkit](https://github.com/Gadzhovski/TRACE-Forensic-Toolkit)
 - [cowbe0x004 starred USP](https://github.com/grahamhelton/USP)
 - [cowbe0x004 starred Invisi-Shell](https://github.com/OmerYa/Invisi-Shell)
 - [cowbe0x004 starred VeilTransfer](https://github.com/infosecn1nja/VeilTransfer)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred CobaltStrikeParser](https://github.com/Sentinel-One/CobaltStrikeParser)
 - [cowbe0x004 starred DidierStevensSuite](https://github.com/DidierStevens/DidierStevensSuite)
 - [cowbe0x004 starred windows-api-function-cheatsheets](https://github.com/7etsuo/windows-api-function-cheatsheets)
-- [cowbe0x004 starred sgn](https://github.com/EgeBalci/sgn)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
