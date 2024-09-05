@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Windows Internals Crash Course](https://www.youtube.com/watch?v=I_nJltUokE0)
+- [Windows Internals [Red Team Training] -- TryHackMe LIVE!](https://www.youtube.com/watch?v=k7UDasbkLJw)
 - [[#E03] Secure Code Review for Beginners: Path Traversal](https://www.youtube.com/watch?v=aoXAc7wprds)
 - [Malware Development - Creating a Custom C2 Agent Part 2](https://www.youtube.com/watch?v=3xoWEYHXE2A)
 - [Using scdbg to analyze shellcode](https://www.youtube.com/watch?v=SHgIVMVnP0w)
@@ -34,8 +36,6 @@
 - [Malware Development: Thread HiJacking](https://www.youtube.com/watch?v=tG8WacArJsE)
 - [RVAsec 2024: Corey Overstreet - That Shouldn&#39;t Have Worked - Payload Development 101](https://www.youtube.com/watch?v=C83Mg2OS_og)
 - [Lets Go Around Defender with NativeDump](https://www.youtube.com/watch?v=Z29qJXzx_9E)
-- [Digital Forensics Bootcamp](https://www.youtube.com/watch?v=bpnATJYYKoo)
-- [16. Nick Powers: Relay Your Heart Away: An OPSEC-Conscious Approach to 445 Takeover](https://www.youtube.com/watch?v=iBqOOkQGJEA)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
