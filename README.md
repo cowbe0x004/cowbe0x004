@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Hacking Windows TrustedInstaller &lpar;GOD MODE&rpar;](https://www.youtube.com/watch?v=Vj1uh89v-Sc)
 - [Shimcache Execution Is Back - What You Need to Know!](https://www.youtube.com/watch?v=DsqKIVcfA90)
 - [Windows Internals Crash Course](https://www.youtube.com/watch?v=I_nJltUokE0)
 - [Windows Internals [Red Team Training] -- TryHackMe LIVE!](https://www.youtube.com/watch?v=k7UDasbkLJw)
@@ -35,7 +36,6 @@
 - [[#E02] Secure Code Review for Beginners: SQL Injection](https://www.youtube.com/watch?v=q8MYTI18Q0g)
 - [System Calls For Hackers](https://www.youtube.com/watch?v=LLRwsh2oA2Y)
 - [Malware Development: Thread HiJacking](https://www.youtube.com/watch?v=tG8WacArJsE)
-- [RVAsec 2024: Corey Overstreet - That Shouldn&#39;t Have Worked - Payload Development 101](https://www.youtube.com/watch?v=C83Mg2OS_og)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
