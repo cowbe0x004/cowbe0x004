@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred openbas](https://github.com/OpenBAS-Platform/openbas)
 - [cowbe0x004 starred traceeshark](https://github.com/aquasecurity/traceeshark)
 - [cowbe0x004 starred NamedPipeMaster](https://github.com/zeze-zeze/NamedPipeMaster)
 - [cowbe0x004 starred TRACE-Forensic-Toolkit](https://github.com/Gadzhovski/TRACE-Forensic-Toolkit)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred WMI_Forensics](https://github.com/davidpany/WMI_Forensics)
 - [cowbe0x004 starred kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 - [cowbe0x004 starred cobaltstrike-config-extractor](https://github.com/strozfriedberg/cobaltstrike-config-extractor)
-- [cowbe0x004 starred CobaltStrikeParser](https://github.com/Sentinel-One/CobaltStrikeParser)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
