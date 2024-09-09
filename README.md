@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [From COM Object Fundamentals To UAC Bypasses - Tijme Gommers](https://www.youtube.com/watch?v=481SI_HWlLs)
 - [Hacking Windows TrustedInstaller &lpar;GOD MODE&rpar;](https://www.youtube.com/watch?v=Vj1uh89v-Sc)
 - [Shimcache Execution Is Back - What You Need to Know!](https://www.youtube.com/watch?v=DsqKIVcfA90)
 - [Windows Internals Crash Course](https://www.youtube.com/watch?v=I_nJltUokE0)
@@ -35,7 +36,6 @@
 - [Using scdbg to analyze shellcode](https://www.youtube.com/watch?v=SHgIVMVnP0w)
 - [[#E02] Secure Code Review for Beginners: SQL Injection](https://www.youtube.com/watch?v=q8MYTI18Q0g)
 - [System Calls For Hackers](https://www.youtube.com/watch?v=LLRwsh2oA2Y)
-- [Malware Development: Thread HiJacking](https://www.youtube.com/watch?v=tG8WacArJsE)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
