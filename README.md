@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred GhostStrike](https://github.com/stivenhacker/GhostStrike)
 - [cowbe0x004 starred threat-tools](https://github.com/activecm/threat-tools)
 - [cowbe0x004 starred openbas](https://github.com/OpenBAS-Platform/openbas)
 - [cowbe0x004 starred traceeshark](https://github.com/aquasecurity/traceeshark)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred Invisi-Shell](https://github.com/OmerYa/Invisi-Shell)
 - [cowbe0x004 starred VeilTransfer](https://github.com/infosecn1nja/VeilTransfer)
 - [cowbe0x004 starred WMI_Forensics](https://github.com/davidpany/WMI_Forensics)
-- [cowbe0x004 starred kubernetes-the-hard-way](https://github.com/kelseyhightower/kubernetes-the-hard-way)
 <!-- GITHUB_STAR:END -->
 
 ### 🐦 Latest tweets and retweets
