@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Adversaries Are Doing Stranger Things Part 1](https://www.youtube.com/watch?v=BFFXgEgSfHQ)
 - [Direct System Calls For Hackers &lpar;EDR Evasion&rpar;](https://www.youtube.com/watch?v=0_CvTgvR-7M)
 - [From COM Object Fundamentals To UAC Bypasses - Tijme Gommers](https://www.youtube.com/watch?v=481SI_HWlLs)
 - [Hacking Windows TrustedInstaller &lpar;GOD MODE&rpar;](https://www.youtube.com/watch?v=Vj1uh89v-Sc)
@@ -35,7 +36,6 @@
 - [[#E03] Secure Code Review for Beginners: Path Traversal](https://www.youtube.com/watch?v=aoXAc7wprds)
 - [Malware Development - Creating a Custom C2 Agent Part 2](https://www.youtube.com/watch?v=3xoWEYHXE2A)
 - [Using scdbg to analyze shellcode](https://www.youtube.com/watch?v=SHgIVMVnP0w)
-- [[#E02] Secure Code Review for Beginners: SQL Injection](https://www.youtube.com/watch?v=q8MYTI18Q0g)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
