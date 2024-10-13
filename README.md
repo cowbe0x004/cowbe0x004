@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Process Injection Techniques: Deep Dive into Process Hollowing &amp; Shellcode](https://www.youtube.com/watch?v=Tox5Kb8V97M)
 - [Best Antivirus/EDR vs Unknown Ransomware](https://www.youtube.com/watch?v=2R033fex8D8)
 - [Adversaries Are Doing Stranger Things Part 1](https://www.youtube.com/watch?v=BFFXgEgSfHQ)
 - [Direct System Calls For Hackers &lpar;EDR Evasion&rpar;](https://www.youtube.com/watch?v=0_CvTgvR-7M)
@@ -35,7 +36,6 @@
 - [Windows Internals Crash Course](https://www.youtube.com/watch?v=I_nJltUokE0)
 - [Windows Internals [Red Team Training] -- TryHackMe LIVE!](https://www.youtube.com/watch?v=k7UDasbkLJw)
 - [[#E03] Secure Code Review for Beginners: Path Traversal](https://www.youtube.com/watch?v=aoXAc7wprds)
-- [Malware Development - Creating a Custom C2 Agent Part 2](https://www.youtube.com/watch?v=3xoWEYHXE2A)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
