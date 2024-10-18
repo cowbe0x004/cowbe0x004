@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Turning The Tables: Using Cyber Deception To Hunt Phishers At Scale - Ross Bevington](https://www.youtube.com/watch?v=78qnM_ZzpNc)
+- [PowerShell Web Access: Your Network&#39;s Backdoor in Plain Sight](https://www.youtube.com/watch?v=XrkAGBFUK5w)
 - [Process Injection Techniques: Deep Dive into Process Hollowing &amp; Shellcode](https://www.youtube.com/watch?v=Tox5Kb8V97M)
 - [Best Antivirus/EDR vs Unknown Ransomware](https://www.youtube.com/watch?v=2R033fex8D8)
 - [Adversaries Are Doing Stranger Things Part 1](https://www.youtube.com/watch?v=BFFXgEgSfHQ)
@@ -34,8 +36,6 @@
 - [Hacking Windows TrustedInstaller &lpar;GOD MODE&rpar;](https://www.youtube.com/watch?v=Vj1uh89v-Sc)
 - [Shimcache Execution Is Back - What You Need to Know!](https://www.youtube.com/watch?v=DsqKIVcfA90)
 - [Windows Internals Crash Course](https://www.youtube.com/watch?v=I_nJltUokE0)
-- [Windows Internals [Red Team Training] -- TryHackMe LIVE!](https://www.youtube.com/watch?v=k7UDasbkLJw)
-- [[#E03] Secure Code Review for Beginners: Path Traversal](https://www.youtube.com/watch?v=aoXAc7wprds)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
