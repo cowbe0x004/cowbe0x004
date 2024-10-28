@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [13Cubed XINTRA Lab Walkthrough](https://www.youtube.com/watch?v=A7Bh7vnAooQ)
 - [Turning The Tables: Using Cyber Deception To Hunt Phishers At Scale - Ross Bevington](https://www.youtube.com/watch?v=78qnM_ZzpNc)
 - [PowerShell Web Access: Your Network&#39;s Backdoor in Plain Sight](https://www.youtube.com/watch?v=XrkAGBFUK5w)
 - [Process Injection Techniques: Deep Dive into Process Hollowing &amp; Shellcode](https://www.youtube.com/watch?v=Tox5Kb8V97M)
@@ -35,7 +36,6 @@
 - [From COM Object Fundamentals To UAC Bypasses - Tijme Gommers](https://www.youtube.com/watch?v=481SI_HWlLs)
 - [Hacking Windows TrustedInstaller &lpar;GOD MODE&rpar;](https://www.youtube.com/watch?v=Vj1uh89v-Sc)
 - [Shimcache Execution Is Back - What You Need to Know!](https://www.youtube.com/watch?v=DsqKIVcfA90)
-- [Windows Internals Crash Course](https://www.youtube.com/watch?v=I_nJltUokE0)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
