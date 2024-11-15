@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Arista Configuration Essentials FULL Course](https://www.youtube.com/watch?v=UzGBz1tozB4)
 - [Adversary in the Middle &lpar;AitM&rpar;: Post-Exploitation w/ Michael Allen #livestream  #infosec #redteam](https://www.youtube.com/watch?v=WY4mH-8TbWY)
 - [13Cubed XINTRA Lab Walkthrough](https://www.youtube.com/watch?v=A7Bh7vnAooQ)
 - [Turning The Tables: Using Cyber Deception To Hunt Phishers At Scale - Ross Bevington](https://www.youtube.com/watch?v=78qnM_ZzpNc)
@@ -35,7 +36,6 @@
 - [Adversaries Are Doing Stranger Things Part 1](https://www.youtube.com/watch?v=BFFXgEgSfHQ)
 - [Direct System Calls For Hackers &lpar;EDR Evasion&rpar;](https://www.youtube.com/watch?v=0_CvTgvR-7M)
 - [From COM Object Fundamentals To UAC Bypasses - Tijme Gommers](https://www.youtube.com/watch?v=481SI_HWlLs)
-- [Hacking Windows TrustedInstaller &lpar;GOD MODE&rpar;](https://www.youtube.com/watch?v=Vj1uh89v-Sc)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
