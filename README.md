@@ -7,7 +7,7 @@
 - 📖 I’m currently working on threat hunting
 - 📘 I’m currently learning everything 🤣
 - 🎭 I’m looking to explore purple teaming
-- ☑️ 2023 Goals: Contribute more to Open Source projects
+- ☑️ 2025 Goals: learn more about Azure, KQL
 
 ---
 
