@@ -20,5 +20,5 @@ jobs:
           comment_tag_name: "bluesky"
           max_post_count: "10"
           disable_sort: true
-          feed_list: "https://openrss.org/bsky.app/profile/cowbe.bsky.social"
-          #feed_list: "https://rsshub.app/bsky/profile/cowbe.bsky.social/filter=posts_no_replies"
+          #feed_list: "https://openrss.org/bsky.app/profile/cowbe.bsky.social"
+          feed_list: "https://rsshub.app/bsky/profile/cowbe.bsky.social/filter=posts_no_replies"
