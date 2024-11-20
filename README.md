@@ -55,6 +55,7 @@
 ### Latest bluesky posts
 <!-- bluesky:START -->
 - [Hello World!](https://bsky.app/profile/cowbe.bsky.social/post/3lbdo4xylz22o)
+- [Reposted: If you ever wondered why vi uses h, j, k, and l for cursor movement: it&#39;s because it was written using an ADM-3A terminal, which had a keyboard that looked like this](https://bsky.app/profile/tomnomnom.com/post/3lbdnz2yd7s2j)
 <!-- bluesky:END -->
 
 ### 🐦 Latest tweets and retweets
