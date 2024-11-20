@@ -70,7 +70,7 @@
 
 [website]: https://cowbe0x004.com
 [mastodon]: https://infosec.exchange/@cowbe
-[twitter]: https://twitter.com/cowbe0x004
+[bluesky]: https://bsky.app/profile/cowbe.bsky.social
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
 [linkedin]: https://www.linkedin.com/in/anhuang/
