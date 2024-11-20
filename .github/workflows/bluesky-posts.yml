@@ -1,0 +1,20 @@
+name: Latest bluesky posts
+on:
+  schedule: 
+    # Runs every 5 hours
+    - cron: '0 */5 * * *'
+  workflow_dispatch: # Run workflow manually (without waiting for the cron to be called), through the GitHub Actions Workflow page directly
+permissions:
+  contents: write # To write the generated contents to the readme
+
+jobs:
+  update-readme-with-bluesky:
+    name: Update this repo's README with bluesky posts
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+      - name: Pull in dev.to posts
+        uses: gautamkrishnar/blog-post-workflow@v1
+        with:
+          feed_list: "https://rsshub.app/bsky/profile/cowbe.bsky.social/filter=posts_no_replies"
