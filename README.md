@@ -54,6 +54,7 @@
 
 ### Latest bluesky posts
 <!-- bluesky:START -->
+- [Hello World!](https://bsky.app/profile/cowbe.bsky.social/post/3lbdo4xylz22o)
 <!-- bluesky:END -->
 
 ### 🐦 Latest tweets and retweets
