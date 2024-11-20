@@ -12,8 +12,8 @@
 ---
 
 ### 🤝🏽 Connect with me:
-[<img align="left" alt="cowbe0x004 | Twitter" width="22px" src="https://cdn.simpleicons.org/mastodon" />][mastodon]
-[<img align="left" alt="cowbe0x004 | Twitter" width="22px" src="https://cdn.simpleicons.org/twitter" />][twitter]
+[<img align="left" alt="cowbe0x004 | Mastodon" width="22px" src="https://cdn.simpleicons.org/mastodon" />][mastodon]
+[<img align="left" alt="cowbe0x004 | Bluesky" width="22px" src="https://cdn.simpleicons.org/bluesky" />][bluesky]
 [<img align="left" alt="cowbe0x004 | LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin" />][linkedin]
 
 <!--
