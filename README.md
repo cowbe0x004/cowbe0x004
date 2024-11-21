@@ -54,8 +54,25 @@
 
 ### Latest bluesky posts
 <!-- bluesky:START -->
+- [Reposted: Check out this new AMSI bypass released with SpectersInsight 4.0.0! This technique enables loading of .NET binaries without detection. Implementations in C, C#, and PowerShell provided.
+
+practicalsecurityanalytics.com/new-amsi-byp...](https://bsky.app/profile/pracsec.bsky.social/post/3lbhs3khwxc22)
+- [Reposted: 
+Tools
+Cloud Auditing Tool - github.com/nccgroup/ScoutSuite 
+
+Post-Exploitation toolset
+github.com/dafthack/GraphRunner
+
+Find gaps within Azure MFA requirements.
+github.com/absolomb/FindMeAccess
+
+BloodHound github.com/BloodHoundAD/AzureHound
+
+Azure AD hacking &amp; admin
+github.com/Gerenios/AADInternals](https://bsky.app/profile/bhinfosecurity.bsky.social/post/3lbfxa6yte22c)
 - [Hello World!](https://bsky.app/profile/cowbe.bsky.social/post/3lbdo4xylz22o)
-- [If you ever wondered why vi uses h, j, k, and l for cursor movement: it&#39;s because it was written using an ADM-3A terminal, which had a keyboard that l...](https://bsky.app/profile/tomnomnom.com/post/3lbdnz2yd7s2j)
+- [Reposted: If you ever wondered why vi uses h, j, k, and l for cursor movement: it&#39;s because it was written using an ADM-3A terminal, which had a keyboard that looked like this](https://bsky.app/profile/tomnomnom.com/post/3lbdnz2yd7s2j)
 <!-- bluesky:END -->
 
 ### 🐦 Latest tweets and retweets
