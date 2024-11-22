@@ -20,11 +20,11 @@ jobs:
           comment_tag_name: "bluesky"
           max_post_count: "10"
           disable_sort: true
-          disable_item_validation: true
-          #title_max_length: "10"
-          #description_max_length: "20"
-          feed_list: "https://bsky.app/profile/did:plc:drdtquldsu3lo6kumnnierrq/rss"
+          #disable_item_validation: true
+          title_max_length: "10"
+          description_max_length: "20"
+          #feed_list: "https://bsky.app/profile/did:plc:drdtquldsu3lo6kumnnierrq/rss"
           # skyfeed
           #feed_list: "https://bsky.app/profile/did:plc:drdtquldsu3lo6kumnnierrq/feed/aaae7lxkf2obk"
-          #feed_list: "https://openrss.org/bsky.app/profile/cowbe.bsky.social"
+          feed_list: "https://openrss.org/bsky.app/profile/cowbe.bsky.social"
           #feed_list: "https://rsshub.app/bsky/profile/cowbe.bsky.social/filter=posts_no_replies"
