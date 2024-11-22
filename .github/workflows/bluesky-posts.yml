@@ -21,8 +21,8 @@ jobs:
           max_post_count: "10"
           disable_sort: true
           #disable_item_validation: true
-          title_max_length: "40"
-          description_max_length: "20"
+          title_max_length: "110"
+          description_max_length: "150"
           #feed_list: "https://bsky.app/profile/did:plc:drdtquldsu3lo6kumnnierrq/rss"
           # skyfeed
           #feed_list: "https://bsky.app/profile/did:plc:drdtquldsu3lo6kumnnierrq/feed/aaae7lxkf2obk"
