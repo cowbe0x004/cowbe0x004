@@ -74,7 +74,9 @@ github.com/d...](https://bsky.app/profile/bhinfosecurity.bsky.social/post/3lbfxa
 <!-- TWEETS:START -->
 - [Another fun experience from 2021 #BSidesDE #PvJCTF. Thanks for all the teams that made this happen. @dichotomy1 @NeedAMulligan @dooktwit @PvJGoldTeam ...](https://x.com/cowbe0x004/status/1459634829448957958)
 - [The 2021 #BSidesDE #PvJCTF Call for Pros &amp; Joes is still open to signup below. All that signed up are confirmed and teams picked. Sponsored by @gigamo...](https://x.com/cowbe0x004/status/1454554683046039552)
-- [#jerry is a bit disappointing, fun nonetheless. #gotroot #hackthebox.eu](https://x.com/cowbe0x004/status/1013786824647593984)
+- [Threat Hunting Summit - [Workshop] Threat Hunting with VirusTotal - Black Belt Edition https://bitly.com/36T65XI](https://x.com/cowbe0x004/status/1329101788662915080)
+- [Threat Hunting Summit - YARA Bootcamp https://bitly.com/3nyCp8O](https://x.com/cowbe0x004/status/1329091504237912064)
+- [Information overloaded trying to attend all the talks and workshop at #defcon28 @BlueTeamVillage @redteamvillage.](https://x.com/cowbe0x004/status/1291864958544871426)
 <!-- TWEETS:END -->
 
 ---
