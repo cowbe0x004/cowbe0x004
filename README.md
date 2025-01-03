@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [OAuth-some Security Tricks: Yet more OAuth abuse](https://www.youtube.com/watch?v=F-s1OAq9C64)
 - [Arista Configuration Essentials FULL Course](https://www.youtube.com/watch?v=UzGBz1tozB4)
 - [Adversary in the Middle &lpar;AitM&rpar;: Post-Exploitation w/ Michael Allen #livestream  #infosec #redteam](https://www.youtube.com/watch?v=WY4mH-8TbWY)
 - [13Cubed XINTRA Lab Walkthrough](https://www.youtube.com/watch?v=A7Bh7vnAooQ)
@@ -35,7 +36,6 @@
 - [Best Antivirus/EDR vs Unknown Ransomware](https://www.youtube.com/watch?v=2R033fex8D8)
 - [Adversaries Are Doing Stranger Things Part 1](https://www.youtube.com/watch?v=BFFXgEgSfHQ)
 - [Direct System Calls For Hackers &lpar;EDR Evasion&rpar;](https://www.youtube.com/watch?v=0_CvTgvR-7M)
-- [From COM Object Fundamentals To UAC Bypasses - Tijme Gommers](https://www.youtube.com/watch?v=481SI_HWlLs)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
