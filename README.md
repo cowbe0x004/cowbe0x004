@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Be Kind, Rewind... The USN Journal](https://www.youtube.com/watch?v=GDc8TbWiQio)
 - [OAuth-some Security Tricks: Yet more OAuth abuse](https://www.youtube.com/watch?v=F-s1OAq9C64)
 - [Arista Configuration Essentials FULL Course](https://www.youtube.com/watch?v=UzGBz1tozB4)
 - [Adversary in the Middle &lpar;AitM&rpar;: Post-Exploitation w/ Michael Allen #livestream  #infosec #redteam](https://www.youtube.com/watch?v=WY4mH-8TbWY)
@@ -35,7 +36,6 @@
 - [Process Injection Techniques: Deep Dive into Process Hollowing &amp; Shellcode](https://www.youtube.com/watch?v=Tox5Kb8V97M)
 - [Best Antivirus/EDR vs Unknown Ransomware](https://www.youtube.com/watch?v=2R033fex8D8)
 - [Adversaries Are Doing Stranger Things Part 1](https://www.youtube.com/watch?v=BFFXgEgSfHQ)
-- [Direct System Calls For Hackers &lpar;EDR Evasion&rpar;](https://www.youtube.com/watch?v=0_CvTgvR-7M)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
