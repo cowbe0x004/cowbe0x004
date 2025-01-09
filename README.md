@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Cyber Security - Dump Windows LSASS.exe Process Memory &lpar;Windows Defender Bypass&rpar;](https://www.youtube.com/watch?v=GoxR7W6vjns)
 - [Be Kind, Rewind... The USN Journal](https://www.youtube.com/watch?v=GDc8TbWiQio)
 - [OAuth-some Security Tricks: Yet more OAuth abuse](https://www.youtube.com/watch?v=F-s1OAq9C64)
 - [Arista Configuration Essentials FULL Course](https://www.youtube.com/watch?v=UzGBz1tozB4)
@@ -35,7 +36,6 @@
 - [PowerShell Web Access: Your Network&#39;s Backdoor in Plain Sight](https://www.youtube.com/watch?v=XrkAGBFUK5w)
 - [Process Injection Techniques: Deep Dive into Process Hollowing &amp; Shellcode](https://www.youtube.com/watch?v=Tox5Kb8V97M)
 - [Best Antivirus/EDR vs Unknown Ransomware](https://www.youtube.com/watch?v=2R033fex8D8)
-- [Adversaries Are Doing Stranger Things Part 1](https://www.youtube.com/watch?v=BFFXgEgSfHQ)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
