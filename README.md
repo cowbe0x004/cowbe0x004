@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Exploiting Active Directory Certificate Services &lpar;ADCS&rpar; Using Only Two Tools](https://www.youtube.com/watch?v=FhJpfWZ6NQA)
 - [Anatomy of an NTFS FILE Record - Windows File System Forensics](https://www.youtube.com/watch?v=l4IphrAjzeY)
 - [Cyber Security - Dump Windows LSASS.exe Process Memory &lpar;Windows Defender Bypass&rpar;](https://www.youtube.com/watch?v=GoxR7W6vjns)
 - [Be Kind, Rewind... The USN Journal](https://www.youtube.com/watch?v=GDc8TbWiQio)
@@ -35,7 +36,6 @@
 - [13Cubed XINTRA Lab Walkthrough](https://www.youtube.com/watch?v=A7Bh7vnAooQ)
 - [Turning The Tables: Using Cyber Deception To Hunt Phishers At Scale - Ross Bevington](https://www.youtube.com/watch?v=78qnM_ZzpNc)
 - [PowerShell Web Access: Your Network&#39;s Backdoor in Plain Sight](https://www.youtube.com/watch?v=XrkAGBFUK5w)
-- [Process Injection Techniques: Deep Dive into Process Hollowing &amp; Shellcode](https://www.youtube.com/watch?v=Tox5Kb8V97M)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
