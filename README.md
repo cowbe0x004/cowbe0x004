@@ -66,8 +66,6 @@ Cloud Auditing Tool - github.com/nccgroup/ScoutSuite
 
 Post-Exploitation toolset
 github.com/d...](https://bsky.app/profile/bhinfosecurity.bsky.social/post/3lbfxa6yte22c)
-- [Hello World!](https://bsky.app/profile/cowbe.bsky.social/post/3lbdo4xylz22o)
-- [Reposted: If you ever wondered why vi uses h, j, k, and l for cursor movement: it&#39;s because it was written usi...](https://bsky.app/profile/tomnomnom.com/post/3lbdnz2yd7s2j)
 <!-- bluesky:END -->
 
 ### 🐦 Latest tweets and retweets
