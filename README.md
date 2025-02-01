@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [8 hours of C coding projects: Cyber Security](https://www.youtube.com/watch?v=yCZJEKAYpF4)
 - [Exploiting Active Directory Certificate Services &lpar;ADCS&rpar; Using Only Two Tools](https://www.youtube.com/watch?v=FhJpfWZ6NQA)
 - [Anatomy of an NTFS FILE Record - Windows File System Forensics](https://www.youtube.com/watch?v=l4IphrAjzeY)
 - [Cyber Security - Dump Windows LSASS.exe Process Memory &lpar;Windows Defender Bypass&rpar;](https://www.youtube.com/watch?v=GoxR7W6vjns)
@@ -35,7 +36,6 @@
 - [Adversary in the Middle &lpar;AitM&rpar;: Post-Exploitation w/ Michael Allen #livestream  #infosec #redteam](https://www.youtube.com/watch?v=WY4mH-8TbWY)
 - [13Cubed XINTRA Lab Walkthrough](https://www.youtube.com/watch?v=A7Bh7vnAooQ)
 - [Turning The Tables: Using Cyber Deception To Hunt Phishers At Scale - Ross Bevington](https://www.youtube.com/watch?v=78qnM_ZzpNc)
-- [PowerShell Web Access: Your Network&#39;s Backdoor in Plain Sight](https://www.youtube.com/watch?v=XrkAGBFUK5w)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
