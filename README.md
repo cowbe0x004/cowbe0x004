@@ -70,11 +70,11 @@ github.com/d...](https://bsky.app/profile/bhinfosecurity.bsky.social/post/3lbfxa
 
 ### 🐦 Latest tweets and retweets
 <!-- TWEETS:START -->
-- [RT Devansh &lpar;⚡, 🥷&rpar;: If you, like many, think relying just on `cat` command&#39;s output is enough to be sure about the integrity of a bash file. Think ...](https://x.com/cowbe0x004/status/1775281218374050131)
-- [RT Alh4zr3d: Red Teamers: Windows Subsystem for Linux &lpar;WSL&rpar; is more and more common, especially on dev workstations. Don&#39;t neglect it! WSL rev shell: ...](https://x.com/cowbe0x004/status/1633906799496577058)
-- [RT Grzegorz Tworek: Need an almost invisible, post-exploitation, persistent, fileless, LPE backdoor? There are many, but this one looks really beautif...](https://x.com/cowbe0x004/status/1635059979584704512)
-- [RT Mr. Rc: Are you interested in learning reverse engineering in 2023? I&#39;ve spent the this year studying RE, and I want to share all the resources tha...](https://x.com/cowbe0x004/status/1608957126986338304)
-- [RT Oliver Lyak: Today we&#39;re publishing new techniques for recovering NTLM hashes from encrypted credentials protected by Windows Defender Credential G...](https://x.com/cowbe0x004/status/1609759486306144256)
+- [Another fun experience from 2021 #BSidesDE #PvJCTF. Thanks for all the teams that made this happen. @dichotomy1 @NeedAMulligan @dooktwit @PvJGoldTeam ...](https://x.com/cowbe0x004/status/1459634829448957958)
+- [The 2021 #BSidesDE #PvJCTF Call for Pros &amp; Joes is still open to signup below. All that signed up are confirmed and teams picked. Sponsored by @gigamo...](https://x.com/cowbe0x004/status/1454554683046039552)
+- [Threat Hunting Summit - [Workshop] Threat Hunting with VirusTotal - Black Belt Edition https://bitly.com/36T65XI](https://x.com/cowbe0x004/status/1329101788662915080)
+- [Threat Hunting Summit - YARA Bootcamp https://bitly.com/3nyCp8O](https://x.com/cowbe0x004/status/1329091504237912064)
+- [Information overloaded trying to attend all the talks and workshop at #defcon28 @BlueTeamVillage @redteamvillage.](https://x.com/cowbe0x004/status/1291864958544871426)
 <!-- TWEETS:END -->
 
 ---
