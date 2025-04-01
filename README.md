@@ -54,18 +54,11 @@
 
 ### Latest bluesky posts
 <!-- bluesky:START -->
-- [Replied to: AC-Hunte is a network threat hunting tool that analyzes network traffic to detect which internal s...](https://bsky.app/profile/cowbe.bsky.social/post/3lbi75uyku22f)
-- [Microsoft&#39;s legal team seizes 256 domains used by the ONNX phishing service
-
-blogs.microsoft.com/on-the-issue....](https://bsky.app/profile/campuscodi.risky.biz/post/3lbhy735iws2v)
+- [AC-Hunte is a network threat hunting tool that analyzes network traffic to detect which internal systems have...](https://bsky.app/profile/cowbe.bsky.social/post/3lbi75uyku22f)
+- [Reposted: Microsoft&#39;s legal team seizes 256 domains used by the ONNX phishing service blogs.microsoft.com/on-t...](https://bsky.app/profile/campuscodi.risky.biz/post/3lbhy735iws2v)
 - [Reposted: Obfuscating API Patches to Bypass New Windows Defender Behavior Signatures](https://bsky.app/profile/netbiosx.bsky.social/post/3lbhx3mtisk2u)
 - [Reposted: Check out this new AMSI bypass released with SpectersInsight 4.0.0! This technique enables loading o...](https://bsky.app/profile/pracsec.bsky.social/post/3lbhs3khwxc22)
-- [Reposted: 
-Tools
-Cloud Auditing Tool - github.com/nccgroup/ScoutSuite 
-
-Post-Exploitation toolset
-github.com/d...](https://bsky.app/profile/bhinfosecurity.bsky.social/post/3lbfxa6yte22c)
+- [Reposted: Tools Cloud Auditing Tool - github.com/nccgroup/ScoutSuite Post-Exploitation toolset github.com/daft...](https://bsky.app/profile/bhinfosecurity.bsky.social/post/3lbfxa6yte22c)
 <!-- bluesky:END -->
 
 ### 🐦 Latest tweets and retweets
