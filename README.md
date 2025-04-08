@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Home Labs: Attack and Defend Your DFIR Lab w/ Markus Schober &lpar;Patched Update&rpar; #homelab #DFIR](https://www.youtube.com/watch?v=nwX6PjEJVpw)
 - [Damn Vulnerable RESTaurant - API hacking](https://www.youtube.com/watch?v=CdVTG3aWTew)
 - [Phishing 2.0 - Detecting Evilginx, EvilnoVNC, Muraena and Modlishka](https://www.youtube.com/watch?v=cR9ckk9Axcw)
 - [8 hours of C coding projects: Cyber Security](https://www.youtube.com/watch?v=yCZJEKAYpF4)
@@ -35,7 +36,6 @@
 - [Be Kind, Rewind... The USN Journal](https://www.youtube.com/watch?v=GDc8TbWiQio)
 - [OAuth-some Security Tricks: Yet more OAuth abuse](https://www.youtube.com/watch?v=F-s1OAq9C64)
 - [Arista Configuration Essentials FULL Course](https://www.youtube.com/watch?v=UzGBz1tozB4)
-- [Adversary in the Middle &lpar;AitM&rpar;: Post-Exploitation w/ Michael Allen #livestream  #infosec #redteam](https://www.youtube.com/watch?v=WY4mH-8TbWY)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
