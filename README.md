@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [This CTF Teaches You Everything About Hacking an API](https://www.youtube.com/watch?v=6Tyqvl-GSNQ)
 - [Device Code Login Phishing Presentation Attack, Detect, Mitigate](https://www.youtube.com/watch?v=Y8SSYLEq15Q)
 - [Malware Development #3 Process Injection | Complete Course](https://www.youtube.com/watch?v=jRQ-DUltVFA)
 - [Home Labs: Attack and Defend Your DFIR Lab w/ Markus Schober &lpar;Patched Update&rpar; #homelab #DFIR](https://www.youtube.com/watch?v=nwX6PjEJVpw)
@@ -35,7 +36,6 @@
 - [Exploiting Active Directory Certificate Services &lpar;ADCS&rpar; Using Only Two Tools](https://www.youtube.com/watch?v=FhJpfWZ6NQA)
 - [Anatomy of an NTFS FILE Record - Windows File System Forensics](https://www.youtube.com/watch?v=l4IphrAjzeY)
 - [Cyber Security - Dump Windows LSASS.exe Process Memory &lpar;Windows Defender Bypass&rpar;](https://www.youtube.com/watch?v=GoxR7W6vjns)
-- [Be Kind, Rewind... The USN Journal](https://www.youtube.com/watch?v=GDc8TbWiQio)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
