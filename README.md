@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred binsider](https://github.com/orhun/binsider)
-- [cowbe0x004 starred GhostStrike](https://github.com/stivenhacker/GhostStrike)
-- [cowbe0x004 starred threat-tools](https://github.com/activecm/threat-tools)
-- [cowbe0x004 starred openbas](https://github.com/OpenBAS-Platform/openbas)
-- [cowbe0x004 starred traceeshark](https://github.com/aquasecurity/traceeshark)
-- [cowbe0x004 starred NamedPipeMaster](https://github.com/zeze-zeze/NamedPipeMaster)
-- [cowbe0x004 starred TRACE-Forensic-Toolkit](https://github.com/Gadzhovski/TRACE-Forensic-Toolkit)
-- [cowbe0x004 starred USP](https://github.com/grahamhelton/USP)
-- [cowbe0x004 starred Invisi-Shell](https://github.com/OmerYa/Invisi-Shell)
-- [cowbe0x004 starred VeilTransfer](https://github.com/infosecn1nja/VeilTransfer)
+- [cowbe0x004 starred Fuji](https://github.com/Lazza/Fuji)
+- [cowbe0x004 starred ZigStrike](https://github.com/0xsp-SRD/ZigStrike)
+- [cowbe0x004 starred Damn-Vulnerable-RESTaurant-API-Game](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game)
+- [cowbe0x004 starred PhantomReg](https://github.com/rishieissocool/PhantomReg)
+- [cowbe0x004 starred XSS_Hunter](https://github.com/Leviticus-Triage/XSS_Hunter)
+- [cowbe0x004 starred Sefirah](https://github.com/shrimqy/Sefirah)
+- [cowbe0x004 starred API-Pentesting-Resources](https://github.com/riteshs4hu/API-Pentesting-Resources)
+- [cowbe0x004 starred VulnerableApp4APISecurity](https://github.com/Erdemstar/VulnerableApp4APISecurity)
+- [cowbe0x004 starred caido](https://github.com/caido/caido)
+- [cowbe0x004 starred DE-TH-Aura](https://github.com/SecurityAura/DE-TH-Aura)
 <!-- GITHUB_STAR:END -->
 
 ### Latest bluesky posts
