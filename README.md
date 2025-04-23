@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred Eventlog_Compendium](https://github.com/nasbench/Eventlog_Compendium)
 - [cowbe0x004 starred Fuji](https://github.com/Lazza/Fuji)
 - [cowbe0x004 starred ZigStrike](https://github.com/0xsp-SRD/ZigStrike)
 - [cowbe0x004 starred Damn-Vulnerable-RESTaurant-API-Game](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred API-Pentesting-Resources](https://github.com/riteshs4hu/API-Pentesting-Resources)
 - [cowbe0x004 starred VulnerableApp4APISecurity](https://github.com/Erdemstar/VulnerableApp4APISecurity)
 - [cowbe0x004 starred caido](https://github.com/caido/caido)
-- [cowbe0x004 starred DE-TH-Aura](https://github.com/SecurityAura/DE-TH-Aura)
 <!-- GITHUB_STAR:END -->
 
 ### Latest bluesky posts
