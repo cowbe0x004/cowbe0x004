@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [LSASS Dumping by Defender | Purple Teaming LSASS Dumping](https://www.youtube.com/watch?v=RqpHKyWQpGs)
 - [Deciphering Obfuscated JavaScript Malware](https://www.youtube.com/watch?v=2iBqqPmUYfE)
 - [Securing Vue.js with OpenID Connect and OAuth by Bobby Johnson | Armada JS 2019](https://www.youtube.com/watch?v=r0BCki3U2AM)
 - [This CTF Teaches You Everything About Hacking an API](https://www.youtube.com/watch?v=6Tyqvl-GSNQ)
@@ -35,7 +36,6 @@
 - [Damn Vulnerable RESTaurant - API hacking](https://www.youtube.com/watch?v=CdVTG3aWTew)
 - [Phishing 2.0 - Detecting Evilginx, EvilnoVNC, Muraena and Modlishka](https://www.youtube.com/watch?v=cR9ckk9Axcw)
 - [8 hours of C coding projects: Cyber Security](https://www.youtube.com/watch?v=yCZJEKAYpF4)
-- [Exploiting Active Directory Certificate Services &lpar;ADCS&rpar; Using Only Two Tools](https://www.youtube.com/watch?v=FhJpfWZ6NQA)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
