@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [PMA 126: DLL Proxying](https://www.youtube.com/watch?v=tSdyfaJ7T50)
 - [Crippling Defender with DefendNot | Purple Team Attack &amp; Detection Walkthrough](https://www.youtube.com/watch?v=Sx2tBjen26s)
 - [LSASS Dumping by Defender | Purple Teaming LSASS Dumping](https://www.youtube.com/watch?v=RqpHKyWQpGs)
 - [Deciphering Obfuscated JavaScript Malware](https://www.youtube.com/watch?v=2iBqqPmUYfE)
@@ -35,7 +36,6 @@
 - [Malware Development #3 Process Injection | Complete Course](https://www.youtube.com/watch?v=jRQ-DUltVFA)
 - [Home Labs: Attack and Defend Your DFIR Lab w/ Markus Schober &lpar;Patched Update&rpar; #homelab #DFIR](https://www.youtube.com/watch?v=nwX6PjEJVpw)
 - [Damn Vulnerable RESTaurant - API hacking](https://www.youtube.com/watch?v=CdVTG3aWTew)
-- [Phishing 2.0 - Detecting Evilginx, EvilnoVNC, Muraena and Modlishka](https://www.youtube.com/watch?v=cR9ckk9Axcw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
