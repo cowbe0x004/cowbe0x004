@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [How Hackers Break Into Windows Through File Sharing &lpar;SMB&rpar; - Course &lpar;30 min&rpar;](https://www.youtube.com/watch?v=mhhzk68LzTE)
 - [PMA 126: DLL Proxying](https://www.youtube.com/watch?v=tSdyfaJ7T50)
 - [Crippling Defender with DefendNot | Purple Team Attack &amp; Detection Walkthrough](https://www.youtube.com/watch?v=Sx2tBjen26s)
 - [LSASS Dumping by Defender | Purple Teaming LSASS Dumping](https://www.youtube.com/watch?v=RqpHKyWQpGs)
@@ -35,7 +36,6 @@
 - [Device Code Login Phishing Presentation Attack, Detect, Mitigate](https://www.youtube.com/watch?v=Y8SSYLEq15Q)
 - [Malware Development #3 Process Injection | Complete Course](https://www.youtube.com/watch?v=jRQ-DUltVFA)
 - [Home Labs: Attack and Defend Your DFIR Lab w/ Markus Schober &lpar;Patched Update&rpar; #homelab #DFIR](https://www.youtube.com/watch?v=nwX6PjEJVpw)
-- [Damn Vulnerable RESTaurant - API hacking](https://www.youtube.com/watch?v=CdVTG3aWTew)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
