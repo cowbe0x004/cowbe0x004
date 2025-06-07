@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
-- [cowbe0x004 starred PMD](https://github.com/rad9800/PMD)
-- [cowbe0x004 starred Eventlog_Compendium](https://github.com/nasbench/Eventlog_Compendium)
-- [cowbe0x004 starred Fuji](https://github.com/Lazza/Fuji)
-- [cowbe0x004 starred ZigStrike](https://github.com/0xsp-SRD/ZigStrike)
-- [cowbe0x004 starred Damn-Vulnerable-RESTaurant-API-Game](https://github.com/theowni/Damn-Vulnerable-RESTaurant-API-Game)
-- [cowbe0x004 starred PhantomReg](https://github.com/rishieissocool/PhantomReg)
-- [cowbe0x004 starred XSS_Hunter](https://github.com/Leviticus-Triage/XSS_Hunter)
-- [cowbe0x004 starred Sefirah](https://github.com/shrimqy/Sefirah)
-- [cowbe0x004 starred API-Pentesting-Resources](https://github.com/riteshs4hu/API-Pentesting-Resources)
-- [cowbe0x004 starred VulnerableApp4APISecurity](https://github.com/Erdemstar/VulnerableApp4APISecurity)
+- [cowbe0x004 starred Worms](https://github.com/Ephrimgnanam/Worms)
+- [cowbe0x004 starred droidground](https://github.com/SECFORCE/droidground)
+- [cowbe0x004 starred Incident-Response-Powershell](https://github.com/Bert-JanP/Incident-Response-Powershell)
+- [cowbe0x004 starred Delegations](https://github.com/TheManticoreProject/Delegations)
+- [cowbe0x004 starred aiocatalogs](https://github.com/panteLx/aiocatalogs)
+- [cowbe0x004 starred SQL-Injection-Demo](https://github.com/dark-marc/SQL-Injection-Demo)
+- [cowbe0x004 starred flare-fakenet-ng](https://github.com/mandiant/flare-fakenet-ng)
+- [cowbe0x004 starred EvilWorker](https://github.com/Ahaz1701/EvilWorker)
+- [cowbe0x004 starred RedirectThread](https://github.com/Friends-Security/RedirectThread)
+- [cowbe0x004 starred wrapwrap](https://github.com/ambionics/wrapwrap)
 <!-- GITHUB_STAR:END -->
 
 ### Latest bluesky posts
