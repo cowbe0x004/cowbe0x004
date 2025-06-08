@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred caracal](https://github.com/adgaultier/caracal)
 - [cowbe0x004 starred Worms](https://github.com/Ephrimgnanam/Worms)
 - [cowbe0x004 starred droidground](https://github.com/SECFORCE/droidground)
 - [cowbe0x004 starred Incident-Response-Powershell](https://github.com/Bert-JanP/Incident-Response-Powershell)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred flare-fakenet-ng](https://github.com/mandiant/flare-fakenet-ng)
 - [cowbe0x004 starred EvilWorker](https://github.com/Ahaz1701/EvilWorker)
 - [cowbe0x004 starred RedirectThread](https://github.com/Friends-Security/RedirectThread)
-- [cowbe0x004 starred wrapwrap](https://github.com/ambionics/wrapwrap)
 <!-- GITHUB_STAR:END -->
 
 ### Latest bluesky posts
