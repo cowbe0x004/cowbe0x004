@@ -40,6 +40,7 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred auditor.codes](https://github.com/20urc3/auditor.codes)
 - [cowbe0x004 starred caracal](https://github.com/adgaultier/caracal)
 - [cowbe0x004 starred Worms](https://github.com/Ephrimgnanam/Worms)
 - [cowbe0x004 starred droidground](https://github.com/SECFORCE/droidground)
@@ -49,7 +50,6 @@
 - [cowbe0x004 starred SQL-Injection-Demo](https://github.com/dark-marc/SQL-Injection-Demo)
 - [cowbe0x004 starred flare-fakenet-ng](https://github.com/mandiant/flare-fakenet-ng)
 - [cowbe0x004 starred EvilWorker](https://github.com/Ahaz1701/EvilWorker)
-- [cowbe0x004 starred RedirectThread](https://github.com/Friends-Security/RedirectThread)
 <!-- GITHUB_STAR:END -->
 
 ### Latest bluesky posts
