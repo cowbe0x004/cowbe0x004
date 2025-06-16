@@ -40,16 +40,16 @@
 
 ### ⭐ Starred Github repos
 <!-- GITHUB_STAR:START -->
+- [cowbe0x004 starred CVE-2025-33053-Proof-Of-Concept](https://github.com/DevBuiHieu/CVE-2025-33053-Proof-Of-Concept)
+- [cowbe0x004 starred JS-Tap](https://github.com/hoodoer/JS-Tap)
+- [cowbe0x004 starred byor](https://github.com/rad9800/byor)
+- [cowbe0x004 starred iam-lens](https://github.com/cloud-copilot/iam-lens)
 - [cowbe0x004 starred Black-Hat-Zig](https://github.com/CX330Blake/Black-Hat-Zig)
 - [cowbe0x004 starred auditor.codes](https://github.com/20urc3/auditor.codes)
 - [cowbe0x004 starred caracal](https://github.com/adgaultier/caracal)
 - [cowbe0x004 starred Worms](https://github.com/Ephrimgnanam/Worms)
 - [cowbe0x004 starred droidground](https://github.com/SECFORCE/droidground)
 - [cowbe0x004 starred Incident-Response-Powershell](https://github.com/Bert-JanP/Incident-Response-Powershell)
-- [cowbe0x004 starred Delegations](https://github.com/TheManticoreProject/Delegations)
-- [cowbe0x004 starred aiocatalogs](https://github.com/panteLx/aiocatalogs)
-- [cowbe0x004 starred SQL-Injection-Demo](https://github.com/dark-marc/SQL-Injection-Demo)
-- [cowbe0x004 starred flare-fakenet-ng](https://github.com/mandiant/flare-fakenet-ng)
 <!-- GITHUB_STAR:END -->
 
 ### Latest bluesky posts
