@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Beginner Malware Analysis: DCRat with dnSpy &lpar;Stream 03/06/2025&rpar;](https://www.youtube.com/watch?v=Cf9OTFf04D4)
 - [OnionC2 | How To Setup Tor Powered Rust C2](https://www.youtube.com/watch?v=Q7xVNUWcgvM)
 - [CC13: JS-Tap Mark II: Attacking Web Apps With Even More Red Team Shenanigans](https://www.youtube.com/watch?v=O7-zxAmP13o)
 - [How Hackers Break Into Windows Through File Sharing &lpar;SMB&rpar; - Course &lpar;30 min&rpar;](https://www.youtube.com/watch?v=mhhzk68LzTE)
@@ -35,7 +36,6 @@
 - [Deciphering Obfuscated JavaScript Malware](https://www.youtube.com/watch?v=2iBqqPmUYfE)
 - [Securing Vue.js with OpenID Connect and OAuth by Bobby Johnson | Armada JS 2019](https://www.youtube.com/watch?v=r0BCki3U2AM)
 - [This CTF Teaches You Everything About Hacking an API](https://www.youtube.com/watch?v=6Tyqvl-GSNQ)
-- [Device Code Login Phishing Presentation Attack, Detect, Mitigate](https://www.youtube.com/watch?v=Y8SSYLEq15Q)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
