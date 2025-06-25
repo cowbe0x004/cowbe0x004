@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Hacking Google Cloud Platform &lpar;GCP&rpar; - Part 1 - Enumeration](https://www.youtube.com/watch?v=sc2ySPGRiFM)
 - [Beginner Malware Analysis: DCRat with dnSpy &lpar;Stream 03/06/2025&rpar;](https://www.youtube.com/watch?v=Cf9OTFf04D4)
 - [OnionC2 | How To Setup Tor Powered Rust C2](https://www.youtube.com/watch?v=Q7xVNUWcgvM)
 - [CC13: JS-Tap Mark II: Attacking Web Apps With Even More Red Team Shenanigans](https://www.youtube.com/watch?v=O7-zxAmP13o)
@@ -35,7 +36,6 @@
 - [LSASS Dumping by Defender | Purple Teaming LSASS Dumping](https://www.youtube.com/watch?v=RqpHKyWQpGs)
 - [Deciphering Obfuscated JavaScript Malware](https://www.youtube.com/watch?v=2iBqqPmUYfE)
 - [Securing Vue.js with OpenID Connect and OAuth by Bobby Johnson | Armada JS 2019](https://www.youtube.com/watch?v=r0BCki3U2AM)
-- [This CTF Teaches You Everything About Hacking an API](https://www.youtube.com/watch?v=6Tyqvl-GSNQ)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
