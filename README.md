@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Pentesting AWS Lambda Functions: Hands-On Tutorial](https://www.youtube.com/watch?v=5RpCaq5mOXE)
 - [Hacking Google Cloud Platform &lpar;GCP&rpar; - Part 1 - Enumeration](https://www.youtube.com/watch?v=sc2ySPGRiFM)
 - [Beginner Malware Analysis: DCRat with dnSpy &lpar;Stream 03/06/2025&rpar;](https://www.youtube.com/watch?v=Cf9OTFf04D4)
 - [OnionC2 | How To Setup Tor Powered Rust C2](https://www.youtube.com/watch?v=Q7xVNUWcgvM)
@@ -35,7 +36,6 @@
 - [Crippling Defender with DefendNot | Purple Team Attack &amp; Detection Walkthrough](https://www.youtube.com/watch?v=Sx2tBjen26s)
 - [LSASS Dumping by Defender | Purple Teaming LSASS Dumping](https://www.youtube.com/watch?v=RqpHKyWQpGs)
 - [Deciphering Obfuscated JavaScript Malware](https://www.youtube.com/watch?v=2iBqqPmUYfE)
-- [Securing Vue.js with OpenID Connect and OAuth by Bobby Johnson | Armada JS 2019](https://www.youtube.com/watch?v=r0BCki3U2AM)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
