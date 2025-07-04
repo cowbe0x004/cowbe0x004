@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [How Hackers Move Through Networks &lpar;with Ligolo&rpar;](https://www.youtube.com/watch?v=qou7shRlX_s)
 - [Time Travel Debugging in Binary Ninja with Xusheng Li](https://www.youtube.com/watch?v=2v7DRyXb8_c)
 - [Pentesting AWS Lambda Functions: Hands-On Tutorial](https://www.youtube.com/watch?v=5RpCaq5mOXE)
 - [Hacking Google Cloud Platform &lpar;GCP&rpar; - Part 1 - Enumeration](https://www.youtube.com/watch?v=sc2ySPGRiFM)
@@ -35,7 +36,6 @@
 - [How Hackers Break Into Windows Through File Sharing &lpar;SMB&rpar; - Course &lpar;30 min&rpar;](https://www.youtube.com/watch?v=mhhzk68LzTE)
 - [PMA 126: DLL Proxying](https://www.youtube.com/watch?v=tSdyfaJ7T50)
 - [Crippling Defender with DefendNot | Purple Team Attack &amp; Detection Walkthrough](https://www.youtube.com/watch?v=Sx2tBjen26s)
-- [LSASS Dumping by Defender | Purple Teaming LSASS Dumping](https://www.youtube.com/watch?v=RqpHKyWQpGs)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
