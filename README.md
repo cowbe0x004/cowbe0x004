@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Owning DC&#39;s with SMB Takeover Attack](https://www.youtube.com/watch?v=e4f3h5ye-I8)
 - [Adaptix C2 Introduction - Can It Replace Cobalt Strike?](https://www.youtube.com/watch?v=7Wo_y1pk3Sw)
 - [How Hackers Move Through Networks &lpar;with Ligolo&rpar;](https://www.youtube.com/watch?v=qou7shRlX_s)
 - [Time Travel Debugging in Binary Ninja with Xusheng Li](https://www.youtube.com/watch?v=2v7DRyXb8_c)
@@ -35,7 +36,6 @@
 - [OnionC2 | How To Setup Tor Powered Rust C2](https://www.youtube.com/watch?v=Q7xVNUWcgvM)
 - [CC13: JS-Tap Mark II: Attacking Web Apps With Even More Red Team Shenanigans](https://www.youtube.com/watch?v=O7-zxAmP13o)
 - [How Hackers Break Into Windows Through File Sharing &lpar;SMB&rpar; - Course &lpar;30 min&rpar;](https://www.youtube.com/watch?v=mhhzk68LzTE)
-- [PMA 126: DLL Proxying](https://www.youtube.com/watch?v=tSdyfaJ7T50)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
