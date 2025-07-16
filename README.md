@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Introducing EchoThreat - Expedite Detection Engineering w/ Hal Denton](https://www.youtube.com/watch?v=-fQFkrZAWmM)
 - [DEFCON 19: I&#39;m Your MAC&lpar;b&rpar;Daddy](https://www.youtube.com/watch?v=O2mYSUYb2Lk)
 - [🛡️ Tunneling with Chisel &amp; Running RDP Commands with NetExec](https://www.youtube.com/watch?v=XE7w6ohrKAw)
 - [Owning DC&#39;s with SMB Takeover Attack](https://www.youtube.com/watch?v=e4f3h5ye-I8)
@@ -35,7 +36,6 @@
 - [Pentesting AWS Lambda Functions: Hands-On Tutorial](https://www.youtube.com/watch?v=5RpCaq5mOXE)
 - [Hacking Google Cloud Platform &lpar;GCP&rpar; - Part 1 - Enumeration](https://www.youtube.com/watch?v=sc2ySPGRiFM)
 - [Beginner Malware Analysis: DCRat with dnSpy &lpar;Stream 03/06/2025&rpar;](https://www.youtube.com/watch?v=Cf9OTFf04D4)
-- [OnionC2 | How To Setup Tor Powered Rust C2](https://www.youtube.com/watch?v=Q7xVNUWcgvM)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
