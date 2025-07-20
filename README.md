@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [DEF CON 23 - Sean Pierce - Abusing Native Shims for Post Exploitation](https://www.youtube.com/watch?v=LOsesi3QkXY)
 - [Introducing EchoThreat - Expedite Detection Engineering w/ Hal Denton](https://www.youtube.com/watch?v=-fQFkrZAWmM)
 - [DEFCON 19: I&#39;m Your MAC&lpar;b&rpar;Daddy](https://www.youtube.com/watch?v=O2mYSUYb2Lk)
 - [🛡️ Tunneling with Chisel &amp; Running RDP Commands with NetExec](https://www.youtube.com/watch?v=XE7w6ohrKAw)
@@ -35,7 +36,6 @@
 - [Time Travel Debugging in Binary Ninja with Xusheng Li](https://www.youtube.com/watch?v=2v7DRyXb8_c)
 - [Pentesting AWS Lambda Functions: Hands-On Tutorial](https://www.youtube.com/watch?v=5RpCaq5mOXE)
 - [Hacking Google Cloud Platform &lpar;GCP&rpar; - Part 1 - Enumeration](https://www.youtube.com/watch?v=sc2ySPGRiFM)
-- [Beginner Malware Analysis: DCRat with dnSpy &lpar;Stream 03/06/2025&rpar;](https://www.youtube.com/watch?v=Cf9OTFf04D4)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
