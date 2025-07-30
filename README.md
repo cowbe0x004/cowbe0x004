@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [This 7-Zip Installer Exfiltrates Active Directory Secrets in Minutes | Analysis with ANY.RUN](https://www.youtube.com/watch?v=aFkfcqy7wvY)
 - [🔐 Golden dMSA Attack &amp; Detection | Purple Team Walkthrough](https://www.youtube.com/watch?v=-3PpxuKP7wQ)
 - [DEF CON 23 - Sean Pierce - Abusing Native Shims for Post Exploitation](https://www.youtube.com/watch?v=LOsesi3QkXY)
 - [Introducing EchoThreat - Expedite Detection Engineering w/ Hal Denton](https://www.youtube.com/watch?v=-fQFkrZAWmM)
@@ -35,7 +36,6 @@
 - [Adaptix C2 Introduction - Can It Replace Cobalt Strike?](https://www.youtube.com/watch?v=7Wo_y1pk3Sw)
 - [How Hackers Move Through Networks &lpar;with Ligolo&rpar;](https://www.youtube.com/watch?v=qou7shRlX_s)
 - [Time Travel Debugging in Binary Ninja with Xusheng Li](https://www.youtube.com/watch?v=2v7DRyXb8_c)
-- [Pentesting AWS Lambda Functions: Hands-On Tutorial](https://www.youtube.com/watch?v=5RpCaq5mOXE)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
