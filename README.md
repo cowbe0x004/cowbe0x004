@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [🔐 Certify 2.0 &amp; ADCS Certificate Escalations &lpar;ESC1–ESC3&rpar;](https://www.youtube.com/watch?v=Fg8akdlap58)
 - [Behind the Book: Threat Hunting macOS with Jaron Bradley](https://www.youtube.com/watch?v=8Uj2NbWnU6M)
 - [This 7-Zip Installer Exfiltrates Active Directory Secrets in Minutes | Analysis with ANY.RUN](https://www.youtube.com/watch?v=aFkfcqy7wvY)
 - [🔐 Golden dMSA Attack &amp; Detection | Purple Team Walkthrough](https://www.youtube.com/watch?v=-3PpxuKP7wQ)
@@ -35,7 +36,6 @@
 - [🛡️ Tunneling with Chisel &amp; Running RDP Commands with NetExec](https://www.youtube.com/watch?v=XE7w6ohrKAw)
 - [Owning DC&#39;s with SMB Takeover Attack](https://www.youtube.com/watch?v=e4f3h5ye-I8)
 - [Adaptix C2 Introduction - Can It Replace Cobalt Strike?](https://www.youtube.com/watch?v=7Wo_y1pk3Sw)
-- [How Hackers Move Through Networks &lpar;with Ligolo&rpar;](https://www.youtube.com/watch?v=qou7shRlX_s)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
