@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [BloodHound CE Tutorial: Find Active Directory Attacks Like a Red Teamer](https://www.youtube.com/watch?v=P2SV6bxxA0g)
 - [Triaging Malware with Malcat &lpar;Stream - 29/07/2025&rpar;](https://www.youtube.com/watch?v=xJofuHM4FCM)
 - [🔐 Certify 2.0 &amp; ADCS Certificate Escalations &lpar;ESC1–ESC3&rpar;](https://www.youtube.com/watch?v=Fg8akdlap58)
 - [Behind the Book: Threat Hunting macOS with Jaron Bradley](https://www.youtube.com/watch?v=8Uj2NbWnU6M)
@@ -35,7 +36,6 @@
 - [Introducing EchoThreat - Expedite Detection Engineering w/ Hal Denton](https://www.youtube.com/watch?v=-fQFkrZAWmM)
 - [DEFCON 19: I&#39;m Your MAC&lpar;b&rpar;Daddy](https://www.youtube.com/watch?v=O2mYSUYb2Lk)
 - [🛡️ Tunneling with Chisel &amp; Running RDP Commands with NetExec](https://www.youtube.com/watch?v=XE7w6ohrKAw)
-- [Owning DC&#39;s with SMB Takeover Attack](https://www.youtube.com/watch?v=e4f3h5ye-I8)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
