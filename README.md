@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Certipy Deep Dive — Escalating via AD CS with ESC4–ESC7](https://www.youtube.com/watch?v=rEstm6e3Lek)
 - [BloodHound CE Tutorial: Find Active Directory Attacks Like a Red Teamer](https://www.youtube.com/watch?v=P2SV6bxxA0g)
 - [Triaging Malware with Malcat &lpar;Stream - 29/07/2025&rpar;](https://www.youtube.com/watch?v=xJofuHM4FCM)
 - [🔐 Certify 2.0 &amp; ADCS Certificate Escalations &lpar;ESC1–ESC3&rpar;](https://www.youtube.com/watch?v=Fg8akdlap58)
@@ -35,7 +36,6 @@
 - [DEF CON 23 - Sean Pierce - Abusing Native Shims for Post Exploitation](https://www.youtube.com/watch?v=LOsesi3QkXY)
 - [Introducing EchoThreat - Expedite Detection Engineering w/ Hal Denton](https://www.youtube.com/watch?v=-fQFkrZAWmM)
 - [DEFCON 19: I&#39;m Your MAC&lpar;b&rpar;Daddy](https://www.youtube.com/watch?v=O2mYSUYb2Lk)
-- [🛡️ Tunneling with Chisel &amp; Running RDP Commands with NetExec](https://www.youtube.com/watch?v=XE7w6ohrKAw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
