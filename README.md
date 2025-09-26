@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Dropping Creds With WSASS to Bypass PPL](https://www.youtube.com/watch?v=-8x2En2Btnw)
 - [6.pdf](https://www.youtube.com/watch?v=EZ6TEjx7JLw)
 - [Triaging Obfuscated Binaries with Binary Ninja and AssemblyLine &lpar;Stream - 26/08/2025&rpar;](https://www.youtube.com/watch?v=6GaJ_VVv2gk)
 - [Certipy Deep Dive — Escalating via AD CS with ESC4–ESC7](https://www.youtube.com/watch?v=rEstm6e3Lek)
@@ -35,7 +36,6 @@
 - [Behind the Book: Threat Hunting macOS with Jaron Bradley](https://www.youtube.com/watch?v=8Uj2NbWnU6M)
 - [This 7-Zip Installer Exfiltrates Active Directory Secrets in Minutes | Analysis with ANY.RUN](https://www.youtube.com/watch?v=aFkfcqy7wvY)
 - [🔐 Golden dMSA Attack &amp; Detection | Purple Team Walkthrough](https://www.youtube.com/watch?v=-3PpxuKP7wQ)
-- [DEF CON 23 - Sean Pierce - Abusing Native Shims for Post Exploitation](https://www.youtube.com/watch?v=LOsesi3QkXY)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
