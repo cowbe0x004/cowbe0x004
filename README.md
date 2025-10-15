@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Top FOUR Malwares in 2025: Full Analysis with ANY.RUN](https://www.youtube.com/watch?v=Ab726Jsvktw)
 - [Dropping Creds With WSASS to Bypass PPL](https://www.youtube.com/watch?v=-8x2En2Btnw)
 - [6.pdf](https://www.youtube.com/watch?v=EZ6TEjx7JLw)
 - [Triaging Obfuscated Binaries with Binary Ninja and AssemblyLine &lpar;Stream - 26/08/2025&rpar;](https://www.youtube.com/watch?v=6GaJ_VVv2gk)
@@ -35,7 +36,6 @@
 - [🔐 Certify 2.0 &amp; ADCS Certificate Escalations &lpar;ESC1–ESC3&rpar;](https://www.youtube.com/watch?v=Fg8akdlap58)
 - [Behind the Book: Threat Hunting macOS with Jaron Bradley](https://www.youtube.com/watch?v=8Uj2NbWnU6M)
 - [This 7-Zip Installer Exfiltrates Active Directory Secrets in Minutes | Analysis with ANY.RUN](https://www.youtube.com/watch?v=aFkfcqy7wvY)
-- [🔐 Golden dMSA Attack &amp; Detection | Purple Team Walkthrough](https://www.youtube.com/watch?v=-3PpxuKP7wQ)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
