@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Maverick .NET Agent Analysis and WhatsApp PowerShell Worm &lpar;Stream - 21/10/2025&rpar;](https://www.youtube.com/watch?v=h6imZyQrdBk)
 - [Full Red Team Engagement - Game of Active Directory &lpar;public&rpar;](https://www.youtube.com/watch?v=iHW-li8rrK0)
 - [Reverse Malware in 12 Minutes &lpar;Ghidra + REMnux&rpar;](https://www.youtube.com/watch?v=LIft-FWNNqU)
 - [Top FOUR Malwares in 2025: Full Analysis with ANY.RUN](https://www.youtube.com/watch?v=Ab726Jsvktw)
@@ -35,7 +36,6 @@
 - [Certipy Deep Dive — Escalating via AD CS with ESC4–ESC7](https://www.youtube.com/watch?v=rEstm6e3Lek)
 - [BloodHound CE Tutorial: Find Active Directory Attacks Like a Red Teamer](https://www.youtube.com/watch?v=P2SV6bxxA0g)
 - [Triaging Malware with Malcat &lpar;Stream - 29/07/2025&rpar;](https://www.youtube.com/watch?v=xJofuHM4FCM)
-- [🔐 Certify 2.0 &amp; ADCS Certificate Escalations &lpar;ESC1–ESC3&rpar;](https://www.youtube.com/watch?v=Fg8akdlap58)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
