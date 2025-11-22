@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Hacking Active Directory Course for Beginners &lpar;Over 5+ Hours of Content!&rpar;](https://www.youtube.com/watch?v=RxU0AANCesQ)
 - [Maverick .NET Agent Analysis and WhatsApp PowerShell Worm &lpar;Stream - 21/10/2025&rpar;](https://www.youtube.com/watch?v=h6imZyQrdBk)
 - [Full Red Team Engagement - Game of Active Directory &lpar;public&rpar;](https://www.youtube.com/watch?v=iHW-li8rrK0)
 - [Reverse Malware in 12 Minutes &lpar;Ghidra + REMnux&rpar;](https://www.youtube.com/watch?v=LIft-FWNNqU)
@@ -35,7 +36,6 @@
 - [Triaging Obfuscated Binaries with Binary Ninja and AssemblyLine &lpar;Stream - 26/08/2025&rpar;](https://www.youtube.com/watch?v=6GaJ_VVv2gk)
 - [Certipy Deep Dive — Escalating via AD CS with ESC4–ESC7](https://www.youtube.com/watch?v=rEstm6e3Lek)
 - [BloodHound CE Tutorial: Find Active Directory Attacks Like a Red Teamer](https://www.youtube.com/watch?v=P2SV6bxxA0g)
-- [Triaging Malware with Malcat &lpar;Stream - 29/07/2025&rpar;](https://www.youtube.com/watch?v=xJofuHM4FCM)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
