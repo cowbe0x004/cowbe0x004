@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [There’s Something About WMI - DFIR Summit 2015](https://www.youtube.com/watch?v=JCJl2uV8u1c)
 - [Fake PuTTY Installer Malware Analysis with IDA Pro](https://www.youtube.com/watch?v=8WphswSXE0w)
 - [Hacking Active Directory Course for Beginners &lpar;Over 5+ Hours of Content!&rpar;](https://www.youtube.com/watch?v=RxU0AANCesQ)
 - [Maverick .NET Agent Analysis and WhatsApp PowerShell Worm &lpar;Stream - 21/10/2025&rpar;](https://www.youtube.com/watch?v=h6imZyQrdBk)
@@ -35,7 +36,6 @@
 - [Dropping Creds With WSASS to Bypass PPL](https://www.youtube.com/watch?v=-8x2En2Btnw)
 - [6.pdf](https://www.youtube.com/watch?v=EZ6TEjx7JLw)
 - [Triaging Obfuscated Binaries with Binary Ninja and AssemblyLine &lpar;Stream - 26/08/2025&rpar;](https://www.youtube.com/watch?v=6GaJ_VVv2gk)
-- [Certipy Deep Dive — Escalating via AD CS with ESC4–ESC7](https://www.youtube.com/watch?v=rEstm6e3Lek)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
