@@ -26,6 +26,8 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Kroll Artifact Parser and Extractor &lpar;KAPE&rpar; Official Demo](https://www.youtube.com/watch?v=DXE0INTu9ek)
+- [Kansa for Enterprise scale Threat Hunting w/ Jon Ketchum - SANS DFIR Summit 2020](https://www.youtube.com/watch?v=ZyTbqpc7H-M)
 - [There’s Something About WMI - DFIR Summit 2015](https://www.youtube.com/watch?v=JCJl2uV8u1c)
 - [Fake PuTTY Installer Malware Analysis with IDA Pro](https://www.youtube.com/watch?v=8WphswSXE0w)
 - [Hacking Active Directory Course for Beginners &lpar;Over 5+ Hours of Content!&rpar;](https://www.youtube.com/watch?v=RxU0AANCesQ)
@@ -34,8 +36,6 @@
 - [Reverse Malware in 12 Minutes &lpar;Ghidra + REMnux&rpar;](https://www.youtube.com/watch?v=LIft-FWNNqU)
 - [Top FOUR Malwares in 2025: Full Analysis with ANY.RUN](https://www.youtube.com/watch?v=Ab726Jsvktw)
 - [Dropping Creds With WSASS to Bypass PPL](https://www.youtube.com/watch?v=-8x2En2Btnw)
-- [6.pdf](https://www.youtube.com/watch?v=EZ6TEjx7JLw)
-- [Triaging Obfuscated Binaries with Binary Ninja and AssemblyLine &lpar;Stream - 26/08/2025&rpar;](https://www.youtube.com/watch?v=6GaJ_VVv2gk)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
