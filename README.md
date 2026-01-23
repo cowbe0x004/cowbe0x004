@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Cybersecurity Deep Dive How to Hunt Threats with SIEM &amp; SQL](https://www.youtube.com/watch?v=ICKL5OBj3RI)
 - [Kroll Artifact Parser and Extractor &lpar;KAPE&rpar; Official Demo](https://www.youtube.com/watch?v=DXE0INTu9ek)
 - [Kansa for Enterprise scale Threat Hunting w/ Jon Ketchum - SANS DFIR Summit 2020](https://www.youtube.com/watch?v=ZyTbqpc7H-M)
 - [There’s Something About WMI - DFIR Summit 2015](https://www.youtube.com/watch?v=JCJl2uV8u1c)
@@ -35,7 +36,6 @@
 - [Full Red Team Engagement - Game of Active Directory &lpar;public&rpar;](https://www.youtube.com/watch?v=iHW-li8rrK0)
 - [Reverse Malware in 12 Minutes &lpar;Ghidra + REMnux&rpar;](https://www.youtube.com/watch?v=LIft-FWNNqU)
 - [Top FOUR Malwares in 2025: Full Analysis with ANY.RUN](https://www.youtube.com/watch?v=Ab726Jsvktw)
-- [Dropping Creds With WSASS to Bypass PPL](https://www.youtube.com/watch?v=-8x2En2Btnw)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
