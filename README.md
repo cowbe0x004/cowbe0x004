@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [When your forensic tool only tells part of the story  finding code injection using memory analysis](https://www.youtube.com/watch?v=AONAkmt0Vdg)
 - [Process Hollowing &lpar;sort of&rpar;](https://www.youtube.com/watch?v=1BnLM6VgokM)
 - [Cybersecurity Deep Dive How to Hunt Threats with SIEM &amp; SQL](https://www.youtube.com/watch?v=ICKL5OBj3RI)
 - [Kroll Artifact Parser and Extractor &lpar;KAPE&rpar; Official Demo](https://www.youtube.com/watch?v=DXE0INTu9ek)
@@ -35,7 +36,6 @@
 - [Hacking Active Directory Course for Beginners &lpar;Over 5+ Hours of Content!&rpar;](https://www.youtube.com/watch?v=RxU0AANCesQ)
 - [Maverick .NET Agent Analysis and WhatsApp PowerShell Worm &lpar;Stream - 21/10/2025&rpar;](https://www.youtube.com/watch?v=h6imZyQrdBk)
 - [Full Red Team Engagement - Game of Active Directory &lpar;public&rpar;](https://www.youtube.com/watch?v=iHW-li8rrK0)
-- [Reverse Malware in 12 Minutes &lpar;Ghidra + REMnux&rpar;](https://www.youtube.com/watch?v=LIft-FWNNqU)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
