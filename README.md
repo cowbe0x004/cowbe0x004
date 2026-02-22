@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Pre-Ransomware Discovery Detection with Sigma &lpar;Elastic Demo&rpar; - Part 1](https://www.youtube.com/watch?v=4xpP2yLYNoE)
 - [Building Vulnerable Active Directory From Scratch - Architecture](https://www.youtube.com/watch?v=J9DP_t4DdHA)
 - [When your forensic tool only tells part of the story  finding code injection using memory analysis](https://www.youtube.com/watch?v=AONAkmt0Vdg)
 - [Process Hollowing &lpar;sort of&rpar;](https://www.youtube.com/watch?v=1BnLM6VgokM)
@@ -35,7 +36,6 @@
 - [There’s Something About WMI - DFIR Summit 2015](https://www.youtube.com/watch?v=JCJl2uV8u1c)
 - [Fake PuTTY Installer Malware Analysis with IDA Pro](https://www.youtube.com/watch?v=8WphswSXE0w)
 - [Hacking Active Directory Course for Beginners &lpar;Over 5+ Hours of Content!&rpar;](https://www.youtube.com/watch?v=RxU0AANCesQ)
-- [Maverick .NET Agent Analysis and WhatsApp PowerShell Worm &lpar;Stream - 21/10/2025&rpar;](https://www.youtube.com/watch?v=h6imZyQrdBk)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
