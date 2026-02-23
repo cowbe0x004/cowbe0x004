@@ -26,7 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
-- [Pre-Ransomware Discovery Detection with Sigma &lpar;Elastic Demo&rpar; - Part 1](https://www.youtube.com/watch?v=4xpP2yLYNoE)
+- [Pre Ransomware Discovery Detection with Sigma &lpar;Elastic Demo&rpar; - Part 1](https://www.youtube.com/watch?v=4xpP2yLYNoE)
 - [Building Vulnerable Active Directory From Scratch - Architecture](https://www.youtube.com/watch?v=J9DP_t4DdHA)
 - [When your forensic tool only tells part of the story  finding code injection using memory analysis](https://www.youtube.com/watch?v=AONAkmt0Vdg)
 - [Process Hollowing &lpar;sort of&rpar;](https://www.youtube.com/watch?v=1BnLM6VgokM)
