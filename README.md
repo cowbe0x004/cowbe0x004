@@ -27,7 +27,7 @@
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
 - [Stop the Ransomware attack by alerting on Discovery Commands](https://www.youtube.com/watch?v=4xpP2yLYNoE)
-- [Building Vulnerable Active Directory From Scratch - Architecture](https://www.youtube.com/watch?v=J9DP_t4DdHA)
+- [Building a Red Teaming Lab: Active Directory Infrastructure &amp; Network Architecture](https://www.youtube.com/watch?v=J9DP_t4DdHA)
 - [When your forensic tool only tells part of the story  finding code injection using memory analysis](https://www.youtube.com/watch?v=AONAkmt0Vdg)
 - [Process Hollowing &lpar;sort of&rpar;](https://www.youtube.com/watch?v=1BnLM6VgokM)
 - [Cybersecurity Deep Dive How to Hunt Threats with SIEM &amp; SQL](https://www.youtube.com/watch?v=ICKL5OBj3RI)
