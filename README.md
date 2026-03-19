@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Is MotW Bypass Possible in 2026?](https://www.youtube.com/watch?v=pQxiPwGTBL8)
 - [Stop the Ransomware attack by alerting on Discovery Commands](https://www.youtube.com/watch?v=4xpP2yLYNoE)
 - [Building a Red Teaming Lab: Active Directory Infrastructure &amp; Network Architecture](https://www.youtube.com/watch?v=J9DP_t4DdHA)
 - [When your forensic tool only tells part of the story  finding code injection using memory analysis](https://www.youtube.com/watch?v=AONAkmt0Vdg)
@@ -35,7 +36,6 @@
 - [Kansa for Enterprise scale Threat Hunting w/ Jon Ketchum - SANS DFIR Summit 2020](https://www.youtube.com/watch?v=ZyTbqpc7H-M)
 - [There’s Something About WMI - DFIR Summit 2015](https://www.youtube.com/watch?v=JCJl2uV8u1c)
 - [Fake PuTTY Installer Malware Analysis with IDA Pro](https://www.youtube.com/watch?v=8WphswSXE0w)
-- [Hacking Active Directory Course for Beginners &lpar;Over 5+ Hours of Content!&rpar;](https://www.youtube.com/watch?v=RxU0AANCesQ)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
