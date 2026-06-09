@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Full OSCP Course &lpar;EVERYTHING You Need!&rpar;](https://www.youtube.com/watch?v=MLAgSwRFSL8)
 - [Is MotW Bypass Possible in 2026?](https://www.youtube.com/watch?v=pQxiPwGTBL8)
 - [Stop the Ransomware attack by alerting on Discovery Commands](https://www.youtube.com/watch?v=4xpP2yLYNoE)
 - [Building a Red Teaming Lab: Active Directory Infrastructure &amp; Network Architecture](https://www.youtube.com/watch?v=J9DP_t4DdHA)
@@ -35,7 +36,6 @@
 - [Kroll Artifact Parser and Extractor &lpar;KAPE&rpar; Official Demo](https://www.youtube.com/watch?v=DXE0INTu9ek)
 - [Kansa for Enterprise scale Threat Hunting w/ Jon Ketchum - SANS DFIR Summit 2020](https://www.youtube.com/watch?v=ZyTbqpc7H-M)
 - [There’s Something About WMI - DFIR Summit 2015](https://www.youtube.com/watch?v=JCJl2uV8u1c)
-- [Fake PuTTY Installer Malware Analysis with IDA Pro](https://www.youtube.com/watch?v=8WphswSXE0w)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
