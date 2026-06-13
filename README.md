@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [Building My Malware Lab From Scratch](https://www.youtube.com/watch?v=1W8gCFU8B0U)
 - [Full OSCP Course &lpar;EVERYTHING You Need!&rpar;](https://www.youtube.com/watch?v=MLAgSwRFSL8)
 - [Is MotW Bypass Possible in 2026?](https://www.youtube.com/watch?v=pQxiPwGTBL8)
 - [Stop the Ransomware attack by alerting on Discovery Commands](https://www.youtube.com/watch?v=4xpP2yLYNoE)
@@ -35,7 +36,6 @@
 - [Cybersecurity Deep Dive How to Hunt Threats with SIEM &amp; SQL](https://www.youtube.com/watch?v=ICKL5OBj3RI)
 - [Kroll Artifact Parser and Extractor &lpar;KAPE&rpar; Official Demo](https://www.youtube.com/watch?v=DXE0INTu9ek)
 - [Kansa for Enterprise scale Threat Hunting w/ Jon Ketchum - SANS DFIR Summit 2020](https://www.youtube.com/watch?v=ZyTbqpc7H-M)
-- [There’s Something About WMI - DFIR Summit 2015](https://www.youtube.com/watch?v=JCJl2uV8u1c)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
