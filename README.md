@@ -26,6 +26,7 @@
 
 ### 📺 Security related Youtube videos
 <!-- YOUTUBE:START -->
+- [1 12 Adventures in Azure Privilege Escalation Karl Fosaaen](https://www.youtube.com/watch?v=EYtw-XPml0w)
 - [Building My Malware Lab From Scratch](https://www.youtube.com/watch?v=1W8gCFU8B0U)
 - [Full OSCP Course &lpar;EVERYTHING You Need!&rpar;](https://www.youtube.com/watch?v=MLAgSwRFSL8)
 - [Is MotW Bypass Possible in 2026?](https://www.youtube.com/watch?v=pQxiPwGTBL8)
@@ -35,7 +36,6 @@
 - [Process Hollowing &lpar;sort of&rpar;](https://www.youtube.com/watch?v=1BnLM6VgokM)
 - [Cybersecurity Deep Dive How to Hunt Threats with SIEM &amp; SQL](https://www.youtube.com/watch?v=ICKL5OBj3RI)
 - [Kroll Artifact Parser and Extractor &lpar;KAPE&rpar; Official Demo](https://www.youtube.com/watch?v=DXE0INTu9ek)
-- [Kansa for Enterprise scale Threat Hunting w/ Jon Ketchum - SANS DFIR Summit 2020](https://www.youtube.com/watch?v=ZyTbqpc7H-M)
 <!-- YOUTUBE:END -->
 
 ### ⭐ Starred Github repos
